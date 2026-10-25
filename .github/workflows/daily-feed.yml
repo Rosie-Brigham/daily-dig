@@ -1,0 +1,58 @@
+name: Daily feed
+
+on:
+  schedule:
+    # 05:20 UTC: ready by breakfast in the UK all year round.
+    - cron: '20 5 * * *'
+  workflow_dispatch:
+    inputs:
+      force:
+        description: Rebuild today's feed even if it already exists
+        type: boolean
+        default: false
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: daily-feed
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+
+      - name: Build today's feed
+        run: node scripts/build-feed.mjs ${{ inputs.force && '--force' || '' }}
+
+      - name: Save feed and history to the repo
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add site/feed data
+          if ! git diff --cached --quiet; then
+            git commit -m "Feed for $(TZ=Europe/London date +%F)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+      - id: deploy
+        uses: actions/deploy-pages@v4

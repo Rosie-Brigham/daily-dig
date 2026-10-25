@@ -1,0 +1,85 @@
+{
+  "postsPerDay": 20,
+  "timezone": "Europe/London",
+  "repeatAfterDays": 180,
+  "minLeadWords": 90,
+  "maxCardsPerPost": 5,
+
+  "skipCategoriesMatching": [
+    "people", "births", "deaths", "lists", "images", "photographs", "stubs",
+    "templates", "wikipedia", "by year", "by decade", "by century", "in fiction",
+    "in popular culture", "films", "songs", "albums", "television", "video games",
+    "novels", "sportspeople", "footballers", "politicians", "mps", "clubs", "organisations"
+  ],
+
+  "skipDescriptionsMatching": [
+    "mayor", "council", "constituency", "electoral", "court", "law", "legislation", "act of parliament",
+    "office", "position", "title", "political party", "newspaper", "company", "school", "university",
+    "college", "railway station", "football", "rugby", "cricket", "district", "ward", "parish", "suburb",
+    "museum", "journal", "magazine", "list", "academic", "act of", "manufacturer",
+    "city and county", "city in", "town in", "village in", "county in", "airline", "brewery", "bank"
+  ],
+
+  "topics": [
+    {
+      "id": "london",
+      "label": "London",
+      "weight": 1,
+      "depth": 2,
+      "categories": ["History of London", "London folklore", "Archaeological sites in London"]
+    },
+    {
+      "id": "bristol",
+      "label": "Bristol",
+      "weight": 1,
+      "depth": 2,
+      "categories": ["History of Bristol", "Buildings and structures in Bristol"]
+    },
+    {
+      "id": "medieval-england",
+      "label": "Medieval England",
+      "weight": 1,
+      "depth": 2,
+      "categories": ["Medieval England", "Anglo-Saxon England"]
+    },
+    {
+      "id": "scotland",
+      "label": "Scotland",
+      "weight": 1,
+      "depth": 2,
+      "categories": ["History of Scotland", "Archaeology of Scotland"]
+    },
+    {
+      "id": "medieval-scotland",
+      "label": "Medieval Scotland",
+      "weight": 1,
+      "depth": 2,
+      "categories": ["Medieval Scotland"]
+    },
+    {
+      "id": "ireland",
+      "label": "Ireland",
+      "weight": 1,
+      "depth": 2,
+      "categories": ["History of Ireland", "Medieval Ireland", "Archaeology of Ireland"]
+    },
+    {
+      "id": "folklore",
+      "label": "Folklore",
+      "weight": 1,
+      "depth": 1,
+      "categories": ["English folklore", "Scottish folklore", "Irish folklore"]
+    },
+    {
+      "id": "archaeology",
+      "label": "Archaeology",
+      "weight": 1,
+      "depth": 1,
+      "categories": [
+        "Archaeology of England",
+        "Treasure troves in England",
+        "Archaeological discoveries in the United Kingdom"
+      ]
+    }
+  ]
+}
