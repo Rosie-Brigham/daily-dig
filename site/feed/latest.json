@@ -1,90 +1,30 @@
 {
- "date": "2026-10-25",
- "generatedAt": "2026-10-25T19:39:05.870Z",
- "totalReadSeconds": 1567,
+ "date": "2026-10-26",
+ "generatedAt": "2026-10-26T11:18:17.753Z",
+ "totalReadSeconds": 1504,
  "posts": [
   {
-   "id": "34345985",
-   "title": "Hallaton Helmet",
-   "description": "Decorated iron Roman cavalry parade helmet",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Hallaton_Helmet",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Hallaton_helmet_front_right.jpg/1280px-Hallaton_helmet_front_right.jpg",
-    "width": 1280,
-    "height": 1110,
-    "page": "https://commons.wikimedia.org/wiki/File:Hallaton_helmet_front_right.jpg",
-    "artist": "Prioryman",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "The Hallaton Helmet is a decorated iron Roman cavalry parade helmet originally covered in a sheet of silver and decorated in places with gold leaf. It was discovered in 2000 near Hallaton, Leicestershire after Ken Wallace, a member of the Hallaton Fieldwork Group, found coins in the area. Further investigation by professional archaeologists from the University of Leicester Archaeological Services discovered that the site appeared to have been used as a large-scale Iron Age shrine.",
-     "image": null
-    },
-    {
-     "text": "Nine years of conservation and restoration have been undertaken by experts from the British Museum, supported by a Heritage Lottery Fund grant of £650,000. The helmet is now on permanent display at the Harborough Museum in Market Harborough alongside other artefacts from the Hallaton Treasure hoard.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Hallaton_helmet_cheekpiece_1.jpg/1280px-Hallaton_helmet_cheekpiece_1.jpg",
-      "width": 1280,
-      "height": 1462,
-      "page": "https://commons.wikimedia.org/wiki/File:Hallaton_helmet_cheekpiece_1.jpg",
-      "artist": "Prioryman",
-      "license": "CC BY-SA 4.0",
-      "caption": "The \"Emperor\" cheekpiece (no. 1), depicting a Roman emperor being crowned by Victory while trampling a barbarian under his horse's hooves"
-     }
-    },
-    {
-     "text": "Although it was found shattered into thousands of pieces and is now heavily corroded, the helmet still bears evidence of its original finely decorated design. It was plated with silver-gilt and decorated with images of goddesses and equestrian scenes. It would have been used by a Roman auxiliary cavalryman for displays and possibly in battle.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Hallaton_helmet_exhibition.jpg/1280px-Hallaton_helmet_exhibition.jpg",
-      "width": 1280,
-      "height": 853,
-      "page": "https://commons.wikimedia.org/wiki/File:Hallaton_helmet_exhibition.jpg",
-      "artist": "Prioryman",
-      "license": "CC BY-SA 4.0",
-      "caption": "The Hallaton Helmet and cheekpieces on display at the Harborough Museum, Market Harborough"
-     }
-    },
-    {
-     "text": "The identity of the owner is not known but the helmet was discovered on a native British ceremonial site, buried alongside thousands of Iron Age British and Roman coins. It is possible that the helmet was owned by a Briton who fought alongside the Romans during the Roman conquest of Britain.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 71
-  },
-  {
-   "id": "46684",
-   "title": "Anne, Queen of Great Britain",
-   "description": "Queen of Great Britain and Ireland from 1702 to 1714",
+   "id": "203546",
+   "title": "Anne Hyde",
+   "description": "Duchess of York and Albany; first wife of the future James II of England",
    "topic": "medieval-scotland",
    "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/Anne,_Queen_of_Great_Britain",
+   "url": "https://en.wikipedia.org/wiki/Anne_Hyde",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg/1280px-Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Anne_Hyde%2C_Duchess_of_York%2C_1662_by_Lely.jpg/1280px-Anne_Hyde%2C_Duchess_of_York%2C_1662_by_Lely.jpg",
     "width": 1280,
-    "height": 2115,
-    "page": "https://commons.wikimedia.org/wiki/File:Dahl,_Michael_-_Queen_Anne_-_NPG_6187.jpg",
-    "artist": "Michael Dahl",
+    "height": 1565,
+    "page": "https://commons.wikimedia.org/wiki/File:Anne_Hyde,_Duchess_of_York,_1662_by_Lely.jpg",
+    "artist": "Peter Lely",
     "license": "Public domain"
    },
    "cards": [
     {
-     "text": "Anne (6 February 1665 – 1 August 1714) was Queen of England, Scotland, and Ireland from 8 March 1702, and Queen of Great Britain and Ireland following the ratification of the Acts of Union 1707 merging the kingdoms of England and Scotland, until her death in 1714.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg/1280px-Dahl%2C_Michael_-_Queen_Anne_-_NPG_6187.jpg",
-      "width": 1280,
-      "height": 2115,
-      "page": "https://commons.wikimedia.org/wiki/File:Dahl,_Michael_-_Queen_Anne_-_NPG_6187.jpg",
-      "artist": "Michael Dahl",
-      "license": "Public domain",
-      "caption": ""
-     }
+     "text": "Anne Hyde (12 March 1637 – 31 March 1671) was the first wife of James, Duke of York and Albany, who later became James II of England in 1685, and the mother of future queens Mary II and Anne. As she died before James ascended the throne, she was never queen.",
+     "image": null
     },
     {
-     "text": "Anne was born during the reign of her uncle King Charles II. Her father was Charles's younger brother and heir presumptive, James, whose suspected Roman Catholicism was unpopular in England. On Charles's instructions, Anne and her elder sister Mary were raised as Anglicans. Mary married her Dutch Protestant cousin, William III of Orange, in 1677, and Anne married Prince George of Denmark, a Lutheran, in 1683.",
+     "text": "Anne was the daughter of a member of the English gentry—Edward Hyde (later created Earl of Clarendon)—and met her future husband when they were both living in exile in the Netherlands. She married James in 1660 and two months later gave birth to the couple's first child, who had been conceived out of wedlock. Some observers disapproved of the marriage, but James's brother, King Charles II of England, wanted the marriage to take place.",
      "image": {
       "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/The_Duke_and_Duchess_of_York_with_their_two_daughters..jpg/1280px-The_Duke_and_Duchess_of_York_with_their_two_daughters..jpg",
       "width": 1280,
@@ -92,1068 +32,1084 @@
       "page": "https://commons.wikimedia.org/wiki/File:The_Duke_and_Duchess_of_York_with_their_two_daughters..jpg",
       "artist": "Peter Lely / Benedetto Gennari II",
       "license": "Public domain",
-      "caption": "Anne (centre) and her sister Mary (left) with their parents, the Duke and Duchess of York, painted by Peter Lely and Benedetto Gennari II"
+      "caption": "A portrait of Anne, James and their two daughters, Lady Mary and Lady Anne (this portrait is based on an earlier portrait of Anne and James.)"
      }
     },
     {
-     "text": "On Charles's death in 1685, James succeeded to the throne, but three years later he was deposed in the Glorious Revolution of 1688. Mary and William became joint monarchs. Although the sisters had been close, disagreements over Anne's finances, status, and choice of acquaintances arose shortly after Mary's accession and they became estranged. William and Mary had no children. After Mary's death in 1694, William reigned alone until his own death in 1702, when Anne succeeded him.",
+     "text": "Another cause of disapproval was the public affection James showed toward Anne. They had eight children, of whom six died in early childhood; the two who reached adulthood were future monarchs, Mary II and Anne. James was a known philanderer who kept many mistresses, for which Anne often reproached him, and he fathered many illegitimate children.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/Willem_Wissing_and_Jan_van_der_Vaardt_-_Queen_Anne%2C_when_Princess_of_Denmark%2C_1665_%E2%80%93_1714_-_Google_Art_Project.jpg/1280px-Willem_Wissing_and_Jan_van_der_Vaardt_-_Queen_Anne%2C_when_Princess_of_Denmark%2C_1665_%E2%80%93_1714_-_Google_Art_Project.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Anne_Hyde%2C_Duchess_of_York_by_Sir_Peter_Lely.jpg/1280px-Anne_Hyde%2C_Duchess_of_York_by_Sir_Peter_Lely.jpg",
       "width": 1280,
-      "height": 1998,
-      "page": "https://commons.wikimedia.org/wiki/File:Willem_Wissing_and_Jan_van_der_Vaardt_-_Queen_Anne,_when_Princess_of_Denmark,_1665_%E2%80%93_1714_-_Google_Art_Project.jpg",
-      "artist": "Willem Wissing / Jan van der Vaart",
+      "height": 1537,
+      "page": "https://commons.wikimedia.org/wiki/File:Anne_Hyde,_Duchess_of_York_by_Sir_Peter_Lely.jpg",
+      "artist": "After Peter Lely",
       "license": "Public domain",
-      "caption": "Anne, c. 1684, painted by Willem Wissing and Jan van der Vaardt"
+      "caption": "Anne, painted by Lely about 1670"
      }
     },
     {
-     "text": "During her reign, Anne favoured moderate Tory politicians, who were more likely to share her Anglican religious views than their opponents, the Whigs. The Whigs grew more powerful during the course of the War of the Spanish Succession, until 1710 when Anne dismissed many of them from office. Her close friendship with Sarah Churchill, Duchess of Marlborough, turned sour as the result of political differences.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/James_III_and_Mary_of_Modena.JPG",
-      "width": 1280,
-      "height": 1008,
-      "page": "https://commons.wikimedia.org/wiki/File:James_III_and_Mary_of_Modena.JPG",
-      "artist": "Benedetto Gennari II",
-      "license": "Public domain",
-      "caption": "Mary of Modena and James Francis Edward Stuart, Anne's stepmother and half-brother"
-     }
-    },
-    {
-     "text": "The Duchess took revenge with an unflattering description of the Queen in her memoirs, which was widely accepted by historians until Anne was reassessed in the late 20th century. Anne was plagued by poor health throughout her life, and from her thirties she grew increasingly ill and obese. Despite 17 pregnancies, she died without surviving issue, and was the last monarch of the House of Stuart.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/df/William%26MaryEngraving1703.jpg",
-      "width": 1280,
-      "height": 2032,
-      "page": "https://commons.wikimedia.org/wiki/File:William%26MaryEngraving1703.jpg",
-      "artist": "R White, engraver, died 1703",
-      "license": "Public domain",
-      "caption": "Engraving of William and Mary"
-     }
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 108
-  },
-  {
-   "id": "12149763",
-   "title": "Ordinances of 1311",
-   "description": "Restrictions on Edward II of England's power",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Ordinances_of_1311",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Coat_of_Arms_of_England_%28-1340%29.svg/1280px-Coat_of_Arms_of_England_%28-1340%29.svg.png",
-    "width": 1280,
-    "height": 1642,
-    "page": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_England_(-1340).svg",
-    "artist": "Sodacan",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "The Ordinances of 1311 (The New Ordinances, Norman: Les noveles Ordenances) were a series of regulations imposed upon King Edward II by the peerage and clergy of the Kingdom of England to restrict the power of the English monarch. The twenty-one signatories of the Ordinances are referred to as the Lords Ordainers, or simply the Ordainers.",
-     "image": null
-    },
-    {
-     "text": "English setbacks in the Scottish war, combined with perceived extortionate royal fiscal policies, set the background for the writing of the Ordinances in which the administrative prerogatives of the king were largely appropriated by a baronial council. The Ordinances reflect the Provisions of Oxford and the Provisions of Westminster from the late 1250s, but unlike the Provisions, the Ordinances featured a new concern with fiscal reform, specifically redirecting revenues from the king's household to the exchequer.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/18/Peers_and_commoners_fighting_-_The_Holkham_Bible_Picture_Book_%28c.1320-1330%29%2C_f.40_-_BL_Add_MS_47682.jpg",
-      "width": 1280,
-      "height": 1741,
-      "page": "https://commons.wikimedia.org/wiki/File:Peers_and_commoners_fighting_-_The_Holkham_Bible_Picture_Book_(c.1320-1330),_f.40_-_BL_Add_MS_47682.jpg",
-      "artist": "Unknown",
-      "license": "CC0",
-      "caption": "Scene from the Battle of Bannockburn in the Holkham Bible, 1327–35"
-     }
-    },
-    {
-     "text": "Just as instrumental to their conception were other issues, particularly discontent with the king's favourite, Piers Gaveston, whom the barons subsequently banished from the realm. Edward II accepted the Ordinances only under coercion, and a long struggle for their repeal ensued that did not end until Earl Thomas of Lancaster, the leader of the Ordainers, was executed in 1322.",
+     "text": "Originally an Anglican, Anne converted to Catholicism soon after her marriage to James. She had been exposed to Catholicism during visits to the Netherlands and France and was strongly attracted thereto. Partly due to Anne's influence, James also converted to Catholicism, which ultimately led to the Glorious Revolution. She developed advanced breast cancer and died shortly after giving birth to her eighth child.",
      "image": null
     }
    ],
    "truncated": false,
-   "readSeconds": 58
+   "readSeconds": 76
   },
   {
-   "id": "35587957",
-   "title": "Geography of Scotland in the Middle Ages",
-   "description": "",
+   "id": "1825118",
+   "title": "Housesteads Roman Fort",
+   "description": "Roman fort in Northumberland, England",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Housesteads_Roman_Fort",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Housesteads_Roman_Fort_aerial.jpg/1280px-Housesteads_Roman_Fort_aerial.jpg",
+    "width": 1280,
+    "height": 857,
+    "page": "https://commons.wikimedia.org/wiki/File:Housesteads_Roman_Fort_aerial.jpg",
+    "artist": "Lieven Smits",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "Housesteads Roman Fort was an auxiliary fort on Hadrian's Wall, at Housesteads, Northumberland, England. It is dramatically positioned on the end of the 1-mile (1.6 km)-long crag of the Whin Sill over which the Wall runs, overlooking sparsely populated hills. ",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/8_Vercovicium.png",
+      "width": 1280,
+      "height": 640,
+      "page": "https://commons.wikimedia.org/wiki/File:8_Vercovicium.png",
+      "artist": "Director General of the Ordnance Survey, UK",
+      "license": "Public domain",
+      "caption": "Vercovicium (1964 OS map)"
+     }
+    },
+    {
+     "text": "It was called the \"grandest station\" on the Wall and is one of the best-preserved and extensively displayed forts. It was occupied for almost 300 years. It was located 5.3 miles (8.5 km) west from Carrawburgh fort, 6 miles (9.7 km) east of Great Chesters fort and about 2-mile (3.2 km) north east of the existing fort at Vindolanda on the Stanegate road.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Plan_Castel_Housestaeds_1911_Encyclop%C3%A6dia_Britannica.png",
+      "width": 1280,
+      "height": 866,
+      "page": "https://commons.wikimedia.org/wiki/File:Plan_Castel_Housestaeds_1911_Encyclop%C3%A6dia_Britannica.png",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "caption": "Plan of fort"
+     }
+    },
+    {
+     "text": "The site is now owned by the National Trust and is currently in the care of English Heritage. Finds from the fort can be seen in the site museum, in the museum at Chesters, and in the Great North Museum: Hancock in Newcastle upon Tyne.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Granary_at_Housesteads_Roman_Fort.jpg/1280px-Granary_at_Housesteads_Roman_Fort.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Granary_at_Housesteads_Roman_Fort.jpg",
+      "artist": "uploaded to Wikipedia by Fryslan0109",
+      "license": "CC BY-SA 3.0",
+      "caption": "The northern granary looking east. The pillars supported a raised floor to keep food dry and free from vermin[8]"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 55
+  },
+  {
+   "id": "4349389",
+   "title": "Scotland in the High Middle Ages",
+   "description": "Scotland between about 900 and 1286 CE",
    "topic": "scotland",
    "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/Geography_of_Scotland_in_the_Middle_Ages",
+   "url": "https://en.wikipedia.org/wiki/Scotland_in_the_High_Middle_Ages",
    "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/LochNessUrquhart.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/DUNNOTTAR_CASTLE_Large.JPG",
     "width": 1280,
-    "height": 849,
-    "page": "https://commons.wikimedia.org/wiki/File:LochNessUrquhart.jpg",
-    "artist": "Sam Fentress",
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:DUNNOTTAR_CASTLE_Large.JPG",
+    "artist": "Jjhake",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "The High Middle Ages of Scotland encompass Scotland in the era between the death of Domnall II in 900 AD and the death of King Alexander III in 1286, which was an indirect cause of the Wars of Scottish Independence.",
+     "image": null
+    },
+    {
+     "text": "At the close of the ninth century, various competing kingdoms occupied the territory of modern Scotland. Scandinavian influence was dominant in the northern and western islands, Brythonic culture in the southwest, the Anglo-Saxon or English Kingdom of Northumbria in the southeast and the Pictish and Gaelic Kingdom of Alba in the east, north of the River Forth.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg/1280px-Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg",
+      "width": 1280,
+      "height": 995,
+      "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg",
+      "artist": "Joan Blaeu",
+      "license": "Public domain",
+      "caption": ""
+     }
+    },
+    {
+     "text": "By the tenth and eleventh centuries, northern Great Britain was increasingly dominated by Gaelic culture, and by the Gaelic regal lordship of Alba, known in Latin as either Albania or Scotia, and in English as \"Scotland\". From its base in the east, this kingdom acquired control of the lands lying to the south and ultimately the west and much of the north.",
+     "image": null
+    },
+    {
+     "text": "It had a flourishing culture, comprising part of the larger Gaelic-speaking world and an economy dominated by agriculture and trade. After the twelfth-century reign of King David I, the Scottish monarchs are better described as Scoto-Norman than Gaelic, preferring French culture to native Scottish culture. A consequence was the spread of French institutions and social values including Canon law. The first towns, called burghs, appeared in the same era, and as they spread, so did the Middle English language.",
+     "image": null
+    },
+    {
+     "text": "These developments were offset by the acquisition of the Norse-Gaelic west and the Gaelicisation of many of the noble families of French and Anglo-French origin. National cohesion was fostered with the creation of various unique religious and cultural practices. By the end of the period, Scotland experienced a \"Gaelic revival\", which created an integrated Scottish national identity.",
+     "image": null
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 85
+  },
+  {
+   "id": "3969",
+   "title": "Buckingham Palace",
+   "description": "Administrative headquarters of the British monarch",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Buckingham_Palace",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Buckingham_Palace_London_Morning_2020_01_%28cropped%29.jpg/1280px-Buckingham_Palace_London_Morning_2020_01_%28cropped%29.jpg",
+    "width": 1280,
+    "height": 767,
+    "page": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace_London_Morning_2020_01_(cropped).jpg",
+    "artist": "Julian Herzog (Website)",
+    "license": "CC BY 4.0"
+   },
+   "cards": [
+    {
+     "text": "Buckingham Palace (UK: ) is the official residence and administrative headquarters of the monarch of the United Kingdom in London, England. Located in the City of Westminster, the palace is often at the centre of state occasions and royal hospitality. It has been a focal point for the British people at times of national rejoicing and mourning.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Buckingham_Palace_aerial_view_2016.jpg/1280px-Buckingham_Palace_aerial_view_2016.jpg",
+      "width": 1280,
+      "height": 792,
+      "page": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace_aerial_view_2016.jpg",
+      "artist": "SAC Matthew 'Gerry' Gerrard RAF/© MoD Crown Copyright 2016",
+      "license": "OGL v1.0",
+      "caption": "Aerial view of the palace during Elizabeth II's 90th birthday celebrations in 2016"
+     }
+    },
+    {
+     "text": "Originally known as Buckingham House, the building at the core of today's palace was a large townhouse built for the Duke of Buckingham and Normanby in 1703 on a site that had been in private ownership for at least 150 years. It was acquired by George III in 1761 as a private residence for Queen Charlotte and became known as The Queen's House.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Buckingham_House_1710.jpeg",
+      "width": 1280,
+      "height": 895,
+      "page": "https://commons.wikimedia.org/wiki/File:Buckingham_House_1710.jpeg",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": "Engraving of Buckingham House, c. 1725[8]"
+     }
+    },
+    {
+     "text": "In the early 19th century it was enlarged by the architects John Nash and Edward Blore, who constructed three wings around a central courtyard. Buckingham Palace became the London residence of the British monarch on the accession of Queen Victoria in June 1837. It was occupied by every subsequent monarch until the accession in 2022 of Charles III, who continues to reside at nearby Clarence House while conducting official duties at the palace.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Buckingham_House%2C_East_Front%2C_by_William_Westall%2C_1819_-_royal_coll_922137_257059_ORI_0.jpg/1280px-Buckingham_House%2C_East_Front%2C_by_William_Westall%2C_1819_-_royal_coll_922137_257059_ORI_0.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Buckingham_House,_East_Front,_by_William_Westall,_1819_-_royal_coll_922137_257059_ORI_0.jpg",
+      "artist": "William Westall",
+      "license": "Public domain",
+      "caption": "The house in 1819, by William Westall"
+     }
+    },
+    {
+     "text": "The last major structural additions were made in the late 19th and early 20th centuries, including the East Front, which contains the balcony on which the royal family traditionally appears to greet crowds. A German bomb destroyed the palace chapel during the Second World War; the King's Gallery was built on the site and opened to the public in 1962 to exhibit works of art from the Royal Collection.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Buckingham_Palace_engraved_by_J.Woods_after_Hablot_Browne_%26_R.Garland_publ_1837_edited.jpg",
+      "width": 1280,
+      "height": 853,
+      "page": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace_engraved_by_J.Woods_after_Hablot_Browne_%26_R.Garland_publ_1837_edited.jpg",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": "Buckingham Palace c. 1837, showing Marble Arch at left, a ceremonial entrance. It was moved next to Hyde Park to make way for the new east wing in 1847."
+     }
+    },
+    {
+     "text": "The original early-19th-century interior designs, many of which survive, include widespread use of brightly coloured scagliola and blue and pink lapis, on the advice of Charles Long. Edward VII oversaw a partial redecoration in a Belle Époque cream and gold colour scheme. Many smaller reception rooms are furnished in the Chinese regency style with furniture and fittings brought from the Royal Pavilion at Brighton and from Carlton House.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/1910_Buckingham_Palace.png",
+      "width": 1280,
+      "height": 806,
+      "page": "https://commons.wikimedia.org/wiki/File:1910_Buckingham_Palace.png",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": "The east wing public façade in 1910. Enclosing the courtyard, it was completed in 1850 and remodelled to its present form in 1913."
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 110
+  },
+  {
+   "id": "1016446",
+   "title": "Hurst Castle",
+   "description": "Device Fort in Hampshire, England",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Hurst_Castle",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/Hurst_Castle%2C_near_Milford_on_Sea%2C_Hampshire%2C_England-2Oct2010_trimmmed.jpg/1280px-Hurst_Castle%2C_near_Milford_on_Sea%2C_Hampshire%2C_England-2Oct2010_trimmmed.jpg",
+    "width": 1280,
+    "height": 650,
+    "page": "https://commons.wikimedia.org/wiki/File:Hurst_Castle,_near_Milford_on_Sea,_Hampshire,_England-2Oct2010_trimmmed.jpg",
+    "artist": "Ian Stannard from Southsea, England",
     "license": "CC BY-SA 2.0"
    },
    "cards": [
     {
-     "text": "The geography of Scotland in the Middle Ages covers all aspects of the land that is now Scotland, including physical and human, between the departure of the Romans in the early fifth century from what are now the southern borders of the country, to the adoption of the major aspects of the Renaissance in the early sixteenth century.",
-     "image": null
-    },
-    {
-     "text": "Scotland was defined by its physical geography, with its long coastline of inlets, islands and inland lochs, high proportion of land over 60 metres above sea level and heavy rainfall. It is divided between the Highlands and Islands and the Scottish Lowlands, which are subdivided by geological features including fault lines, mountains, hills, bogs and marshes. This made communications by land problematic and raised difficulties for political unification, but also for invading armies.",
+     "text": "Hurst Castle is an artillery fort established by Henry VIII on the Hurst Spit in Hampshire, England, between 1541 and 1544. It formed part of the king's Device Forts coastal protection programme against invasion from France and the Holy Roman Empire, and defended the western entrance to the Solent waterway. The early castle had a central keep and three bastions, and in 1547 was equipped with 26 guns.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Anglo-Scottish.border.history.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Hurst_Castle_keep_16th_century_labelled.png",
       "width": 1280,
-      "height": 1705,
-      "page": "https://commons.wikimedia.org/wiki/File:Anglo-Scottish.border.history.jpg",
-      "artist": "author of source image, plus my modifications (myself)",
-      "license": "CC BY-SA 3.0",
-      "caption": "Development of the border with England"
+      "height": 1214,
+      "page": "https://commons.wikimedia.org/wiki/File:Hurst_Castle_keep_16th_century_labelled.png",
+      "artist": "\"Retired electrician\"; hchc2009",
+      "license": "CC0",
+      "caption": "Plan of the 16th-century castle. Key: A – north-west bastion; B – north-east bastion; C – keep; D – south bastion"
      }
     },
     {
-     "text": "Roman occupation of what is now southern Scotland seems to have had very little impact on settlement patterns, with Iron Age hill forts and promontory forts in the south and Brochs and wheelhouses in the north, continuing to be occupied in the early medieval period.",
-     "image": null
+     "text": "It was expensive to operate due to its size, but it formed one of the most powerful forts along the coast. During the English Civil War of the 1640s, Hurst was held by Parliament and was used briefly to detain King Charles I before his execution in 1649. It continued in use during the 18th century but fell into disrepair, the spit being frequented by smugglers.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/Hurst_Castle%2C_Castle_Cannon_-_geograph.org.uk_-_1721622.jpg/1280px-Hurst_Castle%2C_Castle_Cannon_-_geograph.org.uk_-_1721622.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Hurst_Castle,_Castle_Cannon_-_geograph.org.uk_-_1721622.jpg",
+      "artist": "Lewis Clarke",
+      "license": "CC BY-SA 2.0",
+      "caption": "Gun embrasure in the 16th-century castle"
+     }
     },
     {
-     "text": "The study of place names and archaeological evidence indicates a pattern of early medieval settlement by the Picts, most densely around the north-east coastal plain; early Gaelic settlement was predominately in the western mainland and neighbouring islands. Anglian settlement in the south-east reached into West Lothian, and to a lesser extent into south-western Scotland. Later Norse settlement was probably most extensive in Orkney and Shetland, with lighter settlement in the Western Islands.",
-     "image": null
+     "text": "Repairs were made during the French Revolutionary Wars and the Napoleonic Wars with France, and the castle was modernised to enable it to hold 24-pounder (10.8 kg) guns. Fresh fears of invasion followed in the 1850s, leading to heavier, 32-pounder (14.5 kg) armament being installed and new gun batteries being laid out on both sides of the castle.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Hurst_Castle%2C_18th_century.png/1280px-Hurst_Castle%2C_18th_century.png",
+      "width": 1280,
+      "height": 672,
+      "page": "https://commons.wikimedia.org/wiki/File:Hurst_Castle,_18th_century.png",
+      "artist": "Original, anonymous; postcard, Ministry of Public Works and Buildings and War Of",
+      "license": "Public domain",
+      "caption": "Depiction of the 18th-century castle"
+     }
     },
     {
-     "text": "From the reign of David I (r. 1124–1153), there is evidence of burghs, particularly on the east coast, which are the first identifiable towns in Scotland. Probably based on existing settlements, they grew in number and significance through the medieval period.",
-     "image": null
+     "text": "Technological developments rapidly made these defences obsolete, however, and a fresh phase of work between 1861 and 1874 created sixty-one gun positions in two long, granite-faced batteries alongside the older castle. These held very heavy weapons, including massive 12.5 inch, 38 ton (317 mm, 39,000 kg) rifled muzzle-loading guns. As the century progressed these too became outdated, and lighter, quick-firing guns were installed at the castle to replace them.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Hurst_Castle%2C_1840.png/1280px-Hurst_Castle%2C_1840.png",
+      "width": 1280,
+      "height": 847,
+      "page": "https://commons.wikimedia.org/wiki/File:Hurst_Castle,_1840.png",
+      "artist": "William Mossman (worked 1840-1864)",
+      "license": "Public domain",
+      "caption": "Hurst Castle in 1840, with the Hurst Tower (centre) and High Lighthouse (right)"
+     }
+    },
+    {
+     "text": "The castle formed part of a network of defences around the entrance to the Solent during the First World War, and was re-armed again during the Second World War. The military decommissioned the fort in 1956 and it passed into the control of the Ministry of Works. In the 21st century, it is run jointly by English Heritage and the Friends of Hurst Castle as a tourist attraction, receiving around 40,000 visitors during 2015.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/The_New_Forest_its_history_and_its_scenery_-_page_157_cropped.png",
+      "width": 1280,
+      "height": 898,
+      "page": "https://commons.wikimedia.org/wiki/File:The_New_Forest_its_history_and_its_scenery_-_page_157_cropped.png",
+      "artist": "Walter Crane / William James Linton",
+      "license": "Public domain",
+      "caption": "Hurst Castle, depicted in 1862, showing the new eastern gun battery (right) and redesigned 16th-century fortifications"
+     }
     }
    ],
    "truncated": true,
-   "readSeconds": 83
+   "readSeconds": 111
   },
   {
-   "id": "31165",
-   "title": "Tower of London",
-   "description": "Castle in London, England",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Tower_of_London",
+   "id": "37780",
+   "title": "Anglo-Saxons",
+   "description": "Early medieval cultural group in Britain",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Anglo-Saxons",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Tower_of_London_from_the_Shard_%288515883950%29.jpg/1280px-Tower_of_London_from_the_Shard_%288515883950%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/LindisfarneChiRiho.jpg/1280px-LindisfarneChiRiho.jpg",
     "width": 1280,
-    "height": 831,
-    "page": "https://commons.wikimedia.org/wiki/File:Tower_of_London_from_the_Shard_(8515883950).jpg",
-    "artist": "[Duncan] from Nottingham, UK",
-    "license": "CC BY 2.0"
+    "height": 1787,
+    "page": "https://commons.wikimedia.org/wiki/File:LindisfarneChiRiho.jpg",
+    "artist": "Eadfrith",
+    "license": "Public domain"
    },
    "cards": [
     {
-     "text": "The Tower of London, officially His Majesty's Royal Palace and Fortress of the Tower of London, is a historic citadel and castle on the north bank of the River Thames in London, England. It lies within the London Borough of Tower Hamlets, which is separated from the eastern edge of the square mile of the City of London by the open space known as Tower Hill.",
+     "text": "The Anglo-Saxons, in some contexts simply called Saxons or the English, were a cultural group who spoke Old English and inhabited much of what is now England and south-eastern Scotland in the Early Middle Ages. They traced their origins to Germanic settlers who became one of the most important cultural groups in Britain by the 5th century. The Anglo-Saxon period in Britain is considered to have started by about 450 and ended in 1066, with the Norman Conquest.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/98/Tower_of_London_EN.png/1280px-Tower_of_London_EN.png",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/2008-05-17-SuttonHoo_crop.jpg",
       "width": 1280,
-      "height": 886,
-      "page": "https://commons.wikimedia.org/wiki/File:Tower_of_London_EN.png",
-      "artist": "Thoroe",
-      "license": "CC BY-SA 3.0",
-      "caption": "Plan of the Tower of London"
-     }
-    },
-    {
-     "text": "It was founded toward the end of 1066 as part of the Norman Conquest. The White Tower, which gives the castle its name, was built by William the Conqueror in 1078 and was initially a resented symbol of oppression. A grand palace early in its history, it served as a royal residence. The Tower is a complex of several buildings set within two concentric rings of defensive walls and a moat.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/White_Tower%2C_City_of_London.jpg/1280px-White_Tower%2C_City_of_London.jpg",
-      "width": 1280,
-      "height": 1925,
-      "page": "https://commons.wikimedia.org/wiki/File:White_Tower,_City_of_London.jpg",
-      "artist": "Tristan Surtel",
-      "license": "CC BY-SA 4.0",
-      "caption": "The original entrance to the White Tower was at first-floor level."
-     }
-    },
-    {
-     "text": "There were several phases of expansion, mainly under kings Richard I, Henry III, and Edward I in the 12th and 13th centuries. The Tower of London was besieged several times, and controlling it has been important to controlling the country. The Tower has served as an armoury, a treasury, a menagerie, the home of the Royal Mint, a public record office, and the home of the Crown Jewels of England.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/St_John%27s_Chapel%2C_Tower_of_London.jpg/1280px-St_John%27s_Chapel%2C_Tower_of_London.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:St_John%27s_Chapel,_Tower_of_London.jpg",
-      "artist": "Bernard Gagnon",
-      "license": "CC BY-SA 3.0",
-      "caption": "St John's Chapel, inside the White Tower"
-     }
-    },
-    {
-     "text": "From the early 14th century until the reign of Charles II in the 17th century, the monarch would traditionally prepare for several nights at the Tower, and lead a procession from there to Westminster Abbey for their coronation. In the late 15th century, the Princes in the Tower were housed at the castle when they mysteriously disappeared, presumed murdered.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Panoramic_view_from_Tower_of_London_cropped.jpg/1280px-Panoramic_view_from_Tower_of_London_cropped.jpg",
-      "width": 1280,
-      "height": 384,
-      "page": "https://commons.wikimedia.org/wiki/File:Panoramic_view_from_Tower_of_London_cropped.jpg",
-      "artist": "Panoramic_view_from_Tower_of_London.jpg: MatthiasKabel derivative work: Nev1 (ta",
-      "license": "CC BY-SA 3.0",
+      "height": 1014,
+      "page": "https://commons.wikimedia.org/wiki/File:2008-05-17-SuttonHoo_crop.jpg",
+      "artist": "www.gernot-keller.com",
+      "license": "CC BY-SA 2.5",
       "caption": ""
      }
     },
     {
-     "text": "Under the Tudors, the Tower was used less as a royal residence, and despite attempts to refortify and repair the castle, its defences lagged behind developments to deal with artillery. The zenith of the castle's use as a prison was the 16th and 17th centuries, when many figures who had fallen into disgrace, such as Elizabeth I before she became queen, Sir Walter Raleigh, and Elizabeth Throckmorton, were held within its walls.",
+     "text": "Although the details of their early settlement and political development are not clear, by the 8th century an Anglo-Saxon cultural identity which was generally called Englisc had developed out of the interaction of these settlers with the existing Romano-British culture. By 1066, most of the people of what is now England spoke Old English, and were considered English.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Waterloo_Barracks.jpg/1280px-Waterloo_Barracks.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/68/Athelstan_%28cropped%29.jpg",
       "width": 1280,
-      "height": 851,
-      "page": "https://commons.wikimedia.org/wiki/File:Waterloo_Barracks.jpg",
-      "artist": "Tristan Surtel",
+      "height": 1790,
+      "page": "https://commons.wikimedia.org/wiki/File:Athelstan_(cropped).jpg",
+      "artist": "See description",
+      "license": "Public domain",
+      "caption": "King Æthelstan presenting a gospel book to (the long-dead) St Cuthbert (934); Corpus Christi College, Cambridge MS 183, fol. 1v"
+     }
+    },
+    {
+     "text": "Viking and Norman invasions changed the politics and culture of England significantly, but the overarching Anglo-Saxon identity evolved and remained dominant even after these major changes. Late Anglo-Saxon political structures and language are the direct predecessors of the high medieval Kingdom of England and the Middle English language. Although the modern English language owes less than 26% of its words to Old English, this includes the vast majority (over 80%) of everyday words.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/72/Britain_802.jpg",
+      "width": 1280,
+      "height": 1810,
+      "page": "https://commons.wikimedia.org/wiki/File:Britain_802.jpg",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": "Map of Britain in 802. By this date, historians today rarely distinguish between Angles, Saxons and Jutes."
+     }
+    },
+    {
+     "text": "In the early 8th century, the earliest detailed account of Anglo-Saxon origins was given by Bede (d. 735), suggesting that they were long divided into smaller regional kingdoms, each with differing accounts of their continental origins. As a collective term, the compound term Anglo-Saxon, commonly used by modern historians for the period before 1066, first appears in Bede's time, but it was probably not widely used until modern times.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Exhibition_in_Viking_Ship_Museum%2C_Oslo_01.jpg",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:Exhibition_in_Viking_Ship_Museum,_Oslo_01.jpg",
+      "artist": "Grzegorz Wysocki",
+      "license": "CC BY 3.0",
+      "caption": "The Oseberg ship prow, Viking Ship Museum, Oslo, Norway."
+     }
+    },
+    {
+     "text": "Bede was one of the first writers to prefer \"Angles\" (or English) as the collective term, and this eventually became dominant. Bede, like other authors, also continued to use the collective term \"Saxons\", especially when referring to the earliest periods of settlement. Roman and British writers of the 3rd to 6th century described those earliest Saxons as North Sea raiders, and mercenaries.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Viking_weight_combined_only_reflection.jpg",
+      "width": 1280,
+      "height": 876,
+      "page": "https://commons.wikimedia.org/wiki/File:Viking_weight_combined_only_reflection.jpg",
+      "artist": "EttuBruta",
       "license": "CC BY-SA 4.0",
-      "caption": "The south face of the Waterloo Block"
+      "caption": "Anglo-Saxon-Viking coin weight. Material is lead and weighs approx 36 g. Embedded with a sceat dating to 720–750 AD and minted in Kent. It is edged with a dotted triangle pattern. Origin is the northern Danelaw region, and it dates from the late 8th to 9th century."
      }
     }
    ],
    "truncated": true,
-   "readSeconds": 112
+   "readSeconds": 113
   },
   {
-   "id": "92324",
-   "title": "Clifton Suspension Bridge",
-   "description": "Bridge in Bristol, England",
+   "id": "6590366",
+   "title": "The Exchange, Bristol",
+   "description": "Grade I listed building in Bristol, UK",
    "topic": "bristol",
    "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Clifton_Suspension_Bridge",
+   "url": "https://en.wikipedia.org/wiki/The_Exchange,_Bristol",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Clifton_Suspension_Bridge-9350.jpg/1280px-Clifton_Suspension_Bridge-9350.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Corn_Exchange%2C_Bristol_-_DSC_2606.jpg/1280px-Corn_Exchange%2C_Bristol_-_DSC_2606.jpg",
     "width": 1280,
-    "height": 853,
-    "page": "https://commons.wikimedia.org/wiki/File:Clifton_Suspension_Bridge-9350.jpg",
-    "artist": "Gothick",
+    "height": 1024,
+    "page": "https://commons.wikimedia.org/wiki/File:Corn_Exchange,_Bristol_-_DSC_2606.jpg",
+    "artist": "Tadeusz Hare",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "The Exchange is a Grade I listed building built in 1741–43 by John Wood the Elder, on Corn Street, near the junction with Broad Street in Bristol, England. It was previously used as a corn and general trade exchange but is now used as offices and it also accommodates St Nicholas Market.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/The_Exchange_Bristol%2C_interior.jpg/1280px-The_Exchange_Bristol%2C_interior.jpg",
+      "width": 1280,
+      "height": 865,
+      "page": "https://commons.wikimedia.org/wiki/File:The_Exchange_Bristol,_interior.jpg",
+      "artist": "The book's text by JF Nicholls (d. 1883) and John Taylor (d. 1893). Death dates ",
+      "license": "Public domain",
+      "caption": "The Courtyard (1822) engraving"
+     }
+    },
+    {
+     "text": "The Exchange underwent major building work in 1872, including roofing over the courtyard, and again in the early 1900s when the City Valuer's Department moved to the building. Since World War II the external clock tower has been removed and the roof lowered.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Exchangenail.jpg",
+      "width": 1280,
+      "height": 2108,
+      "page": "https://commons.wikimedia.org/wiki/File:Exchangenail.jpg",
+      "artist": "Rodw at en.wikipedia",
+      "license": "Public domain",
+      "caption": "Bronze table called a \"nail\", outside The Exchange, Bristol"
+     }
+    },
+    {
+     "text": "Outside the building are four bronze tables dating from the 16th and 17th centuries, known as \"nails,\" at which merchants carried out their business. At the front of the building is a clock showing both Greenwich Mean Time and \"local time\".",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Exchangeclock.JPG/1280px-Exchangeclock.JPG",
+      "width": 1280,
+      "height": 955,
+      "page": "https://commons.wikimedia.org/wiki/File:Exchangeclock.JPG",
+      "artist": "Rodw at English Wikipedia",
+      "license": "Public domain",
+      "caption": "The clock on the Exchange showing the extra hand for \"Bristol Time\""
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 51
+  },
+  {
+   "id": "5971658",
+   "title": "Pangur Bán",
+   "description": "9th century Irish poem",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Pangur_B%C3%A1n",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Reichenauer_Schulheft_1v_2r_kl1.jpg/1280px-Reichenauer_Schulheft_1v_2r_kl1.jpg",
+    "width": 1280,
+    "height": 925,
+    "page": "https://commons.wikimedia.org/wiki/File:Reichenauer_Schulheft_1v_2r_kl1.jpg",
+    "artist": "Unknown authorUnknown author The original uploader was Dbachmann at English Wiki",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "\"Pangur Bán\" is an Old Irish poem written in about the 9th century at or near Reichenau Abbey, in what is now Germany, by an Irish monk about his cat. Pangur Bán, meaning \"White Pangur\", is the cat's name. Although the poem is anonymous, it bears similarities to the poetry of Sedulius Scottus, prompting speculation that he is the author.",
+     "image": null
+    },
+    {
+     "text": "In eight verses of four lines each, the author compares the cat's happy hunting with his own scholarly pursuits. The poem is preserved in the Reichenau Primer (Stift St. Paul Cod. 86b/1 fol 1v) and now kept in St. Paul's Abbey in the Lavanttal.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 31
+  },
+  {
+   "id": "154490",
+   "title": "Battle of Brunanburh",
+   "description": "937 battle of the Viking invasions of England",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Brunanburh",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Athelstan.jpg/1280px-Athelstan.jpg",
+    "width": 1280,
+    "height": 1925,
+    "page": "https://commons.wikimedia.org/wiki/File:Athelstan.jpg",
+    "artist": "See description",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The Battle of Brunanburh was fought in 937 between Æthelstan, King of England, and an alliance of Olaf Guthfrithson, King of Dublin; Constantine II, King of Scotland; and Owain, King of Strathclyde.",
+     "image": null
+    },
+    {
+     "text": "The battle is sometimes cited as the point of origin for English national identity: historians such as Michael Livingston argue that \"the men who fought and died on that field forged a political map of the future that remains, arguably making the Battle of Brunanburh one of the most significant battles in the long history not just of England, but of the whole of the British Isles.\"",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1f/In_the_Rough_-_geograph.org.uk_-_46233.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:In_the_Rough_-_geograph.org.uk_-_46233.jpg",
+      "artist": "Roger May",
+      "license": "CC BY-SA 2.0",
+      "caption": "The Brackenwood golf course at Bebington, Wirral"
+     }
+    },
+    {
+     "text": "Following an unchallenged invasion of Scotland by Æthelstan in 934, possibly launched because Constantine had violated a peace treaty, it became apparent that Æthelstan could be defeated only by an alliance of his enemies. Olaf led Constantine and Owen in the alliance. In August 937 Olaf and his army sailed from Dublin to join forces with Constantine and Owen, but they were routed in the battle against Æthelstan.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/The_Beck_-_Barton-upon-Humber.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:The_Beck_-_Barton-upon-Humber.jpg",
+      "artist": "1066Thinker",
+      "license": "CC BY-SA 4.0",
+      "caption": "Ancient artesian spring at Barton-upon-Humber"
+     }
+    },
+    {
+     "text": "The poem \"Battle of Brunanburh\" in the Anglo-Saxon Chronicle recounts that there were \"never yet as many people killed before this with sword's edge... since the east Angles and Saxons came up over the broad sea\". Æthelstan's victory preserved the unity of England. The historian Æthelweard wrote around 975 that \"[t]he fields of Britain were consolidated into one, there was peace everywhere, and abundance of all things\".",
+     "image": null
+    },
+    {
+     "text": "Alfred Smyth has called the battle \"the greatest single battle in Anglo-Saxon history before Hastings\". The site of the battle was debated, but is generally agreed to have been fought at Bromborough on the Wirral in the UK.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 83
+  },
+  {
+   "id": "60872348",
+   "title": "Anglo-Saxon brooches",
+   "description": "Decorative 5th–11th century clothing fasteners",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Anglo-Saxon_brooches",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Isle_of_Wight_square-headed_brooch.jpg/1280px-Isle_of_Wight_square-headed_brooch.jpg",
+    "width": 1280,
+    "height": 2051,
+    "page": "https://commons.wikimedia.org/wiki/File:Isle_of_Wight_square-headed_brooch.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "Anglo-Saxon brooches are a large group of decorative brooches found in England from the fifth to the eleventh centuries. In the early Anglo-Saxon era, there were two main categories of brooch: the long (bow) brooch and the circular (disc) brooch. The long brooch category includes cruciform, square-headed, radiate-headed, and small-long brooch brooches. The long brooches went out of fashion by the end of the sixth century.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Strickland_Brooch.JPG/1280px-Strickland_Brooch.JPG",
+      "width": 1280,
+      "height": 1290,
+      "page": "https://commons.wikimedia.org/wiki/File:Strickland_Brooch.JPG",
+      "artist": "Jononmac46",
+      "license": "CC BY-SA 3.0",
+      "caption": "Strickland Brooch, 9th century"
+     }
+    },
+    {
+     "text": "The circular brooch form developed from jewelled disc brooches produced in Kent in the early sixth century. In the early Anglo-Saxon era, the circular brooch type included the saucer, the applied saucer, the button, the annular (circular ring form), the penannular (incomplete ring), and the quoit (double ring, one of each of the previous types) brooches.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Silver-gilt_radiate-headed_brooch.jpg/1280px-Silver-gilt_radiate-headed_brooch.jpg",
+      "width": 1280,
+      "height": 2034,
+      "page": "https://commons.wikimedia.org/wiki/File:Silver-gilt_radiate-headed_brooch.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "CC BY-SA 4.0",
+      "caption": "Radiate-headed brooch, early 7th century"
+     }
+    },
+    {
+     "text": "The circular was the most common brooch form during the middle to late Anglo-Saxon era, with the enamelled and non-enamelled circular brooches being the predominant brooch styles.  There are a few styles that fall into the miscellaneous category. These include the bird and S-shaped brooch of the early Anglo-Saxon era and the safety-pin, strip, ottonian, rectangular, and bird motif of the middle to late Anglo-Saxon era.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Iron_Age_to_Roman_Colchester_bow_brooch_%28FindID_559842%29.jpg/1280px-Iron_Age_to_Roman_Colchester_bow_brooch_%28FindID_559842%29.jpg",
+      "width": 1280,
+      "height": 1120,
+      "page": "https://commons.wikimedia.org/wiki/File:Iron_Age_to_Roman_Colchester_bow_brooch_(FindID_559842).jpg",
+      "artist": "Suffolk County Council, Andrew Brown, 2014-01-16 17:25:10",
+      "license": "CC BY-SA 2.0",
+      "caption": "Iron-age bow brooch"
+     }
+    },
+    {
+     "text": "The majority of brooches found in early Anglo-Saxon England were Continental styles that had migrated from Europe. These styles evolved over time in England. In the sixth century, metalworkers from Kent, and eventually other regions, started creating brooches using their own distinctive styles and techniques. The best-known examples of Anglo-Saxon brooches are the Sutton brooch, the Sarre brooch, the Fuller Brooch, the Strickland Brooch, and the Kingston Brooch.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Early-Medieval_%28Anglo-Saxon%29_Bow_Brooch_%28FindID_289849%29.jpg/1280px-Early-Medieval_%28Anglo-Saxon%29_Bow_Brooch_%28FindID_289849%29.jpg",
+      "width": 1280,
+      "height": 876,
+      "page": "https://commons.wikimedia.org/wiki/File:Early-Medieval_(Anglo-Saxon)_Bow_Brooch_(FindID_289849).jpg",
+      "artist": "Isle of Wight Council, Frank Basford, 2010-02-28 17:53:52",
+      "license": "CC BY-SA 2.0",
+      "caption": "Anglo-Saxon Bow brooch"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 87
+  },
+  {
+   "id": "76200551",
+   "title": "Willy's Chocolate Experience",
+   "description": "2024 event in Glasgow, Scotland",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Willy%27s_Chocolate_Experience",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/3/36/Willy%27s_Chocolate_Experience_advertisement.png",
+    "width": 1280,
+    "height": 1280,
+    "page": "https://en.wikipedia.org/wiki/File:Willy%27s_Chocolate_Experience_advertisement.png",
+    "artist": "AI generated, presumably by Billy Coull",
+    "license": "PD"
+   },
+   "cards": [
+    {
+     "text": "Willy's Chocolate Experience was an unlicensed event based on Charlie and the Chocolate Factory that took place in Glasgow, Scotland, in February 2024, and gained worldwide notoriety for its poor execution. The event was advertised as an immersive and interactive family experience, illustrated on a promotional website with \"dreamlike\" AI-generated imagery. Visitors arrived to find a sparsely decorated warehouse, staffed by performers who had been left to improvise from an incoherent script and with inadequate props.",
+     "image": null
+    },
+    {
+     "text": "Tension rose as visitors demanded refunds from the event's proprietor, and police were called to the venue. Willy's Chocolate Experience was cancelled after a matter of hours. The event attracted Internet and media attention globally, and was the subject of a documentary commissioned by Channel 5. It drew comparisons to the 2008 Lapland New Forest controversy, the 2014 Tumblr fan convention DashCon, and Billy McFarland's 2017 Fyre Festival.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/a/a4/Willy%27s_Chocolate_Experience_advertisement_2.png",
+      "width": 1280,
+      "height": 1280,
+      "page": "https://en.wikipedia.org/wiki/File:Willy%27s_Chocolate_Experience_advertisement_2.png",
+      "artist": "AI generated, presumably by Billy Coull",
+      "license": "PD",
+      "caption": "A second AI-generated advertisement, with a larger number of nonsensical words."
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 46
+  },
+  {
+   "id": "229175",
+   "title": "Apsley House",
+   "description": "London townhouse of the Dukes of Wellington",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Apsley_House",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Apsley_House_1.JPG/1280px-Apsley_House_1.JPG",
+    "width": 1280,
+    "height": 959,
+    "page": "https://commons.wikimedia.org/wiki/File:Apsley_House_1.JPG",
+    "artist": "Unknown",
     "license": "CC BY-SA 3.0"
    },
    "cards": [
     {
-     "text": "The Clifton Suspension Bridge is a suspension bridge spanning the Avon Gorge and the River Avon, linking Clifton in Bristol to Leigh Woods in North Somerset. Since opening in 1864, it has been a toll bridge, the income from which provides funds for its maintenance. The bridge is built to a design by William Henry Barlow and John Hawkshaw, based on an earlier design by Isambard Kingdom Brunel.",
-     "image": null
-    },
-    {
-     "text": "It is a Grade I listed building and forms part of the B3129 road. The idea of building a bridge across the Avon Gorge originated in 1753. Original plans were for a stone bridge and later iterations were for a wrought iron structure. In 1831, an attempt to build Brunel's design was halted by the 1831 Bristol riots, and the revised version of his designs was built after his death and completed in 1864.",
+     "text": "Apsley House is the London townhouse of the Dukes of Wellington. It stands alone at Hyde Park Corner, on the south-east corner of Hyde Park, facing towards the large traffic roundabout in the centre of which stands the Wellington Arch. It is a Grade I listed building.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/%27St_Vincent_rock_near_Bristol%27_RMG_PY6092.jpg/1280px-%27St_Vincent_rock_near_Bristol%27_RMG_PY6092.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Apsley_house_on_an_1869_Ordnance_Survey_Map.JPG",
       "width": 1280,
-      "height": 924,
-      "page": "https://commons.wikimedia.org/wiki/File:%27St_Vincent_rock_near_Bristol%27_RMG_PY6092.jpg",
-      "artist": "Charles Joseph Hullmandel",
+      "height": 1260,
+      "page": "https://commons.wikimedia.org/wiki/File:Apsley_house_on_an_1869_Ordnance_Survey_Map.JPG",
+      "artist": "The original uploader was Oliver Chettle at English Wikipedia.",
       "license": "Public domain",
-      "caption": "St Vincent Rock before construction began"
+      "caption": "Apsley House on an 1869 map. The neighbouring houses were demolished in the post-World War II period to allow Park Lane to be widened. The Wellington Arch has also been repositioned since this time."
      }
     },
     {
-     "text": "Although similar in size and design, the bridge towers are not identical, the Clifton tower having side cut-outs, the Leigh tower more pointed arches atop a 110-foot (34 m) red sandstone-clad abutment. Roller-mounted \"saddles\" at the top of each tower allow movement of the three independent wrought iron eyebar chains on each side when loads pass over the bridge. The bridge deck is suspended by 162 vertical wrought-iron rods in 81 matching pairs.",
+     "text": "Designed by Robert Adam in the neoclassical style, the house was built for Lord Apsley in the 1770s. It was purchased by Richard Wellesley, in 1807, and passed to his younger brother Arthur, the 1st duke, in 1817. It was sometimes referred to as Number One, London. It is perhaps the only preserved example of an English aristocratic townhouse from this period.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Life_of_Brunel_-_Plate_I_-_Clifton_Suspension_Bridge_by_H_Adlard.jpg/1280px-Life_of_Brunel_-_Plate_I_-_Clifton_Suspension_Bridge_by_H_Adlard.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Apsley_House_en_1829.JPG",
       "width": 1280,
-      "height": 772,
-      "page": "https://commons.wikimedia.org/wiki/File:Life_of_Brunel_-_Plate_I_-_Clifton_Suspension_Bridge_by_H_Adlard.jpg",
-      "artist": "Henry Adlard",
+      "height": 828,
+      "page": "https://commons.wikimedia.org/wiki/File:Apsley_House_en_1829.JPG",
+      "artist": "Thomas Hosmer Shepherd",
       "license": "Public domain",
-      "caption": "Brunel's initial and final designs"
+      "caption": ""
      }
     },
     {
-     "text": "The Clifton Bridge Company initially managed the bridge under licence from a charitable trust. The trust subsequently purchased the company shares, completing this in 1949 and took over the running of the bridge using the income from tolls to pay for maintenance. The bridge is a distinctive landmark, used as a symbol of Bristol on postcards, promotional materials, and informational web sites.",
+     "text": "The house is also called the Wellington Museum, its official designation under the Wellington Museum Act 1947. Run by English Heritage, much of the house is open to the public as a museum and art gallery, exhibiting the Wellington Collection, a large collection of paintings, other artworks and memorabilia of the career of the 1st Duke.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Colman_Clifton_Suspension_Bridge_1837.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Apsley_House_-_geograph.org.uk_-_2718741.jpg",
       "width": 1280,
-      "height": 855,
-      "page": "https://commons.wikimedia.org/wiki/File:Colman_Clifton_Suspension_Bridge_1837.jpg",
-      "artist": "Samuel Colman",
-      "license": "Public domain",
-      "caption": "Laying of the foundation stone, 1836"
+      "height": 854,
+      "page": "https://commons.wikimedia.org/wiki/File:Apsley_House_-_geograph.org.uk_-_2718741.jpg",
+      "artist": "Richard Croft",
+      "license": "CC BY-SA 2.0",
+      "caption": ""
      }
     },
     {
-     "text": "It has been used as a backdrop to several films and television advertising and programmes. It has also been the venue for significant cultural events such as the first modern bungee jump in 1979, the last Concorde flight in 2003 which flew over the bridge, and a handover of the Olympic Torch relay in 2012.",
+     "text": "The 9th Duke of Wellington retains an apartment spanning the northern half of the ground floor of the house for the Wellesley family's private use. The practice has been to maintain the public rooms as far as possible in the original style and decor of the 1st Duke.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/St_Vincents_Rocks_Clifton_1840.jpg/1280px-St_Vincents_Rocks_Clifton_1840.jpg",
-      "width": 1280,
-      "height": 957,
-      "page": "https://commons.wikimedia.org/wiki/File:St_Vincents_Rocks_Clifton_1840.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "caption": "Partially completed bridge, c. 1840"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 107
-  },
-  {
-   "id": "22216220",
-   "title": "Gaels",
-   "description": "Celtic ethnolinguistic group",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Gaels",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/The_Gaels.png",
-    "width": 1280,
-    "height": 1978,
-    "page": "https://commons.wikimedia.org/wiki/File:The_Gaels.png",
-    "artist": "CelticBrain",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "The Gaels are a group of Insular Celtic ethnic groups native to Ireland, parts of Scotland, and the Isle of Man. They are associated with the Gaelic languages: a branch of the Celtic languages comprising Irish, Manx, and Scottish Gaelic.",
-     "image": null
-    },
-    {
-     "text": "Gaelic language and culture originated in Ireland, extending to Dál Riata in western Scotland. In antiquity, the Gaels traded with the Roman Empire and also raided Roman Britain. The primary Latin name for the Gaels was Scoti. In the Middle Ages, Gaelic culture became dominant throughout the rest of Scotland and the Isle of Man. There was also some Gaelic settlement in Wales, where they founded petty kingdoms, and in the Faroe Islands, where they were probably the first inhabitants.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fe/MacGregor_Red_and_Green_tartan.png",
-      "width": 1280,
-      "height": 1280,
-      "page": "https://commons.wikimedia.org/wiki/File:MacGregor_Red_and_Green_tartan.png",
-      "artist": "Micheletb",
-      "license": "CC BY-SA 4.0",
-      "caption": "Clan tartan of the MacGregors. Distinctive patterns were adopted during the Victorian era."
-     }
-    },
-    {
-     "text": "Gaelic missionaries were influential in Northumbria and the Carolingian Empire. In the Viking Age, small numbers of Vikings raided and settled in Gaelic lands, becoming the Norse-Gaels. In the 9th century, Dál Riata and Pictland merged to form the Gaelic Kingdom of Alba (Scotland). Meanwhile, Gaelic Ireland was made up of several kingdoms, with a High King often claiming lordship over them.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/DF13_EUROPE.png/1280px-DF13_EUROPE.png",
-      "width": 1280,
-      "height": 1523,
-      "page": "https://commons.wikimedia.org/wiki/File:DF13_EUROPE.png",
-      "artist": "SKIBLY101",
-      "license": "CC BY-SA 4.0",
-      "caption": "Frequency distribution of Haplogroup R-L21 in Europe"
-     }
-    },
-    {
-     "text": "In the 12th century, Anglo-Normans conquered parts of Ireland, while parts of Scotland also became Normanized. However, Gaelic culture remained strong throughout Ireland, and in Scotland in the Highlands, Hebrides, and Galloway. In the early 17th century, the last Gaelic kingdoms in Ireland fell under English control.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/15/William_Allsworth_-_The_emigrants_-_Google_Art_Project.jpg/1280px-William_Allsworth_-_The_emigrants_-_Google_Art_Project.jpg",
-      "width": 1280,
-      "height": 940,
-      "page": "https://commons.wikimedia.org/wiki/File:William_Allsworth_-_The_emigrants_-_Google_Art_Project.jpg",
-      "artist": "William Allsworth (c 1811 - 1861 - 1866) – artist (British) Born in Middlesex. D",
-      "license": "Public domain",
-      "caption": "The Emigrants, painting from 1844. This depicts a Highland Scots family in Gaelic dress migrating to New Zealand."
-     }
-    },
-    {
-     "text": "King James VI and I sought to subdue the Gaels and wipe out their culture; first in the Scottish Highlands via repressive laws such as the Statutes of Iona, and then in Ireland by colonizing Gaelic land with English and Scots-speaking Protestant settlers. In the following centuries, Gaelic language was suppressed and mostly supplanted by English. However, it continues to be the main language in Ireland's Gaeltacht and Scotland's Gàidhealtachd (Outer Hebrides and pockets of the north-west Highlands).",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Lia_Fail.jpg/1280px-Lia_Fail.jpg",
-      "width": 1280,
-      "height": 853,
-      "page": "https://commons.wikimedia.org/wiki/File:Lia_Fail.jpg",
-      "artist": "JohnJDuncan",
-      "license": "CC BY-SA 4.0",
-      "caption": "The Lia Fáil at the Hill of Tara, sacred site of inauguration for the Gaelic High Kings."
-     }
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 100
-  },
-  {
-   "id": "2360669",
-   "title": "Benty Grange helmet",
-   "description": "7th-century boar-crested Anglo-Saxon helmet",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Benty_Grange_helmet",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/BentyGrangeHelmSide.jpg/1280px-BentyGrangeHelmSide.jpg",
-    "width": 1280,
-    "height": 868,
-    "page": "https://commons.wikimedia.org/wiki/File:BentyGrangeHelmSide.jpg",
-    "artist": "Ingwina",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The Benty Grange helmet is an Anglo-Saxon boar-crested helmet from the 7th century AD. It was excavated by Thomas Bateman in 1848 from a tumulus at the Benty Grange farm in Monyash in western Derbyshire. The grave had probably been looted by the time of Bateman's excavation, but still contained other high-status objects suggestive of a richly furnished burial, such as the fragmentary remains of a hanging bowl.",
-     "image": null
-    },
-    {
-     "text": "The helmet is displayed at Sheffield's Weston Park Museum, which purchased it from Bateman's estate in 1893. The helmet was constructed by covering the outside of an iron framework with plates of horn and the inside with cloth or leather; the organic material has since decayed. The helmet would have provided some protection against weapons, but was also ornate and may have been intended for ceremonial use.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/BentyGrangeHelmReconstruction.jpg/1280px-BentyGrangeHelmReconstruction.jpg",
-      "width": 1280,
-      "height": 1758,
-      "page": "https://commons.wikimedia.org/wiki/File:BentyGrangeHelmReconstruction.jpg",
-      "artist": "Ingwina",
-      "license": "CC0",
-      "caption": "Replica of the Benty Grange helmet at Weston Park Museum in Sheffield"
-     }
-    },
-    {
-     "text": "It was the first Anglo-Saxon helmet to be discovered, with five others found since: Sutton Hoo (1939), Coppergate (1982), Wollaston (1997), Shorwell (2004) and Staffordshire (2009). The helmet features a unique combination of structural and technical attributes, but contemporaneous parallels exist for its individual characteristics. It is classified as one of the \"crested helmets\" used in Northern Europe from the 6th to 11th centuries AD.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/BentyGrangeHelmReconstructionSide.jpg/1280px-BentyGrangeHelmReconstructionSide.jpg",
-      "width": 1280,
-      "height": 1871,
-      "page": "https://commons.wikimedia.org/wiki/File:BentyGrangeHelmReconstructionSide.jpg",
-      "artist": "Ingwina",
-      "license": "CC0",
-      "caption": "Side view of the replica"
-     }
-    },
-    {
-     "text": "The most striking feature of the helmet is the boar at its apex; this pagan symbol faces towards a Christian cross on the nasal in a display of syncretism. This is representative of 7th-century England when Christian missionaries were slowly converting Anglo-Saxons away from traditional Germanic paganism. The helmet seems to exhibit a stronger preference toward paganism, with a large boar and a small cross.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Benty_Grange_-_geograph.org.uk_-_311410.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/View_from_the_Wellington_Arch%2C_London_%28February_2010%29_2.jpg/1280px-View_from_the_Wellington_Arch%2C_London_%28February_2010%29_2.jpg",
       "width": 1280,
       "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Benty_Grange_-_geograph.org.uk_-_311410.jpg",
-      "artist": "Roger Temple",
-      "license": "CC BY-SA 2.0",
-      "caption": "Benty Grange Farm, near Monyash in the Derbyshire Dales"
-     }
-    },
-    {
-     "text": "The cross may have been added for talismanic effect, the help of any god being welcome on the battlefield. The boar atop the crest was likewise associated with protection and suggests a time when boar-crested helmets may have been common, as do the helmet from Wollaston and the Guilden Morden boar.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/BentyGrangeHelmBoarCrest.jpg/1280px-BentyGrangeHelmBoarCrest.jpg",
-      "width": 1280,
-      "height": 813,
-      "page": "https://commons.wikimedia.org/wiki/File:BentyGrangeHelmBoarCrest.jpg",
-      "artist": "Ingwina",
-      "license": "CC0",
-      "caption": "Close-up of the boar crest"
-     }
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 102
-  },
-  {
-   "id": "174845",
-   "title": "Hydriotaphia, Urn Burial",
-   "description": "Book by Thomas Browne",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Hydriotaphia,_Urn_Burial",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Title-page_of_1658_edition_of_%27Urn-Burial%27_and_%27The_Garden_of_Cyrus%27.jpg/1280px-Title-page_of_1658_edition_of_%27Urn-Burial%27_and_%27The_Garden_of_Cyrus%27.jpg",
-    "width": 1280,
-    "height": 1707,
-    "page": "https://commons.wikimedia.org/wiki/File:Title-page_of_1658_edition_of_%27Urn-Burial%27_and_%27The_Garden_of_Cyrus%27.jpg",
-    "artist": "Sir Thomas Browne",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Hydriotaphia, Urne-Buriall, or, A Discourse of the Sepulchrall Urnes lately found in Norfolk is a work by the English polymath Thomas Browne, published in 1658 as the first part of a two-part work that concludes with The Garden of Cyrus.",
-     "image": null
-    },
-    {
-     "text": "The pretext for the book is the archaeological discovery of Anglo-Saxon pottery in Norfolk, with Browne describing the antiquities. He then provides a survey of funerary customs, both ancient and those current to his own era. In describing human nature, Browne notes the tendency of humans to solemnize both births and deaths, using their \"pompous\" graves to establish their self-importance.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 30
-  },
-  {
-   "id": "5243711",
-   "title": "James II of England",
-   "description": "King of England, Scotland and Ireland from 1685 to 1688",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/James_II_of_England",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/James_II_by_Peter_Lely.jpg/1280px-James_II_by_Peter_Lely.jpg",
-    "width": 1280,
-    "height": 1599,
-    "page": "https://commons.wikimedia.org/wiki/File:James_II_by_Peter_Lely.jpg",
-    "artist": "School of Peter Lely",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "James II and VII (14 October 1633 O.S. – 16 September 1701) was King of England and Ireland as James II and King of Scotland as James VII from February 1685 until he was deposed in the 1688 Glorious Revolution.",
-     "image": null
-    },
-    {
-     "text": "The last Catholic monarch of England, Scotland, and Ireland, his reign was marked by conflicts over religion, absolutism and the divine right of kings; his deposition ended a century of political and civil strife by confirming the primacy of the English Parliament over the Crown.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Charles_I_and_James_II.png/1280px-Charles_I_and_James_II.png",
-      "width": 1280,
-      "height": 1027,
-      "page": "https://commons.wikimedia.org/wiki/File:Charles_I_and_James_II.png",
-      "artist": "Peter Lely",
-      "license": "Public domain",
-      "caption": "James with his father, Charles I, by Sir Peter Lely, 1647"
-     }
-    },
-    {
-     "text": "James was the second surviving son of Charles I of England and Henrietta Maria of France, and was created Duke of York at birth. His conversion to Catholicism in the 1660s caused growing concern, particularly during the Exclusion Crisis of 1679–81, when attempts were made by Whigs to exclude him from the succession on religious grounds. However, the trauma of the brief republican Commonwealth of England 20 years earlier made the public reluctant to undermine the principle of hereditary succession.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/De_ontvangst_van_Charles_II_en_zijn_broers_in_de_Schuttershof.jpg/1280px-De_ontvangst_van_Charles_II_en_zijn_broers_in_de_Schuttershof.jpg",
-      "width": 1280,
-      "height": 1008,
-      "page": "https://commons.wikimedia.org/wiki/File:De_ontvangst_van_Charles_II_en_zijn_broers_in_de_Schuttershof.jpg",
-      "artist": "Jan Baptist van Meunincxhove",
-      "license": "Public domain",
-      "caption": "Reception of James and his brother Charles in Bruges on 2 October 1656"
-     }
-    },
-    {
-     "text": "At the age of 51, James therefore succeeded to the throne with widespread support following the death of his elder brother, Charles II, with many believing that a Catholic monarchy would be temporary. However, tolerance of James's personal views did not extend to Catholicism in general, and both the English and Scottish parliaments refused to pass measures viewed as undermining the primacy of the Protestant religion.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/James_II_and_Anne_Hyde_by_Sir_Peter_Lely.jpg/1280px-James_II_and_Anne_Hyde_by_Sir_Peter_Lely.jpg",
-      "width": 1280,
-      "height": 925,
-      "page": "https://commons.wikimedia.org/wiki/File:James_II_and_Anne_Hyde_by_Sir_Peter_Lely.jpg",
-      "artist": "Peter Lely",
-      "license": "Public domain",
-      "caption": "James and Anne Hyde in the 1660s, by Sir Peter Lely"
-     }
-    },
-    {
-     "text": "His attempts to impose them by absolutist decrees, as a matter of his perceived divine right, were met with opposition. In June 1688, two events turned dissent into a renewed crisis. Firstly, the birth of James's son and heir James Francis Edward Stuart on 10 June raised the prospect of a Catholic dynasty, displacing his Protestant daughter Mary, who had been heir presumptive.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/James_II_by_John_Riley.png",
-      "width": 1280,
-      "height": 1547,
-      "page": "https://commons.wikimedia.org/wiki/File:James_II_by_John_Riley.png",
-      "artist": "John Riley",
-      "license": "Public domain",
-      "caption": "James in the 1660s by John Riley"
-     }
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 97
-  },
-  {
-   "id": "952792",
-   "title": "English Renaissance",
-   "description": "Cultural and artistic movement in England",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/English_Renaissance",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/1280px-Da_Vinci_Vitruve_Luc_Viatour.jpg",
-    "width": 1280,
-    "height": 1740,
-    "page": "https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg",
-    "artist": "Leonardo da Vinci",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The English Renaissance was a cultural and artistic movement in England during the late 15th, 16th and early 17th centuries. It is associated with the pan-European Renaissance that is usually regarded as beginning in Italy in the late 14th century. As in most of the rest of Northern Europe, England saw little of these developments until more than a century later within the Northern Renaissance.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Family_of_Henry_VIII_c_1545.jpg/1280px-Family_of_Henry_VIII_c_1545.jpg",
-      "width": 1280,
-      "height": 517,
-      "page": "https://commons.wikimedia.org/wiki/File:Family_of_Henry_VIII_c_1545.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "caption": "The Family of Henry VIII, c. 1545, at Hampton Court Palace; unknown artist"
-     }
-    },
-    {
-     "text": "Renaissance style and ideas were slow to penetrate England, and the Elizabethan era in the second half of the 16th century is usually regarded as the height of the English Renaissance. Many scholars see its beginnings in the early 16th century during the reign of Henry VIII. Others argue the Renaissance was already present in England in the late 15th century.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Atlas_Van_der_Hagen-KW1049B11_004-A_NEW_MAP_OF_THE_KINGDOME_of_ENGLAND%2C_Representing_the_Princedome_of_WALES%2C_and_other_PROVINCES%2C_CITIES%2C_MARKET_TOWNS%2C_with_the_ROADS_from_TOWN_to_TOWN.jpeg/1280px-thumbnail.jpeg",
-      "width": 1280,
-      "height": 1475,
-      "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B11_004-A_NEW_MAP_OF_THE_KINGDOME_of_ENGLAND,_Representing_the_Princedome_of_WALES,_and_other_PROVINCES,_CITIES,_MARKET_TOWNS,_with_the_ROADS_from_TOWN_to_TOWN.jpeg",
-      "artist": "Dirk Jansz van Santen",
-      "license": "Public domain",
+      "page": "https://commons.wikimedia.org/wiki/File:View_from_the_Wellington_Arch,_London_(February_2010)_2.jpg",
+      "artist": "Carcharoth (Commons)",
+      "license": "CC BY-SA 3.0",
       "caption": ""
      }
-    },
-    {
-     "text": "The English Renaissance is different from the Italian Renaissance in several ways. The dominant art forms of the English Renaissance were literature and music. Visual arts in the English Renaissance were much less significant than in the Italian Renaissance. The English period began far later than the Italian, which was moving into Mannerism and the Baroque by the 1550s or earlier.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Shakespeare.jpg/1280px-Shakespeare.jpg",
-      "width": 1280,
-      "height": 1631,
-      "page": "https://commons.wikimedia.org/wiki/File:Shakespeare.jpg",
-      "artist": "Attributed to John Taylor",
-      "license": "Public domain",
-      "caption": "William Shakespeare, chief figure of the English Renaissance, as portrayed in the Chandos portrait (artist and authenticity not confirmed)."
-     }
     }
    ],
    "truncated": false,
-   "readSeconds": 65
+   "readSeconds": 76
   },
   {
-   "id": "30245700",
-   "title": "Clarkston explosion",
-   "description": "Fatal 1971 gas explosion in Scotland",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/Clarkston_explosion",
+   "id": "1433230",
+   "title": "Rendlesham Forest incident",
+   "description": "1980 UFO report in Suffolk, England",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Rendlesham_Forest_incident",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8f/1971_Clarkston_Gas_Explosion_Plaque.jpg/1280px-1971_Clarkston_Gas_Explosion_Plaque.jpg",
-    "width": 1280,
-    "height": 1072,
-    "page": "https://commons.wikimedia.org/wiki/File:1971_Clarkston_Gas_Explosion_Plaque.jpg",
-    "artist": "Wetchup",
-    "license": "CC0"
-   },
-   "cards": [
-    {
-     "text": "The Clarkston explosion was a disaster that occurred on 21 October 1971 in a row of shops on the main street of Clarkston, East Renfrewshire, Scotland. Sources from the time state the death toll as 21, whilst modern sources state 22.",
-     "image": null
-    },
-    {
-     "text": "The explosion followed a build-up of gas in an underground space beneath the then six-year-old Clarkston Toll shops, caused by a gas main leak later ruled to have been accidental. Customers and shop staff had on 20 October complained of a strong smell of gas in the centre and Scottish Gas Board engineers had attended to investigate, but had identified no source for the smell.",
-     "image": null
-    },
-    {
-     "text": "The engineers were still in attendance at around 2:50 pm on the following day when the gas ignited and exploded, killing 22 people and injuring around 100. The victims included many shop staff and people on shopping trips, and the passengers of a bus that had been passing the scene. The explosion destroyed 10 shops and a car park above them.",
-     "image": null
-    },
-    {
-     "text": "An inquiry was held, and a jury on 11 February 1972 returned a verdict that no fault for the explosion lay with any organisation or individual. No cause was identified for the ignition of the leaked gas, and the leak itself was deemed the result of an accidental gas main fracture caused by \"stress and corrosion\". The main had been insufficiently supported to withstand vibrations from traffic, and a large crack was found in it during the investigation.",
-     "image": null
-    },
-    {
-     "text": "The victims of the disaster are commemorated in a plaque erected in 2002 near the site of the explosion. There is a further tribute to those who lost their lives situated in the entranceway to the Clarkston Halls. Scottish Television produced a programme on the Clarkston disaster which aired on 20 November 2017.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 82
-  },
-  {
-   "id": "98370",
-   "title": "London Bridge",
-   "description": "1973 Thames road bridge in London",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/London_Bridge",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/London_Bridge_from_St_Olaf_Stairs.jpg/1280px-London_Bridge_from_St_Olaf_Stairs.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/RAF_Woodbridge_East_Gate.jpg/1280px-RAF_Woodbridge_East_Gate.jpg",
     "width": 1280,
     "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:London_Bridge_from_St_Olaf_Stairs.jpg",
-    "artist": "Jordiferrer",
+    "page": "https://commons.wikimedia.org/wiki/File:RAF_Woodbridge_East_Gate.jpg",
+    "artist": "Taras Young",
     "license": "CC BY-SA 4.0"
    },
    "cards": [
     {
-     "text": "Since Roman times, several crossings named  London Bridge have spanned the River Thames between the City of London and Southwark in central London. The current crossing, which opened to traffic in 1973, is a box girder bridge built from concrete and steel. It replaced a 19th-century stone-arched bridge, which in turn superseded a 600-year-old stone-built medieval structure.",
+     "text": "The Rendlesham Forest incident was a series of reported sightings of unexplained lights near Rendlesham Forest in Suffolk, England, in December 1980, which became linked with alleged UFO landings. The events occurred just outside RAF Woodbridge, which was used at the time by the United States Air Force (USAF). USAF personnel, including deputy base commander Lieutenant Colonel Charles I. Halt, claimed to have seen things he described as a UFO. ",
+     "image": null
+    },
+    {
+     "text": "The occurrence is the most famous of alleged UFO events to have happened in the United Kingdom. It has been compared to the Roswell UFO incident in the United States and is sometimes called \"Britain's Roswell\". The UK Ministry of Defence has stated that the event posed no threat to national security and was therefore never investigated as a security matter.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/London_Bridge_%281616%29_by_Claes_Van_Visscher.jpg/1280px-London_Bridge_%281616%29_by_Claes_Van_Visscher.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Supposed_UFO_landing_site_-_Rendlesham_Forest_-_geograph.org.uk_-_263104.jpg",
       "width": 1280,
-      "height": 837,
-      "page": "https://commons.wikimedia.org/wiki/File:London_Bridge_(1616)_by_Claes_Van_Visscher.jpg",
-      "artist": "Angr",
-      "license": "Public domain",
-      "caption": "An engraving by Claes Visscher showing Old London Bridge in 1616, with what is now Southwark Cathedral in the foreground. The spiked heads of executed criminals can be seen above the Southwark gatehouse."
+      "height": 852,
+      "page": "https://commons.wikimedia.org/wiki/File:Supposed_UFO_landing_site_-_Rendlesham_Forest_-_geograph.org.uk_-_263104.jpg",
+      "artist": "Simon Leatherdale",
+      "license": "CC BY-SA 2.0",
+      "caption": "A photograph of the supposed landing site"
      }
     },
     {
-     "text": "In addition to the roadway, for much of its history, the broad medieval bridge supported an extensive built up area of homes and businesses, part of the City's Bridge ward, and its southern end in Southwark was guarded by a large stone City gateway. The medieval bridge was preceded by a succession of timber bridges, the first of which was built by the Roman founders of London (Londinium) around AD 50.",
+     "text": "Sceptics have explained the sightings as a misinterpretation of a series of nocturnal lights: a fireball, the Orfordness Lighthouse, and bright stars.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/The_Frozen_Thames_1677_by_Abraham_Hondius.jpg/1280px-The_Frozen_Thames_1677_by_Abraham_Hondius.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Orford_Ness_Lighthouse%2C_Suffolk.jpg/1280px-Orford_Ness_Lighthouse%2C_Suffolk.jpg",
       "width": 1280,
-      "height": 791,
-      "page": "https://commons.wikimedia.org/wiki/File:The_Frozen_Thames_1677_by_Abraham_Hondius.jpg",
-      "artist": "Abraham Hondius",
-      "license": "Public domain",
-      "caption": "The Frozen Thames (1677) by Abraham Hondius in the Museum of London, showing Old London Bridge and Southwark Cathedral (St Saviours) at right"
-     }
-    },
-    {
-     "text": "The current bridge stands at the western end of the Pool of London and is positioned 30 metres (98 ft) upstream from the medieval alignment. The approaches to the medieval bridge were marked by the church of St Magnus-the-Martyr on the northern bank and by Southwark Cathedral on the southern shore. Until Putney Bridge opened in 1729, London Bridge was the only road crossing of the Thames downstream of Kingston upon Thames.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Claude_de_Jongh_-_View_of_London_Bridge_-_Google_Art_Project_bridge.jpg/1280px-Claude_de_Jongh_-_View_of_London_Bridge_-_Google_Art_Project_bridge.jpg",
-      "width": 1280,
-      "height": 213,
-      "page": "https://commons.wikimedia.org/wiki/File:Claude_de_Jongh_-_View_of_London_Bridge_-_Google_Art_Project_bridge.jpg",
-      "artist": "Claude de Jongh",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "London Bridge has been depicted in its several forms, in art, literature, and songs, including the nursery rhyme \"London Bridge Is Falling Down\", and the epic poem The Waste Land by T. S. Eliot. The modern bridge is owned and maintained by Bridge House Estates, an independent charity of medieval origin overseen by the City of London Corporation. It carries the A3 road, which is maintained by the Greater London Authority.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/London_Bridge_Fire_of_1632.jpg/1280px-London_Bridge_Fire_of_1632.jpg",
-      "width": 1280,
-      "height": 565,
-      "page": "https://commons.wikimedia.org/wiki/File:London_Bridge_Fire_of_1632.jpg",
-      "artist": "English School, 17th Century",
-      "license": "Public domain",
-      "caption": "A view of London Bridge burning in the fire of 1633 Private Collection"
-     }
-    },
-    {
-     "text": "The crossing also delineates an area along the southern bank of the River Thames, between London Bridge and Tower Bridge, that has been designated as a business improvement district.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/London-bridge-1682.jpg/1280px-London-bridge-1682.jpg",
-      "width": 1280,
-      "height": 367,
-      "page": "https://commons.wikimedia.org/wiki/File:London-bridge-1682.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "caption": ""
+      "height": 851,
+      "page": "https://commons.wikimedia.org/wiki/File:Orford_Ness_Lighthouse,_Suffolk.jpg",
+      "artist": "David Merrett",
+      "license": "CC BY 2.0",
+      "caption": "The Orfordness Lighthouse as seen from the south-west. A white shield blocked the light from the town of Orford but not from the forest where the sighting occurred."
      }
     }
    ],
    "truncated": false,
-   "readSeconds": 102
+   "readSeconds": 52
   },
   {
-   "id": "426699",
-   "title": "Bristol Cathedral",
-   "description": "Church in Bristol, England",
+   "id": "40909411",
+   "title": "Eidyn",
+   "description": "Region around Edinburgh",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Eidyn",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/Yr.Hen.Ogledd.550.650.Koch.jpg/1280px-Yr.Hen.Ogledd.550.650.Koch.jpg",
+    "width": 1280,
+    "height": 1531,
+    "page": "https://commons.wikimedia.org/wiki/File:Yr.Hen.Ogledd.550.650.Koch.jpg",
+    "artist": "myself",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "Eidyn was the region around modern Edinburgh in sub-Roman and early medieval Britain, approximately the 5th–7th centuries. It centred on the stronghold of Din Eidyn, thought to have been at Castle Rock, now the site of Edinburgh Castle, and apparently included much of the area below the Firth of Forth.",
+     "image": null
+    },
+    {
+     "text": "It was the most important district of the Brittonic kingdom of Gododdin, and a significant power in the Hen Ogledd, or Old North, the Brittonic-speaking area of what is now southern Scotland and northern England. The site of Din Eidyn has been nearly continuously occupied since the Bronze Age, serving as a stronghold of the Votadini during the Roman era and later the principal centre of their successors, the Gododdin kingdom.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Edinburgh_Castle_%2820%29.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Edinburgh_Castle_(20).jpg",
+      "artist": "Stuart Caie from Edinburgh, Scotland",
+      "license": "CC BY 2.0",
+      "caption": "Edinburgh Castle on Castle Rock, the most likely location of Din Eidyn"
+     }
+    },
+    {
+     "text": "Eidyn's importance to the Hen Ogledd is reflected in the medieval poem Y Gododdin, which concerns a war band that gathered there for a raid around AD 600. After years of decline, Eidyn was conquered by the Angles in 638.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Edinburgh_Arthur_Seat_dsc06165.jpg/1280px-Edinburgh_Arthur_Seat_dsc06165.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Edinburgh_Arthur_Seat_dsc06165.jpg",
+      "artist": "David Monniaux",
+      "license": "CC BY-SA 3.0",
+      "caption": "Arthur's Seat in Edinburgh, another possible location for Din Eidyn"
+     }
+    },
+    {
+     "text": "Eidyn left a substantial legacy. It is the source of the name of Edinburgh in English, Scots and Scottish Gaelic. It also remained prominent in Brittonic tradition throughout the Middle Ages. Y Gododdin evidently circulated in multiple manuscripts into the 13th century. Eidyn also features in the Welsh Triads and poetry, where it was often remembered as the Britons' northern frontier. Welsh genealogies of the figure Clydno Eidyn may preserve Eidyn's royal pedigree.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Gododdin1.jpg",
+      "width": 1280,
+      "height": 1724,
+      "page": "https://commons.wikimedia.org/wiki/File:Gododdin1.jpg",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": "A page from Y Gododdin in the Book of Aneirin"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 77
+  },
+  {
+   "id": "6131947",
+   "title": "Temple Church, Bristol",
+   "description": "Ruined church in Bristol, England",
    "topic": "bristol",
    "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Bristol_Cathedral",
+   "url": "https://en.wikipedia.org/wiki/Temple_Church,_Bristol",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/44/West_front_of_Bristol_Cathedral.jpg/1280px-West_front_of_Bristol_Cathedral.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Temple_Church_Bristol_Jan10.jpg/1280px-Temple_Church_Bristol_Jan10.jpg",
     "width": 1280,
-    "height": 1792,
-    "page": "https://commons.wikimedia.org/wiki/File:West_front_of_Bristol_Cathedral.jpg",
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:Temple_Church_Bristol_Jan10.jpg",
     "artist": "NotFromUtrecht",
     "license": "CC BY-SA 3.0"
    },
    "cards": [
     {
-     "text": "Bristol Cathedral, formally the Cathedral Church of the Holy and Undivided Trinity, is a Church of England cathedral in the city of Bristol, England. It is the seat of the Bishop of Bristol. The cathedral was originally an abbey dedicated to St Augustine, founded in 1140 and consecrated in 1148. It became the cathedral of the new diocese of Bristol in 1542, after the Dissolution of the monasteries.",
-     "image": null
-    },
-    {
-     "text": "It is a Grade I listed building. The earliest surviving fabric is the late 12th century chapter house, which contains some of the first uses of pointed arches in England. The eastern end of the church is medieval, the oldest part being the early 13th century Elder Lady Chapel. The remainder of the east end was rebuilt in the English Decorated Gothic style during the 14th century as a hall church, with aisles the same height as the central choir.",
+     "text": "Temple Church, also known as Holy Cross Church, (grid reference ST5972) is a ruined church in Redcliffe, Bristol, England. It is on the site of a previous, round church of the Knights Templar, which they built on land granted to them in the second quarter of the 12th century by Robert of Gloucester. In 1313 the Knights Hospitaller acquired the church, following the suppression of the Templars.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Bristol_1873_-_Bristol_Cathedral.png/1280px-Bristol_1873_-_Bristol_Cathedral.png",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cf/Templar_church_outline_in_Temple_Church%2C_Bristol.jpg/1280px-Templar_church_outline_in_Temple_Church%2C_Bristol.jpg",
       "width": 1280,
-      "height": 832,
-      "page": "https://commons.wikimedia.org/wiki/File:Bristol_1873_-_Bristol_Cathedral.png",
-      "artist": "T. Sulman",
-      "license": "Public domain",
-      "caption": "Bristol Cathedral in an 1873 engraving, still incomplete"
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Templar_church_outline_in_Temple_Church,_Bristol.jpg",
+      "artist": "Wilson44691",
+      "license": "CC0",
+      "caption": "Outline of Templar circular church within Temple Church ruins"
      }
     },
     {
-     "text": "In the 15th century the transepts were rebuilt and the central tower added. The nave was incomplete when the abbey was dissolved in 1539 and demolished; a Gothic Revival replacement was constructed in the 19th century by George Edmund Street, partially to the original plans. The western towers, designed by John Loughborough Pearson, were completed in 1888.",
+     "text": "By the early 14th century, the church served as the parish church for the area known as Temple Fee. From around the same time, the rebuilding of the church on a rectangular plan started. This was completed by 1460, with the construction of a leaning west tower. The Hospitallers would lose ownership of the church in 1540 during the dissolution of the monasteries.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Millerd1728dcathedral.jpg/1280px-Millerd1728dcathedral.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Temple_Church_interior_view.jpg/1280px-Temple_Church_interior_view.jpg",
       "width": 1280,
-      "height": 1126,
-      "page": "https://commons.wikimedia.org/wiki/File:Millerd1728dcathedral.jpg",
-      "artist": "James Millerd and unknown later editors.",
-      "license": "Public domain",
-      "caption": "Original caption: The Cathedral Church of Bristoll South Side'"
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Temple_Church_interior_view.jpg",
+      "artist": "Wilson44691",
+      "license": "CC0",
+      "caption": "Interior view of Temple Church"
      }
     },
     {
-     "text": "In addition to the cathedral's architectural features, it contains several memorials and an historic organ. Little of the original stained glass remains, with some being replaced in the Victorian era and further losses during the Bristol Blitz.",
+     "text": "The church was the scene of the exorcism of George Lukins conducted by Methodist and Anglican clergy in 1788. The church was bombed and largely destroyed in the Bristol Blitz. It is a Grade II* listed building, owned by the Diocese of Bristol. In 1958, English Heritage agreed to undertake a guardianship role. A 1960 excavation by the Ministry of Works discovered the plan of the 12th-century church, enabling it to be marked out on the ground in stone.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Bristol_Cathedral_interior_1872.jpg/1280px-Bristol_Cathedral_interior_1872.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Wax_cast_of_a_Bristol_Templar_Seal.jpg/1280px-Wax_cast_of_a_Bristol_Templar_Seal.jpg",
       "width": 1280,
-      "height": 1960,
-      "page": "https://commons.wikimedia.org/wiki/File:Bristol_Cathedral_interior_1872.jpg",
-      "artist": "S. D. Major",
-      "license": "Public domain",
-      "caption": "Bristol Cathedral interior 1872"
+      "height": 1476,
+      "page": "https://commons.wikimedia.org/wiki/File:Wax_cast_of_a_Bristol_Templar_Seal.jpg",
+      "artist": "The Museum of the Order of St. John and the University of Birmingham",
+      "license": "CC BY-SA 3.0",
+      "caption": "Circular wax cast of a Bristol Templar seal produced between 1850 and 1915 taken from a 13th-century seal matrix"
      }
     }
    ],
    "truncated": false,
-   "readSeconds": 79
+   "readSeconds": 71
   },
   {
-   "id": "527631",
-   "title": "Myrddin Wyllt",
-   "description": "Welsh poet and astrologer (b. 540 CE)",
+   "id": "70529",
+   "title": "Celtic Christianity",
+   "description": "Christianity in the Celtic language–speaking world during the early Middle Ages",
    "topic": "ireland",
    "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Myrddin_Wyllt",
+   "url": "https://en.wikipedia.org/wiki/Celtic_Christianity",
    "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/be/Merlin_and_St_Kentigern%2C_Stobo_Kirk.JPG",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Celtic_cross_Knock_Ireland.jpg",
     "width": 1280,
-    "height": 1667,
-    "page": "https://commons.wikimedia.org/wiki/File:Merlin_and_St_Kentigern,_Stobo_Kirk.JPG",
-    "artist": "Rosser1954 Roger Griffith",
-    "license": "Public domain"
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:Celtic_cross_Knock_Ireland.jpg",
+    "artist": "Sebd",
+    "license": "CC BY 2.5"
    },
    "cards": [
     {
-     "text": "Myrddin Wyllt (Welsh: [ˈmərðɪn ˈwɨɬt]—\"Myrddin the Wild\", Cornish: Merdhyn Gwyls, Breton: Marzhin Gouez) is a figure in medieval Welsh legend. In Middle Welsh poetry he is accounted a chief bard, the speaker of several poems in The Black Book of Carmarthen and The Red Book of Hergest.",
+     "text": "Celtic Christianity is a term previously used by historians for a form of Christianity which was held to have been common across the Celtic-speaking world during the Early Middle Ages. The term is deprecated by most late twentieth and twenty-first century historians as it wrongly implies a unified and identifiable entity separate from that of mainstream Western Christendom. For this reason, Brown (2003) notes a preference for the term Insular Christianity.",
      "image": null
     },
     {
-     "text": "The nickname Myrddin Wyllt (the \"wild\" or \"mad\" Myrddin) was applied to the figure at some later time, by the cywyddwyr bards before 1500, and by Elis Gruffydd (1490–1552) in his chronicle. Although Myrddin of Welsh legend was originally unconnected to King Arthur in earlier Welsh tradition, Myrddin was reinvented as Merlin, Arthurian court magician, by Geoffrey of Monmouth, and Myrddin became indistinguishable with Merlin in later Welsh literature.",
+     "text": "As Patrick Wormald explained, \"One of the common misconceptions is that there was a Roman Church to which the Celtic Church was nationally opposed.\"  Some writers have described a distinct \"Celtic Church\" uniting the Celtic peoples and distinguishing them from adherents of the Roman Church, while others classify Celtic Christianity as a set of distinctive practices occurring in those areas.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Line_illustration_of_a_Saint%27s_bones_unearthed._Wellcome_M0007956.jpg/1280px-Line_illustration_of_a_Saint%27s_bones_unearthed._Wellcome_M0007956.jpg",
+      "width": 1280,
+      "height": 835,
+      "page": "https://commons.wikimedia.org/wiki/File:Line_illustration_of_a_Saint%27s_bones_unearthed._Wellcome_M0007956.jpg",
+      "artist": "Unknown",
+      "license": "CC BY 4.0",
+      "caption": "The discovery of St. Alban's bones, illustrated in The Life of St. Alban"
+     }
+    },
+    {
+     "text": "Varying scholars reject the former notion, but note that there were certain traditions and practices present in both the Irish and British churches that were not seen in the wider Christian world. Such practices include: a distinctive system for determining the dating of Easter, a style of monastic tonsure, a unique system of penance, and the popularity of going into \"exile for Christ\".",
      "image": null
     },
     {
-     "text": "Although Geoffrey considered the Merlin of his Historia Regum Britanniae and his later work Vita Merlini to be the same person at different stages of his life, this view was opposed by Gerald of Wales (Itinerarium Cambriae II.viii) who considered Merlinus Ambrosius (Myrddin Emrys) to be separate from Merlinus Celidonius, also known as Merlinus Sylvester (equivalent of Myrddin Wyllt).",
+     "text": "Additionally, there were other practices that developed in certain parts of Great Britain and Ireland that were not known to have spread beyond particular regions. The term typically denotes the regional practices among the insular churches and their associates rather than actual theological differences.",
      "image": null
     },
     {
-     "text": "Although his legend centres on the Celtic wild man theme, Myrddin's legend is rooted in history, for he is said to have gone mad after the Battle of Arfderydd (Arthuret) at which Rhydderch Hael of Strathclyde defeated the Brythonic king Gwenddoleu. According to the Annales Cambriae this took place in 573. Myrddin fled into the forest, lived with the beasts and received the gift of prophecy.",
-     "image": null
-    },
-    {
-     "text": "Myrddin Wyllt's legend closely resembles that of a north-British figure called Lailoken, which appears in Jocelyn of Furness' 12th-century Life of Kentigern. Scholars differ as to the independence or identity of Lailoken and Myrddin, though there is more agreement as to Myrddin's original independence from later Welsh legends.",
+     "text": "Popularized by German historian Lutz von Padberg, the term \"Iroschottisch\" is used to describe this supposed dichotomy between Irish-Scottish and Roman Christianity. As a whole, Celtic-speaking areas were part of Latin Christendom at a time when there was significant regional variation of liturgy and structure. But a general collective veneration of the Papacy was no less intense in Celtic-speaking areas.",
      "image": null
     }
    ],
    "truncated": true,
-   "readSeconds": 79
+   "readSeconds": 86
   },
   {
-   "id": "831987",
-   "title": "Culzean Castle",
-   "description": "Castle in Scotland",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Culzean_Castle",
+   "id": "23441728",
+   "title": "Lady Mary Tudor",
+   "description": "Illegitimate daughter of Charles II of England",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Lady_Mary_Tudor",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/99/Culzean_Castle_house_and_gardens_01.JPG/1280px-Culzean_Castle_house_and_gardens_01.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Lady_Mary_Radcliff_Countess_of_Derwentwater.jpg/1280px-Lady_Mary_Radcliff_Countess_of_Derwentwater.jpg",
     "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Culzean_Castle_house_and_gardens_01.JPG",
-    "artist": "Jamesx12345",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "Culzean Castle ( kul-AYN, see yogh; Scots: Culzean, Culȝean, Colean) is a castle overlooking the Firth of Clyde, near Maybole, Carrick, in South Ayrshire, on the west coast of Scotland. It is the former home of the Marquess of Ailsa, the chief of Clan Kennedy, but is now owned by the National Trust for Scotland.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Culzean_Castle_sca2.jpg/1280px-Culzean_Castle_sca2.jpg",
-      "width": 1280,
-      "height": 731,
-      "page": "https://commons.wikimedia.org/wiki/File:Culzean_Castle_sca2.jpg",
-      "artist": "Julien.scavini",
-      "license": "CC BY-SA 4.0",
-      "caption": "Clock tower's courtyard and shore"
-     }
-    },
-    {
-     "text": "The clifftop castle lies within the 240 acres (97 ha) Culzean Castle Country Park, which also contains a walled garden, other estate buildings that are open to the public, shops and cafés, and a playground. The castle is open to the public throughout the summer, and the wider estate is open all year.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Culzean_Castle_sca3.jpg/1280px-Culzean_Castle_sca3.jpg",
-      "width": 1280,
-      "height": 598,
-      "page": "https://commons.wikimedia.org/wiki/File:Culzean_Castle_sca3.jpg",
-      "artist": "Julien.scavini",
-      "license": "CC BY-SA 4.0",
-      "caption": "Panoramic view of Culzean Castle main building"
-     }
-    },
-    {
-     "text": "There are eight self-catering properties available for holiday rental within the country park, include the Brewhouse Flat which is located within the castle itself. The castle can also be hired for private events. From 1972 until 2015, an illustration of the castle was featured on the reverse side of five pound notes issued by the Royal Bank of Scotland.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/The_castle%2C_Culzean%2C_Scotland-LCCN2001705960.jpg/1280px-The_castle%2C_Culzean%2C_Scotland-LCCN2001705960.jpg",
-      "width": 1280,
-      "height": 971,
-      "page": "https://commons.wikimedia.org/wiki/File:The_castle,_Culzean,_Scotland-LCCN2001705960.jpg",
-      "artist": "Photochrom Print Collection",
-      "license": "Public domain",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 60
-  },
-  {
-   "id": "387695",
-   "title": "Guildhall, London",
-   "description": "Municipal building in London, England",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Guildhall,_London",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Guildhall%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_139.JPG/1280px-Guildhall%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_139.JPG",
-    "width": 1280,
-    "height": 927,
-    "page": "https://commons.wikimedia.org/wiki/File:Guildhall,_Londres,_Inglaterra,_2014-08-11,_DD_139.JPG",
-    "artist": "Diego Delso",
+    "height": 2143,
+    "page": "https://commons.wikimedia.org/wiki/File:Lady_Mary_Radcliff_Countess_of_Derwentwater.jpg",
+    "artist": "Bernard Lens",
     "license": "CC BY-SA 4.0"
    },
    "cards": [
     {
-     "text": "Guildhall is a municipal building in the City of London, England. It is off Gresham and Basinghall streets, in the wards of Bassishaw and Cheap. The current building dates from the 15th century; however documentary evidence suggests that a guildhall had existed at the site since at least the early 12th century.",
+     "text": "Lady Mary Tudor (16 October 1673 – 5 November 1726), by marriage Countess of Derwentwater, was an actress and illegitimate daughter of King Charles II of England by his mistress, Mary \"Moll\" Davies, an actress and singer. The King's fourteenth child, she was also his last.",
+     "image": null
+    },
+    {
+     "text": "By royal warrants, she was granted the surname Tudor and the precedence of a duke’s daughter, and in 1687, aged 14, she was married to Edward Radclyffe, 2nd Earl of Derwentwater, head of a leading northern Catholic family. Through this marriage, she became the mother of James Radclyffe, 3rd Earl of Derwentwater, executed for his part in the Jacobite rising of 1715, and Charles Radclyffe, later executed after the Jacobite rising of 1745.",
+     "image": null
+    },
+    {
+     "text": "In the aftermath of James's execution and the forfeiture of the Derwentwater estates, she petitioned the Crown and Parliament for clemency and to secure the conversion of her eight-year-old grandson to the Church of England, an attempt opposed by his mother, Anna Maria Webb, who removed him to the Continent.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 48
+  },
+  {
+   "id": "38995590",
+   "title": "Demographic history of Scotland",
+   "description": "History of Scotland",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Demographic_history_of_Scotland",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Blaeu.1654.submap.Ptolemy.Damnij.jpg/1280px-Blaeu.1654.submap.Ptolemy.Damnij.jpg",
+    "width": 1280,
+    "height": 760,
+    "page": "https://commons.wikimedia.org/wiki/File:Blaeu.1654.submap.Ptolemy.Damnij.jpg",
+    "artist": "Blaeu",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The demographic history of Scotland includes all aspects of population history in what is now Scotland. The earliest surviving archaeological evidence of human settlement is of Mesolithic hunter-gatherer encampments. These suggest a highly mobile boat-using people, probably with a very low density of population. Neolithic farming brought permanent settlements dating from 3500 BC, and greater concentrations of population. Evidence of hillforts and other buildings suggest a growing settled population.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/The_Crypt%2C_Guildhall%2C_London_%281%29.jpg/1280px-The_Crypt%2C_Guildhall%2C_London_%281%29.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Knapofhowarinsun.jpg/1280px-Knapofhowarinsun.jpg",
       "width": 1280,
-      "height": 853,
-      "page": "https://commons.wikimedia.org/wiki/File:The_Crypt,_Guildhall,_London_(1).jpg",
-      "artist": "The wub",
-      "license": "CC BY-SA 4.0",
-      "caption": "Guildhall crypt"
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Knapofhowarinsun.jpg",
+      "artist": "Me677 (talk)",
+      "license": "Public domain",
+      "caption": "Stone houses at Knap of Howar, evidence of the beginnings of demographic growth, c. 3500 BCE"
      }
     },
     {
-     "text": "The building has been used as a town hall for several hundred years, and is still the ceremonial and administrative centre of the City of London and its Corporation. It should not be confused with London's City Hall, the administrative centre for Greater London in Canning Town. The term \"Guildhall\" refers both to the whole building and to its main room, which is a medieval great hall. It is a Grade I-listed building.",
+     "text": "Changes in the extent of woodland indicates that the Roman invasions from the first century AD had a negative impact on the native population. There are almost no written sources from which to reconstruct the demography of early medieval Scotland. This was probably a high fertility, high mortality society, similar to developing countries in the modern world. The population may have grown from half a million to a million by the mid-fourteenth century when the Black Death reached the country.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Guildhall%2C_City_of_London_-_Diliff.jpg/1280px-Guildhall%2C_City_of_London_-_Diliff.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Doutielt3.jpg",
       "width": 1280,
-      "height": 1280,
-      "page": "https://commons.wikimedia.org/wiki/File:Guildhall,_City_of_London_-_Diliff.jpg",
-      "artist": "Diliff",
-      "license": "CC BY-SA 3.0",
-      "caption": "The Great Hall"
+      "height": 770,
+      "page": "https://commons.wikimedia.org/wiki/File:Doutielt3.jpg",
+      "artist": "Pierart dou Tielt (fl. 1340-1360)",
+      "license": "Public domain",
+      "caption": "The Black Death may have halved the population of Scotland. This illustration is from \"The Chronicles of Gilles Li Muisis\" (1272–1352)."
+     }
+    },
+    {
+     "text": "It may then have fallen to as low as half a million by the end of the fifteenth century. Roughly half lived north of the River Tay and perhaps 10 per cent in the burghs that grew up in the later medieval period. Inflation in prices, indicating greater demand, suggests that the population continued to grow until the late sixteenth century, when it probably levelled off.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/61/Ruined_sheiling_-_geograph.org.uk_-_1094461.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Ruined_sheiling_-_geograph.org.uk_-_1094461.jpg",
+      "artist": "Patrick Mackie",
+      "license": "CC BY-SA 2.0",
+      "caption": "Ruins of a Highland sheiling on marginal land, south of Oban"
+     }
+    },
+    {
+     "text": "It began to grow again in the relative stability of the late seventeenth century. The earliest reliable evidence suggests a population of 1.2 million in 1681. This was probably reduced by the \"seven ill years\" of the 1690s, which caused severe famine and depopulation, particularly in the north. The first national census was conducted in 1755, and showed the population of Scotland as 1,265,380.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e3/Edinburgh_in_the_17thC_%28detail%29_by_Wenceslas_Hollar_%281670%29.jpg/1280px-Edinburgh_in_the_17thC_%28detail%29_by_Wenceslas_Hollar_%281670%29.jpg",
+      "width": 1280,
+      "height": 765,
+      "page": "https://commons.wikimedia.org/wiki/File:Edinburgh_in_the_17thC_(detail)_by_Wenceslas_Hollar_(1670).jpg",
+      "artist": "Wenceslas Hollar",
+      "license": "Public domain",
+      "caption": "View of Edinburgh in the late seventeenth century, showing the suburbs outside of the city walls"
+     }
+    },
+    {
+     "text": "By then four towns had populations of over 10,000, with the capital, Edinburgh, the largest with 57,000 inhabitants. Overall the population of Scotland grew rapidly in the late eighteenth and nineteenth centuries. Whilst the Lowland Clearances caused depopulation in the affected areas, only local net population reductions occurred in the Highlands during the Highland Clearances. By 1801, Scotland's population had reached 1,608,420 and it grew to 2,889,000 in 1851 and 4,472,000 in 1901.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Glasgow_map_1878.jpg/1280px-Glasgow_map_1878.jpg",
+      "width": 1280,
+      "height": 834,
+      "page": "https://commons.wikimedia.org/wiki/File:Glasgow_map_1878.jpg",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": "A map of Glasgow, the \"second city of the Empire\", in 1878"
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 116
+  },
+  {
+   "id": "1248684",
+   "title": "Gytrash",
+   "description": "Legendary English ghost animal",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Gytrash",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/P107b.jpg",
+    "width": 1280,
+    "height": 1609,
+    "page": "https://commons.wikimedia.org/wiki/File:P107b.jpg",
+    "artist": "F. H. Townsend, 1868-1920",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The Gytrash was a legendary shape-changer known in parts of the West Riding of Yorkshire. It was said to haunt lonely roads awaiting travelers. Appearing usually in the shape of animals (horses, mules, and dogs among others), the Gytrash haunt solitary ways and lead people astray, but they can also be benevolent, guiding lost travelers to the right road. They are usually feared.",
+     "image": null
+    },
+    {
+     "text": "The Gytrash is a shapechanging cousin of the Lincolnshire and Northamptonshire Shagfoal, of the Lancashire Skriker, of the Padfoot, also from the West Riding and of Barguest of much of the North Riding, Cumberland, Lincolnshire, County Durham and Northumberland. The most important gytrash references appear in the writings of the Brontës.",
+     "image": null
+    },
+    {
+     "text": "As this horse approached, and as I watched for it to appear through the dusk, I remembered certain of Bessie's tales, wherein figured a North-of-England spirit called a \"Gytrash,\" which, in the form of horse, mule, or large dog, haunted solitary ways, and sometimes came upon belated travelers, as this horse was now coming upon me.",
+     "image": null
+    },
+    {
+     "text": "It was very near, but not yet in sight; when, in addition to the tramp, tramp, I heard a rush under the hedge, and close down by the hazel stems glided a great dog, whose black and white colour made him a distinct object against the trees. It was exactly one form of Bessie's Gytrash -- a lion-like creature with long hair and a huge head [...], with strange pretercanine eyes [...].",
+     "image": null
+    },
+    {
+     "text": "The horse followed, -- a tall steed [...]. Nothing ever rode the Gytrash: it was always alone [...]. The Gytrash's emergence as Rochester's innocuous dog Pilot has been interpreted as a subtle mockery of the mysteriousness and romanticism that surrounds his character and which clouds Jane's perception. Brontë's reference in 1847 is the earliest reference to the beast in print and forms the basis for subsequent citations.",
+     "image": null
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 85
+  },
+  {
+   "id": "10699330",
+   "title": "Robert Fitzharding",
+   "description": "Anglo-Saxon nobleman",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/Robert_Fitzharding",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/TabletRobertFitzHardingStAugustinesBristol.jpg/1280px-TabletRobertFitzHardingStAugustinesBristol.jpg",
+    "width": 1280,
+    "height": 1707,
+    "page": "https://commons.wikimedia.org/wiki/File:TabletRobertFitzHardingStAugustinesBristol.jpg",
+    "artist": "unknown (stonemason)",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Robert Fitzharding (c. 1095–1170) was an Anglo-Saxon nobleman from Bristol who was granted the feudal barony of Berkeley in Gloucestershire. He rebuilt Berkeley Castle, and founded the Berkeley family which still occupies it today. He was a wealthy Bristol merchant and a financier of the future King Henry II of England (1133–1189) in the period known as the Anarchy during which Henry's mother, the Empress Matilda (1102–1167), mounted repeated military challenges to King Stephen (d. 1154).",
+     "image": null
+    },
+    {
+     "text": "Fitzharding founded St. Augustine's Abbey, which after the Reformation became Bristol Cathedral. Many members of the Berkeley family were buried within it, and some of their effigies survive there. As J. Horace Round asserted, he was one of the very few Anglo-Saxon noblemen who managed to retain their noble status in Norman England and successfully integrate with the Norman nobility, if not the only one.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Berkeley_Castle_03.jpg",
+      "width": 1280,
+      "height": 851,
+      "page": "https://commons.wikimedia.org/wiki/File:Berkeley_Castle_03.jpg",
+      "artist": "David Stowell",
+      "license": "CC BY-SA 2.0",
+      "caption": "Berkeley Castle"
      }
     }
    ],
    "truncated": false,
    "readSeconds": 45
-  },
-  {
-   "id": "561917",
-   "title": "Billingsgate Fish Market",
-   "description": "Fish market in Poplar in London, England",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Billingsgate_Fish_Market",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/London_-_Billingsgate_Fish_Market_-_3190.jpg/1280px-London_-_Billingsgate_Fish_Market_-_3190.jpg",
-    "width": 1280,
-    "height": 853,
-    "page": "https://commons.wikimedia.org/wiki/File:London_-_Billingsgate_Fish_Market_-_3190.jpg",
-    "artist": "Jorge Royan",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "Billingsgate Fish Market is the United Kingdom's largest inland fish market. It takes its name from Billingsgate, a ward in the south-east corner of the City of London, where the riverside market was originally established. In its original location in the 19th century, Billingsgate was the largest fish market in the world.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Microcosm_of_London_Plate_009_-_Billingsgate_Market_%28unk%29.jpg",
-      "width": 1280,
-      "height": 1046,
-      "page": "https://commons.wikimedia.org/wiki/File:Microcosm_of_London_Plate_009_-_Billingsgate_Market_(unk).jpg",
-      "artist": "Thomas Rowlandson (1756–1827) and Augustus Charles Pugin (1762–1832) (after) Joh",
-      "license": "Public domain",
-      "caption": "The original open air Billingsgate Fish Market in the early 19th century. Boats delivered fish to this small inlet of the Thames and business was conducted on the quayside."
-     }
-    },
-    {
-     "text": "The market moved from Old Billingsgate in 1982, to its current location off Trafalgar Way in Poplar, East London, at the eastern end of the North Dock of the West India Docks. A move to a new site at Albert Island east of London City Airport in Newham is being planned.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3a/Billingsgate_Market_-_1852.png",
-      "width": 1280,
-      "height": 816,
-      "page": "https://commons.wikimedia.org/wiki/File:Billingsgate_Market_-_1852.png",
-      "artist": "Unclear. Probably James Bunstone Bunning, architect to the City of London",
-      "license": "Public domain",
-      "caption": "J. B. Bunning's 1852 Billingsgate Market building, which lasted for about 20 years before being redeveloped."
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 39
-  },
-  {
-   "id": "1218721",
-   "title": "Bristol Harbour Railway",
-   "description": "Former English railway (1872 to 1964)",
-   "topic": "bristol",
-   "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Bristol_Harbour_Railway",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Bristol_Prince%27s_Wharf_-_Henbury_going_to_the_Create_Centre.JPG/1280px-Bristol_Prince%27s_Wharf_-_Henbury_going_to_the_Create_Centre.JPG",
-    "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Bristol_Prince%27s_Wharf_-_Henbury_going_to_the_Create_Centre.JPG",
-    "artist": "Geof Sheppard",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "The Bristol Harbour Railway (known originally as the Harbour Railway) was a standard-gauge industrial railway that served the wharves and docks of Bristol, England. The line, which had a network of approximately 5 mi (8.0 km) of track, connected the Floating Harbour to the GWR mainline at Bristol Temple Meads. Freight could be transported directly by wagons to Paddington Station in London.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Bristol_RJD_9.jpg/1280px-Bristol_RJD_9.jpg",
-      "width": 1280,
-      "height": 846,
-      "page": "https://commons.wikimedia.org/wiki/File:Bristol_RJD_9.jpg",
-      "artist": "Railway Clearing House",
-      "license": "Public domain",
-      "caption": "The Harbour Railway on a 1911 Bristol railway map"
-     }
-    },
-    {
-     "text": "The railway officially closed in 1964. In 1978, a heritage railway named the Bristol Harbour Railway was opened and operated by Bristol Industrial Museum. It uses approximately 1 mile (1.6 km) of the preserved line that runs adjacent to the River Avon. The line is a very popular visitor attraction in the city.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/242_waiting_%286224665028%29.jpg/1280px-242_waiting_%286224665028%29.jpg",
-      "width": 1280,
-      "height": 905,
-      "page": "https://commons.wikimedia.org/wiki/File:242_waiting_(6224665028).jpg",
-      "artist": "crabchick from Bristol, England",
-      "license": "CC BY 2.0",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 42
-  },
-  {
-   "id": "4649205",
-   "title": "Anglo-Norman invasion of Ireland",
-   "description": "12th-century invasion",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Anglo-Norman_invasion_of_Ireland",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/MarriageAoifeStrongbow.jpg",
-    "width": 1280,
-    "height": 785,
-    "page": "https://commons.wikimedia.org/wiki/File:MarriageAoifeStrongbow.jpg",
-    "artist": "Daniel Maclise",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The Anglo-Norman invasion of Ireland took place during the late 12th century, when Anglo-Normans gradually conquered and acquired large swathes of land in Ireland over which the kings of England then claimed sovereignty. The Anglo-Normans claimed the invasion was sanctioned by the papal bull Laudabiliter. At the time of the invasion, Gaelic Ireland consisted of several kingdoms, with a High King claiming lordship over most of the other kings.",
-     "image": null
-    },
-    {
-     "text": "The Anglo-Norman invasion was a watershed in Ireland's history, marking the beginning of over 800 years of British presence in Ireland. In May 1169, Anglo-Norman mercenaries landed in Ireland at the request of Diarmait mac Murchada (Dermot MacMurragh), the deposed King of Leinster, who sought their help in regaining his kingship. They achieved this within weeks and raided neighbouring kingdoms.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/A_Chronicle_of_England_-_Page_175_-_Henry_Authorizes_Dermod_to_Levy_Forces.jpg",
-      "width": 1280,
-      "height": 1274,
-      "page": "https://commons.wikimedia.org/wiki/File:A_Chronicle_of_England_-_Page_175_-_Henry_Authorizes_Dermod_to_Levy_Forces.jpg",
-      "artist": "James William Edmund Doyle / Edmund Evans",
-      "license": "Public domain",
-      "caption": "\"Henry authorizes Dermod to levy forces\", from A Chronicle of England (1864) by James Doyle"
-     }
-    },
-    {
-     "text": "This military intervention was sanctioned by King Henry II of England. In return, Diarmait had sworn loyalty to Henry and promised land to the Normans. In 1170, there were further Norman landings, led by the Earl of Pembroke, Richard \"Strongbow\" de Clare. They seized the important Norse-Irish towns of Dublin and Waterford, and Strongbow married Diarmait's daughter Aoífe. Diarmait died in May 1171, and Strongbow claimed Leinster, which Diarmait had promised him.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Baginbun_Head_Map.png",
-      "width": 1280,
-      "height": 815,
-      "page": "https://commons.wikimedia.org/wiki/File:Baginbun_Head_Map.png",
-      "artist": "AFBorchert",
-      "license": "CC BY-SA 4.0",
-      "caption": "A map showing the locations of Bannow, Baginbun, Wexford and Waterford in southern Ireland"
-     }
-    },
-    {
-     "text": "Led by High King Ruaidrí Ua Conchobair (Rory O'Conor), a coalition of most of the Irish kingdoms besieged Dublin, while Norman-held Waterford and Wexford were also attacked. However, the Normans managed to hold most of their territory. In October 1171, King Henry landed with a large army to assert control over both the Anglo-Normans and the Irish.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/A_Chronicle_of_England_-_Page_180_-_Henry_at_Waterford.jpg",
-      "width": 1280,
-      "height": 953,
-      "page": "https://commons.wikimedia.org/wiki/File:A_Chronicle_of_England_-_Page_180_-_Henry_at_Waterford.jpg",
-      "artist": "James William Edmund Doyle / Edmund Evans",
-      "license": "Public domain",
-      "caption": "\"Henry at Waterford\", from A Chronicle of England (1864) by James Doyle"
-     }
-    },
-    {
-     "text": "This intervention was supported by the Roman Catholic Church, who saw it as a means of ensuring Irish religious reform, and a source of taxes. At the time, Irish marriage laws conflicted with those of the broader Church, and the Gregorian Reform had not been fully implemented. Henry granted Strongbow Leinster as a fiefdom, declared the Norse-Irish towns to be crown land, and arranged the synod of Cashel to reform the Irish church.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e2/National_Library_of_Ireland_MS_700_f77v_Raymond_de_Gros.jpg",
-      "width": 1280,
-      "height": 2632,
-      "page": "https://commons.wikimedia.org/wiki/File:National_Library_of_Ireland_MS_700_f77v_Raymond_de_Gros.jpg",
-      "artist": "Unknown artist of the 13th century",
-      "license": "Public domain",
-      "caption": "A depiction of Raymond FitzGerald from Gerald de Barri's Expugnatio Hibernica"
-     }
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 106
   }
  ]
 }
