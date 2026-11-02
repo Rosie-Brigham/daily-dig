@@ -1,170 +1,262 @@
 {
- "date": "2026-11-01",
- "generatedAt": "2026-11-01T11:55:52.020Z",
- "totalReadSeconds": 1516,
+ "date": "2026-11-02",
+ "generatedAt": "2026-11-02T13:41:06.617Z",
+ "totalReadSeconds": 1210,
  "posts": [
   {
-   "id": "1902917",
-   "title": "Sub-Roman Britain",
-   "description": "Period in late antiquity in Great Britain",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Sub-Roman_Britain",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/End.of.Roman.rule.in.Britain.383.410.jpg/1280px-End.of.Roman.rule.in.Britain.383.410.jpg",
-    "width": 1280,
-    "height": 1596,
-    "page": "https://commons.wikimedia.org/wiki/File:End.of.Roman.rule.in.Britain.383.410.jpg",
-    "artist": "my work",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "Sub-Roman Britain, also called post-Roman Britain or Dark Age Britain, is the period of Late Antiquity in Great Britain between the end of Roman rule and the founding of Anglo-Saxon kingdoms. The term was originally used to describe archaeological remains found in 5th- and 6th-century AD sites that hinted at the decay of locally made wares from a previous higher standard under the Roman Empire.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Barbury_Castle_Hill_Fort%2C_near_Swindon_-_western_entrance.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Barbury_Castle_Hill_Fort,_near_Swindon_-_western_entrance.jpg",
-      "artist": "Brian Robert Marshall",
-      "license": "CC BY-SA 2.0",
-      "caption": "Barbury Castle, a 6th-century hillfort in Wiltshire"
-     }
-    },
-    {
-     "text": "It is now used to describe the period that began with the recall of Roman troops from Britannia to Gaul by Constantine III in 407 and ended with the Battle of Deorham in 577. This period has attracted a great deal of academic and popular debate, in part because of the lack of written records from the time.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/All_Roman_coins_1997_-_2010_%282%29.jpg/1280px-All_Roman_coins_1997_-_2010_%282%29.jpg",
-      "width": 1280,
-      "height": 1579,
-      "page": "https://commons.wikimedia.org/wiki/File:All_Roman_coins_1997_-_2010_(2).jpg",
-      "artist": "Portable Antiquities Scheme from London, England",
-      "license": "CC BY 2.0",
-      "caption": "Roman coins findings clearly indicate the areas of greatest \"Romanization\" and presence in Roman Britain."
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 44
-  },
-  {
-   "id": "167775",
-   "title": "Royal National Theatre",
-   "description": "Theatre in London, England",
+   "id": "494044",
+   "title": "London Bridge Is Falling Down",
+   "description": "Nursery rhyme from England",
    "topic": "london",
    "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Royal_National_Theatre",
+   "url": "https://en.wikipedia.org/wiki/London_Bridge_Is_Falling_Down",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/41/The_National_Theatre%2C_South_Bank%2C_London_-_geograph.org.uk_-_1861458.jpg/1280px-The_National_Theatre%2C_South_Bank%2C_London_-_geograph.org.uk_-_1861458.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/LondonBridgeWalterCrane.jpg",
     "width": 1280,
-    "height": 779,
-    "page": "https://commons.wikimedia.org/wiki/File:The_National_Theatre,_South_Bank,_London_-_geograph.org.uk_-_1861458.jpg",
-    "artist": "Anthony O'Neil",
-    "license": "CC BY-SA 2.0"
-   },
-   "cards": [
-    {
-     "text": "The National Theatre (NT), officially the Royal National Theatre since 1988 and sometimes referred to as the National Theatre of Great Britain, is a performing arts venue and associated theatre company located in London, England, adjacent to (but not part of) the Southbank Centre. The theatre was founded by Laurence Olivier in 1963 and many well-known actors have since performed with it.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Royal_National_Theatre%2C_London_%28Southwest_View_-_01%29.jpg/1280px-Royal_National_Theatre%2C_London_%28Southwest_View_-_01%29.jpg",
-      "width": 1280,
-      "height": 937,
-      "page": "https://commons.wikimedia.org/wiki/File:Royal_National_Theatre,_London_(Southwest_View_-_01).jpg",
-      "artist": "Doyle of London",
-      "license": "CC BY-SA 4.0",
-      "caption": "The Royal National Theatre seen from the southwest"
-     }
-    },
-    {
-     "text": "The company was based at The Old Vic theatre in Waterloo until 1976. The current building is located next to the Thames in the South Bank area of central London. In addition to performances at the National Theatre building, it tours productions at theatres across the United Kingdom. The theatre has transferred numerous productions to Broadway and toured some as far as China, Australia and New Zealand.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Royal_National_Theater.jpg/1280px-Royal_National_Theater.jpg",
-      "width": 1280,
-      "height": 1707,
-      "page": "https://commons.wikimedia.org/wiki/File:Royal_National_Theater.jpg",
-      "artist": "Mattsjc",
-      "license": "CC BY-SA 4.0",
-      "caption": "Entrance to the National Theatre"
-     }
-    },
-    {
-     "text": "However, touring productions to European cities were suspended in February 2021 over concerns about uncertainty over work permits, additional costs and delays because of Brexit. Permission to add the \"Royal\" prefix to the name of the theatre was given in 1988, but the full title is rarely used. The theatre presents a varied programme, including Shakespeare, other international classic drama, and new plays by contemporary playwrights.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/19_4_2018_Royal_National_Theatre_axis_view.jpg/1280px-19_4_2018_Royal_National_Theatre_axis_view.jpg",
-      "width": 1280,
-      "height": 799,
-      "page": "https://commons.wikimedia.org/wiki/File:19_4_2018_Royal_National_Theatre_axis_view.jpg",
-      "artist": "Saval",
-      "license": "CC BY-SA 4.0",
-      "caption": "Axis view of Royal National Theatre to Olivier Theatre fly tower"
-     }
-    },
-    {
-     "text": "Each auditorium in the theatre can run up to three shows in repertoire, thus further widening the number of plays which can be put on during any one season. However, the post-2020 covid repertoire model became straight runs, required by the imperatives of greater resource efficiency and financial constraint coupled with the preference (and competition for the availability) of creatives working across stage and screen, thus bringing it in line with that of most theatres.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/National_Theatre_-_detail_of_shuttered_concrete.jpg/1280px-National_Theatre_-_detail_of_shuttered_concrete.jpg",
-      "width": 1280,
-      "height": 1920,
-      "page": "https://commons.wikimedia.org/wiki/File:National_Theatre_-_detail_of_shuttered_concrete.jpg",
-      "artist": "Tom Parnell",
-      "license": "CC BY-SA 4.0",
-      "caption": "Detail of the National Theatre showing the grain of the formwork"
-     }
-    },
-    {
-     "text": "In June 2009, the theatre began National Theatre Live (NT Live), a programme of simulcasts of live productions to cinemas, first in the United Kingdom and then internationally. The programme began with a production of Phèdre, starring Helen Mirren, which was screened live in 70 cinemas across the UK. NT Live productions have since been broadcast to over 2,500 venues in 60 countries around the world.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Royal_National_Theatre_London_SouthBankCentre02.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Royal_National_Theatre_London_SouthBankCentre02.jpg",
-      "artist": "Unknown",
-      "license": "CC BY-SA 1.0",
-      "caption": "Denys Lasdun's building for the National Theatre – an \"urban landscape\" of interlocking terraces responding to the site at King's Reach on the River Thames to exploit views of St Paul's Cathedral and Somerset House."
-     }
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 112
-  },
-  {
-   "id": "396412",
-   "title": "Changeling",
-   "description": "Creature in European folklore",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Changeling",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/F%C3%BCssli_-_Der_Wechselbalg_-_1780.jpeg/1280px-F%C3%BCssli_-_Der_Wechselbalg_-_1780.jpeg",
-    "width": 1280,
-    "height": 1157,
-    "page": "https://commons.wikimedia.org/wiki/File:F%C3%BCssli_-_Der_Wechselbalg_-_1780.jpeg",
-    "artist": "Henry Fuseli",
+    "height": 1291,
+    "page": "https://commons.wikimedia.org/wiki/File:LondonBridgeWalterCrane.jpg",
+    "artist": "Walter Crane (1845–1915)",
     "license": "Public domain"
    },
    "cards": [
     {
-     "text": "A changeling, also historically referred to as an auf or oaf, is a human-like creature found throughout much of European folklore. According to folklore, a changeling was a substitute left by a supernatural being when kidnapping a human being. Although sometimes it was a \"stock\" (a piece of wood made magically to resemble the kidnapped human), more often the changeling was a supernatural being made magically to look like the kidnapped human. ",
+     "text": "\"London Bridge Is Falling Down\" (also known as \"My Fair Lady\" or \"London Bridge\") is a traditional English nursery rhyme, folk music and singing game, which is found in different versions all over the world. It deals with the dilapidation of London Bridge and attempts, realistic or fanciful, to repair it. It may date back to bridge-related rhymes and games of the Late Middle Ages, but the earliest records of the rhyme in English are from the 17th century.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Saintine_%281862%29-illust-Dore-p292-Diable_remplace_avec_enfant_faut_dit_Killecroff.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8d/London_Prospect_1710.jpg",
       "width": 1280,
-      "height": 1799,
-      "page": "https://commons.wikimedia.org/wiki/File:Saintine_(1862)-illust-Dore-p292-Diable_remplace_avec_enfant_faut_dit_Killecroff.jpg",
-      "artist": "missing name",
+      "height": 1351,
+      "page": "https://commons.wikimedia.org/wiki/File:London_Prospect_1710.jpg",
+      "artist": "Unknown",
       "license": "Public domain",
-      "caption": "Devil swapping a child in crib with changeling called Killecroff ―Illustrated by Gustav Doré, Saintine (1862) Mythologie du Rhin"
+      "caption": "Prospect of Old London Bridge in 1710"
      }
     },
     {
-     "text": "Supernatural beings blamed for stealing children included fairies, elves, demons, trolls, nereids and many others. Usually, the kidnapped human was a child; but there were cases, particularly in Scandinavia and Ireland, where adults were taken. Some modern scholars have argued these stories of replaced children originated as folklore explanations for autism or other developmental conditions.",
+     "text": "The lyrics were first printed in close to their modern form in the mid-18th century and became popular, particularly in Britain and the United States, during the 19th century. The modern melody was first recorded in the late 19th century. It has the Roud Folk Song Index number 502. Several explanations have been advanced to explain the meaning of the rhyme and the identity of the \"fair lady\" of the refrain.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Bm138Wechselbalg.jpg/1280px-Bm138Wechselbalg.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9c/Traditional_Games_%281904_column%29.jpg",
       "width": 1280,
-      "height": 1709,
-      "page": "https://commons.wikimedia.org/wiki/File:Bm138Wechselbalg.jpg",
+      "height": 3419,
+      "page": "https://commons.wikimedia.org/wiki/File:Traditional_Games_(1904_column).jpg",
       "artist": "Unknown authorUnknown author",
       "license": "Public domain",
-      "caption": "Changeling."
+      "caption": "This 1904 column from The Tacoma Times describes various alternative verses and their accompanying gestures"
+     }
+    },
+    {
+     "text": "The song is well known and has been referenced in a variety of works of literature and popular culture.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Girls_playing_London_Bridge_1898.jpg",
+      "width": 1280,
+      "height": 913,
+      "page": "https://commons.wikimedia.org/wiki/File:Girls_playing_London_Bridge_1898.jpg",
+      "artist": "Alexander B. McBride, Grand Marais, Michigan.",
+      "license": "Public domain",
+      "caption": "Girls playing \"London Bridge\" in 1898"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 60
+  },
+  {
+   "id": "1239814",
+   "title": "Grahame Clark",
+   "description": "British archaeologist (1907–1995)",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Grahame_Clark",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a0/1990_Clark_laudatio_%28crop%29.jpg",
+    "width": 1280,
+    "height": 1575,
+    "page": "https://commons.wikimedia.org/wiki/File:1990_Clark_laudatio_(crop).jpg",
+    "artist": "Praemium Erasmianum Foundation",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "Sir John Grahame Douglas Clark (28 July 1907 – 12 September 1995), who often published as J. G. D. Clark, was a British archaeologist who specialised in the study of Mesolithic Europe and palaeoeconomics. He spent most of his career working at the University of Cambridge, where he was appointed Disney Professor of Archaeology from 1952 to 1974 and Master of Peterhouse from 1973 to 1980.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Cambridge_Peterhouse_OldCourt.JPG/1280px-Cambridge_Peterhouse_OldCourt.JPG",
+      "width": 1280,
+      "height": 966,
+      "page": "https://commons.wikimedia.org/wiki/File:Cambridge_Peterhouse_OldCourt.JPG",
+      "artist": "Azeira at English Wikipedia",
+      "license": "Public domain",
+      "caption": "Clark gained his undergraduate and doctoral degrees from Peterhouse, Cambridge."
+     }
+    },
+    {
+     "text": "Born in Kent to an upper-middle-class family, Clark developed an early interest in archaeology through his collection of prehistoric flint tools. After an education at Marlborough College, he proceeded to Peterhouse in the University of Cambridge, there attaining both his undergraduate and then doctoral degree. For the latter, he produced a thesis and published monograph focusing on Mesolithic Britain. In 1932, he co-founded the Fenland Research Committee, through which he excavated several prehistoric sites in the East Anglian Fens.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/The_Trundle_1.jpg/1280px-The_Trundle_1.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:The_Trundle_1.jpg",
+      "artist": "Simon Burchell",
+      "license": "CC BY-SA 3.0",
+      "caption": "Clark learned to excavate while assisting the project at the Trundle, an Iron Age hillfort in Sussex."
+     }
+    },
+    {
+     "text": "He was also a senior member of the Prehistoric Society of East Anglia and played an instrumental role in transforming it into The Prehistoric Society in 1935. He served as the editor of its academic journal, the Proceedings of the Prehistoric Society, from 1933 until 1970.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Danevirke%2C_Danmarks_forsvarsverk_mot_Syd_%281%29.JPG/1280px-Danevirke%2C_Danmarks_forsvarsverk_mot_Syd_%281%29.JPG",
+      "width": 1280,
+      "height": 851,
+      "page": "https://commons.wikimedia.org/wiki/File:Danevirke,_Danmarks_forsvarsverk_mot_Syd_(1).JPG",
+      "artist": "Paal Sørensen",
+      "license": "CC BY-SA 3.0",
+      "caption": "In 1936, Clark was guided around the Danebirke by German archaeologists"
+     }
+    },
+    {
+     "text": "During the Second World War, Clark was drafted into the Royal Air Force Volunteer Reserve. He remained in Britain, working on aerial reconnaissance, and wrote further archaeological research articles in his spare time. After the war he returned to Cambridge University, where he was employed as a full-time lecturer. Over the course of 1949, 1950, and 1951, he excavated the important Mesolithic settlement site of Star Carr in North Yorkshire.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Star_Carr_spear_tips_01.jpg/1280px-Star_Carr_spear_tips_01.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Star_Carr_spear_tips_01.jpg",
+      "artist": "Jonathan Cardy",
+      "license": "CC BY-SA 3.0",
+      "caption": "Mesolithic barbed spear points found at Star Carr"
+     }
+    },
+    {
+     "text": "Other excavations carried out under his directorship included that of an Iron Age settlement on Micklemoor Hill, Norfolk, and the Neolithic site of Hurst Fen, Suffolk. In 1951 he was made a Fellow of the British Academy, in 1952 appointed to Cambridge's Disney Chair, and in 1959 elected President of the Prehistoric Society. In later life he travelled the globe more extensively, often as a visiting professor.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/47/Coe_Fen%2C_Cambridge.jpg",
+      "width": 1280,
+      "height": 860,
+      "page": "https://commons.wikimedia.org/wiki/File:Coe_Fen,_Cambridge.jpg",
+      "artist": "JackyR",
+      "license": "CC BY-SA 3.0",
+      "caption": "Peterhouse"
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 110
+  },
+  {
+   "id": "969337",
+   "title": "England in the Middle Ages",
+   "description": "Period of English history from the 5th–15th centuries",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/England_in_the_Middle_Ages",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/English_medieval_collage.jpg/1280px-English_medieval_collage.jpg",
+    "width": 1280,
+    "height": 1113,
+    "page": "https://commons.wikimedia.org/wiki/File:English_medieval_collage.jpg",
+    "artist": "Ormside_bowl_british_museum_right.JPG:",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "England in the Middle Ages concerns the history of England during the medieval period, from the end of the 5th century through to the start of the early modern period in 1485. When England emerged from the collapse of the Western Roman Empire, the economy was in tatters and many of the towns abandoned. After several centuries of Germanic immigration, new identities and cultures began to emerge, developing into kingdoms that competed for power.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/Atlas_Van_der_Hagen-KW1049B11_004-A_NEW_MAP_OF_THE_KINGDOME_of_ENGLAND%2C_Representing_the_Princedome_of_WALES%2C_and_other_PROVINCES%2C_CITIES%2C_MARKET_TOWNS%2C_with_the_ROADS_from_TOWN_to_TOWN.jpeg/1280px-thumbnail.jpeg",
+      "width": 1280,
+      "height": 1475,
+      "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B11_004-A_NEW_MAP_OF_THE_KINGDOME_of_ENGLAND,_Representing_the_Princedome_of_WALES,_and_other_PROVINCES,_CITIES,_MARKET_TOWNS,_with_the_ROADS_from_TOWN_to_TOWN.jpeg",
+      "artist": "Dirk Jansz van Santen",
+      "license": "Public domain",
+      "caption": ""
+     }
+    },
+    {
+     "text": "A rich artistic culture flourished under the Anglo-Saxons, producing epic poems such as Beowulf and sophisticated metalwork. The Anglo-Saxons converted to Christianity in the 7th century, and a network of monasteries and convents were built across England. In the 8th and 9th centuries, England faced fierce Viking attacks, and the fighting lasted for many decades.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Sutton_Hoo_helmet_2016.png/1280px-Sutton_Hoo_helmet_2016.png",
+      "width": 1280,
+      "height": 1833,
+      "page": "https://commons.wikimedia.org/wiki/File:Sutton_Hoo_helmet_2016.png",
+      "artist": "user:Geni",
+      "license": "Public domain",
+      "caption": "Ceremonial Anglo-Saxon helmet from the Sutton Hoo burial, 7th century"
+     }
+    },
+    {
+     "text": "Eventually, Wessex was established as the most powerful kingdom and promoted the growth of an English identity, culminating in the founding of the Kingdom of England in 927. Although England was ruled by Danes between 1016 and 1042, by the 1060s England was a powerful, centralised state with a strong military and successful economy.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Alfred_-_MS_Royal_14_B_VI.jpg",
+      "width": 1280,
+      "height": 1173,
+      "page": "https://commons.wikimedia.org/wiki/File:Alfred_-_MS_Royal_14_B_VI.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "caption": "King Alfred the Great of Wessex (847-899) - the king  who laid the foundation of the Kingdom of England in the 10th century"
+     }
+    },
+    {
+     "text": "The Norman invasion of England in 1066 led to the defeat and replacement of the Anglo-Saxon elite with Norman and French nobles and their supporters. William the Conqueror and his successors took over the existing state system, repressing local revolts and controlling the population through a network of castles. The new rulers introduced a feudal approach to governing England, eradicating the practice of slavery, but creating a much wider body of unfree labourers called serfs.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Bayeux_Tapestry_scene57_Harold_death.jpg/1280px-Bayeux_Tapestry_scene57_Harold_death.jpg",
+      "width": 1280,
+      "height": 1115,
+      "page": "https://commons.wikimedia.org/wiki/File:Bayeux_Tapestry_scene57_Harold_death.jpg",
+      "artist": "Myrabella",
+      "license": "Public domain",
+      "caption": "Section of the Bayeux Tapestry showing the final stages of the Battle of Hastings"
+     }
+    },
+    {
+     "text": "The position of women in society changed as laws regarding land and lordship shifted. England's population more than doubled during the 12th and 13th centuries, fueling an expansion of the towns, cities, and trade, helped by warmer temperatures across Northern Europe. A new wave of monasteries and friaries was established while ecclesiastical reforms led to tensions between successive kings and archbishops.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Jean_Froissart%2C_Chroniques%2C_154v%2C_12148_btv1b8438605hf336%2C_crop.jpg/1280px-Jean_Froissart%2C_Chroniques%2C_154v%2C_12148_btv1b8438605hf336%2C_crop.jpg",
+      "width": 1280,
+      "height": 1234,
+      "page": "https://commons.wikimedia.org/wiki/File:Jean_Froissart,_Chroniques,_154v,_12148_btv1b8438605hf336,_crop.jpg",
+      "artist": "Jean Froissart",
+      "license": "Public domain",
+      "caption": "Richard II meets the rebels calling for economic and political reform during the Peasants' Revolt of 1381"
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 107
+  },
+  {
+   "id": "7196",
+   "title": "Cairn",
+   "description": "Human-made pile of stones or burial monument",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Cairn",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6d/Sunset_near_Nine_Standards_Rigg.jpg/1280px-Sunset_near_Nine_Standards_Rigg.jpg",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:Sunset_near_Nine_Standards_Rigg.jpg",
+    "artist": "Ebm2002",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "A cairn is a human-made pile (or stack) of stones raised for a purpose, usually as a marker or as a burial mound. The word cairn comes from the Irish: carn [ˈkʰaːrˠn̪ˠ] (plural cairn [ˈkʰaːrˠɲ]). Cairns have been and are used for a broad variety of purposes. In prehistory, they were raised as markers, as memorials and as burial monuments, some of which contained chambers. ",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/63/Carrowkeel_Passage_Tomb_-_geograph.org.uk_-_1929464.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Carrowkeel_Passage_Tomb_-_geograph.org.uk_-_1929464.jpg",
+      "artist": "John M",
+      "license": "CC BY-SA 2.0",
+      "caption": "One of the cairns at Carrowkeel Megalithic Cemetery in Ireland, which covers a passage tomb"
+     }
+    },
+    {
+     "text": "In the modern era, cairns are often raised as landmarks, especially to mark the summits of mountains, and as trail markers. They vary in size from small piles of stones to entire artificial hills, and in complexity from loose conical rock piles to elaborate megalithic structures. Cairns may be painted or otherwise decorated, whether for increased visibility or for religious reasons.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Gavrinis_cairn.jpg/1280px-Gavrinis_cairn.jpg",
+      "width": 1280,
+      "height": 614,
+      "page": "https://commons.wikimedia.org/wiki/File:Gavrinis_cairn.jpg",
+      "artist": "Man vyi",
+      "license": "Public domain",
+      "caption": "A cairn of the Neolithic-era passage tomb on Gavrinis island, Brittany"
      }
     }
    ],
@@ -172,148 +264,436 @@
    "readSeconds": 45
   },
   {
-   "id": "20709",
-   "title": "Mary II",
-   "description": "Queen of England, Scotland, and Ireland from 1689 to 1694",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/Mary_II",
+   "id": "20556836",
+   "title": "Loch Ness",
+   "description": "Lake in Scotland",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Loch_Ness",
    "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Mary_II_-_Kneller_1690.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/LochNessUrquhart.jpg",
     "width": 1280,
-    "height": 2087,
-    "page": "https://commons.wikimedia.org/wiki/File:Mary_II_-_Kneller_1690.jpg",
-    "artist": "Godfrey Kneller",
-    "license": "Public domain"
+    "height": 849,
+    "page": "https://commons.wikimedia.org/wiki/File:LochNessUrquhart.jpg",
+    "artist": "Sam Fentress",
+    "license": "CC BY-SA 2.0"
    },
    "cards": [
     {
-     "text": "Mary II (30 April 1662 – 28 December 1694) was Queen of England, Scotland, and Ireland with her husband, King William III and II, from 1689 until her death in 1694. She was also Princess of Orange following her marriage on 4 November 1677. Her joint reign with William over Britain is known as that of William and Mary.",
+     "text": "Loch Ness (; Scottish Gaelic: Loch Nis [l̪ˠɔx ˈniʃ]) is a large freshwater loch in the Scottish Highlands. It takes its name from the River Ness, which flows from the northern end. Loch Ness is best known for claimed sightings of the cryptozoological Loch Ness Monster, also known affectionately as \"Nessie\" (Scottish Gaelic: Niseag).",
+     "image": null
+    },
+    {
+     "text": "Loch Ness lies along the Great Glen Fault, which forms a line of weakness in the rocks which has been excavated by glacial erosion, forming the Great Glen and the basins of Loch Lochy, Loch Oich and Loch Ness. These lochs form part of the Caledonian Canal, linking the Moray Firth and the North Sea to Loch Linnhe on the west coast.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Mary_Stuart_%281662-1695%29%2C_objectnr_SA_7566.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/Loch_Ness_from_Urquhart_Castle_-_kingsley_-_30-JUN-09.jpg/1280px-Loch_Ness_from_Urquhart_Castle_-_kingsley_-_30-JUN-09.jpg",
       "width": 1280,
-      "height": 1645,
-      "page": "https://commons.wikimedia.org/wiki/File:Mary_Stuart_(1662-1695),_objectnr_SA_7566.jpg",
-      "artist": "Caspar Netscher",
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Loch_Ness_from_Urquhart_Castle_-_kingsley_-_30-JUN-09.jpg",
+      "artist": "Gregory J Kingsley",
       "license": "CC BY-SA 3.0",
-      "caption": "Portrait by Caspar Netscher, 1683"
+      "caption": "Urquhart Bay and Loch Ness viewed from Grant's Tower at Urquhart Castle"
      }
     },
     {
-     "text": "Mary was born during the reign of her uncle King Charles II. She was the eldest daughter of James, Duke of York (the future James II of England), and his first wife, Anne Hyde. Mary and her sister Anne were raised as Anglicans at the behest of Charles II, although their parents both converted to Roman Catholicism. Charles lacked legitimate children, making Mary second in the line of succession.",
+     "text": "The northern end of Loch Ness is around 10 km (6 miles) south-west of Inverness, with Fort Augustus located at the other end. The main A82 road between Inverness and Fort William roughly follows the western shore, passing through the villages of Drumnadrochit and Invermoriston. ",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/1662_Mary_II.jpg/1280px-1662_Mary_II.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Fort_Augustus_locks_2017.jpg/1280px-Fort_Augustus_locks_2017.jpg",
       "width": 1280,
-      "height": 1542,
-      "page": "https://commons.wikimedia.org/wiki/File:1662_Mary_II.jpg",
-      "artist": "Peter Lely",
-      "license": "Public domain",
-      "caption": "Portrait by Peter Lely, 1677"
+      "height": 922,
+      "page": "https://commons.wikimedia.org/wiki/File:Fort_Augustus_locks_2017.jpg",
+      "artist": "aeroid",
+      "license": "CC BY-SA 3.0",
+      "caption": ""
      }
     },
     {
-     "text": "At the age of 15, she married her cousin William of Orange, a Protestant. Charles died in 1685 and James became king, making Mary heir presumptive. James's attempts at rule by decree and the birth of his son from a second marriage, James Francis Edward (later known as \"the Old Pretender\"), led to his deposition in the Glorious Revolution of 1688 and the adoption of the English Bill of Rights.",
+     "text": "Loch Ness is one of the largest in Scotland, and the whole of Great Britain. It has the greatest volume, and is the second-deepest and second-largest by surface area.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/James_II_1633-1701.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Loch_Ness_0406.JPG/1280px-Loch_Ness_0406.JPG",
       "width": 1280,
-      "height": 1547,
-      "page": "https://commons.wikimedia.org/wiki/File:James_II_1633-1701.jpg",
-      "artist": "Nicolas de Largillière",
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Loch_Ness_0406.JPG",
+      "artist": "User:Paste",
       "license": "Public domain",
-      "caption": "Mary's father, James II and VII, was the last Catholic monarch in Britain. Portrait by Nicolas de Largillière, c. 1686."
-     }
-    },
-    {
-     "text": "William and Mary became king and queen regnant. Mary mostly deferred to her husband when he was in England. She did, however, act alone when William was engaged in military campaigns abroad, proving herself to be a powerful, firm, and effective ruler. Mary's early death from smallpox in 1694 at the age of 32 left William as sole ruler until his death in 1702, when he was succeeded by Mary's sister, Anne.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fe/Mary_II_after_William_Wissing.jpg/1280px-Mary_II_after_William_Wissing.jpg",
-      "width": 1280,
-      "height": 1549,
-      "page": "https://commons.wikimedia.org/wiki/File:Mary_II_after_William_Wissing.jpg",
-      "artist": "Jan Verkolje",
-      "license": "Public domain",
-      "caption": "Mary by Jan Verkolje, 1685"
+      "caption": ""
      }
     }
    ],
    "truncated": false,
-   "readSeconds": 90
+   "readSeconds": 66
   },
   {
-   "id": "7351992",
-   "title": "Vindolanda tablets",
-   "description": "Roman writing tablets found in England",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Vindolanda_tablets",
+   "id": "989456",
+   "title": "We The Curious",
+   "description": "Science centre in Bristol, England",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/We_The_Curious",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Roman_writing_tablet_02.jpg/1280px-Roman_writing_tablet_02.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/ExploreAtBristol.JPG/1280px-ExploreAtBristol.JPG",
     "width": 1280,
-    "height": 863,
-    "page": "https://commons.wikimedia.org/wiki/File:Roman_writing_tablet_02.jpg",
-    "artist": "Unknown",
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:ExploreAtBristol.JPG",
+    "artist": "Mark Boyce",
     "license": "CC BY-SA 3.0"
    },
    "cards": [
     {
-     "text": "The Vindolanda tablets are some of the oldest surviving handwritten documents in Britain (antedated by the Bloomberg tablets from Roman London). They are a rich source of information about life on the northern frontier of Roman Britain. Written on fragments of thin, postcard-sized wooden leaf-tablets with carbon-based ink, the tablets date to the 1st and 2nd centuries AD (roughly contemporary with Hadrian's Wall).",
+     "text": "We The Curious (previously At-Bristol or \"@Bristol\") is a science and arts centre and educational charity in Bristol, England. It has over 200 interactive exhibits, is home to the UK’s first 3D Planetarium and hosts over 300,000 visitors a year. ",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7b/Archaeologists_at_Work_in_Vindolanda_-_geograph.org.uk_-_162180.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/WildwalkandIMAX.JPG/1280px-WildwalkandIMAX.JPG",
       "width": 1280,
-      "height": 768,
-      "page": "https://commons.wikimedia.org/wiki/File:Archaeologists_at_Work_in_Vindolanda_-_geograph.org.uk_-_162180.jpg",
-      "artist": "Mick Garratt",
-      "license": "CC BY-SA 2.0",
-      "caption": "Archaeologists at work in Vindolanda, 2006"
-     }
-    },
-    {
-     "text": "Although similar records on papyrus were known from elsewhere in the Roman Empire, wooden tablets with ink text had not been recovered until 1973, when archaeologist Robin Birley, his attention being drawn by student excavator Keith Liddell, discovered some at the site of Vindolanda, a Roman fort in northern England.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7d/Hocgracili.jpg",
-      "width": 1280,
-      "height": 337,
-      "page": "https://commons.wikimedia.org/wiki/File:Hocgracili.jpg",
-      "artist": "Alatius at English Wikipedia",
-      "license": "Public domain",
-      "caption": "Illustration of Old Roman cursive script"
-     }
-    },
-    {
-     "text": "The documents record official military matters as well as personal messages to and from members of the garrison of Vindolanda, their families, and their slaves. Highlights of the tablets include an invitation to a birthday party held in about 100, which is perhaps the oldest surviving document written in Latin by a woman.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/08/Vindolanda_tablet_291.jpg/1280px-Vindolanda_tablet_291.jpg",
-      "width": 1280,
-      "height": 556,
-      "page": "https://commons.wikimedia.org/wiki/File:Vindolanda_tablet_291.jpg",
-      "artist": "Fæ",
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:WildwalkandIMAX.JPG",
+      "artist": "Mark Boyce",
       "license": "CC BY-SA 3.0",
-      "caption": "Invitation from Claudia Severa to Sulpicia Lepidina, ref Tab. Vindol. II 291"
+      "caption": "Wildwalk-At-Bristol and the IMAX Theatre from the outside. The large translucent canopy was the roof of the botanical house"
      }
     },
     {
-     "text": "The excavated tablets are nearly all held at the British Museum, but arrangements have been made for some to be displayed at Vindolanda. As of 2023, more than 1,700 tablets have been discovered.",
+     "text": "Their charitable mission is \"to connect and empower people through sharing creative experiences which celebrate unknowns in science\".  Every year they welcome thousands of visitors to their venue on Bristol harbourside, including schoolchildren, young people, community groups and other local charities and not-for-profits. They also work with local partners and schools to offer out and about activities, work experience programmes and bespoke opportunities for individuals who wouldn't normally feel like science is for them. ",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Vindolanda_tablets_2.jpg/1280px-Vindolanda_tablets_2.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/At_Bristol_01.jpg/1280px-At_Bristol_01.jpg",
       "width": 1280,
-      "height": 951,
-      "page": "https://commons.wikimedia.org/wiki/File:Vindolanda_tablets_2.jpg",
-      "artist": "Photograph by Mike Peel (www.mikepeel.net).",
-      "license": "CC BY-SA 4.0",
-      "caption": "Tablets on display at the British Museum"
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:At_Bristol_01.jpg",
+      "artist": "Immanuel Giel",
+      "license": "Public domain",
+      "caption": "Glass wall of the building"
+     }
+    },
+    {
+     "text": "The centre was closed for over two years following a fire and consequent water damage in 2022, but reopened on 2 July 2024.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Wildwalk.JPG/1280px-Wildwalk.JPG",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Wildwalk.JPG",
+      "artist": "Mark Boyce",
+      "license": "CC BY-SA 3.0",
+      "caption": "The first part of the botanical house in Wildwalk-At-Bristol; Plants on Land"
      }
     }
    ],
    "truncated": false,
-   "readSeconds": 72
+   "readSeconds": 52
   },
   {
-   "id": "4380712",
-   "title": "History of the Jews in Scotland",
-   "description": "",
+   "id": "17877",
+   "title": "Loch Ness Monster",
+   "description": "Mythical creature in Scottish folklore",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Loch_Ness_Monster",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b3/Loch_Ness_Monster_Surgeon%27s_photograph.jpg/1280px-Loch_Ness_Monster_Surgeon%27s_photograph.jpg",
+    "width": 1280,
+    "height": 1134,
+    "page": "https://commons.wikimedia.org/wiki/File:Loch_Ness_Monster_Surgeon%27s_photograph.jpg",
+    "artist": "M. A. Wetherell",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The Loch Ness Monster (Scottish Gaelic: Uilebheist Loch Nis), known affectionately as Nessie, is a mythical creature in Scottish folklore that is said to inhabit Loch Ness in the Scottish Highlands. It is often described as large, long-necked, and with one or more humps protruding from the water. Popular interest and belief in the creature has varied since it was brought to worldwide attention in 1933.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/Arthur_Grant_loch_ness_sketch.png",
+      "width": 1280,
+      "height": 799,
+      "page": "https://commons.wikimedia.org/wiki/File:Arthur_Grant_loch_ness_sketch.png",
+      "artist": "AnonymousUnknown author",
+      "license": "Public domain",
+      "caption": "Sketch of the Arthur Grant sighting"
+     }
+    },
+    {
+     "text": "Evidence of its existence is anecdotal, with a number of disputed photographs and sonar readings. The scientific community explains alleged sightings of the Loch Ness Monster as hoaxes, wishful thinking, the misidentification of known animals, mundane objects, and other recognized natural phenomena. The pseudoscience and subculture of cryptozoology has placed particular emphasis on the creature.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/LochNessUrquhart.jpg",
+      "width": 1280,
+      "height": 849,
+      "page": "https://commons.wikimedia.org/wiki/File:LochNessUrquhart.jpg",
+      "artist": "Sam Fentress",
+      "license": "CC BY-SA 2.0",
+      "caption": "Loch Ness, reported home of the monster"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 44
+  },
+  {
+   "id": "18866",
+   "title": "Macbeth",
+   "description": "Play by William Shakespeare",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Macbeth",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/First-page-first-folio-macbeth.jpg/1280px-First-page-first-folio-macbeth.jpg",
+    "width": 1280,
+    "height": 2077,
+    "page": "https://commons.wikimedia.org/wiki/File:First-page-first-folio-macbeth.jpg",
+    "artist": "PastelKos",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "The Tragedy of Macbeth, often shortened to Macbeth, is a tragedy by William Shakespeare which is estimated to have been first performed in 1606. It dramatises the physically violent and damaging psychological effects of political ambitions and power. It was first published in the Folio of 1623, possibly from a prompt book, and is Shakespeare's shortest tragedy.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Thomas_Keene_in_Macbeth_1884_Wikipedia_crop.png/1280px-Thomas_Keene_in_Macbeth_1884_Wikipedia_crop.png",
+      "width": 1280,
+      "height": 1777,
+      "page": "https://commons.wikimedia.org/wiki/File:Thomas_Keene_in_Macbeth_1884_Wikipedia_crop.png",
+      "artist": "W.J. Morgan & Co. Lith.",
+      "license": "Public domain",
+      "caption": "A poster for a c. 1884 American production of Macbeth, starring Thomas W. Keene. Depicted, counter-clockwise from top-left, are: Macbeth and Banquo meeting the witches, the aftermath of the murder of Duncan, Banquo's ghost, Macbeth dueling Macduff, and Macbeth."
+     }
+    },
+    {
+     "text": "Scholars believe Macbeth, of all the plays that Shakespeare wrote during the reign of King James I, contains the most allusions to James, patron of Shakespeare's acting company. In the play, a brave Scottish general named Macbeth receives a prophecy from a trio of witches that one day he will become King of Scotland. Consumed by his latent ambition and spurred to violence by his wife, Macbeth murders King Duncan and takes the Scottish throne for himself.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/MacbethAndBanquo-Witches.jpg",
+      "width": 1280,
+      "height": 955,
+      "page": "https://commons.wikimedia.org/wiki/File:MacbethAndBanquo-Witches.jpg",
+      "artist": "Théodore Chassériau",
+      "license": "Public domain",
+      "caption": "Macbeth and Banquo encounter the witches for the first time."
+     }
+    },
+    {
+     "text": "Then, racked with guilt and paranoia, he commits further murders to protect himself from enmity and suspicion, becoming a tyrannical ruler in the process. The violence perpetrated by the power-hungry couple leads to their insanity and finally to their deaths.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Macbeth_consulting_the_Vision_of_the_Armed_Head.jpg",
+      "width": 1280,
+      "height": 1588,
+      "page": "https://commons.wikimedia.org/wiki/File:Macbeth_consulting_the_Vision_of_the_Armed_Head.jpg",
+      "artist": "Henry Fuseli",
+      "license": "Public domain",
+      "caption": "Macbeth consulting the Vision of the Armed Head by Johann Heinrich Füssli"
+     }
+    },
+    {
+     "text": "Shakespeare's source for the story is the account of Macbeth, King of Scotland, Macduff, and Duncan in Holinshed's Chronicles (1587), a history of England, Scotland, and Ireland familiar to Shakespeare and his contemporaries, although the events in the play differ extensively from the history of the real Macbeth.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c4/Johann_Heinrich_F%C3%BCssli_-_Lady_Macbeth.jpg",
+      "width": 1280,
+      "height": 1670,
+      "page": "https://commons.wikimedia.org/wiki/File:Johann_Heinrich_F%C3%BCssli_-_Lady_Macbeth.jpg",
+      "artist": "Henry Fuseli",
+      "license": "Public domain",
+      "caption": "Lady Macbeth Sleepwalking by Henry Fuseli, 1784"
+     }
+    },
+    {
+     "text": "There was a stage superstition that the name of the play should not be spoken, and that it should instead be called \"The Scottish Play\". The play has attracted some of the most renowned actors to the roles of Macbeth and Lady Macbeth and has been adapted to film, television, opera, novels, comics, and other media.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bd/1577_printing_of_Holinshed%27s_Chronicles.jpg",
+      "width": 1280,
+      "height": 2002,
+      "page": "https://commons.wikimedia.org/wiki/File:1577_printing_of_Holinshed%27s_Chronicles.jpg",
+      "artist": "Raphael Holinshed",
+      "license": "CC BY-SA 4.0",
+      "caption": "The first edition of Raphael Holinshed's Chronicles of England, Scotlande, and Irelande, printed in 1577"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 97
+  },
+  {
+   "id": "386598",
+   "title": "London Stone",
+   "description": "Historic landmark in the City of London",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/London_Stone",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/The_London_Stone.jpg/1280px-The_London_Stone.jpg",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:The_London_Stone.jpg",
+    "artist": "Lord Belbury",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "London Stone is a historic landmark housed at 111 Cannon Street in the City of London. It is an irregular block of oolitic limestone measuring 53 × 43 × 30 cm (21 × 17 × 12\"), the remnant of a once much larger object that had stood for many centuries on the south side of the street. It is designated a Grade II* listed structure.",
+     "image": null
+    },
+    {
+     "text": "The name \"London Stone\" was first recorded around the year 1100. The date and original purpose of the stone are unknown, although it is possibly of Roman origin. There has been interest and speculation about it since the medieval period, but modern claims that it was formerly an object of veneration, or has some occult significance, are unsubstantiated.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/London_Stone_2020_%282%29.jpg/1280px-London_Stone_2020_%282%29.jpg",
+      "width": 1280,
+      "height": 1411,
+      "page": "https://commons.wikimedia.org/wiki/File:London_Stone_2020_(2).jpg",
+      "artist": "GrindtXX",
+      "license": "CC BY-SA 4.0",
+      "caption": "London Stone in its 2018 casing"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 40
+  },
+  {
+   "id": "14968674",
+   "title": "English ship Gloucester (1654)",
+   "description": "British frigate wrecked in 1682",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/English_ship_Gloucester_(1654)",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/The_Wreck_of_the_%27Gloucester%27_off_Yarmouth%2C_6_May_1682_RMG_BHC3369.tiff/lossy-page1-1280px-The_Wreck_of_the_%27Gloucester%27_off_Yarmouth%2C_6_May_1682_RMG_BHC3369.tiff.jpg",
+    "width": 1280,
+    "height": 804,
+    "page": "https://commons.wikimedia.org/wiki/File:The_Wreck_of_the_%27Gloucester%27_off_Yarmouth,_6_May_1682_RMG_BHC3369.tiff",
+    "artist": "Johan Danckerts",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The English frigate Gloucester (spelt Glocester by contemporary sources) was a Speaker-class third rate, built for the Navy of the Commonwealth of England. The ship was ordered in December 1652 as part of the unprecedented expansion of the English navy during this period, during which 207 warships, mainly described as frigates, were built.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Portrait_of_an_English_third-rate%2C_about_60_guns.jpg",
+      "width": 1280,
+      "height": 963,
+      "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_an_English_third-rate,_about_60_guns.jpg",
+      "artist": "w:Willem van de Velde the Younger",
+      "license": "Public domain",
+      "caption": "Willem van de Velde's drawing of a third rate, possibly of HMS Gloucester (c.1673), Royal Museums Greenwich"
+     }
+    },
+    {
+     "text": "She was named to commemorate the Parliamentary forces' successful defence of the English city of Gloucester during the 1643 siege by Royalist forces, rather than directly after the city itself. She was built by contract with shipwright Matthew Graves at Limehouse in East London, and launched in 1654.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Novissima_et_Acccuratissima_Jamaicae_Descriptio_per_Johannem_Ogiluium_Cosmographum_Regnum_1671.png",
+      "width": 1280,
+      "height": 678,
+      "page": "https://commons.wikimedia.org/wiki/File:Novissima_et_Acccuratissima_Jamaicae_Descriptio_per_Johannem_Ogiluium_Cosmographum_Regnum_1671.png",
+      "artist": "w:John Ogilby",
+      "license": "CC BY-SA 4.0",
+      "caption": "The first English map of Jamaica, made by John Ogilby in 1671. Gloucester was one of the warships in the invasion fleet of the island in 1655."
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 38
+  },
+  {
+   "id": "271551",
+   "title": "Angeln",
+   "description": "Peninsula on the Baltic coast of Jutland",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Angeln",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/AngelnAngel.png",
+    "width": 1280,
+    "height": 1280,
+    "page": "https://commons.wikimedia.org/wiki/File:AngelnAngel.png",
+    "artist": "MarGrete2",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "Angeln is a peninsula on the eastern coast of Jutland, in the Bay of Kiel. It forms part of Southern Schleswig, the northernmost region of Germany. The peninsula is bounded on the north by the Flensburg Firth, which separates it from Sundeved and the island of Als in Denmark, and on the south by the Schlei, which separates it from Schwansen.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/Uebersicht-SL.png",
+      "width": 1280,
+      "height": 1369,
+      "page": "https://commons.wikimedia.org/wiki/File:Uebersicht-SL.png",
+      "artist": "Unknown",
+      "license": "CC BY-SA 3.0",
+      "caption": "District of Schleswig-Flensburg"
+     }
+    },
+    {
+     "text": "The landscape is hilly, dotted with numerous lakes. The largest towns are Flensburg, Schleswig and Kappeln. Angeln is notable for being the putative home of the Angles, a Germanic tribe that migrated to Great Britain during the Age of Migrations and founded the kingdoms of Mercia, Northumbria and East Anglia. The Angles would ultimately give their name to England.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Schleswig-Holstein.png",
+      "width": 1280,
+      "height": 1291,
+      "page": "https://commons.wikimedia.org/wiki/File:Schleswig-Holstein.png",
+      "artist": "Ulamm 19:02, 5 February 2008 (UTC)",
+      "license": "CC BY-SA 3.0",
+      "caption": "Physical map of Schleswig-Holstein, Angeln in the northeast"
+     }
+    },
+    {
+     "text": "Glücksburg Castle in Glücksburg and Gottorf Castle in Schleswig were the original seats of two historically important dynasties, the House of Glücksburg and the House of Holstein-Gottorp.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/S%C3%BCdensee_von_S%C3%BCden.JPG/1280px-S%C3%BCdensee_von_S%C3%BCden.JPG",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:S%C3%BCdensee_von_S%C3%BCden.JPG",
+      "artist": "Wusel007",
+      "license": "CC BY-SA 3.0",
+      "caption": ""
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 54
+  },
+  {
+   "id": "79504",
+   "title": "Bard",
+   "description": "Poet and singer in Celtic societies",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Bard",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Benjamin_West_-_The_Bard_-_Google_Art_Project.jpg/1280px-Benjamin_West_-_The_Bard_-_Google_Art_Project.jpg",
+    "width": 1280,
+    "height": 1818,
+    "page": "https://commons.wikimedia.org/wiki/File:Benjamin_West_-_The_Bard_-_Google_Art_Project.jpg",
+    "artist": "Benjamin West",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "A bard was a poet and singer who composed and performed verse in the service of a patron, a calling attested among the ancient Celts and continued in the medieval Celtic-speaking world. The ancient bard is known from Greek and Roman authors writing about Gaul between the 1st century BC and the 4th century AD, who count the bards, with the druids and the vates, among the learned orders of Gaulish society.",
+     "image": null
+    },
+    {
+     "text": "They describe them singing the praises of chieftains, and the satire of their rivals, to an instrument resembling the lyre. The name goes back to the Proto-Celtic noun *bardos (transl. praise-maker), the source of Old Irish bard, Welsh bardd, and the related forms in the other Celtic languages.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/The_Bard.jpg/1280px-The_Bard.jpg",
+      "width": 1280,
+      "height": 1607,
+      "page": "https://commons.wikimedia.org/wiki/File:The_Bard.jpg",
+      "artist": "John Martin",
+      "license": "Public domain",
+      "caption": "The Bard (c. 1817), by John Martin"
+     }
+    },
+    {
+     "text": "The word and the calling survived in medieval Ireland, Wales, Scotland and Brittany, where praise and satire of rulers remained central to the poet's office. The word bard had also been extended, inaccurately, to the poets and singers of the Germanic world, and it now serves loosely for poets in general, most familiarly as \"the Bard\" for William Shakespeare.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Ossian._Den_gamle_blinde_skotske_barde_synger_til_harpen_sin_svanesang.jpg/1280px-Ossian._Den_gamle_blinde_skotske_barde_synger_til_harpen_sin_svanesang.jpg",
+      "width": 1280,
+      "height": 1506,
+      "page": "https://commons.wikimedia.org/wiki/File:Ossian._Den_gamle_blinde_skotske_barde_synger_til_harpen_sin_svanesang.jpg",
+      "artist": "Nicolai Abildgaard",
+      "license": "Public domain",
+      "caption": "Ossian Singing, Nicolai Abildgaard, 1787"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 59
+  },
+  {
+   "id": "43473",
+   "title": "Wars of Scottish Independence",
+   "description": "War of national liberation between Scotland and England",
    "topic": "scotland",
    "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/History_of_the_Jews_in_Scotland",
+   "url": "https://en.wikipedia.org/wiki/Wars_of_Scottish_Independence",
    "cover": {
     "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg/1280px-Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg",
     "width": 1280,
@@ -324,908 +704,372 @@
    },
    "cards": [
     {
-     "text": "The history of the Jews in Scotland goes back to at least the 17th century. It is not known when Jews first arrived in Scotland, with the earliest concrete historical references to a Jewish presence in Scotland being from the late 17th century. Most Scottish Jews today are of Ashkenazi background who mainly settled in Edinburgh, then in Glasgow in the mid-19th century.",
+     "text": "The Scottish wars (1296–1357) were two extended military conflicts in which the Kingdom of England attempted to establish full control over the Kingdom of Scotland. In spite of significant temporary successes, the English efforts in both wars ultimately failed due to Scottish resistance and Scotland remained an independent country. The wars were part of a great crisis for Scotland, and the period became one of the most defining times in its history.",
+     "image": null
+    },
+    {
+     "text": "The First War (1296–1328) began with the English invasion of Scotland and ended with the signing of the Treaty of Edinburgh–Northampton. The Second War (1332–1357) began with the English-supported invasion by Edward Balliol and the \"Disinherited\" and ended with the signing of the Treaty of Berwick.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Garnethill_synagogue.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/War_of_Independence_figures_by_Wm_Hole.JPG/1280px-War_of_Independence_figures_by_Wm_Hole.JPG",
       "width": 1280,
-      "height": 1707,
-      "page": "https://commons.wikimedia.org/wiki/File:Garnethill_synagogue.jpg",
-      "artist": "RonAlmog, (Flickr page)",
-      "license": "CC BY 2.5",
-      "caption": "Garnethill Synagogue in Glasgow"
+      "height": 1202,
+      "page": "https://commons.wikimedia.org/wiki/File:War_of_Independence_figures_by_Wm_Hole.JPG",
+      "artist": "William Hole",
+      "license": "CC BY-SA 3.0",
+      "caption": "Notable figures from the first War of Independence as depicted by the Victorian artist William Hole"
      }
     },
     {
-     "text": "In 2013 the Edinburgh Jewish Studies Network curated an online exhibition based on archival holdings and maps in the National Library of Scotland exploring the influence of the community on the city. According to the 2011 census, 5,887 Jews lived in Scotland; a decline of 8.7% from the 2001 census. The total population of Scotland at the time was 5,313,600, making Scottish Jews 0.1% of the population.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Old_Jewish_Burial_Ground%2C_Sciennes.jpg/1280px-Old_Jewish_Burial_Ground%2C_Sciennes.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Old_Jewish_Burial_Ground,_Sciennes.jpg",
-      "artist": "Kim Traynor",
-      "license": "CC BY-SA 3.0",
-      "caption": "The old Jewish burial ground in Edinburgh dates from 1813"
-     }
+     "text": "Notable figures during the Wars of Scottish Independence included several of the Kings of Scotland such as Alexander III of Scotland, John Balliol, Robert the Bruce and David II of Scotland, with other prominent figures such as William Wallace who served as Guardian of Scotland from 1297–1298. Key figures on the English side include monarchs Edward I, Edward II and Edward III, as well as the contested King of Scotland, Edward Balliol.",
+     "image": null
+    },
+    {
+     "text": "The wars were important for other reasons, such as the emergence of the longbow as a key weapon in medieval warfare.",
+     "image": null
     }
    ],
    "truncated": false,
-   "readSeconds": 46
+   "readSeconds": 63
   },
   {
-   "id": "5438769",
-   "title": "Bristol Bridge",
-   "description": "Historic bridge in United Kingdom",
+   "id": "8520738",
+   "title": "Queen Square, Bristol",
+   "description": "Public square in Bristol, England",
    "topic": "bristol",
    "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Bristol_Bridge",
+   "url": "https://en.wikipedia.org/wiki/Queen_Square,_Bristol",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Bristol_Bridge_%28April_2011%29.jpg/1280px-Bristol_Bridge_%28April_2011%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ac/Queen_Square%2C_Bristol_%28April_2011%29.jpg/1280px-Queen_Square%2C_Bristol_%28April_2011%29.jpg",
     "width": 1280,
     "height": 855,
-    "page": "https://commons.wikimedia.org/wiki/File:Bristol_Bridge_(April_2011).jpg",
+    "page": "https://commons.wikimedia.org/wiki/File:Queen_Square,_Bristol_(April_2011).jpg",
     "artist": "NotFromUtrecht",
     "license": "CC BY-SA 3.0"
    },
    "cards": [
     {
-     "text": "Bristol Bridge is a bridge over the floating harbour in Bristol, England. The floating harbour was constructed on the original course of the River Avon, and there has been a bridge on the site since long before the harbour was created by impounding the river in 1809. The current bridge was completed in 1768 and is a Grade II listed building.",
+     "text": "Queen Square is a 2.4 hectares (5.9 acres) Georgian square in the centre of Bristol, England. Following the 1831 riot, Queen Square declined through the latter part of the 19th century, was threatened with a main line railway station, but then bisected by a dual carriageway in the 1930s. By 1991, 20,000 vehicles including scheduled buses were crossing the square every day, and over 30% of the buildings around it were vacant.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Bristol_bridge.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Millerd_map_1728_Queens_Square.jpg/1280px-Millerd_map_1728_Queens_Square.jpg",
       "width": 1280,
-      "height": 939,
-      "page": "https://commons.wikimedia.org/wiki/File:Bristol_bridge.jpg",
-      "artist": "Ronin2002",
-      "license": "CC BY-SA 4.0",
-      "caption": "Bristol Bridge from Castle Park"
-     }
-    },
-    {
-     "text": "Bristol Bridge is the furthest downstream of the fixed bridges across the harbour, and marks the limit of navigation for any vessel that is unable to pass beneath its arches. Downstream from the bridge the harbour is lined by wharves and warehouses, with Welsh Back to the west and Redcliffe Back to the east.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/Millerd1728dbridge.jpg/1280px-Millerd1728dbridge.jpg",
-      "width": 1280,
-      "height": 2431,
-      "page": "https://commons.wikimedia.org/wiki/File:Millerd1728dbridge.jpg",
+      "height": 1075,
+      "page": "https://commons.wikimedia.org/wiki/File:Millerd_map_1728_Queens_Square.jpg",
       "artist": "James Millerd and unknown later editors.",
       "license": "Public domain",
-      "caption": "Original caption: 'Bristoll Bridg over Avon flu'"
+      "caption": "Millerd map 1728 The Queens Square"
      }
     },
     {
-     "text": "Upstream, the land to the west is occupied by Castle Park, created on an area destroyed by bombing during the Second World War, whilst the opposite bank is occupied by the former Georges Bristol Brewery, now redeveloped as Finzels Reach. Since 2020, the bridge has been closed to private motor cars and goods vehicles under 7.5 tonnes.",
+     "text": "In 1999, a successful bid for National Lottery funding allowed Queen Square to be restored to its approximate 1817 layout. The buses were diverted, the dual carriageway was removed, forecourts and railings were restored, and Queen Square re-emerged as a magnificent public space surrounded by high quality commercial accommodation.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Bristol_Bridge_traffic_1908.jpg/1280px-Bristol_Bridge_traffic_1908.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Charge_of_the_3rd_Dragoon_Guards_in_Queen_Square%2C_Bristol%2C_Monday_31st_October_1831.jpg",
       "width": 1280,
-      "height": 949,
-      "page": "https://commons.wikimedia.org/wiki/File:Bristol_Bridge_traffic_1908.jpg",
-      "artist": "Samuel Loxton (artist)",
+      "height": 937,
+      "page": "https://commons.wikimedia.org/wiki/File:Charge_of_the_3rd_Dragoon_Guards_in_Queen_Square,_Bristol,_Monday_31st_October_1831.jpg",
+      "artist": "William James Müller and Thomas Leeson Rowbotham",
       "license": "Public domain",
-      "caption": "Traffic on Bristol Bridge, 1908"
+      "caption": "The 3rd Dragoon Guards charging at rioters in the square on 31 October 1831"
      }
     }
    ],
    "truncated": false,
-   "readSeconds": 61
+   "readSeconds": 44
   },
   {
-   "id": "3766171",
-   "title": "Norse–Gaels",
-   "description": "People of mixed Gaelic and Norse heritage",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Norse%E2%80%93Gaels",
+   "id": "384253",
+   "title": "Lindworm",
+   "description": "Dragon or serpent monster in Nordic mythology",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Lindworm",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Kingdom_of_Mann_and_the_Isles-en.svg/1280px-Kingdom_of_Mann_and_the_Isles-en.svg.png",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/John_Bauer%2C_1911_%28cropped%2C_no_signature%29.jpg/1280px-John_Bauer%2C_1911_%28cropped%2C_no_signature%29.jpg",
     "width": 1280,
-    "height": 1344,
-    "page": "https://commons.wikimedia.org/wiki/File:Kingdom_of_Mann_and_the_Isles-en.svg",
-    "artist": "Sémhur",
-    "license": "CC BY-SA 3.0"
+    "height": 1792,
+    "page": "https://commons.wikimedia.org/wiki/File:John_Bauer,_1911_(cropped,_no_signature).jpg",
+    "artist": "John Bauer",
+    "license": "Public domain"
    },
    "cards": [
     {
-     "text": "The Norse–Gaels (Old Irish: Gall-Goídil; Irish: Gall-Ghaeil; Scottish Gaelic: Gall-Gàidheal; Manx: Goal-Gael, 'foreigner-Gaels') were a people of mixed Gaelic and Norse ancestry and culture. They emerged in the Viking Age, when Vikings who settled in Ireland and in Scotland became Gaelicised and intermarried with Gaels. The Norse–Gaels dominated much of the Irish Sea and Scottish Sea regions from the 9th to 12th centuries.",
-     "image": null
-    },
-    {
-     "text": "They founded the Kingdom of the Isles (which included the Hebrides and the Isle of Man), the Kingdom of Dublin, the Lordship of Galloway (which is named after them), and briefly ruled the Kingdom of York (939–944 AD). The most powerful Norse–Gaelic dynasty were the Uí Ímair or Ivar dynasty.",
+     "text": "The lindworm (worm meaning snake), also spelled lindwyrm or lindwurm, is a mythical creature in Northern, Western and Central European folklore that traditionally has the shape of a giant serpent monster which lives deep in the forest. It can be seen as a sort of dragon.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/dc/Skuldelev_II.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Niels_Skovgaard%2C_Kong_Lindorm%2C_1910%2C_KKS9518%2C_Statens_Museum_for_Kunst_%28cropped%29.jpg",
       "width": 1280,
-      "height": 1024,
-      "page": "https://commons.wikimedia.org/wiki/File:Skuldelev_II.jpg",
-      "artist": "Casiopeia",
-      "license": "CC BY-SA 2.0 de",
-      "caption": "Skuldelev II, a Viking warship built in the Norse–Gaelic community of Dublin (c. 1042)"
-     }
-    },
-    {
-     "text": "Over time, the Norse–Gaels became ever more Gaelicised and disappeared as a distinct group. However, they left a lasting influence, especially in the Isle of Man and Outer Hebrides, where most placenames are of Norse–Gaelic origin. Several Scottish clans have Norse–Gaelic roots, such as Clan MacQueen, Clan MacDonald, Clan MacDougall and Clan MacLeod. The elite mercenary warriors known as the gallowglass (gallóglaigh) emerged from these Norse–Gaelic clans and became an important part of Irish warfare.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/26/MacDonald_of_the_Isles_%28MacIan%29.jpg",
-      "width": 1280,
-      "height": 1925,
-      "page": "https://commons.wikimedia.org/wiki/File:MacDonald_of_the_Isles_(MacIan).jpg",
-      "artist": "Robert Ronald MacIan /",
+      "height": 1779,
+      "page": "https://commons.wikimedia.org/wiki/File:Niels_Skovgaard,_Kong_Lindorm,_1910,_KKS9518,_Statens_Museum_for_Kunst_(cropped).jpg",
+      "artist": "Niels Skovgaard",
       "license": "Public domain",
-      "caption": "R. R. McIan's impression of a Norse–Gaelic ruler of Clan MacDonald, Lord of the Isles"
+      "caption": "King Lindworm according to Danish painter Niels Skovgaard (1910)"
      }
     },
     {
-     "text": "The Viking longship also influenced the Gaelic birlinn and longa fada, which were used extensively until the 17th century. Norse–Gaelic surnames survive today and include MacIvor, MacAskill, and [Mac]Cotter.",
-     "image": null
+     "text": "In Central Europe and beyond, it is often depicted as a serpent with forelimbs, often also with wings and sometimes even hindlimbs, but in some traditions, especially Swedish folklore, it is foremost limbless; however, the various traits are generally just considered variation within the \"species\", and a lindworm is not defined by limbs or lack thereof. A broad definition is any western dragon with heavy serpentine features.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e9/Urnes_stavkirke_-_an10071204164102.jpg/1280px-Urnes_stavkirke_-_an10071204164102.jpg",
+      "width": 1280,
+      "height": 590,
+      "page": "https://commons.wikimedia.org/wiki/File:Urnes_stavkirke_-_an10071204164102.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "caption": "In comparison to Sweden, which largely kept the serpentine origin of the lindworm, Early Medieval carvings of Lindworms at Urnes Stave Church in Norway show winged bipedal chimera designs more in line with Central European lindworms and conventional dragons."
+     }
+    },
+    {
+     "text": "According to legend, everything that lies under a lindworm will increase as the lindworm grows. This belief gave rise to tales of dragons that brood over treasures to become richer. Legend tells of two kinds of lindworm: a good one, associated with luck, often a cursed prince who has been transformed into the beast (compare to \"The Frog Prince\" and \"Beauty and the Beast\" stories), and a bad one, a dangerous man-eater that will attack humans on sight.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Gerhard_Munthe_%281849-1929%29_Norske_folkeviser_1943_37_Lindarormen_Dreyers_Forlag_Oslo_%28Norwegian_folk_songs_medieval_ballads%29_Nasjonalbiblioteket_no-nb_digibok_2007042604026_PDM_%28cropped%29.jpg/1280px-thumbnail.jpg",
+      "width": 1280,
+      "height": 533,
+      "page": "https://commons.wikimedia.org/wiki/File:Gerhard_Munthe_(1849-1929)_Norske_folkeviser_1943_37_Lindarormen_Dreyers_Forlag_Oslo_(Norwegian_folk_songs_medieval_ballads)_Nasjonalbiblioteket_no-nb_digibok_2007042604026_PDM_(cropped).jpg",
+      "artist": "Gerhard Munthe",
+      "license": "Public domain",
+      "caption": ""
+     }
+    },
+    {
+     "text": "A lindworm may swallow its own tail, turning itself into a rolling wheel, to pursue fleeing humans (compare ouroboros and hoop snake). The head of the 16th-century lindworm statue at Lindwurm Fountain (Lindwurmbrunnen) in Klagenfurt, Austria, is speculated to have been modeled on the skull of a woolly rhinoceros found in a nearby quarry in 1335. It has been cited as the earliest reconstruction of an extinct animal.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Gerhard_Munthe_%281849-1929%29_Norske_folkeviser_1943_40_Lindarormen_Dreyers_Forlag_Oslo_%28Norwegian_folk_songs_medieval_ballads%29_Nasjonalbiblioteket_no-nb_digibok_2007042604026_PDM_%28cropped%29.jpg/1280px-thumbnail.jpg",
+      "width": 1280,
+      "height": 561,
+      "page": "https://commons.wikimedia.org/wiki/File:Gerhard_Munthe_(1849-1929)_Norske_folkeviser_1943_40_Lindarormen_Dreyers_Forlag_Oslo_(Norwegian_folk_songs_medieval_ballads)_Nasjonalbiblioteket_no-nb_digibok_2007042604026_PDM_(cropped).jpg",
+      "artist": "Gerhard Munthe",
+      "license": "Public domain",
+      "caption": ""
+     }
     }
    ],
    "truncated": false,
-   "readSeconds": 69
+   "readSeconds": 88
   },
   {
-   "id": "38008268",
-   "title": "Conquest of Wales by Edward I",
-   "description": "English military campaigns, 1277–1283",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Conquest_of_Wales_by_Edward_I",
+   "id": "941482",
+   "title": "Sigurd the Crusader",
+   "description": "King of Norway from 1103 to 1130",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Sigurd_the_Crusader",
    "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Edward_I_-_Westminster_Abbey_Sedilia.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b1/Sigurd_the_Crusader.jpg",
     "width": 1280,
-    "height": 1706,
-    "page": "https://commons.wikimedia.org/wiki/File:Edward_I_-_Westminster_Abbey_Sedilia.jpg",
+    "height": 929,
+    "page": "https://commons.wikimedia.org/wiki/File:Sigurd_the_Crusader.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC0"
+   },
+   "cards": [
+    {
+     "text": "Sigurd the Crusader (Old Norse: Sigurðr Jórsalafari; Norwegian: Sigurd Jorsalfare; 1089 – 26 March 1130), also known as Sigurd Magnusson and Sigurd I, was King of Norway from 1103 to 1130. His rule, together with his half-brothers King Øystein (until Øystein died in 1123) and King Olaf, has been regarded by historians as a golden age for the medieval Kingdom of Norway.",
+     "image": null
+    },
+    {
+     "text": "He is known as the Crusader King, being the one of three co-regents that took part in the Norwegian Crusade (1107–1110), earning him the eponym \"the Crusader\". He is regarded to be the first King to take part in a crusade.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/SigurdNorwegianCrusade1107-1111OldNorse.png",
+      "width": 1280,
+      "height": 912,
+      "page": "https://commons.wikimedia.org/wiki/File:SigurdNorwegianCrusade1107-1111OldNorse.png",
+      "artist": "Gabagool",
+      "license": "CC BY 3.0",
+      "caption": "Route of the Norwegian Crusade taken by Sigurd the Crusader. Red: Sea, Green: Land."
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 35
+  },
+  {
+   "id": "383722",
+   "title": "Cheapside",
+   "description": "Street in the City of London",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Cheapside",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Cheapside_1909.jpg/1280px-Cheapside_1909.jpg",
+    "width": 1280,
+    "height": 1633,
+    "page": "https://commons.wikimedia.org/wiki/File:Cheapside_1909.jpg",
     "artist": "Unknown authorUnknown author",
     "license": "Public domain"
    },
    "cards": [
     {
-     "text": "The conquest of Wales by Edward I took place between 1277 and 1283. It is also known as the Edwardian conquest of Wales, to distinguish it from the earlier parial Norman invasion of Wales. In two campaigns, in 1277 and 1282–83, respectively, Edward I of England first greatly reduced the territory of Llywelyn ap Gruffudd (\"Llywelyn the Last\"), and then completely overran it, as well as the other remaining Welsh principalities.",
+     "text": "Cheapside is a street in the City of London, the historic and modern financial centre of London, England, which forms part of the A40 London to Fishguard road. It links St Martin's Le Grand with Poultry. Near its eastern end at Bank Junction, where it becomes Poultry, is Mansion House, the Bank of England, and Bank station. To the west is St Paul's Cathedral, St Paul's tube station and square.",
      "image": null
     },
     {
-     "text": "By the 13th century, Wales was divided between native Welsh principalities and the territories of the Anglo-Norman Marcher lords. The leading principality was Gwynedd, whose princes had gained control of the greater part of the country, making the other remaining Welsh princes their vassals, and had taken the title Prince of Wales.",
+     "text": "In the Middle Ages, it was known as Westcheap, as opposed to Eastcheap, another street in the City, near London Bridge. The boundaries of the wards of Cheap, Cordwainer and Bread Street run along Cheapside and Poultry; prior to boundary changes in 2003 the road was divided amongst Farringdon Within and Cripplegate wards in addition to the current three.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Llywelyn5.jpg/1280px-Llywelyn5.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/14/Cheapside.jpg",
       "width": 1280,
-      "height": 1920,
-      "page": "https://commons.wikimedia.org/wiki/File:Llywelyn5.jpg",
-      "artist": "No machine-readable author provided. Rhion assumed (based on copyright claims).",
-      "license": "Public domain",
-      "caption": "The Llywelyn Monument at Cilmeri which marks the site of the Battle of Orewin Bridge"
-     }
-    },
-    {
-     "text": "Although kings of England had made several attempts to seize control of the native Welsh territories, it was not until Edward's war of conquest against Llywelyn, the last independent prince of Wales, that this was achieved on a lasting basis.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/North_Wales_Caernarfon_Castle.jpg",
-      "width": 1280,
-      "height": 838,
-      "page": "https://commons.wikimedia.org/wiki/File:North_Wales_Caernarfon_Castle.jpg",
-      "artist": "Manfred Heyde",
-      "license": "CC BY-SA 3.0",
-      "caption": "Caernarfon Castle, the \"capital\" of English rule in North Wales for two centuries after the conquest[38]"
-     }
-    },
-    {
-     "text": "Most of the conquered territory was retained as a royal fief, and these lands later became, by custom, the territorial endowment of the heir to the English throne with the title Prince of Wales. The remainder would be granted to Edward's supporters as new Marcher lordships. Welsh supporters of the English king, such as ap Gwenwynwy, were also rewarded with their own land, albeit under feudal tenure.",
-     "image": null
-    },
-    {
-     "text": "Royal land was organised under the Statute of Rhuddlan, divided into six shire counties, and incorporated into the new Principality of Wales. Although the territories would not be effectively incorporated into the Kingdom of England until the Laws in Wales Acts 1535–1542, Edward's conquest marked the end of Welsh independence.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 85
-  },
-  {
-   "id": "380823",
-   "title": "City of London Police",
-   "description": "English territorial police force",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/City_of_London_Police",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/City_of_London_in_Greater_London.svg/1280px-City_of_London_in_Greater_London.svg.png",
-    "width": 1280,
-    "height": 1024,
-    "page": "https://commons.wikimedia.org/wiki/File:City_of_London_in_Greater_London.svg",
-    "artist": "TUBS",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "The City of London Police is the territorial police force responsible for law enforcement within the City of London, England, including the Middle and Inner Temples. It covers an area of approximately one square mile. The force is a separate organisation from the much larger Metropolitan Police, which is responsible for law enforcement within the remainder of the London region.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/London_1908_CityofLondonPolice.jpg",
-      "width": 1280,
-      "height": 928,
-      "page": "https://commons.wikimedia.org/wiki/File:London_1908_CityofLondonPolice.jpg",
+      "height": 1752,
+      "page": "https://commons.wikimedia.org/wiki/File:Cheapside.jpg",
       "artist": "Unknown",
       "license": "Public domain",
       "caption": ""
      }
     },
     {
-     "text": "As the historic core of London, the City has an administrative history distinct from that of the rest of the metropolis leading to a separate police force. As of 2021, the force had a workforce of 1,355 including 861 full-time police officers and 494 support staff. The force is also supported by much smaller numbers of special constables, police community support officers, and designated officers.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Sergeants_Tucker_and_Bentley_and_PC_Choate.jpg/1280px-Sergeants_Tucker_and_Bentley_and_PC_Choate.jpg",
-      "width": 1280,
-      "height": 608,
-      "page": "https://commons.wikimedia.org/wiki/File:Sergeants_Tucker_and_Bentley_and_PC_Choate.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The headquarters is temporarily located at the Guildhall (which also housed it from 1832 to 1840) and there is an additional station at Bishopsgate, with former stations including Moor Lane (destroyed in the Blitz on 29 December 1940), Cloak Lane (closed 1965), and Wood Street (closed 2020).",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Assistant_Commissioner_City_London_Police.jpg/1280px-Assistant_Commissioner_City_London_Police.jpg",
-      "width": 1280,
-      "height": 853,
-      "page": "https://commons.wikimedia.org/wiki/File:Assistant_Commissioner_City_London_Police.jpg",
-      "artist": "S. Pakhrin",
-      "license": "CC BY 2.0",
-      "caption": "Assistant Commissioner in ceremonial full-dress uniform for the Lord Mayor's Show."
-     }
-    },
-    {
-     "text": "The City of London Police is the smallest territorial police force in England and Wales, both in terms of geographic area and head-count. The current commissioner (equivalent to the chief constable in non-London forces), is Peter O'Doherty, who was appointed in a temporary capacity in October 2023 and a permanent one in 2024.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/City_of_London_Police_Toyota_Corolla_hybrid_response_vehicles.jpg/1280px-City_of_London_Police_Toyota_Corolla_hybrid_response_vehicles.jpg",
-      "width": 1280,
-      "height": 395,
-      "page": "https://commons.wikimedia.org/wiki/File:City_of_London_Police_Toyota_Corolla_hybrid_response_vehicles.jpg",
-      "artist": "Oleg Yunakov",
-      "license": "CC BY-SA 4.0",
-      "caption": ""
-     }
-    },
-    {
-     "text": "As of 2026, it is also the national lead police force for fraud, having responsibility for the Report Fraud service operated by the National Fraud Intelligence Bureau.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Ford_Transit_Connect_240_Forensic_Science_Unit_City_of_London_Police_Pudding_Lane_London_England.jpg/1280px-Ford_Transit_Connect_240_Forensic_Science_Unit_City_of_London_Police_Pudding_Lane_London_England.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Ford_Transit_Connect_240_Forensic_Science_Unit_City_of_London_Police_Pudding_Lane_London_England.jpg",
-      "artist": "Acabashi",
-      "license": "CC BY-SA 4.0",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 90
-  },
-  {
-   "id": "11561",
-   "title": "Father Christmas",
-   "description": "Folkloric figure originating in England",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Father_Christmas",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/Christmas_with_the_Yule_Log%2C_Illustrated_London_News%2C_23_Dec_1848.jpg",
-    "width": 1280,
-    "height": 1549,
-    "page": "https://commons.wikimedia.org/wiki/File:Christmas_with_the_Yule_Log,_Illustrated_London_News,_23_Dec_1848.jpg",
-    "artist": "Alfred Henry Forrester",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Father Christmas is the traditional English name for the personification of Christmas. Although now known as a Christmas gift-bringer, and typically considered to be synonymous with Santa Claus, he was originally part of a much older and unrelated English folkloric tradition. The recognisably modern figure of the English Father Christmas developed in the late Victorian period, but Christmas had been personified for centuries before then.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Frontispiece_to_%27%27The_Vindication_of_Christmas%27%27_by_John_Taylor%2C_1652.png",
-      "width": 1280,
-      "height": 1102,
-      "page": "https://commons.wikimedia.org/wiki/File:Frontispiece_to_%27%27The_Vindication_of_Christmas%27%27_by_John_Taylor,_1652.png",
-      "artist": "John Taylor (1578–1653)",
-      "license": "Public domain",
-      "caption": "Father Christmas (centre) depicted in The Vindication of Christmas, 1652"
-     }
-    },
-    {
-     "text": "English personifications of Christmas were first recorded in the 15th century, with Father Christmas himself first appearing in the mid 17th century in the aftermath of the English Civil War. The Puritan-controlled English government had legislated to abolish Christmas, considering it popish, and had outlawed its traditional customs. Royalist political pamphleteers, linking the old traditions with their cause, adopted Old Father Christmas as the symbol of 'the good old days' of feasting and good cheer.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/FatherChristmastrial.jpg",
-      "width": 1280,
-      "height": 1480,
-      "page": "https://commons.wikimedia.org/wiki/File:FatherChristmastrial.jpg",
-      "artist": "Josiah King",
-      "license": "Public domain",
-      "caption": "Father Christmas, as illustrated in Josiah King's two pamphlets of 1658 (The Examination and Tryall of Old Father Christmas) during the Puritan ban on Christmas, and 1678 when it has been restored as a holy day"
-     }
-    },
-    {
-     "text": "Following the Restoration in 1660, Father Christmas's profile declined. His character was maintained during the late 18th and into the 19th century by the Christmas folk plays later known as mummers' plays. Until Victorian times, Father Christmas was concerned with adult feasting and merry-making. He had no particular connection with children, nor with the giving of presents, nocturnal visits, stockings, chimneys or reindeer.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e7/Old_Christmas_riding_a_goat%2C_by_Robert_Seymour%2C_1836.jpg",
-      "width": 1280,
-      "height": 1563,
-      "page": "https://commons.wikimedia.org/wiki/File:Old_Christmas_riding_a_goat,_by_Robert_Seymour,_1836.jpg",
-      "artist": "Robert Seymour (1798 – 1836)",
-      "license": "Public domain",
-      "caption": "A Merry England vision of Old Christmas 1836"
-     }
-    },
-    {
-     "text": "But as later Victorian Christmases developed into child-centric family festivals, Father Christmas became a bringer of gifts.  The popular American myth of Santa Claus arrived in England in the 1850s and Father Christmas started to take on Santa Claus's attributes. By the 1880s the new customs had become established, with the nocturnal visitor sometimes being known as Santa Claus and sometimes as Father Christmas.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Christmas_and_his_children%2C_by_Robert_Seymour%2C_1836.jpg",
-      "width": 1280,
-      "height": 2072,
-      "page": "https://commons.wikimedia.org/wiki/File:Christmas_and_his_children,_by_Robert_Seymour,_1836.jpg",
-      "artist": "Robert Seymour (1798 – 1836)",
-      "license": "Public domain",
-      "caption": "Christmas with his children 1836"
-     }
-    },
-    {
-     "text": "He was often illustrated wearing a long red hooded gown trimmed with white fur. Most residual distinctions between Father Christmas and Santa Claus largely faded away in the early years of the 20th century, and modern dictionaries consider the terms Father Christmas and Santa Claus to be synonymous.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Old_Christmas%2C_Illustrated_London_News_24_Dec_1842.jpg",
-      "width": 1280,
-      "height": 1584,
-      "page": "https://commons.wikimedia.org/wiki/File:Old_Christmas,_Illustrated_London_News_24_Dec_1842.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 106
-  },
-  {
-   "id": "180755",
-   "title": "Mary of Modena",
-   "description": "Queen of England, Scotland and Ireland from 1685 to 1688",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/Mary_of_Modena",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Mary_of_Modena_Kneller.jpg",
-    "width": 1280,
-    "height": 1594,
-    "page": "https://commons.wikimedia.org/wiki/File:Mary_of_Modena_Kneller.jpg",
-    "artist": "Godfrey Kneller and workshop",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Mary of Modena (Italian: Maria Beatrice Eleonora Anna Margherita Isabella d'Este; 5 October [O.S. 25 September] 1658 – 7 May [O.S. 26 April] 1718) was Queen of England, Scotland and Ireland as the second wife of James VII and II. A devout Roman Catholic, Mary married the widower James, who was then the younger brother and heir presumptive of Charles II.",
+     "text": "The contemporary Cheapside is the location of a range of retail and food outlets and offices, as well as the City's only major shopping centre, One New Change.",
      "image": null
-    },
-    {
-     "text": "She was devoted to James and their children, two of whom survived to adulthood: the Jacobite claimant to the thrones, James Francis Edward Stuart, and Louisa Maria Stuart. Born a princess of the northwestern Italian Duchy of Modena, Mary is primarily remembered for the controversial birth of Prince James Francis Edward, her only surviving son.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Alfonso_IV_d%27Este.jpg",
-      "width": 1280,
-      "height": 1616,
-      "page": "https://commons.wikimedia.org/wiki/File:Alfonso_IV_d%27Este.jpg",
-      "artist": "Justus Sustermans",
-      "license": "Public domain",
-      "caption": "Alfonso IV d'Este, Duke of Modena, Mary's father, in a portrait by Justus Sustermans"
-     }
-    },
-    {
-     "text": "It was widely rumoured that he was smuggled into the birth chamber in a warming pan in order to perpetuate her husband's Roman Catholic Stuart dynasty. James Francis Edward's birth was a contributing factor to the \"Glorious Revolution\", the revolution which deposed James VII and II, and replaced him with Mary II, a Protestant, the elder of James II's daughters from his first marriage to Anne Hyde (1637–1671).",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Mary_of_Modena_by_William_Wissig1.jpg",
-      "width": 1280,
-      "height": 1598,
-      "page": "https://commons.wikimedia.org/wiki/File:Mary_of_Modena_by_William_Wissig1.jpg",
-      "artist": "Willem Wissing",
-      "license": "Public domain",
-      "caption": "Mary in the year of her husband's accession, 1685, in a painting by the Dutch artist Willem Wissing"
-     }
-    },
-    {
-     "text": "Mary II and her husband, William III of Orange, would reign jointly over all three kingdoms.  Mary went into exile in France, being known as the \"Queen over the Water\" among the Jacobites. She lived with her husband and children in the Château de Saint-Germain-en-Laye, provided by King Louis XIV. Mary was popular among Louis's courtiers; James, however, was considered a bore.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e6/James_III_and_Mary_of_Modena.JPG",
-      "width": 1280,
-      "height": 1008,
-      "page": "https://commons.wikimedia.org/wiki/File:James_III_and_Mary_of_Modena.JPG",
-      "artist": "Benedetto Gennari II",
-      "license": "Public domain",
-      "caption": "Queen Mary with her son, James Francis Edward, by Benedetto Gennari the Younger"
-     }
-    },
-    {
-     "text": "In widowhood, Mary spent time with the nuns at the Convent of Chaillot, frequently during summers with her daughter, Louisa Maria Teresa. In 1701, when James II died, young James Francis Edward, aged 13, became king in the eyes of the Jacobites. Given that he was too young to assume the nominal reins of government, Mary represented him until he reached the age of 16.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/1662_Mary_II.jpg/1280px-1662_Mary_II.jpg",
-      "width": 1280,
-      "height": 1542,
-      "page": "https://commons.wikimedia.org/wiki/File:1662_Mary_II.jpg",
-      "artist": "Peter Lely",
-      "license": "Public domain",
-      "caption": "Mary II of England in a painting by Sir Peter Lely"
-     }
     }
    ],
-   "truncated": true,
-   "readSeconds": 101
+   "truncated": false,
+   "readSeconds": 49
   },
   {
-   "id": "3508234",
-   "title": "Hector Munro Chadwick",
-   "description": "English philologist (1870–1947)",
+   "id": "73141038",
+   "title": "Tandragee Idol",
+   "description": "Bronze Age carved stone head from Northern Ireland",
    "topic": "archaeology",
    "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Hector_Munro_Chadwick",
+   "url": "https://en.wikipedia.org/wiki/Tandragee_Idol",
    "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Hector_Munro_Chadwick.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Armagh_St._Patrick%27s_Cathedral_of_the_Church_of_Ireland_North_Aisle_%E2%80%9CTandragee_Man%E2%80%9C_2019_09_09_%28cropped%29.jpg/1280px-Armagh_St._Patrick%27s_Cathedral_of_the_Church_of_Ireland_North_Aisle_%E2%80%9CTandragee_Man%E2%80%9C_2019_09_09_%28cropped%29.jpg",
     "width": 1280,
-    "height": 1641,
-    "page": "https://commons.wikimedia.org/wiki/File:Hector_Munro_Chadwick.jpg",
-    "artist": "Emery Walker",
-    "license": "Public domain"
+    "height": 1806,
+    "page": "https://commons.wikimedia.org/wiki/File:Armagh_St._Patrick%27s_Cathedral_of_the_Church_of_Ireland_North_Aisle_%E2%80%9CTandragee_Man%E2%80%9C_2019_09_09_(cropped).jpg",
+    "artist": "Andreas F. Borchert",
+    "license": "CC BY-SA 4.0"
    },
    "cards": [
     {
-     "text": "Hector Munro Chadwick (22 October 1870 – 2 January 1947) was an English philologist. Chadwick was the Elrington and Bosworth Professor of Anglo-Saxon and the founder and head of the Department for Anglo-Saxon and Kindred Studies at the University of Cambridge. Chadwick was well known for his encouragement of interdisciplinary research on Celts and Germanic peoples, and for his theories on the Heroic Age in the history of human societies.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Georg_von_Rosen_-_Oden_som_vandringsman%2C_1886_%28Odin%2C_the_Wanderer%29.jpg",
-      "width": 1280,
-      "height": 1876,
-      "page": "https://commons.wikimedia.org/wiki/File:Georg_von_Rosen_-_Oden_som_vandringsman,_1886_(Odin,_the_Wanderer).jpg",
-      "artist": "Georg von Rosen",
-      "license": "Public domain",
-      "caption": "Odin in the guise of a wanderer, by Georg von Rosen (1886). Chadwick's first book, The Cult of Othin, examined worship of Odin among the Germanic peoples."
-     }
-    },
-    {
-     "text": "Chadwick was a tutor of many notable students and the author of numerous influential works in his fields of study. Much of his research and teaching was conducted in cooperation with his wife, former student and fellow Cambridge scholar Nora Kershaw.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Helmet_from_a_7th_century_boat_grave%2C_Vendel_era_brighter.jpg/1280px-Helmet_from_a_7th_century_boat_grave%2C_Vendel_era_brighter.jpg",
-      "width": 1280,
-      "height": 1707,
-      "page": "https://commons.wikimedia.org/wiki/File:Helmet_from_a_7th_century_boat_grave,_Vendel_era_brighter.jpg",
-      "artist": "Helmet_from_a_7th_century_boat_grave,_Vendel_era.jpg: Mararie derivative work: S",
-      "license": "CC BY-SA 2.0",
-      "caption": "In The Heroic Age (1912), Chadwick postulated the existence of a Germanic Heroic Age in the Vendel Period (Vendel helmet shown), analogous to the Greek Heroic Age."
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 41
-  },
-  {
-   "id": "39243517",
-   "title": "Prehistoric art in Scotland",
-   "description": "",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/Prehistoric_art_in_Scotland",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Museum_of_ScotlandDSCF6355.jpg/1280px-Museum_of_ScotlandDSCF6355.jpg",
-    "width": 1280,
-    "height": 1019,
-    "page": "https://commons.wikimedia.org/wiki/File:Museum_of_ScotlandDSCF6355.jpg",
-    "artist": "Johnbod",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "Prehistoric art in Scotland is visual art created or found within the modern borders of Scotland, before the departure of the Romans from southern and central Britain in the early fifth century CE, which is usually seen as the beginning of the early historic or Medieval era. There is no clear definition of prehistoric art among scholars and objects that may involve creativity often lack a context that would allow them to be understood.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Ancient_cup_and_ring_stone%2C_Kelvingrove_Museum%2C_Glasgow_-_DSC06245.JPG/1280px-Ancient_cup_and_ring_stone%2C_Kelvingrove_Museum%2C_Glasgow_-_DSC06245.JPG",
-      "width": 1280,
-      "height": 1707,
-      "page": "https://commons.wikimedia.org/wiki/File:Ancient_cup_and_ring_stone,_Kelvingrove_Museum,_Glasgow_-_DSC06245.JPG",
-      "artist": "Rept0n1x",
-      "license": "CC BY-SA 3.0",
-      "caption": "Cup and ring marks survive in large numbers from Scotland and have been suggested to have a variety of meanings"
-     }
-    },
-    {
-     "text": "The earliest examples of portable art from what is now Scotland are highly decorated carved stone balls from the Neolithic period, which share patterns with Irish and Scottish stone carvings. Other items from this period include elaborate carved maceheads and figurines from Links of Noltland, including the Westray Wife, which is the earliest known depiction of a human face from Scotland.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Towriepetrosphere.jpg",
-      "width": 1280,
-      "height": 1247,
-      "page": "https://commons.wikimedia.org/wiki/File:Towriepetrosphere.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "caption": "An example of a carved stone ball from Towie in Aberdeenshire, dated from 3200–2500 BCE"
-     }
-    },
-    {
-     "text": "From the Bronze Age there are examples of carvings, including the first representations of objects, and cup and ring marks. Representations of an axe and a boat at the Ri Cruin Cairn in Kilmartin, and a boat pecked into Wemyss Cave, are probably the oldest two-dimensional representations of real objects that survive in Scotland. Elaborate carved stone battle-axes may be symbolic representations of power.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Museum_of_ScotlandDSCF6289.jpg/1280px-Museum_of_ScotlandDSCF6289.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Museum_of_ScotlandDSCF6289.jpg",
-      "artist": "Johnbod",
-      "license": "CC BY-SA 3.0",
-      "caption": "A gold lunula, one of two found at Southside in Lanarkshire, a high status ornament, worn sometime between 2300 and 2000 BCE"
-     }
-    },
-    {
-     "text": "Surviving metalwork includes gold lunula or neckplates, jet beaded necklaces and elaborate weaponry, such as leaf swords and ceremonial shields of sheet bronze. From the Iron Age there are more extensive examples of patterned objects and gold work. Evidence of the wider La Tène culture includes the Torrs Pony-cap and Horns. The Stirling torcs demonstrate common styles found in Scotland and Ireland and continental workmanship.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Museum_of_ScotlandDSCF6322.jpg/1280px-Museum_of_ScotlandDSCF6322.jpg",
-      "width": 1280,
-      "height": 2059,
-      "page": "https://commons.wikimedia.org/wiki/File:Museum_of_ScotlandDSCF6322.jpg",
-      "artist": "Johnbod",
-      "license": "CC BY-SA 3.0",
-      "caption": "The Leichestown Deskford carnyx and reconstruction, probably dating from the first century CE"
-     }
-    },
-    {
-     "text": "One of the most impressive items from this period is the boar's head fragment of the Deskford carnyx. From the first century CE, as Rome carried out a series of occupations, there are Roman artifacts like the Cramond Lioness and Roman influence on material culture can be seen in local stone carvings.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Cramond_Lioness.jpg/1280px-Cramond_Lioness.jpg",
-      "width": 1280,
-      "height": 979,
-      "page": "https://commons.wikimedia.org/wiki/File:Cramond_Lioness.jpg",
-      "artist": "Kim Traynor",
-      "license": "CC BY-SA 3.0",
-      "caption": "The Cramond Lioness found near the Roman base of Cramond Roman Fort near Edinburgh, which was occupied in the second century CE"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 106
-  },
-  {
-   "id": "1361146",
-   "title": "Stapleton, Bristol",
-   "description": "Area of Bristol, England",
-   "topic": "bristol",
-   "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Stapleton,_Bristol",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Bell_Hill_Stapleton.JPG/1280px-Bell_Hill_Stapleton.JPG",
-    "width": 1280,
-    "height": 1965,
-    "page": "https://commons.wikimedia.org/wiki/File:Bell_Hill_Stapleton.JPG",
-    "artist": "Sherstonuser",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "Stapleton is an area in the northeastern suburbs of the city of Bristol, England. The name is colloquially used today to describe the ribbon village along Bell Hill and Park Road in the Frome Valley. It borders Eastville to the south and Begbrook and Frenchay to the north. Its housing stock consists of a mixture of Victorian, Edwardian, inter-war and late 20th-century properties.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Altar_and_window%2C_Stapleton_Church.JPG/1280px-Altar_and_window%2C_Stapleton_Church.JPG",
-      "width": 1280,
-      "height": 1707,
-      "page": "https://commons.wikimedia.org/wiki/File:Altar_and_window,_Stapleton_Church.JPG",
-      "artist": "Sherstonuser",
-      "license": "CC BY-SA 3.0",
-      "caption": "Altar and stained glass window, Holy Trinity, Stapleton"
-     }
-    },
-    {
-     "text": "It is a popular residential area on three counts. It is convenient for the M32 motorway (with rapid access to the M4 and M5), it is a semi-rural area within two miles of central Bristol, and it boasts a popular public school. Stapleton's church is a prominent Bristol landmark, visible from the M32 motorway.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2c/Glendale_Grange_Home_Stapleton.jpg/1280px-Glendale_Grange_Home_Stapleton.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Glendale_Grange_Home_Stapleton.jpg",
-      "artist": "Sherstonuser",
-      "license": "CC BY-SA 3.0",
-      "caption": "Typical Villa-style home on Glendale Grange."
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 43
-  },
-  {
-   "id": "230781",
-   "title": "History of the Republic of Ireland",
-   "description": "",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/History_of_the_Republic_of_Ireland",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Atlas_Van_der_Hagen-KW1049B11_048-HIBERNIAE_REGNUM_tam_in_praecipuas_ULTONIAE%2C_CONNACIAE%2C_LAGENIAE%2C_et_MOMONIAE%2C_quam_in_minores_earundem_Provincias%2C_et_Ditiones_subjacentes_peraccurat%C3%A9_divisum.jpeg/1280px-thumbnail.jpeg",
-    "width": 1280,
-    "height": 1509,
-    "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B11_048-HIBERNIAE_REGNUM_tam_in_praecipuas_ULTONIAE,_CONNACIAE,_LAGENIAE,_et_MOMONIAE,_quam_in_minores_earundem_Provincias,_et_Ditiones_subjacentes_peraccurat%C3%A9_divisum.jpeg",
-    "artist": "Nicolaes Visscher II",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The Irish state came into being in 1919 as the 32 county Irish Republic. In 1922, having seceded from the United Kingdom of Great Britain and Ireland under the Anglo-Irish Treaty, it became the Irish Free State. It comprised 26 counties, with 6 counties under the control of Unionists; which became Northern Ireland in 1921. Bunreacht na hÉireann 1937 constitution renamed the 26 states 'Ireland'.",
+     "text": "The Tandragee Idol is a carved granite statuette dated to the Iron Age, with some sources suggesting a date as early as 1,000 BC. It was found in the 19th century in County Armagh, Ireland. It is 60 cm (24 in) high and depicts the torso and head of a grotesque, brutish figure who crosses his body with his right arm to hold his left arm in what appears to be a ritualistic pose.",
      "image": null
     },
     {
-     "text": "In 1949, only 26 counties explicitly became a republic under the terms of the Republic of Ireland Act 1948, definitively ending its tenuous membership of the British Commonwealth. In 1973 the Republic of Ireland joined the European Communities (EC) as a member state which would later become the European Union (EU).",
+     "text": "The idol has a vulgar and gaping mouth, pierced nostrils and the stubs of what may be the ends of a horned helmet. The sculpture belongs to a group of similarly ancient stone idols found on or near Cathedral Hill in Armagh. The group were likely hidden sometime after the 12th century AD to avoid plunder during the Anglo-Norman invasion of Ireland. ",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4f/Map_of_Ireland%27s_capitals.png/1280px-Map_of_Ireland%27s_capitals.png",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/55/Armagh_St._Patrick%27s_Cathedral_of_the_Church_of_Ireland_North_Aisle_%E2%80%9CTandragee_Man%E2%80%9C_2019_09_09_%28cropped%29_%28cropped%29.jpg",
       "width": 1280,
-      "height": 1632,
-      "page": "https://commons.wikimedia.org/wiki/File:Map_of_Ireland%27s_capitals.png",
-      "artist": "The original uploader was Jonto at English Wikipedia.",
-      "license": "CC BY-SA 3.0",
-      "caption": "Political map of the island of Ireland today showing Northern Ireland (part of the UK) and the Republic of Ireland"
+      "height": 1244,
+      "page": "https://commons.wikimedia.org/wiki/File:Armagh_St._Patrick%27s_Cathedral_of_the_Church_of_Ireland_North_Aisle_%E2%80%9CTandragee_Man%E2%80%9C_2019_09_09_(cropped)_(cropped).jpg",
+      "artist": "Andreas F. Borchert",
+      "license": "CC BY-SA 4.0",
+      "caption": "Detail of the face"
      }
     },
     {
-     "text": "Upon its foundation, the Irish Free State was embroiled in a civil war between nationalists supporting the Treaty and opponents who supported the existing Republic. The pro-Treaty side, organised as Cumann na nGaedheal, emerged victorious from the conflict and won subsequent elections. They formed the government of the state until 1932, when they peacefully handed over power to the anti-Treaty faction in Fianna Fáil, who defeated them in an election.",
+     "text": "Based on its dating and iconography, especially the positioning of the right arm, the most probable source is the mythical Tuatha Dé Danann chieftain Nuadha of the Silver Arm. The figure's pose closely resembles the 5th century BC \"Celtic Prince of Glauberg\", found in Germany, and the c. 400–800 AD Janus head from Boa Island, County Fermanagh.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Armoured_Car%2C_Passage_West%2C_Cork_%286652701421%29.jpg/1280px-Armoured_Car%2C_Passage_West%2C_Cork_%286652701421%29.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/50/Statue_of_Holzgerlingen%2C_Googles_Arts_%26_Culture_%28cropped%29.png/1280px-Statue_of_Holzgerlingen%2C_Googles_Arts_%26_Culture_%28cropped%29.png",
       "width": 1280,
-      "height": 942,
-      "page": "https://commons.wikimedia.org/wiki/File:Armoured_Car,_Passage_West,_Cork_(6652701421).jpg",
-      "artist": "National Library of Ireland on The Commons",
-      "license": "No restrictions",
-      "caption": "A National Army Peerless armoured car in Passage West, August 1922"
+      "height": 2152,
+      "page": "https://commons.wikimedia.org/wiki/File:Statue_of_Holzgerlingen,_Googles_Arts_%26_Culture_(cropped).png",
+      "artist": "Landesmuseum Württemberg, Stuttgart / P. Frankenstein; H. Zwietasch",
+      "license": "CC BY-SA 4.0",
+      "caption": "The Holzgerlingen figure, 5th or 4th century BC"
      }
     },
     {
-     "text": "The Irish state, despite its violent beginnings, has remained a democracy throughout its existence. Changes in the 1930s removed many of the links with Britain established under the Treaty and Ireland's neutrality in the Second World War demonstrated its independence in foreign policy matters from Britain.",
+     "text": "The idol is kept in the crypt of St Patrick's Cathedral in Armagh along with other ancient stone idols from the so-called \"Tandragee group\" rediscovered in the mid-19th century.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/JFK-New_Ross_1963.jpg/1280px-JFK-New_Ross_1963.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Paris-cluny-32.jpg/1280px-Paris-cluny-32.jpg",
       "width": 1280,
-      "height": 856,
-      "page": "https://commons.wikimedia.org/wiki/File:JFK-New_Ross_1963.jpg",
-      "artist": "Robert Knudsen, White House photographer",
-      "license": "Public domain",
-      "caption": "U.S. president John F. Kennedy addresses the people of New Ross, 27 June 1963"
-     }
-    },
-    {
-     "text": "In the economic sphere, the Irish state has had a mixed performance. On independence, it was one of the wealthier countries in Europe per head of population. However it also inherited from British rule the problems of unemployment, emigration, uneven geographical development and lack of a native industrial base. For much of its history, the state struggled to rectify these problems.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/The_Spire_of_Dublin_from_Henry_Street_2006-06-16_%28cropped%29.jpg/1280px-The_Spire_of_Dublin_from_Henry_Street_2006-06-16_%28cropped%29.jpg",
-      "width": 1280,
-      "height": 1781,
-      "page": "https://commons.wikimedia.org/wiki/File:The_Spire_of_Dublin_from_Henry_Street_2006-06-16_(cropped).jpg",
-      "artist": "TomAlt",
-      "license": "Public domain",
-      "caption": "The Spire of Dublin symbolises the modernisation and growing prosperity of Ireland."
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Paris-cluny-32.jpg",
+      "artist": "Als33120",
+      "license": "CC BY-SA 4.0",
+      "caption": "Stone capital on the 1st century AD Pillar of the Boatmen, showing the head of the god Cernunnos. Musée national du Moyen Âge, Paris"
      }
     }
    ],
-   "truncated": true,
-   "readSeconds": 96
+   "truncated": false,
+   "readSeconds": 74
   },
   {
-   "id": "337381",
-   "title": "Greenwich Hospital, London",
-   "description": "Home for retired sailors (1692–1869)",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Greenwich_Hospital,_London",
+   "id": "488753",
+   "title": "Ringfort",
+   "description": "Circular fortified settlements found in Northern Europe",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Ringfort",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Greenwich_Hospital_from_the_North_Bank_of_the_Thames_RMG_BHC1827.tiff/lossy-page1-1280px-Greenwich_Hospital_from_the_North_Bank_of_the_Thames_RMG_BHC1827.tiff.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Multivallate_Ringfort_at_Rathrar_%28Rathbarna_Enclosure_Complex%29%2C_Co_Roscommon%2C_Ireland.jpg",
     "width": 1280,
-    "height": 788,
-    "page": "https://commons.wikimedia.org/wiki/File:Greenwich_Hospital_from_the_North_Bank_of_the_Thames_RMG_BHC1827.tiff",
-    "artist": "Giovanni Antonio Canal",
-    "license": "Public domain"
+    "height": 912,
+    "page": "https://commons.wikimedia.org/wiki/File:Multivallate_Ringfort_at_Rathrar_(Rathbarna_Enclosure_Complex),_Co_Roscommon,_Ireland.jpg",
+    "artist": "West Lothian Archaeological Trust (Jim Knowles, Frank Scott and John Wells)",
+    "license": "CC BY-SA 4.0"
    },
    "cards": [
     {
-     "text": "Greenwich Hospital was a permanent home for retired sailors of the Royal Navy, which operated from 1692 to 1869. Its buildings, initially Greenwich Palace, in Greenwich, London, were later used by the Royal Naval College, Greenwich and the University of Greenwich, and are now known as the Old Royal Naval College.",
+     "text": "Ringforts or ring forts are small circular fortified settlements built during the Bronze Age, Iron Age and early Middle Ages up to about the year 1000 AD. They are found in Northern Europe, especially in Ireland. There are also many in South Wales and in Cornwall, where they are called rounds. Ringforts come in many sizes and may be made of stone or earth.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f4/Joseph_Mallord_William_Turner_-_London_from_Greenwich_Park_-_Google_Art_Project.jpg/1280px-Joseph_Mallord_William_Turner_-_London_from_Greenwich_Park_-_Google_Art_Project.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/39/Grianan_of_Aileach_scenic_view_01.png/1280px-Grianan_of_Aileach_scenic_view_01.png",
       "width": 1280,
-      "height": 961,
-      "page": "https://commons.wikimedia.org/wiki/File:Joseph_Mallord_William_Turner_-_London_from_Greenwich_Park_-_Google_Art_Project.jpg",
-      "artist": "J. M. W. Turner",
-      "license": "Public domain",
-      "caption": ""
+      "height": 720,
+      "page": "https://commons.wikimedia.org/wiki/File:Grianan_of_Aileach_scenic_view_01.png",
+      "artist": "Mark McGaughey",
+      "license": "CC BY-SA 4.0",
+      "caption": "The Grianán Ailigh in County Donegal, Ireland, is one of the more impressive stone-walled ringforts."
      }
     },
     {
-     "text": "The word \"hospital\" was used in its original sense of a place providing hospitality for those in need of it, and did not refer to medical care, although the buildings included an infirmary which, after Greenwich Hospital closed, operated as Dreadnought Seaman's Hospital until 1986.",
+     "text": "Earthen ringforts would have been marked by a circular rampart (a bank and ditch), often with a stakewall. Both stone and earthen ringforts would generally have had at least one building inside.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Greenwich_Old_Royal_Naval_College_03.jpg/1280px-Greenwich_Old_Royal_Naval_College_03.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Ringfort_distribution_Ireland.png/1280px-Ringfort_distribution_Ireland.png",
+      "width": 1280,
+      "height": 1525,
+      "page": "https://commons.wikimedia.org/wiki/File:Ringfort_distribution_Ireland.png",
+      "artist": "Keith Phelan",
+      "license": "CC BY-SA 4.0",
+      "caption": "The distribution of known, surviving ringforts in Ireland"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 37
+  },
+  {
+   "id": "28892",
+   "title": "Skara Brae",
+   "description": "Neolithic archaeological site in Scotland",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Skara_Brae",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/2018_07_12_Schottland_%2894%29.jpg/1280px-2018_07_12_Schottland_%2894%29.jpg",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:2018_07_12_Schottland_(94).jpg",
+    "artist": "Bewahrerderwerte",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "Skara Brae is a stone-built Neolithic settlement located along the Bay of Skaill on the west coast of Mainland, Orkney. The site was discovered following a storm exposing the presence of stone structures within the coastal sand dunes. Today, ten structures and four passageways are visible, as well as the remains of stone furniture and fixtures.",
+     "image": null
+    },
+    {
+     "text": "The site was occupied from roughly 3180 BC to around 2500 BC and is Europe's most complete Neolithic village. Skara Brae gained UNESCO World Heritage Site status as one of four sites making up \"The Heart of Neolithic Orkney\". Care of the site is the responsibility of Historic Environment Scotland which works with partners in managing the site: Orkney Islands Council, NatureScot (Scottish Natural Heritage), and the Royal Society for the Protection of Birds.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Skara_Brae_house_1_5.jpg/1280px-Skara_Brae_house_1_5.jpg",
       "width": 1280,
       "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Greenwich_Old_Royal_Naval_College_03.jpg",
-      "artist": "ErwinMeier",
-      "license": "CC BY-SA 4.0",
-      "caption": "Detail in the Chapel of Saint Peter and Saint Paul"
+      "page": "https://commons.wikimedia.org/wiki/File:Skara_Brae_house_1_5.jpg",
+      "artist": "Wknight94",
+      "license": "CC BY-SA 3.0",
+      "caption": "Evidence of home furnishings"
      }
     },
     {
-     "text": "The foundation which operated the hospital still exists, for the benefit of former Royal Navy personnel and their dependants. It now provides sheltered housing on other sites.",
+     "text": "Visitors to the site are welcome year-round.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Old_Royal_Naval_College_Chapel_Interior%2C_Greenwich%2C_London%2C_UK_-_Diliff.jpg/1280px-Old_Royal_Naval_College_Chapel_Interior%2C_Greenwich%2C_London%2C_UK_-_Diliff.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Skara_Brae_house_7.jpg/1280px-Skara_Brae_house_7.jpg",
       "width": 1280,
-      "height": 729,
-      "page": "https://commons.wikimedia.org/wiki/File:Old_Royal_Naval_College_Chapel_Interior,_Greenwich,_London,_UK_-_Diliff.jpg",
-      "artist": "Diliff",
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Skara_Brae_house_7.jpg",
+      "artist": "Wknight94",
       "license": "CC BY-SA 3.0",
-      "caption": ""
+      "caption": "View over the settlement, showing covering to house No. 7 and proximity to modern shore line. The glass roof has now been replaced by a turf one, as the humidity and heat caused by the glass roof were hindering preservation."
      }
     }
    ],
    "truncated": false,
    "readSeconds": 48
-  },
-  {
-   "id": "50552",
-   "title": "James V",
-   "description": "King of Scotland from 1513 to 1542",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/James_V",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Portrait_of_James_V_of_Scotland_%281512_-_1542%29.jpg/1280px-Portrait_of_James_V_of_Scotland_%281512_-_1542%29.jpg",
-    "width": 1280,
-    "height": 1553,
-    "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_James_V_of_Scotland_(1512_-_1542).jpg",
-    "artist": "Corneille de Lyon",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "James V (10 April 1512 – 14 December 1542) was King of Scotland from 9 September 1513 until his death in 1542. He was crowned on 21 September 1513 at the age of seventeen months. James was the son of King James IV and Margaret Tudor, daughter of Henry VII of England. During his childhood, Scotland was governed by regents, firstly by his mother until she remarried, and then by his first cousin once removed, John Stewart, Duke of Albany.",
-     "image": null
-    },
-    {
-     "text": "James's personal rule began in 1528, when he finally escaped the custody of his stepfather, Archibald Douglas, 6th Earl of Angus. His first action was to exile Angus and confiscate the lands of the Douglases. James greatly increased his income by tightening control over royal estates and from the profits of justice, customs and feudal rights. He founded the College of Justice in 1532 and also acted to end lawlessness and rebellion in the Borders and the Hebrides.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b8/James_IV_of_Scotland_%282%29.jpg",
-      "width": 1280,
-      "height": 1672,
-      "page": "https://commons.wikimedia.org/wiki/File:James_IV_of_Scotland_(2).jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The rivalry among France, England and the Holy Roman Empire lent James unwonted diplomatic weight and saw him secure two politically and financially advantageous French marriages, first to Madeleine of Valois and then to Mary of Guise. James also fathered at least nine illegitimate children by a series of mistresses.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/20/6th_Earl_of_Angus.jpg",
-      "width": 1280,
-      "height": 1633,
-      "page": "https://commons.wikimedia.org/wiki/File:6th_Earl_of_Angus.jpg",
-      "artist": "Unidentified painter",
-      "license": "Public domain",
-      "caption": "Archibald Douglas, 6th Earl of Angus, James V's step-father"
-     }
-    },
-    {
-     "text": "James's reign witnessed the beginnings of Protestantism in Scotland, and his uncle Henry VIII of England's break with Rome in the 1530s placed James in a powerful bargaining position with the papacy, allowing James to exploit the situation to increase his control over ecclesiastical appointments and the financial dividends from church revenues. Pope Paul III granted him the title of Defender of the Faith in 1537.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/The_Four_Orders_of_Chivalry_on_the_Fore_Entrance_to_Linlithgow_Palace.JPG/1280px-The_Four_Orders_of_Chivalry_on_the_Fore_Entrance_to_Linlithgow_Palace.JPG",
-      "width": 1280,
-      "height": 600,
-      "page": "https://commons.wikimedia.org/wiki/File:The_Four_Orders_of_Chivalry_on_the_Fore_Entrance_to_Linlithgow_Palace.JPG",
-      "artist": "Stefan Schäfer, Lich",
-      "license": "CC BY-SA 3.0",
-      "caption": "The four European orders of chivalry to which James V belonged — Garter, Thistle, Golden Fleece and St Michael — on the outer gate he built at his birthplace, Linlithgow Palace"
-     }
-    },
-    {
-     "text": "James maintained diplomatic correspondence with various Irish nobles and chiefs throughout their resistance to Henry VIII in the 1530s, and in 1540, they offered him the kingship of Ireland. A patron of the arts, James spent lavishly on the construction of several royal residences in the High Gothic and Renaissance styles.",
-     "image": null
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 101
-  },
-  {
-   "id": "5194483",
-   "title": "Chedworth Roman Villa",
-   "description": "Roman villa near Chedworth, Gloucestershire, England",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Chedworth_Roman_Villa",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Chedworth_Roman_Villa_2012_-_View_from_northeast.jpg/1280px-Chedworth_Roman_Villa_2012_-_View_from_northeast.jpg",
-    "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Chedworth_Roman_Villa_2012_-_View_from_northeast.jpg",
-    "artist": "Pasicles",
-    "license": "CC0"
-   },
-   "cards": [
-    {
-     "text": "Chedworth Roman Villa is located near Chedworth, Gloucestershire, England and is a scheduled monument. It is one of the largest and most elaborate Roman villas so far discovered in Britain and one with the latest occupation beyond the Roman period. The villa was built in phases from the early 2nd century to the 5th century, with the 4th-century construction transforming the building into an elite dwelling arranged around three sides of a courtyard.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Chedworth_Roman_Villa_2012_-_West_bath_house_tepidarium_mosaic.jpg/1280px-Chedworth_Roman_Villa_2012_-_West_bath_house_tepidarium_mosaic.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Chedworth_Roman_Villa_2012_-_West_bath_house_tepidarium_mosaic.jpg",
-      "artist": "Pasicles",
-      "license": "CC0",
-      "caption": "West bath house tepidarium mosaic"
-     }
-    },
-    {
-     "text": "The 4th-century building included a heated and furnished west wing containing a dining-room (triclinium) with a fine mosaic floor, as well as two separate bathing suites: one for damp-heat and one for dry-heat. The villa was discovered in 1864, and was excavated and opened to public view soon afterwards. It was acquired in 1924 by the National Trust who have conducted a long-term conservation programme, with new on-site facilities and cover-buildings.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c3/Mosaic_floor%2C_Chedworth_-_geograph.org.uk_-_154259.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Mosaic_floor,_Chedworth_-_geograph.org.uk_-_154259.jpg",
-      "artist": "Rob Farrow",
-      "license": "CC BY-SA 2.0",
-      "caption": "Detail of the Triclinium mosaic: winter"
-     }
-    },
-    {
-     "text": "Historians have debated whether Chedworth was a villa rustica or a religious sanctuary and hostel, as evidence has been found in support of both arguments. Most currently believe, however, that Chedworth was the former, inhabited by a very wealthy Romano-Briton.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Hypocaust_at_Chedworth_Roman_Villa.jpg/1280px-Hypocaust_at_Chedworth_Roman_Villa.jpg",
-      "width": 1280,
-      "height": 853,
-      "page": "https://commons.wikimedia.org/wiki/File:Hypocaust_at_Chedworth_Roman_Villa.jpg",
-      "artist": "Oldchien.rb",
-      "license": "CC BY-SA 4.0",
-      "caption": "Hypocaust at Chedworth"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 64
-  },
-  {
-   "id": "35698149",
-   "title": "Renaissance in Scotland",
-   "description": "15th-17th century Scottish movement",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/Renaissance_in_Scotland",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Da_Vinci_Vitruve_Luc_Viatour.jpg/1280px-Da_Vinci_Vitruve_Luc_Viatour.jpg",
-    "width": 1280,
-    "height": 1740,
-    "page": "https://commons.wikimedia.org/wiki/File:Da_Vinci_Vitruve_Luc_Viatour.jpg",
-    "artist": "Leonardo da Vinci",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The Renaissance in Scotland was a cultural, intellectual and artistic movement in Scotland, from the late fifteenth century to the beginning of the seventeenth century. It is associated with the pan-European Renaissance that is usually regarded as beginning in Italy in the late fourteenth century and reaching northern Europe as a Northern Renaissance in the fifteenth century.",
-     "image": null
-    },
-    {
-     "text": "It involved an attempt to revive the principles of the classical era, including humanism, a spirit of scholarly enquiry, scepticism, and concepts of balance and proportion. Since the twentieth century, the uniqueness and unity of the Renaissance has been challenged by historians, but significant changes in Scotland can be seen to have taken place in education, intellectual life, literature, art, architecture, music, science and politics.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg/1280px-Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg",
-      "width": 1280,
-      "height": 995,
-      "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg",
-      "artist": "Joan Blaeu",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The court was central to the patronage and dissemination of Renaissance works and ideas. It was also central to the staging of lavish display that portrayed the political and religious role of the monarchy. The Renaissance led to the adoption of ideas of imperial monarchy, encouraging the Scottish crown to join the new monarchies by asserting imperial jurisdiction and distinction.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Linlithgowpalace_180609_-_03.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Linlithgowpalace_180609_-_03.jpg",
-      "artist": "Bubobubo2",
-      "license": "CC BY-SA 3.0",
-      "caption": "Linlithgow Palace, rebuilt for James V to suggest an open-air Renaissance courtyard"
-     }
-    },
-    {
-     "text": "The growing emphasis on education in the Middle Ages became part of a humanist and then Protestant programme to extend and reform learning. It resulted in the expansion of the school system and the foundation of six university colleges by the end of the sixteenth century.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/James_V_groat_1526_1704.jpg",
-      "width": 1280,
-      "height": 610,
-      "page": "https://commons.wikimedia.org/wiki/File:James_V_groat_1526_1704.jpg",
-      "artist": "CNG",
-      "license": "CC BY-SA 3.0",
-      "caption": "Groat of James V, showing him wearing an imperial closed crown"
-     }
-    },
-    {
-     "text": "Relatively large numbers of Scottish scholars studied on the continent or in England and some, such as Hector Boece, John Mair, Andrew Melville and George Buchanan, returned to Scotland to play a major part in developing Scottish intellectual life. Vernacular works in Scots began to emerge in the fifteenth century, while Latin remained a major literary language. With the patronage of James V and James VI, writers included William Stewart, John Bellenden, David Lyndsay, William Fowler and Alexander Montgomerie.",
-     "image": null
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 96
   }
  ]
 }
