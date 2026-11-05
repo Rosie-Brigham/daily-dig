@@ -1,878 +1,134 @@
 {
- "date": "2026-11-04",
- "generatedAt": "2026-11-04T13:07:07.582Z",
- "totalReadSeconds": 1207,
+ "date": "2026-11-05",
+ "generatedAt": "2026-11-05T13:20:32.863Z",
+ "totalReadSeconds": 1261,
  "posts": [
   {
-   "id": "157472",
-   "title": "Book of Kells",
-   "description": "Illuminated 9th-century Gospel book",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Book_of_Kells",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/KellsFol032vChristEnthroned.jpg/1280px-KellsFol032vChristEnthroned.jpg",
-    "width": 1280,
-    "height": 1668,
-    "page": "https://commons.wikimedia.org/wiki/File:KellsFol032vChristEnthroned.jpg",
-    "artist": "Unattributed",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The Book of Kells (Latin: Codex Cenannensis; Irish: Leabhar Cheanannais; Library of Trinity College Dublin, MS A. I. [58], sometimes known as the Book of Columba) is an illustrated manuscript and Celtic Gospel book in Latin, containing the four Gospels of the New Testament together with various prefatory texts and tables. It was created in a Columban monastery in Ireland or Scotland, and may have had contributions from various Columban institutions across Ireland and Scotland.",
-     "image": null
-    },
-    {
-     "text": "It is believed to have been created c. 800 AD. The text of the Gospels is largely drawn from the Vulgate, although it also includes several passages drawn from the earlier versions of the Bible known as the Vetus Latina. It is regarded as a masterwork of Western calligraphy and the pinnacle of Insular illumination. The manuscript is named after Abbey of Kells, County Meath, which was its home for centuries.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/KellsFol292rIncipJohn.jpg",
-      "width": 1280,
-      "height": 1704,
-      "page": "https://commons.wikimedia.org/wiki/File:KellsFol292rIncipJohn.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "caption": "The Book of Kells, (folio 292r), circa 800, showing the lavishly decorated text that opens the Gospel of John"
-     }
-    },
-    {
-     "text": "The illustrations and ornamentation of the Book of Kells surpass those of other Insular Gospel books in extravagance and complexity. The decoration combines traditional Christian iconography with the ornate swirling motifs typical of Insular art. Figures of humans, animals and mythical beasts, together with Celtic knots and interlacing patterns in vibrant colours, enliven the manuscript's pages. Many of these minor decorative elements are imbued with Christian symbolism, and so further emphasise the themes of the major illustrations.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/LindisfarneFol27rIncipitMatt.jpg",
-      "width": 1280,
-      "height": 1817,
-      "page": "https://commons.wikimedia.org/wiki/File:LindisfarneFol27rIncipitMatt.jpg",
-      "artist": "Eadfrith of Lindisfarne (presumed)",
-      "license": "Public domain",
-      "caption": "Folio 27r from the Lindisfarne Gospels contains the incipit Liber generationis of the Gospel of Matthew. Compare this page with the corresponding page from the Book of Kells (see here), especially the form of the Lib monogram."
-     }
-    },
-    {
-     "text": "The manuscript today comprises 340 leaves or folios; the recto and verso of each leaf total 680 pages. Since 1953, it has been bound in four volumes, 330 by 250 mm (13 by 9.8 in). The leaves are high-quality calf vellum; the unprecedentedly elaborate ornamentation that covers them includes ten full-page illustrations and text pages that are vibrant with decorated initials and interlinear miniatures, marking the furthest extension of the anti-classical and energetic qualities of Insular art.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/KellsFol027v4Evang.jpg/1280px-KellsFol027v4Evang.jpg",
-      "width": 1280,
-      "height": 1689,
-      "page": "https://commons.wikimedia.org/wiki/File:KellsFol027v4Evang.jpg",
-      "artist": "Unknown",
-      "license": "Public domain",
-      "caption": "Folio 27v contains the symbols of the Four Evangelists (clockwise from top left): an angel (Matthew), a lion (Mark), an eagle (John) and an ox (Luke)"
-     }
-    },
-    {
-     "text": "The Insular majuscule script of the text appears to be the work of at least three different scribes. The lettering is in iron gall ink, and the colours used were derived from a wide range of substances, some of which were imported from distant lands.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/KellsFol005rCanonTable.jpg/1280px-KellsFol005rCanonTable.jpg",
-      "width": 1280,
-      "height": 1757,
-      "page": "https://commons.wikimedia.org/wiki/File:KellsFol005rCanonTable.jpg",
-      "artist": "Unknown",
-      "license": "Public domain",
-      "caption": "Folio 5r contains a page of the Eusebian Canons."
-     }
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 110
-  },
-  {
-   "id": "113575",
-   "title": "Robert Adam",
-   "description": "British neoclassical architect (1728–1792)",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/Robert_Adam",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Robert-adam.jpg",
-    "width": 1280,
-    "height": 1617,
-    "page": "https://commons.wikimedia.org/wiki/File:Robert-adam.jpg",
-    "artist": "Attributed to George Willison",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Robert Adam (3 July 1728 – 3 March 1792) was a Scottish neoclassical architect, interior designer and furniture designer. He was the son of William Adam (1689–1748), Scotland's foremost architect of the time, and trained under him. With his older brother John, Robert took on the family business, which included lucrative work for the Board of Ordnance, after William's death.",
-     "image": null
-    },
-    {
-     "text": "In 1754, he left for Rome, spending nearly five years on the continent studying architecture under Charles-Louis Clérisseau and Giovanni Battista Piranesi. On his return to Britain he established a practice in London, where he was joined by his younger brother James. Here he developed the \"Adam Style\", and his theory of \"movement\" in architecture, based on his studies of antiquity, and became one of the most successful and fashionable architects in the country.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d8/Robert_Adam_by_James_Tassie_%28medallion%29.jpg/1280px-Robert_Adam_by_James_Tassie_%28medallion%29.jpg",
-      "width": 1280,
-      "height": 1922,
-      "page": "https://commons.wikimedia.org/wiki/File:Robert_Adam_by_James_Tassie_(medallion).jpg",
-      "artist": "Stephencdickson",
-      "license": "CC BY-SA 4.0",
-      "caption": "Robert Adam by James Tassie (medallion)"
-     }
-    },
-    {
-     "text": "Adam held the post of Architect of the King's Works from 1761 to 1769. Robert Adam was a leader of the first phase of the classical revival in England and Scotland from around 1760 until his death. He influenced the development of Western architecture, both in Europe and in North America. Adam designed interiors and fittings as well as houses.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Hopetoun03.JPG",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Hopetoun03.JPG",
-      "artist": "User:Supergolden",
-      "license": "CC BY-SA 3.0",
-      "caption": "Entrance front of Hopetoun House, designed by William Adam and modified by the Adam Brothers"
-     }
-    },
-    {
-     "text": "Much of his work consisted of remodelling existing houses, as well as contributions to Edinburgh's townscape and designing romantic pseudo-mediaeval country houses in Scotland. He served as the member of Parliament for Kinross-shire from 1768 to 1774.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/SPLIT-Adam_plan_restitution.jpg/1280px-SPLIT-Adam_plan_restitution.jpg",
-      "width": 1280,
-      "height": 1568,
-      "page": "https://commons.wikimedia.org/wiki/File:SPLIT-Adam_plan_restitution.jpg",
-      "artist": "Unknown",
-      "license": "Public domain",
-      "caption": "Plan of the Diocletian palace in Split, Croatia. R. Adam 1764"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 76
-  },
-  {
-   "id": "3519877",
-   "title": "Bruce Castle",
-   "description": "16th-century manor house in London",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Bruce_Castle",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f6/Bruce_Castle_front_2024-02-24_%282%29.jpg/1280px-Bruce_Castle_front_2024-02-24_%282%29.jpg",
-    "width": 1280,
-    "height": 800,
-    "page": "https://commons.wikimedia.org/wiki/File:Bruce_Castle_front_2024-02-24_(2).jpg",
-    "artist": "The wub",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "Bruce Castle (formerly the Lordship House) is a Grade I listed 16th-century manor house in Lordship Lane, Tottenham, London. It is named after the House of Bruce who formerly owned the land on which it is built. Believed to stand on the site of an earlier building, about which little is known, the current house is one of the oldest surviving English brick houses.",
-     "image": null
-    },
-    {
-     "text": "It was remodelled in the 17th, 18th and 19th centuries. The house has been home to Sir William Compton, the Barons Coleraine and Sir Rowland Hill, among others.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Tottenham%2CBruce_Castle%2C_Tower.jpg",
-      "width": 1280,
-      "height": 1954,
-      "page": "https://commons.wikimedia.org/wiki/File:Tottenham,Bruce_Castle,_Tower.jpg",
-      "artist": "Fin Fahey from London, UK",
-      "license": "CC BY-SA 2.0",
-      "caption": "The round tower"
-     }
-    },
-    {
-     "text": "After serving as a school during the 19th century, when a large extension was built to the west, it was converted into a museum exploring the history of the areas now constituting London Borough of Haringey and, on the strength of its connection with Sir Rowland Hill, the history of the Royal Mail. The building also houses the archives of the London Borough of Haringey. Since 1892 the grounds have been a public park, Tottenham's oldest.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Richard_Sackville_Earl_of_Dorset.jpg/1280px-Richard_Sackville_Earl_of_Dorset.jpg",
-      "width": 1280,
-      "height": 2168,
-      "page": "https://commons.wikimedia.org/wiki/File:Richard_Sackville_Earl_of_Dorset.jpg",
-      "artist": "Attributed to William Larkin",
-      "license": "Public domain",
-      "caption": "Richard Sackville, by William Larkin; in the collection of the Iveagh Bequest at Kenwood House.[13] Sackville's large debts led to the sale of the house to Hugh Hare."
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 56
-  },
-  {
-   "id": "50703578",
-   "title": "Bloomberg tablets",
-   "description": "Ancient tablets",
+   "id": "595875",
+   "title": "Martin Farquhar Tupper",
+   "description": "English poet and novelist (1810–1889)",
    "topic": "archaeology",
    "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Bloomberg_tablets",
+   "url": "https://en.wikipedia.org/wiki/Martin_Farquhar_Tupper",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Bloombergwritingboards.jpg/1280px-Bloombergwritingboards.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Edwards_Martin_Farquhar_Tupper_1864_slnsw.jpg/1280px-Edwards_Martin_Farquhar_Tupper_1864_slnsw.jpg",
     "width": 1280,
-    "height": 1916,
-    "page": "https://commons.wikimedia.org/wiki/File:Bloombergwritingboards.jpg",
-    "artist": "Udimu",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "The Bloomberg tablets are a collection of 405 preserved wooden tablets that were found at the site of the Bloomberg building in the financial district of London. Excavations of the site took place between 2010 and 2013, after which the current Bloomberg building was constructed on the site of the archaeological dig.",
-     "image": null
-    },
-    {
-     "text": "The tablets are the earliest written documents found in Britain, dating from 50 to 80 AD in the early Roman period. These tablets predate the Vindolanda tablets, which were previously the earliest writing examples found in Britain, dating to 100 AD or later.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/26/Bloomberg-writing_board.jpg/1280px-Bloomberg-writing_board.jpg",
-      "width": 1280,
-      "height": 855,
-      "page": "https://commons.wikimedia.org/wiki/File:Bloomberg-writing_board.jpg",
-      "artist": "Udimu",
-      "license": "CC BY-SA 4.0",
-      "caption": "Bloomberg wooden writing board"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 33
-  },
-  {
-   "id": "1427730",
-   "title": "Jacobite succession",
-   "description": "Post-1688 claim of succession of the British crowns",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/Jacobite_succession",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Monument_to_the_Stuarts_detail.JPG/1280px-Monument_to_the_Stuarts_detail.JPG",
-    "width": 1280,
-    "height": 1013,
-    "page": "https://commons.wikimedia.org/wiki/File:Monument_to_the_Stuarts_detail.JPG",
-    "artist": "Kim Traynor",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "The Jacobite succession is the line through which Jacobites believe that the crowns of England, Scotland, and Ireland should have descended, applying male preference primogeniture, since the deposition of James II and VII in 1688 and his death in 1701. It is in opposition to the legal line of succession to the British throne since that time.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Monument_to_the_Stuarts.JPG/1280px-Monument_to_the_Stuarts.JPG",
-      "width": 1280,
-      "height": 1735,
-      "page": "https://commons.wikimedia.org/wiki/File:Monument_to_the_Stuarts.JPG",
-      "artist": "Kim Traynor",
-      "license": "CC BY-SA 3.0",
-      "caption": ""
-     }
-    },
-    {
-     "text": "Excluded from the succession by law because of their Catholicism, James's Stuart descendants pursued their claims to the crowns as pretenders. James's son James Francis Edward Stuart (the \"Old Pretender\") and grandson Charles Edward Stuart (the \"Young Pretender\" or \"Bonnie Prince Charlie\") actively participated in uprisings and invasions in support of their claim.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/King_James_II_and_VII.jpg/1280px-King_James_II_and_VII.jpg",
-      "width": 1280,
-      "height": 1558,
-      "page": "https://commons.wikimedia.org/wiki/File:King_James_II_and_VII.jpg",
-      "artist": "John Riley",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "From 1689 to the middle of the eighteenth century, restoration of the Jacobite succession to the throne was a major political issue in Britain, with adherents both at home and abroad. However, with Charles Edward's disastrous defeat at the Battle of Culloden in 1746, the Jacobite succession lost both its support and its political importance.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/Prince_James_Francis_Edward_Stuart_by_Alexis_Simon_Belle.jpg/1280px-Prince_James_Francis_Edward_Stuart_by_Alexis_Simon_Belle.jpg",
-      "width": 1280,
-      "height": 1656,
-      "page": "https://commons.wikimedia.org/wiki/File:Prince_James_Francis_Edward_Stuart_by_Alexis_Simon_Belle.jpg",
-      "artist": "Alexis Simon Belle",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "James II and VII's other grandson, Henry Benedict Stuart, was the last of his legitimate descendants, as he took a career as a Catholic prelate and as such never married. Henry Benedict Stuart died in 1807, by which time the Jacobite succession ceased to have supporters in any number.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Lost_Portrait_of_Charles_Edward_Stuart.jpg/1280px-Lost_Portrait_of_Charles_Edward_Stuart.jpg",
-      "width": 1280,
-      "height": 1567,
-      "page": "https://commons.wikimedia.org/wiki/File:Lost_Portrait_of_Charles_Edward_Stuart.jpg",
-      "artist": "Allan Ramsay",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "When Henry died childless, the Jacobite claim was then notionally inherited by Henry's nearest relative (a second cousin, twice removed), and then passed through a number of European royal families. Although the line of succession can continue to be traced, none of these subsequent heirs ever claimed the British throne, or the crowns of England, Scotland, or Ireland.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Circle_of_Anton_Raphael_Mengs%2C_Henry_Benedict_Maria_Clement_Stuart%2C_Cardinal_York_%28ca_1750%29_-002.jpg",
-      "width": 1280,
-      "height": 1551,
-      "page": "https://commons.wikimedia.org/wiki/File:Circle_of_Anton_Raphael_Mengs,_Henry_Benedict_Maria_Clement_Stuart,_Cardinal_York_(ca_1750)_-002.jpg",
-      "artist": "Circle of Anton Raphael Mengs / Unidentified painter",
-      "license": "Public domain",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 95
-  },
-  {
-   "id": "55613434",
-   "title": "Nicholas Exton",
-   "description": "Medieval English merchant",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Nicholas_Exton",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/80/Arms_of_Sir_Nichols_Exton%2C_Azure_a_cross_argent_between_twelve_crosses_crosslet_fitch%C3%A9e_or.png/1280px-Arms_of_Sir_Nichols_Exton%2C_Azure_a_cross_argent_between_twelve_crosses_crosslet_fitch%C3%A9e_or.png",
-    "width": 1280,
-    "height": 1492,
-    "page": "https://commons.wikimedia.org/wiki/File:Arms_of_Sir_Nichols_Exton,_Azure_a_cross_argent_between_twelve_crosses_crosslet_fitch%C3%A9e_or.png",
-    "artist": "Ficaia",
-    "license": "CC0"
-   },
-   "cards": [
-    {
-     "text": "Sir Nicholas Exton (died 1402) was a medieval English merchant. A leading member of the Fishmongers' Company and citizen of the City of London, he was twice elected Mayor of that city during the troubled years of the reign of King Richard II. Little is known of his personal background and youth, but he became known at some point as a vigorous defender of the rights of his Guild.",
-     "image": null
-    },
-    {
-     "text": "This eventually landed him in trouble for attacking the then-current Mayor, and he was fined and imprisoned as a result. The situation soon reverted to his favour with the election as Mayor of Nicholas Brembre, a close ally of his. During this period Brembre was a loyal supporter of the King, who at this time was engaged in a bitter conflict with some of his nobles (known collectively as the Lords Appellant).",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/33/Plan_of_London_in_1381%2C_with_some_civic_buildings.png",
-      "width": 1280,
-      "height": 999,
-      "page": "https://commons.wikimedia.org/wiki/File:Plan_of_London_in_1381,_with_some_civic_buildings.png",
-      "artist": "Serial Number 54129",
-      "license": "Public domain",
-      "caption": "Plan of London about 1381.[3]"
-     }
-    },
-    {
-     "text": "They managed to manoeuvre the King into surrendering some of his authority, which, in turn, weakened Brembre, who was eventually executed by the Appellants for his support of the King. By then, Exton had in turn been elected Mayor. Although for a while he and Brembre worked together in running London, when his predecessor fell from influence, Exton effectively deserted him, even to the point of being partially responsible for Brembre's eventual hanging.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Guildhall%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_139.JPG/1280px-Guildhall%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_139.JPG",
-      "width": 1280,
-      "height": 927,
-      "page": "https://commons.wikimedia.org/wiki/File:Guildhall,_Londres,_Inglaterra,_2014-08-11,_DD_139.JPG",
-      "artist": "Diego Delso",
-      "license": "CC BY-SA 4.0",
-      "caption": "London's Guildhall in 2014. Construction of the current building began nine years after Exton died. He would, however, have known other parts of it which are still extant, for example, the medieval crypts below the current structure."
-     }
-    },
-    {
-     "text": "Exton's primary policy throughout his two periods as Mayor was probably based on a desire to maintain the city's neutrality between the feuding parties. On the other hand, he appears to have personally profited from the Appellants' period of rule, and it seems that there was some dissatisfaction with him in London, even if he was subsequently cleared of any wrongdoing by parliament.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Cuttler_petition_against_exton_etc%2C_1388.png/1280px-Cuttler_petition_against_exton_etc%2C_1388.png",
-      "width": 1280,
-      "height": 1404,
-      "page": "https://commons.wikimedia.org/wiki/File:Cuttler_petition_against_exton_etc,_1388.png",
-      "artist": "Fortuna Imperatrix Mundi",
-      "license": "CC BY-SA 4.0",
-      "caption": ""
-     }
-    },
-    {
-     "text": "His later years are as obscure as his youth; known to have married at least twice, he seems to have had no children and died in 1402 at an unknown age.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Item_IV-_Cuttler_petition_against_exton_etc%2C_1388.png/1280px-Item_IV-_Cuttler_petition_against_exton_etc%2C_1388.png",
-      "width": 1280,
-      "height": 169,
-      "page": "https://commons.wikimedia.org/wiki/File:Item_IV-_Cuttler_petition_against_exton_etc,_1388.png",
-      "artist": "Fortuna Imperatrix Mundi",
-      "license": "CC BY-SA 4.0",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 100
-  },
-  {
-   "id": "1651455",
-   "title": "Bristol Ferry Boats",
-   "description": "Ferry operator in Bristol, England",
-   "topic": "bristol",
-   "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Bristol_Ferry_Boats",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Bristol-Ferry-Boat-Geograph-3080161-Neil-Owen.jpg/1280px-Bristol-Ferry-Boat-Geograph-3080161-Neil-Owen.jpg",
-    "width": 1280,
-    "height": 947,
-    "page": "https://commons.wikimedia.org/wiki/File:Bristol-Ferry-Boat-Geograph-3080161-Neil-Owen.jpg",
-    "artist": "Neil Owen",
-    "license": "CC BY-SA 2.0"
-   },
-   "cards": [
-    {
-     "text": "Bristol Ferry Boats is a brand of water bus services operating around Bristol Harbour in the centre of the English city of Bristol, using a fleet of distinctive yellow-and-blue painted ferry boats. The services were formerly owned by the Bristol Ferry Boat Company, but are now the responsibility of Bristol Community Ferry Boats, a community interest company that acquired the fleet of the previous company.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Bristol_harbour_arp_750pix.jpg",
-      "width": 1280,
-      "height": 961,
-      "page": "https://commons.wikimedia.org/wiki/File:Bristol_harbour_arp_750pix.jpg",
-      "artist": "The original uploader was Arpingstone at English Wikipedia.",
-      "license": "Public domain",
-      "caption": "Emily passes the Welsh Back landing stage, with Bristol Bridge in the background"
-     }
-    },
-    {
-     "text": "The company operates scheduled ferry services, along with educational and public boat cruises and private hire of boats. Scheduled services operate on two routes linking Bristol city centre to Temple Meads railway station and Hotwells, serving 17 landing stages throughout the length of the harbour, including one at Brunel's famous SS Great Britain. Services are provided on a commercial basis without subsidy and are subject to competition.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/Bristol_port.jpg/1280px-Bristol_port.jpg",
-      "width": 1280,
-      "height": 558,
-      "page": "https://commons.wikimedia.org/wiki/File:Bristol_port.jpg",
-      "artist": "Velvet",
-      "license": "CC BY-SA 3.0",
-      "caption": "Matilda alongside the City Centre landing stage at the head of St. Augustine's Reach"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 46
-  },
-  {
-   "id": "3833",
-   "title": "Beowulf",
-   "description": "Old English epic poem",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Beowulf",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg/1280px-Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg",
-    "width": 1280,
-    "height": 2145,
-    "page": "https://commons.wikimedia.org/wiki/File:Beowulf_Cotton_MS_Vitellius_A_XV_f._132r.jpg",
-    "artist": "anonymous Anglo-Saxon poet",
+    "height": 1594,
+    "page": "https://commons.wikimedia.org/wiki/File:Edwards_Martin_Farquhar_Tupper_1864_slnsw.jpg",
+    "artist": "Ernest Edwards",
     "license": "Public domain"
    },
    "cards": [
     {
-     "text": "Beowulf (; Old English: Bēowulf [ˈbeːo.wuɫf]) is an Old English poem, an epic in the tradition of Germanic heroic legend consisting of 3,182 alliterative lines, contained in the Nowell Codex. It is one of the most important and most often translated works of Old English literature. The date of composition is a matter of contention among scholars; the only certain dating is for the manuscript, which was produced between AD 975 and 1025.",
+     "text": "Martin Farquhar Tupper (17 July 1810 – 29 November 1889) was an English poet and novelist. He was one of the most widely-read English-language authors of his day with the poetry collection Proverbial Philosophy, which was a bestseller in the United Kingdom and North America for several decades.",
      "image": null
     },
     {
-     "text": "Scholars call the anonymous author the \"Beowulf poet\". The story is set in pagan Scandinavia in the 5th and 6th centuries. Beowulf, a hero of the Geats, comes to the aid of Hrothgar, the king of the Danes, whose mead hall Heorot has been under attack by the monster Grendel for twelve years. After Beowulf slays him, Grendel's mother tries to take revenge and is in turn defeated.",
+     "text": "Tupper found great success in Victorian Britain at a relatively early age, with a second series of the poetry collection Proverbial Philosophy in 1842. The work's fame later spread to the US and Canada, and it continued to be popular for several decades.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3e/Eadgil%27s_barrow.PNG",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Martin_Farquhar_Tupper_%281810-1889%29%2C_by_Arthur_William_Devis.jpg/1280px-Martin_Farquhar_Tupper_%281810-1889%29%2C_by_Arthur_William_Devis.jpg",
       "width": 1280,
-      "height": 306,
-      "page": "https://commons.wikimedia.org/wiki/File:Eadgil%27s_barrow.PNG",
-      "artist": "Unknown",
-      "license": "CC BY-SA 3.0",
-      "caption": "Finds from Gamla Uppsala's western mound, left, excavated in 1874, support Beowulf and the sagas.[13]"
-     }
-    },
-    {
-     "text": "Victorious, Beowulf goes home to Geatland and becomes king of the Geats. Fifty years later, Beowulf defeats a dragon, but is mortally wounded in the battle. After his death, his attendants cremate his body and erect a barrow on a headland in his memory.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/BLBeowulf.jpg",
-      "width": 1280,
-      "height": 1963,
-      "page": "https://commons.wikimedia.org/wiki/File:BLBeowulf.jpg",
-      "artist": "Unknown medieval",
+      "height": 1560,
+      "page": "https://commons.wikimedia.org/wiki/File:Martin_Farquhar_Tupper_(1810-1889),_by_Arthur_William_Devis.jpg",
+      "artist": "Arthur William Devis",
       "license": "Public domain",
-      "caption": "Remounted page, British Library Cotton Vitellius A.XV"
+      "caption": "Martin F. Tupper aged 10 (Arthur William Devis)"
      }
     },
     {
-     "text": "Scholars have debated whether Beowulf was transmitted orally, affecting its interpretation: if it was composed early, in pagan times, then the paganism is central and the Christian elements were added later, whereas if it was composed later, in writing, by a Christian, then the pagan elements could be decorative archaising; some scholars also hold an intermediate position. ",
-     "image": null
-    },
-    {
-     "text": "Beowulf is written mostly in the Late West Saxon dialect of Old English, but many other dialectal forms are present, suggesting that the poem may have had a long and complex transmission throughout the dialect areas of England.",
-     "image": null
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 85
-  },
-  {
-   "id": "86493",
-   "title": "Fianna",
-   "description": "Celtic warrior bands of legend",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Fianna",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Irishfairytales01step_0219.jpg",
-    "width": 1280,
-    "height": 1547,
-    "page": "https://commons.wikimedia.org/wiki/File:Irishfairytales01step_0219.jpg",
-    "artist": "Arthur Rackham",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Fianna ( FEE-ə-nə, Irish: [ˈfʲiən̪ˠə]; sing. fían; Scottish Gaelic: Fèinne [ˈfeːɲə]; sing. fiann) were small warrior-hunter bands in Gaelic Ireland during the Iron Age and early Middle Ages. A fian was made up of freeborn young men, often from the Gaelic nobility of Ireland, \"who had left fosterage but had not yet inherited the property needed to settle down as full landowning members of the túath\".",
-     "image": null
-    },
-    {
-     "text": "For most of the year they lived in the wild, hunting, cattle raiding other Irish clans, training, and fighting as mercenaries. Scholars believe the fian was a rite of passage into manhood, and have linked fianna with similar young warrior bands in other early European cultures.",
+     "text": "The author capitalised on this success with scores of editions in various formats and tours in his homeland and in North America, and as one of Queen Victoria's favourite poets he was once a serious contender for the position of Poet Laureate of the United Kingdom. However, Proverbial Philosophy eventually fell out of fashion, and its previous eminence made the poetry and its author popular targets for satire and parody.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760479206%29.jpg/1280px-Myths_and_legends%3B_the_Celtic_race_%281910%29_%2814760479206%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Photo_of_Martin_Farquhar_Tupper.jpg",
       "width": 1280,
-      "height": 1891,
-      "page": "https://commons.wikimedia.org/wiki/File:Myths_and_legends;_the_Celtic_race_(1910)_(14760479206).jpg",
-      "artist": "Internet Archive Book Images",
-      "license": "No restrictions",
-      "caption": "\"The Fianna raised a pillar stone with her name in Ogham letters\" - illustration by Stephen Reid in Myths & Legends of the Celtic Race (1911)"
+      "height": 1762,
+      "page": "https://commons.wikimedia.org/wiki/File:Photo_of_Martin_Farquhar_Tupper.jpg",
+      "artist": "Maull & Fox",
+      "license": "Public domain",
+      "caption": "Photo of Martin Farquhar Tupper"
      }
     },
     {
-     "text": "They are featured in a body of Irish legends known as the 'Fianna Cycle' or 'Fenian Cycle', which focuses on the adventures and heroic deeds of the fian leader Fionn mac Cumhaill and his band. In later tales, the fianna are more often depicted as household troops of the High Kings. The Fenian Brotherhood of the 19th century and the Fianna Éireann, an Irish nationalist youth organisation of the 20th century, are named after them.",
-     "image": null
+     "text": "Despite his prodigious output and ongoing efforts at self-promotion, Tupper's other work did not achieve anywhere close to the bestseller status of Proverbial Philosophy, and even towards the end of the poet's own lifetime he had become obscure. Nevertheless, the style of Proverbial Philosophy (which Tupper referred to as \"rhythmics\" rather than poetry) had an influence on admirer Walt Whitman, who was also experimenting with free verse.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Proverbial_Philosophy_-_Of_Writing.png",
+      "width": 1280,
+      "height": 1769,
+      "page": "https://commons.wikimedia.org/wiki/File:Proverbial_Philosophy_-_Of_Writing.png",
+      "artist": "Martin F. Tupper, illustr. Sir John Tenniel",
+      "license": "Public domain",
+      "caption": "The first page of \"Of Writing\" from the first illustrated edition.[22] Illustrations by John Tenniel.[23]"
+     }
+    },
+    {
+     "text": "Considered by later generations to be artefacts of their time, Tupper's works have largely been forgotten, and as of 2002 had been out of print for over a century.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/02/Anthony-devis-albury-house-1792.jpg",
+      "width": 1280,
+      "height": 925,
+      "page": "https://commons.wikimedia.org/wiki/File:Anthony-devis-albury-house-1792.jpg",
+      "artist": "Anthony Devis",
+      "license": "Public domain",
+      "caption": "Albury House in 1792"
+     }
     }
    ],
    "truncated": false,
-   "readSeconds": 57
+   "readSeconds": 87
   },
   {
-   "id": "40773141",
-   "title": "Seven Ill Years",
-   "description": "1690s famine in Scotland",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/Seven_Ill_Years",
+   "id": "39458815",
+   "title": "Murder of Lee Rigby",
+   "description": "2013 murder of a British soldier",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Murder_of_Lee_Rigby",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/82/A_new_map_of_Scotland_with_the_roads_%288643653080%29.jpg/1280px-A_new_map_of_Scotland_with_the_roads_%288643653080%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Lee_Rigby_Manchester_tribute.jpg/1280px-Lee_Rigby_Manchester_tribute.jpg",
     "width": 1280,
-    "height": 1059,
-    "page": "https://commons.wikimedia.org/wiki/File:A_new_map_of_Scotland_with_the_roads_(8643653080).jpg",
-    "artist": "http://maps.bpl.org",
+    "height": 848,
+    "page": "https://commons.wikimedia.org/wiki/File:Lee_Rigby_Manchester_tribute.jpg",
+    "artist": "Donald Judge",
     "license": "CC BY 2.0"
    },
    "cards": [
     {
-     "text": "The Seven Ill Years, also known as the Seven Lean Years (Scottish Gaelic: seachd bliadhna gorta), is the term used for a period of widespread and prolonged famine in Scotland during the 1690s, named after the biblical famine in Egypt predicted by Joseph in the Book of Genesis. Estimates suggest between 5 and 15% of the total Scottish population died of starvation, while in areas like Aberdeenshire death rates may have reached 25%.",
+     "text": "On the afternoon of 22 May 2013, a British Army soldier, Fusilier Lee Rigby of the Royal Regiment of Fusiliers, was killed by Islamist terrorists Michael Adebolajo and Michael Adebowale near the Royal Artillery Barracks in Woolwich, southeast London. Rigby was off duty and walking along Wellington Street when he was attacked. Adebolajo and Adebowale ran him down with a car, then used knives and a cleaver to stab and hack him to death.",
      "image": null
     },
     {
-     "text": "One reason the shortages of the 1690s are so well remembered is because they were the last of their kind. As documented in tree ring records, the 1690s was the coldest decade in Scotland for the past 750 years. Failed harvests in 1695, 1696, 1698 and 1699, combined with an economic slump caused by the Nine Years' War, resulted in severe famine and depopulation.",
+     "text": "The men dragged Rigby's body into the road and remained at the scene until police arrived, informing passers-by that they had murdered Rigby to avenge Muslims killed by the British military. Unarmed police arrived at the scene nine minutes after an emergency call was received and set up a cordon. Armed police officers arrived five minutes later. The assailants, armed with a cleaver and brandishing a gun, charged at the police, who fired shots that wounded them both.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bb/1000_Year_Temperature_Comparison.png",
-      "width": 1280,
-      "height": 945,
-      "page": "https://commons.wikimedia.org/wiki/File:1000_Year_Temperature_Comparison.png",
-      "artist": "Robert A. Rohde",
-      "license": "CC BY-SA 3.0",
-      "caption": "Temperature comparisons showing the Little Ice Age"
-     }
-    },
-    {
-     "text": "The Old Scottish Poor Law was overwhelmed by the scale of the crisis, although provision in the urban centres of the burghs was probably better than in the countryside. It led to migration between parishes and emigration to England, Europe, the Americas and particularly Ireland.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Greyfriars_Kirkyard%2C_Edinburgh.JPG/1280px-Greyfriars_Kirkyard%2C_Edinburgh.JPG",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Drummer_Lee_Rigby_flowers_at_Woolwich_on_the_30_May_2013.jpeg/1280px-Drummer_Lee_Rigby_flowers_at_Woolwich_on_the_30_May_2013.jpeg",
       "width": 1280,
       "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Greyfriars_Kirkyard,_Edinburgh.JPG",
-      "artist": "Kim Traynor",
-      "license": "CC BY-SA 3.0",
-      "caption": "Greyfriars Kirkyard, Edinburgh, where the town council erected a \"refugee camp\" to deal with the influx of starving families in 1696"
+      "page": "https://commons.wikimedia.org/wiki/File:Drummer_Lee_Rigby_flowers_at_Woolwich_on_the_30_May_2013.jpeg",
+      "artist": "Unknown",
+      "license": "CC BY 2.0",
+      "caption": "The site of the attack in Wellington Street, with floral tributes and flags, 30 May 2013"
      }
     },
     {
-     "text": "The crisis resulted in the setting up of the Bank of Scotland and the Company of Scotland, whose failure following the Darien scheme increased the pressure for political union with England, finalised in the 1707 Union with England Act.",
+     "text": "They were apprehended and taken to separate hospitals. Adebolajo and Adebowale are British of Nigerian descent, were raised as Christians, and converted to Islam. On 19 December 2013, both of the attackers were found guilty of Rigby's murder. On 26 February 2014, they were sentenced to life imprisonment, with Adebolajo given a whole life order and Adebowale ordered to serve at least 45 years.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2b/Riggs_at_Haddington.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/78/2015_London-Woolwich%2C_Wellington_St%2C_Lee_Rigby_memorial_02.JPG/1280px-2015_London-Woolwich%2C_Wellington_St%2C_Lee_Rigby_memorial_02.JPG",
       "width": 1280,
-      "height": 1004,
-      "page": "https://commons.wikimedia.org/wiki/File:Riggs_at_Haddington.jpg",
-      "artist": "John Slezer",
-      "license": "Public domain",
-      "caption": "Runrig farming outside the town of Haddington, East Lothian c. 1690"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 74
-  },
-  {
-   "id": "384819",
-   "title": "Oranges and Lemons",
-   "description": "English folk song",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Oranges_and_Lemons",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Sidewall%2C_Oranges_and_Lemons_Say_the_Bells_of_St._Clements%2C_1902_%28CH_18604691%29.jpg/1280px-Sidewall%2C_Oranges_and_Lemons_Say_the_Bells_of_St._Clements%2C_1902_%28CH_18604691%29.jpg",
-    "width": 1280,
-    "height": 1292,
-    "page": "https://commons.wikimedia.org/wiki/File:Sidewall,_Oranges_and_Lemons_Say_the_Bells_of_St._Clements,_1902_(CH_18604691).jpg",
-    "artist": "Unknown artistUnknown artist",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "\"Oranges and Lemons\" is a traditional English nursery rhyme, folksong, and singing game which refers to the bells of several churches, all within or close to the City of London. It is listed in the Roud Folk Song Index as No 13190. The earliest known printed version appeared c. 1744.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Panorama_of_London_in_1543_Wyngaerde_Section_2.jpg/1280px-Panorama_of_London_in_1543_Wyngaerde_Section_2.jpg",
-      "width": 1280,
-      "height": 785,
-      "page": "https://commons.wikimedia.org/wiki/File:Panorama_of_London_in_1543_Wyngaerde_Section_2.jpg",
-      "artist": "Nathaniel Whittock",
-      "license": "Public domain",
-      "caption": "Panorama of London in 1543 from a 19th-century engraving by Nathaniel Whittock from a drawing by Antony van den Wyngaerde (c. 1543–50), showing the towers and spires of many of the churches mentioned in the rhyme"
-     }
-    },
-    {
-     "text": "The rhyme has been referenced in a variety of works of literature and popular culture. The bells of St Clement Danes (one of many London churches associated with the rhyme) play the tune every day at 9 am, noon, 3 pm and 6 pm.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Agnes_Rose_Bouvier00.jpg",
-      "width": 1280,
-      "height": 948,
-      "page": "https://commons.wikimedia.org/wiki/File:Agnes_Rose_Bouvier00.jpg",
-      "artist": "Agnes Rose Bouvier (1842 - 1892)",
-      "license": "Public domain",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 37
-  },
-  {
-   "id": "42724701",
-   "title": "Folkton Drums",
-   "description": "Archaeological find in England",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Folkton_Drums",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Folkton_Drums.JPG/1280px-Folkton_Drums.JPG",
-    "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Folkton_Drums.JPG",
-    "artist": "Jononmac46",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "The Folkton Drums are a rare set of three decorated chalk objects in the shape of drums or solid cylinders dating from the Neolithic period. Found in a child's grave near the village of Folkton in the East Riding of Yorkshire in northern England, they are now on loan to Stonehenge Visitor Centre from the British Museum.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bc/Folkton_DrumsDSCF9508.JPG/1280px-Folkton_DrumsDSCF9508.JPG",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Folkton_DrumsDSCF9508.JPG",
-      "artist": "Johnbod",
+      "height": 898,
+      "page": "https://commons.wikimedia.org/wiki/File:2015_London-Woolwich,_Wellington_St,_Lee_Rigby_memorial_02.JPG",
+      "artist": "Kleon3",
       "license": "CC BY-SA 4.0",
-      "caption": "Detail of the schematic face on one of the drums"
+      "caption": "The murder site in 2015"
      }
     },
     {
-     "text": "A similar object, the Burton Agnes drum was found 15 miles (24 km) away near Burton Agnes in 2015, and another example, the Lavant drum, was excavated in 1993 in Lavant, West Sussex. Their purpose remains obscure. They were given the name \"drum\" to describe their shape, rather than from any thought they might be percussion instruments.",
+     "text": "The attack was condemned by political and Muslim leaders in the United Kingdom and in the international press.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/eb/Folkton_DrumsDSCF9510.JPG/1280px-Folkton_DrumsDSCF9510.JPG",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/2016_Woolwich%2C_Royal_Garrison_Church_of_St_George_16.jpg/1280px-2016_Woolwich%2C_Royal_Garrison_Church_of_St_George_16.jpg",
       "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Folkton_DrumsDSCF9510.JPG",
-      "artist": "Johnbod",
+      "height": 915,
+      "page": "https://commons.wikimedia.org/wiki/File:2016_Woolwich,_Royal_Garrison_Church_of_St_George_16.jpg",
+      "artist": "Kleon3",
       "license": "CC BY-SA 4.0",
-      "caption": "Side image of a drum with geometric patterns"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 42
-  },
-  {
-   "id": "19333309",
-   "title": "Viking expansion",
-   "description": "8th–11th century expansion by Norsemen",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/Viking_expansion",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Viking_attack_on_Gu%C3%A9rande%2C_from_a_Saint-Aubin_MS.jpg",
-    "width": 1280,
-    "height": 1700,
-    "page": "https://commons.wikimedia.org/wiki/File:Viking_attack_on_Gu%C3%A9rande,_from_a_Saint-Aubin_MS.jpg",
-    "artist": "Abbey of Saint-Aubin",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Viking expansion was the historical movement, beginning in the 8th century, which led Vikings to sail most of the North Atlantic, reaching south as far as North Africa and east as far as Russia, and through the Mediterranean as far as Constantinople and the Middle East, acting as looters, traders, colonists and mercenaries.",
-     "image": null
-    },
-    {
-     "text": "To the west, Vikings under Leif Erikson (the heir to Erik the Red) reached North America and set up a short-lived settlement in present-day L'Anse aux Meadows, Newfoundland, Canada. Longer lasting and more established Norse settlements were formed in Greenland, Iceland, the Faroe Islands, Russia, Ukraine, Britain, Ireland, Normandy and Sicily.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/Evariste-Vital_Luminais_-_Pirates_normands_au_IXe_si%C3%A8cle_%28esquisse%29.jpg/1280px-Evariste-Vital_Luminais_-_Pirates_normands_au_IXe_si%C3%A8cle_%28esquisse%29.jpg",
-      "width": 1280,
-      "height": 1576,
-      "page": "https://commons.wikimedia.org/wiki/File:Evariste-Vital_Luminais_-_Pirates_normands_au_IXe_si%C3%A8cle_(esquisse).jpg",
-      "artist": "Évariste-Vital Luminais",
-      "license": "Public domain",
-      "caption": "A depiction of Vikings kidnapping a woman. Viking men often kidnapped foreign women for marriage or concubinage from lands that they had pillaged. Illustrated by French painter Évariste Vital Luminais in the 19th century."
-     }
-    },
-    {
-     "text": "By the 11th century expansion largely ceased, but many areas were left with populations of Viking descent, integrated into other local populations in various ways. Some Viking descendents formed ruling dynasties or elites, while elsewhere they settled down as farmers.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/Nicholas_Roerich%2C_Guests_from_Overseas.jpg/1280px-Nicholas_Roerich%2C_Guests_from_Overseas.jpg",
-      "width": 1280,
-      "height": 966,
-      "page": "https://commons.wikimedia.org/wiki/File:Nicholas_Roerich,_Guests_from_Overseas.jpg",
-      "artist": "Nicholas Roerich",
-      "license": "Public domain",
-      "caption": "Guests from Overseas (1901) by Nicholas Roerich, depicting a Viking raid. (Varangians in Rus')"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 50
-  },
-  {
-   "id": "12582693",
-   "title": "Battle of Catraeth",
-   "description": "Sixth-century battle in northern Britain",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Battle_of_Catraeth",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1d/JacksonGododdinCoverRecreation.svg/1280px-JacksonGododdinCoverRecreation.svg.png",
-    "width": 1280,
-    "height": 538,
-    "page": "https://commons.wikimedia.org/wiki/File:JacksonGododdinCoverRecreation.svg",
-    "artist": "Tipcake",
-    "license": "CC0"
-   },
-   "cards": [
-    {
-     "text": "The Battle of Catraeth was a battle fought around AD 600 between a force raised by the Gododdin, a Brythonic people of the Hen Ogledd or \"Old North\" of Britain, and the Angles of Bernicia and Deira. It was evidently an assault by the Gododdin party on the Angle stronghold of Catraeth, perhaps Catterick, North Yorkshire.",
-     "image": null
-    },
-    {
-     "text": "The Gododdin force was said to have consisted of warriors from all over the Hen Ogledd, and even some from as far afield as Gwynedd in North Wales and Pictland. The battle was disastrous for the Britons, who were nearly all killed. The slain warriors were commemorated in the important early poem Y Gododdin, attributed to Aneirin.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 33
-  },
-  {
-   "id": "10394153",
-   "title": "Whiteladies Picture House",
-   "description": "Cinema in Clifton, Bristol, England",
-   "topic": "bristol",
-   "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Whiteladies_Picture_House",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9f/Whiteladiespicturehouse.JPG/1280px-Whiteladiespicturehouse.JPG",
-    "width": 1280,
-    "height": 1539,
-    "page": "https://commons.wikimedia.org/wiki/File:Whiteladiespicturehouse.JPG",
-    "artist": "Rodw at English Wikipedia",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The Whiteladies Picture House (grid reference ST576742) is a cinema on Whiteladies Road in Clifton, Bristol, England. It was built in 1920–1921 by James Henry LaTrobe and Thomas Harry Weston (1870–1923) and opened by the Duchess of Beaufort on 29 November 1921. It formerly had a ballroom, billiard room and restaurant but in 1978, it became a three-screen cinema rather than having a single screen.",
-     "image": null
-    },
-    {
-     "text": "As part of the ABC chain, the cinema was eventually absorbed by Odeon, in a merger undertaken by the private equity firm Cinven. With another Odeon nearby on Broadmead's Union Street, the decision was taken to close down and sell the Whiteladies in 2001 with a restrictive covenant forbidding its future use as a cinema.",
-     "image": null
-    },
-    {
-     "text": "The cinema has been designated by English Heritage as a grade II listed building. While the front section of the building has been divided off to create a restaurant, the majority of the building, including the main auditorium, balcony and ballroom, remained empty since its closure in 2001 until its reopening in 2016.",
-     "image": null
-    },
-    {
-     "text": "The building was allowed to deteriorate and was on Bristol City Council's \"at Risk\" register, deeming it to be in danger of being lost due to lack of use, under-use, disrepair, or dereliction. Several plans were put forward to redevelop the building. The most recent planning application to convert the building into a gym and flats was rejected by Bristol City Council, went to appeal and was finally defeated in March 2013.",
-     "image": null
-    },
-    {
-     "text": "In November 2010 a not-for-profit company, Whiteladies Picture House Ltd, was set up by Alan Mandel Butler and David Fells (manager of the local Redgrave Theatre) to raise awareness of the building and its history and to begin the journey of raising the necessary capital to reopen the Picture House as a mixed-use venue with a 450-seat theatre and a 200-seat cinema.",
-     "image": null
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 84
-  },
-  {
-   "id": "5575722",
-   "title": "Fuck",
-   "description": "English-language profanity",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Fuck",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/2017.04.15_-TaxMarch_Washington%2C_DC_USA_02382_%2834019086796%29.jpg/1280px-2017.04.15_-TaxMarch_Washington%2C_DC_USA_02382_%2834019086796%29.jpg",
-    "width": 1280,
-    "height": 1081,
-    "page": "https://commons.wikimedia.org/wiki/File:2017.04.15_-TaxMarch_Washington,_DC_USA_02382_(34019086796).jpg",
-    "artist": "Ted Eytan",
-    "license": "CC BY-SA 2.0"
-   },
-   "cards": [
-    {
-     "text": "Fuck is a profanity in the English language. It often refers to the act of sexual intercourse, but it is most commonly used as an intensifier or to convey disdain. While its origin is obscure, it is usually considered to be first attested to around 1475. In modern usage, the term fuck and its derivatives (such as fucker and fucking) are used as a noun, a verb, an adjective, an infix, an interjection, or an adverb.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2015_-_La_guitare_%C2%AB_fumante_%C2%BB_d%27Ace_Frehley_-_Hellfest_%28cropped%29.jpg/1280px-2015_-_La_guitare_%C2%AB_fumante_%C2%BB_d%27Ace_Frehley_-_Hellfest_%28cropped%29.jpg",
-      "width": 1280,
-      "height": 1563,
-      "page": "https://commons.wikimedia.org/wiki/File:2015_-_La_guitare_%C2%AB_fumante_%C2%BB_d%27Ace_Frehley_-_Hellfest_(cropped).jpg",
-      "artist": "Tilly antoine",
-      "license": "CC BY-SA 4.0",
-      "caption": "Guitarist Ace Frehley with T-shirt \"New York Fuckin City\""
-     }
-    },
-    {
-     "text": "There are many common phrases that employ the word as well as compounds that incorporate it, such as motherfucker and fuck off.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/19/Tank_on_Flamenco_Beach_2.jpg/1280px-Tank_on_Flamenco_Beach_2.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Tank_on_Flamenco_Beach_2.jpg",
-      "artist": "Jami Dwyer",
-      "license": "CC BY-SA 2.0",
-      "caption": "\"WTF?\" spray painted on the rear of a Sherman tank left over from US military shelling practice on Flamenco Beach on the island of Culebra, Puerto Rico"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 38
-  },
-  {
-   "id": "155550",
-   "title": "Battle of Clontarf",
-   "description": "1014 battle between the Kingdom of Ireland and an Irish-Norse alliance",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Battle_of_Clontarf",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/%27Battle_of_Clontarf%27%2C_oil_on_canvas_painting_by_Hugh_Frazer%2C_1826.jpg/1280px-%27Battle_of_Clontarf%27%2C_oil_on_canvas_painting_by_Hugh_Frazer%2C_1826.jpg",
-    "width": 1280,
-    "height": 852,
-    "page": "https://commons.wikimedia.org/wiki/File:%27Battle_of_Clontarf%27,_oil_on_canvas_painting_by_Hugh_Frazer,_1826.jpg",
-    "artist": "Hugh Frazer",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The Battle of Clontarf (Irish: Cath Chluain Tarbh) took place on 23 April 1014 at Clontarf, near Dublin, on the east coast of Ireland. It pitted an army led by Brian Boru, High King of Ireland, against a Norse-Irish alliance comprising the forces of Sigtrygg Silkbeard, King of Dublin; Máel Mórda mac Murchada, King of Leinster; and a Viking army from abroad led by Sigurd of Orkney and Brodir of Mann.",
-     "image": null
-    },
-    {
-     "text": "It lasted from sunrise to sunset, and ended in a rout of the Viking and Leinster armies. It is estimated that between 7,000 and 10,000 men were killed in the battle, including most of the leaders. Although Brian's forces were victorious, Brian himself was killed, as were his son Murchad and his grandson Toirdelbach. Leinster king Máel Mórda and Viking leaders Sigurd and Brodir were also slain.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Map_of_Battle_of_Clontarf.png",
-      "width": 1280,
-      "height": 809,
-      "page": "https://commons.wikimedia.org/wiki/File:Map_of_Battle_of_Clontarf.png",
-      "artist": "赤奋若",
-      "license": "CC BY-SA 4.0",
-      "caption": "1. Clondalkin and Kilmainham were plundered, Brian's son Donnchad (Donough) sacked Leinster (1014); 2. Brian's forces began war, camped near Kilmainham; 3. Finegall and Howth were plundered; 4. Vikings left Dublin to engage Brian; 5. Overseas Viking fleet arrived; 6. Battle of Clontarf; 7. Retreat of Vikings, some drowned in the sea, some forced through Dubgall's Bridge and were attacked again, a few returned to Dublin; 8. Brodar's possible route, killed Brian and was killed himself; 9. Brian's remains to Swords, then to Armagh."
-     }
-    },
-    {
-     "text": "After the battle, the power of the Vikings and the Kingdom of Dublin was largely broken. The battle was an important event in Irish history and is recorded in both Irish and Norse chronicles. In Ireland, the battle came to be seen as an event that freed the Irish from foreign domination, and Brian was hailed as a national hero.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Vikings_at_Clontarf_re-enactment.png/1280px-Vikings_at_Clontarf_re-enactment.png",
-      "width": 1280,
-      "height": 806,
-      "page": "https://commons.wikimedia.org/wiki/File:Vikings_at_Clontarf_re-enactment.png",
-      "artist": "Hibernian",
-      "license": "CC0",
-      "caption": "Viking re-enactors from all over the world at the Battle of Clontarf millennium commemoration in Saint Anne's Park, Dublin (lining up before charging at the opposition). 19 April 2014."
-     }
-    },
-    {
-     "text": "This view was especially popular during the period of British rule in Ireland. Although the battle has come to be viewed in a more critical light, it still has a hold on the popular imagination.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Stair-%C4%8Bea%C4%8Bta._sg%C3%A9alta_gearra_ar_nei%E1%B9%ABi%E1%B8%83_and_ar_%E1%B8%8Baoini%E1%B8%83_i_sean%C4%8Bas_na_h%C3%89ireann_%281905%29_%2814775892202%29.jpg/1280px-Stair-%C4%8Bea%C4%8Bta._sg%C3%A9alta_gearra_ar_nei%E1%B9%ABi%E1%B8%83_and_ar_%E1%B8%8Baoini%E1%B8%83_i_sean%C4%8Bas_na_h%C3%89ireann_%281905%29_%2814775892202%29.jpg",
-      "width": 1280,
-      "height": 1872,
-      "page": "https://commons.wikimedia.org/wiki/File:Stair-%C4%8Bea%C4%8Bta._sg%C3%A9alta_gearra_ar_nei%E1%B9%ABi%E1%B8%83_and_ar_%E1%B8%8Baoini%E1%B8%83_i_sean%C4%8Bas_na_h%C3%89ireann_(1905)_(14775892202).jpg",
-      "artist": "Ó Neachtain, Eoghan",
-      "license": "No restrictions",
-      "caption": "Illustration of the Battle of Clontarf, from a 1905 book"
+      "caption": "Memorial in St George's Garrison Church, Woolwich"
      }
     }
    ],
@@ -880,136 +136,936 @@
    "readSeconds": 77
   },
   {
-   "id": "1256704",
-   "title": "Christ Church Greyfriars",
-   "description": "Church in the City of London, United Kingdom",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Christ_Church_Greyfriars",
+   "id": "61611459",
+   "title": "Bristol Guildhall",
+   "description": "Former municipal building in Bristol, England",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/Bristol_Guildhall",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Iglesia_Cristiana_de_Greyfriars%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_135.JPG/1280px-Iglesia_Cristiana_de_Greyfriars%2C_Londres%2C_Inglaterra%2C_2014-08-11%2C_DD_135.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Bristol_Guildhall.JPG/1280px-Bristol_Guildhall.JPG",
     "width": 1280,
-    "height": 1009,
-    "page": "https://commons.wikimedia.org/wiki/File:Iglesia_Cristiana_de_Greyfriars,_Londres,_Inglaterra,_2014-08-11,_DD_135.JPG",
-    "artist": "Diego Delso",
-    "license": "CC BY-SA 4.0"
+    "height": 853,
+    "page": "https://commons.wikimedia.org/wiki/File:Bristol_Guildhall.JPG",
+    "artist": "Rodw",
+    "license": "CC0"
    },
    "cards": [
     {
-     "text": "Christ Church Greyfriars, also known as Christ Church Newgate Street, was a church in Newgate Street, opposite St Paul's Cathedral in the City of London. Established as a monastic church in the thirteenth century, it became a parish church after the Dissolution of the Monasteries. Following its destruction in the Great Fire of London of 1666, it was rebuilt to the designs of Sir Christopher Wren.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/Christ_Church_London.jpg",
-      "width": 1280,
-      "height": 2190,
-      "page": "https://commons.wikimedia.org/wiki/File:Christ_Church_London.jpg",
-      "artist": "The Illustrated London News",
-      "license": "Public domain",
-      "caption": "Christ Church as depicted in an 1845 edition of the Illustrated London News."
-     }
+     "text": "Bristol Guildhall is a former municipal building on Broad Street in Bristol, England. It is a Grade II* listed building. It was built in the 1840s on the site of the previous guildhall and used as a courthouse from the 1860s to 1993. Various plans for its use as an art gallery and hotel were then proposed.",
+     "image": null
     },
     {
-     "text": "Except for the tower, the church was largely destroyed by bombing during the Second World War. The decision was made not to rebuild the church; the ruins are now a public garden.",
+     "text": "In March 2020, it was damaged by a fire which led to its roof collapsing; as of 2025 it is being converted into a spa hotel and due to open in early 2026.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Christ_Church_Newgate_interior.jpg/1280px-Christ_Church_Newgate_interior.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Millerd1728dguildhall.jpg/1280px-Millerd1728dguildhall.jpg",
       "width": 1280,
-      "height": 1671,
-      "page": "https://commons.wikimedia.org/wiki/File:Christ_Church_Newgate_interior.jpg",
-      "artist": "Charles Latham (1847-1912)",
+      "height": 769,
+      "page": "https://commons.wikimedia.org/wiki/File:Millerd1728dguildhall.jpg",
+      "artist": "James Millerd and unknown later editors.",
       "license": "Public domain",
-      "caption": "Interior view"
+      "caption": "The earlier Guild Hall on Broad Street, Bristol"
      }
     }
    ],
    "truncated": false,
-   "readSeconds": 38
+   "readSeconds": 31
   },
   {
-   "id": "9163926",
-   "title": "Isurium Brigantum",
-   "description": "Roman fort and town at Aldborough in North Yorkshire, England",
+   "id": "287870",
+   "title": "George Buchanan",
+   "description": "Scottish historian and humanist scholar (1506–1582)",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/George_Buchanan",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/George_Buchanan_by_Arnold_van_Brounckhorst.jpg/1280px-George_Buchanan_by_Arnold_van_Brounckhorst.jpg",
+    "width": 1280,
+    "height": 1611,
+    "page": "https://commons.wikimedia.org/wiki/File:George_Buchanan_by_Arnold_van_Brounckhorst.jpg",
+    "artist": "After Arnold Bronckorst",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "George Buchanan (Scottish Gaelic: Seòras Bochanan; February 1506 – 28 September 1582) was a Scottish historian and humanist scholar. According to historian Keith Brown, Buchanan was \"the most profound intellectual sixteenth-century Scotland produced.\" His ideology of resistance to royal usurpation gained widespread acceptance during the Scottish Reformation. Brown says the ease with which King James VII was deposed in 1689 shows the power of Buchananite ideas.",
+     "image": null
+    },
+    {
+     "text": "His treatise De Jure Regni apud Scotos, published in 1579, discussed the doctrine that the source of all political power is the people, and that the king is bound by those conditions under which the supreme power was first committed to his hands, and that it is lawful to resist, even to punish, tyrants. ",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Statue_of_George_Buchanan%2C_Scottish_National_Portrait_Gallery.jpg/1280px-Statue_of_George_Buchanan%2C_Scottish_National_Portrait_Gallery.jpg",
+      "width": 1280,
+      "height": 1922,
+      "page": "https://commons.wikimedia.org/wiki/File:Statue_of_George_Buchanan,_Scottish_National_Portrait_Gallery.jpg",
+      "artist": "Stephencdickson",
+      "license": "CC BY-SA 4.0",
+      "caption": "Statue of George Buchanan, Scottish National Portrait Gallery"
+     }
+    },
+    {
+     "text": "The importance of Buchanan's writings is shown by the suppression of his work by James VI and the British legislatures in the century following their publication. It was condemned by an act of Parliament, the Treason (No. 2) Act 1584 (May c. 8 (S)), and burned by the University of Oxford in 1664 and 1683.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Buchanan_Obelisk%2C_Killearn.jpg/1280px-Buchanan_Obelisk%2C_Killearn.jpg",
+      "width": 1280,
+      "height": 2018,
+      "page": "https://commons.wikimedia.org/wiki/File:Buchanan_Obelisk,_Killearn.jpg",
+      "artist": "dave souza",
+      "license": "CC BY-SA 4.0",
+      "caption": "The 31-metre-high (101 ft 8 in) Buchanan Monument in Killearn commemorates his nearby birthplace."
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 58
+  },
+  {
+   "id": "43801045",
+   "title": "English Benedictine Reform",
+   "description": "Religious reform movement in the late Anglo-Saxon period",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/English_Benedictine_Reform",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Edgar_from_Winchester_Charter.jpg/1280px-Edgar_from_Winchester_Charter.jpg",
+    "width": 1280,
+    "height": 1801,
+    "page": "https://commons.wikimedia.org/wiki/File:Edgar_from_Winchester_Charter.jpg",
+    "artist": "Not known",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The English Benedictine Reform or Monastic Reform of the English church in the late tenth century was a religious and intellectual movement in the later Anglo-Saxon period. In the mid-tenth century almost all religious establishments were staffed by secular clergy, who were often married. The reformers sought to replace them with celibate contemplative monks following the Rule of Saint Benedict.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Edgar_in_Regularis_Concordia.jpg/1280px-Edgar_in_Regularis_Concordia.jpg",
+      "width": 1280,
+      "height": 1740,
+      "page": "https://commons.wikimedia.org/wiki/File:Edgar_in_Regularis_Concordia.jpg",
+      "artist": "The original uploader was Mike Christie at English Wikipedia.",
+      "license": "Public domain",
+      "caption": "King Edgar seated between Bishop Æthelwold and Archbishop Dunstan, from an eleventh-century manuscript of the Regularis Concordia"
+     }
+    },
+    {
+     "text": "The movement was inspired by Continental monastic reforms, and the leading figures were Dunstan, Archbishop of Canterbury, Æthelwold, Bishop of Winchester, and Oswald, Archbishop of York. In seventh- and eighth-century England, most monasteries were Benedictine, but in the ninth century learning and monasticism declined severely. Alfred the Great (871–899) deplored the decline and started to reverse it.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/The_Ramsey_Psalter%2C_BL_Harley_Ms_2904%2C_Initial_B%2C_folio_4.jpg/1280px-The_Ramsey_Psalter%2C_BL_Harley_Ms_2904%2C_Initial_B%2C_folio_4.jpg",
+      "width": 1280,
+      "height": 1755,
+      "page": "https://commons.wikimedia.org/wiki/File:The_Ramsey_Psalter,_BL_Harley_Ms_2904,_Initial_B,_folio_4.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "caption": "Initial letter \"B\" in the Ramsey Psalter, which was probably designed for the use of Archbishop Oswald"
+     }
+    },
+    {
+     "text": "The court of Æthelstan (924–939), the first king of the whole of England, was cosmopolitan, and future reformers such as Dunstan and Æthelwold learned from Continental exponents of Benedictine monasticism. The English movement became dominant under King Edgar (959–975), who supported the expulsion of secular clergy from religious establishments, and their replacement by monks. The reformers had close relations with the Crown, furthering its interests and depending on its support.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Meister_des_Benedictionale_des_Heiligen_Aethelwold_001.jpg/1280px-Meister_des_Benedictionale_des_Heiligen_Aethelwold_001.jpg",
+      "width": 1280,
+      "height": 1632,
+      "page": "https://commons.wikimedia.org/wiki/File:Meister_des_Benedictionale_des_Heiligen_Aethelwold_001.jpg",
+      "artist": "Meister des Benedictionale des Heiligen Aethelwold",
+      "license": "Public domain",
+      "caption": "Folio 25r from the Benedictional of St Æthelwold, a miniature of the Baptism of Christ"
+     }
+    },
+    {
+     "text": "The movement was confined to southern England and the Midlands, as the Crown was not strong enough in northern England to confiscate property from local elites there to establish Benedictine foundations. The movement declined after the deaths of its leading exponents at the end of the tenth century.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/DunstanLarge.jpg",
+      "width": 1280,
+      "height": 1590,
+      "page": "https://commons.wikimedia.org/wiki/File:DunstanLarge.jpg",
+      "artist": "Dunstan",
+      "license": "Public domain",
+      "caption": "The probable self-portrait of Dunstan kneeling before Christ; detail from the Glastonbury Classbook[94]"
+     }
+    },
+    {
+     "text": "The artistic workshops established by Æthelwold reached a high standard of craftsmanship in manuscript illustration, sculpture and gold and silver, and were influential both in England and on the Continent. In his monasteries, learning reached a high standard, producing competent prose and poetry in the elaborate hermeneutic style of Latin favoured in tenth-century England. His Winchester school played an important role in creating the standard vernacular West Saxon literary language, and his pupil Ælfric was its most eminent writer.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1c/Bodleian_Libraries%2C_C%C3%A6dmon_Manuscript_59.jpg",
+      "width": 1280,
+      "height": 1997,
+      "page": "https://commons.wikimedia.org/wiki/File:Bodleian_Libraries,_C%C3%A6dmon_Manuscript_59.jpg",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": "One of many line illustrations in the Junius manuscript"
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 106
+  },
+  {
+   "id": "86229",
+   "title": "Fomorians",
+   "description": "Supernatural race in Irish mythology",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Fomorians",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/The_Fomors_-_Duncan_1912.png",
+    "width": 1280,
+    "height": 848,
+    "page": "https://commons.wikimedia.org/wiki/File:The_Fomors_-_Duncan_1912.png",
+    "artist": "John Duncan (1866–1945)",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The Fomorians or Fomori (Old Irish: Fomóire, Modern Irish: Fomhóraigh / Fomóraigh) are a supernatural race in Irish mythology, who are often portrayed as hostile and monstrous beings. Originally they were said to come from under the sea or the earth. Later, they were portrayed as sea raiders and giants. They are enemies of Ireland's first settlers and opponents of the Tuatha Dé Danann, the other supernatural race in Irish mythology; although some members of the two races have offspring.",
+     "image": null
+    },
+    {
+     "text": "The Tuatha Dé Danann defeat the Fomorians in the Battle of Mag Tuired. This has been likened to other Indo-European myths of a war between gods, such as the Æsir and Vanir War in Norse mythology, the Titanomachy (Olympian-Titan War) in Greek mythology, and the Devas and Asuras in Indian mythology.",
+     "image": null
+    },
+    {
+     "text": "One theory is that the Fomorians were supernatural beings representing the wild or destructive powers of nature; personifications of chaos, darkness, death, blight and drought.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 45
+  },
+  {
+   "id": "10288875",
+   "title": "Gaelic Ireland",
+   "description": "Pre-1607 Gaelic political and social order of Ireland",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Gaelic_Ireland",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Atlas_Van_der_Hagen-KW1049B11_048-HIBERNIAE_REGNUM_tam_in_praecipuas_ULTONIAE%2C_CONNACIAE%2C_LAGENIAE%2C_et_MOMONIAE%2C_quam_in_minores_earundem_Provincias%2C_et_Ditiones_subjacentes_peraccurat%C3%A9_divisum.jpeg/1280px-thumbnail.jpeg",
+    "width": 1280,
+    "height": 1509,
+    "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B11_048-HIBERNIAE_REGNUM_tam_in_praecipuas_ULTONIAE,_CONNACIAE,_LAGENIAE,_et_MOMONIAE,_quam_in_minores_earundem_Provincias,_et_Ditiones_subjacentes_peraccurat%C3%A9_divisum.jpeg",
+    "artist": "Nicolaes Visscher II",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Gaelic Ireland (Irish: Éire Ghaelach) was the Gaelic political and social order, and associated culture, that existed in Ireland from the late prehistoric era until the 17th century. It comprised the whole island before Anglo-Normans conquered parts of Ireland in the 1170s. Thereafter, it comprised that part of the country not under foreign dominion at a given time (i.e. the part beyond The Pale).",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8e/KellsFol292rIncipJohn.jpg",
+      "width": 1280,
+      "height": 1704,
+      "page": "https://commons.wikimedia.org/wiki/File:KellsFol292rIncipJohn.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "caption": "A page from the Book of Kells, made by Gaelic monastic scribes in the 9th century"
+     }
+    },
+    {
+     "text": "For most of its history, Gaelic Ireland was a \"patchwork\" hierarchy of territories ruled by a hierarchy of kings or chiefs, who were chosen or elected through tanistry. Warfare between these territories was common. Traditionally, a powerful ruler like Niall of the Nine Hostages where acknowledged as High King of Ireland. Society was made up of clans and, like the rest of Europe, was structured hierarchically according to class.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Riders_of_the_Sidhe.jpg",
+      "width": 1280,
+      "height": 832,
+      "page": "https://commons.wikimedia.org/wiki/File:Riders_of_the_Sidhe.jpg",
+      "artist": "John Duncan",
+      "license": "Public domain",
+      "caption": "The Tuatha Dé Danann as depicted in John Duncan's \"Riders of the Sídhe\" (1911)"
+     }
+    },
+    {
+     "text": "Throughout this period, the economy was mainly pastoral and money was generally not used. A Gaelic Irish style of dress, music, dance, sport and art can be identified, with Irish art later merging with Anglo-Saxon styles to create Insular art.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Early_Christian_chapel%2C_Irish_National_Heritage_Park_-_geograph.org.uk_-_1254988.jpg",
+      "width": 1280,
+      "height": 1354,
+      "page": "https://commons.wikimedia.org/wiki/File:Early_Christian_chapel,_Irish_National_Heritage_Park_-_geograph.org.uk_-_1254988.jpg",
+      "artist": "David Hawgood",
+      "license": "CC BY-SA 2.0",
+      "caption": "A reconstruction of an early Irish Christian chapel and high cross"
+     }
+    },
+    {
+     "text": "Gaelic Ireland was initially pagan and had an oral culture maintained by traditional Gaelic storytellers/historians, the seanchaidhthe. Writing, in the form of inscription in the ogham alphabet, began in the protohistoric period, perhaps as early as the 1st century. The conversion to Christianity, beginning in the 5th century, accompanied the introduction of literature. In the Middle Ages, Irish mythology and Brehon law were recorded by Irish monks, albeit partly Christianized.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fa/The_Image_of_Irelande_-_plate03.jpg/1280px-The_Image_of_Irelande_-_plate03.jpg",
+      "width": 1280,
+      "height": 857,
+      "page": "https://commons.wikimedia.org/wiki/File:The_Image_of_Irelande_-_plate03.jpg",
+      "artist": "see above.",
+      "license": "Public domain",
+      "caption": "A scene from The Image of Irelande (1581) showing a chieftain at a feast being entertained by a fili and a harper"
+     }
+    },
+    {
+     "text": "Gaelic Irish monasteries were important centres of learning. Irish missionaries and scholars were influential in western Europe and helped to spread Christianity to much of Britain and parts of mainland Europe. In the 9th century, Vikings began raiding and founding settlements along Ireland's coasts and waterways, which became its first large towns. Over time, these settlers were assimilated and became the Norse-Gaels.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Bretha_Cr%C3%B3lige%2C_National_Library_of_Ireland_MS_G_11%2C_p._441.jpg/1280px-Bretha_Cr%C3%B3lige%2C_National_Library_of_Ireland_MS_G_11%2C_p._441.jpg",
+      "width": 1280,
+      "height": 1823,
+      "page": "https://commons.wikimedia.org/wiki/File:Bretha_Cr%C3%B3lige,_National_Library_of_Ireland_MS_G_11,_p._441.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "caption": "The beginning of Bretha Crólige, an early Irish legal text on illegal injury"
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 104
+  },
+  {
+   "id": "1273671",
+   "title": "Insular script",
+   "description": "Medieval writing system common to Ireland and England",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Insular_script",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/BookDurrowInitMark86r.jpg",
+    "width": 1280,
+    "height": 2176,
+    "page": "https://commons.wikimedia.org/wiki/File:BookDurrowInitMark86r.jpg",
+    "artist": "anonymous",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Insular script is a medieval script system originating in Ireland that spread to England and continental Europe under the influence of Irish Christianity. Irish missionaries took the script to continental Europe, where they founded monasteries, such as Bobbio. The scripts were also used in monasteries, like Fulda, which were influenced by English missionaries. They are associated with Insular art, of which most surviving examples are illuminated manuscripts.",
+     "image": null
+    },
+    {
+     "text": "It greatly influenced modern Gaelic type and handwriting. The term \"Insular script\" is used to refer to a diverse family of scripts used for different functions. At the top of the hierarchy was the Insular half-uncial (or \"Insular majuscule\"), used for important documents and sacred text. The full uncial, in a version called \"English uncial\", was used in some English centres.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Script%2C_Chad-Gospels.jpg",
+      "width": 1280,
+      "height": 450,
+      "page": "https://commons.wikimedia.org/wiki/File:Script,_Chad-Gospels.jpg",
+      "artist": "AnonymousUnknown author",
+      "license": "CC BY-SA 3.0",
+      "caption": "St Chad Gospels: Et factum est iter[um cum sabbatis ambula] / ret ihs [Ihesus] per sata (Mark 2:23, p. 151) \"And it came to pass, that Jesus went through the corn fields on the sabbath day\"."
+     }
+    },
+    {
+     "text": "Then \"in descending order of formality and increased speed of writing\" came \"set minuscule\", \"cursive minuscule\" and \"current minuscule\". These were used for non-scriptural texts, letters, accounting records, notes, and all the other types of written documents.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 51
+  },
+  {
+   "id": "2458147",
+   "title": "Ahrensburg culture",
+   "description": "Late Upper Paleolithic nomadic hunter culture",
    "topic": "archaeology",
    "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Isurium_Brigantum",
+   "url": "https://en.wikipedia.org/wiki/Ahrensburg_culture",
    "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Mosaic_depicting_the_She-wolf_with_Romulus_and_Remus%2C_from_Aldborough%2C_about_300-400_AD%2C_Leeds_City_Museum_%2816025914306%29.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Kultura_ahrensburska.jpg",
     "width": 1280,
-    "height": 1232,
-    "page": "https://commons.wikimedia.org/wiki/File:Mosaic_depicting_the_She-wolf_with_Romulus_and_Remus,_from_Aldborough,_about_300-400_AD,_Leeds_City_Museum_(16025914306).jpg",
-    "artist": "Following Hadrian",
+    "height": 939,
+    "page": "https://commons.wikimedia.org/wiki/File:Kultura_ahrensburska.jpg",
+    "artist": "Albin L",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The Ahrensburg culture or Ahrensburgian (c. 12,900 to 11,700 BP) was a late Upper Paleolithic nomadic hunter culture (or technocomplex) in north-central Europe during the Younger Dryas, the last spell of cold at the end of the Weichsel glaciation resulting in deforestation and the formation of a tundra with bushy arctic white birch and rowan. Some skeletons of reindeer have flint arrow tips in them, showing that the culture mastered the use of bows and arrows.",
+     "image": null
+    },
+    {
+     "text": "The Ahrensburgian was preceded by the Hamburg and Federmesser cultures and superseded by the Maglemosian and Swiderian cultures. Ahrensburgian finds were made in southern and western Scandinavia, the North German plain and western Poland. The Ahrensburgian area also included vast stretches of land now at the bottom of the North and Baltic Sea, since during the Younger Dryas the coastline took a much more northern course than today.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Insignia_from_Rusinow.jpg/1280px-Insignia_from_Rusinow.jpg",
+      "width": 1280,
+      "height": 440,
+      "page": "https://commons.wikimedia.org/wiki/File:Insignia_from_Rusinow.jpg",
+      "artist": "anonymous",
+      "license": "CC0",
+      "caption": "Insignia from Rusinow, radiocarbon dating 10776 to 10641 BCE. National Museum in Szczecin"
+     }
+    },
+    {
+     "text": "The culture is named after a tunnel valley near the town of Ahrensburg, 25 km (16 mi) northeast of Hamburg in the German state of Schleswig-Holstein, where Ahrensburg find layers were excavated in Meiendorf, Stellmoor and Borneck.",
+     "image": null
+    },
+    {
+     "text": "While these as well as the majority of other find sites date to the Young Dryas, the Ahrensburgian find layer in Alt Duvenstedt has been dated to the very late Allerød, thus possibly representing an early stage of Ahrensburgian which might have corresponded to the Bromme culture in the north. Artefacts with tanged points are found associated with both the Bromme and the Ahrensburg cultures. The culture reached as far north as the Isles of Orkney in northern Scotland.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 76
+  },
+  {
+   "id": "9854380",
+   "title": "St Giles, London",
+   "description": "Area in London, England",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/St_Giles,_London",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/London_-_Oxford_Street_-_View_SE_on_St_Giles-in-the-Fields_1734.jpg/1280px-London_-_Oxford_Street_-_View_SE_on_St_Giles-in-the-Fields_1734.jpg",
+    "width": 1280,
+    "height": 1912,
+    "page": "https://commons.wikimedia.org/wiki/File:London_-_Oxford_Street_-_View_SE_on_St_Giles-in-the-Fields_1734.jpg",
+    "artist": "Txllxt TxllxT",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "St Giles is an area in London, England and is located in the London Borough of Camden. It is in Central London and part of the West End. The area gets its name from the parish church of St Giles in the Fields.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/St_Giles_parish%2C_London_1804.jpg/1280px-St_Giles_parish%2C_London_1804.jpg",
+      "width": 1280,
+      "height": 962,
+      "page": "https://commons.wikimedia.org/wiki/File:St_Giles_parish,_London_1804.jpg",
+      "artist": "J Tompson",
+      "license": "Public domain",
+      "caption": "The south-west of the parish of St Pancras, showing boundary with Giles in the Fields, 1804: Tottenham Court Road to the west and Francis street (now Torrington Place) to the north"
+     }
+    },
+    {
+     "text": "The combined parishes of St Giles in the Fields and St George Bloomsbury (which was carved out of the former) were administered jointly for many centuries, leading to the conflation of the two, with much or all of St Giles usually taken to be a part of Bloomsbury. Points of interest include the church of St Giles in the Fields, Seven Dials, the Phoenix Garden, and St Giles Circus.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/St_Giles_%26_Holborn_Civil_Parish_Map_1870.png/1280px-St_Giles_%26_Holborn_Civil_Parish_Map_1870.png",
+      "width": 1280,
+      "height": 777,
+      "page": "https://commons.wikimedia.org/wiki/File:St_Giles_%26_Holborn_Civil_Parish_Map_1870.png",
+      "artist": "Doc77can",
+      "license": "CC BY-SA 3.0",
+      "caption": "Civil parish of St Giles and the closely associated parish of Bloomsbury, 1870"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 41
+  },
+  {
+   "id": "32256535",
+   "title": "MV Clyde Clipper",
+   "description": "",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/MV_Clyde_Clipper",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/1100703_Clyde_Clipper.jpg/1280px-1100703_Clyde_Clipper.jpg",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:1100703_Clyde_Clipper.jpg",
+    "artist": "Dave souza",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "MV Clyde Clipper is a cruise boat, a purpose built catamaran with a capacity of around 250 passengers and facilities for weddings, functions and corporate hospitality, including bar and catering facilities. She was built by Abels Shipbuilders of Bristol in 2010.",
+     "image": null
+    },
+    {
+     "text": "From 30 June 2011 it was leased by Argyll Ferries Ltd as an interim ferry on the Gourock-Dunoon service, covering the service along with the MV Ali Cat until the 244 passenger ferry MV Argyll Flyer was converted from the ten-year-old Banrion Chonamara of the Irish Aran Island Service.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 27
+  },
+  {
+   "id": "62109363",
+   "title": "Massacre of Glencoe Monument",
+   "description": "",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Massacre_of_Glencoe_Monument",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Glencoe_Massacre_Memorial_2.JPG/1280px-Glencoe_Massacre_Memorial_2.JPG",
+    "width": 1280,
+    "height": 1707,
+    "page": "https://commons.wikimedia.org/wiki/File:Glencoe_Massacre_Memorial_2.JPG",
+    "artist": "Kim Traynor",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "The Massacre of Glencoe Monument is a memorial to the Massacre of Glencoe (Scottish Gaelic: Mort Ghlinne Comhann), which took place in Glen Coe in the Highlands of Scotland on 13 February 1692, following the Jacobite uprising of 1689–92. Sculpted by Alexander Macdonald and Co. of Aberdeen in 1883, a tapering 18-foot granite Celtic cross soars up from a rugged cairn above the river in Upper Carnoch.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Glencoe_Massacre_Memorial_inscription.JPG/1280px-Glencoe_Massacre_Memorial_inscription.JPG",
+      "width": 1280,
+      "height": 1718,
+      "page": "https://commons.wikimedia.org/wiki/File:Glencoe_Massacre_Memorial_inscription.JPG",
+      "artist": "Kim Traynor",
+      "license": "CC BY-SA 3.0",
+      "caption": "Inscription on Plaque at Glencoe Monument"
+     }
+    },
+    {
+     "text": "Its design is based on the elaborate Gosforth Cross. An annual wreath-laying ceremony is held at the Monument to commemorate those who fell in the massacre.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/51/Massacre_of_Glencoe_Memorial_Cross.jpg",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:Massacre_of_Glencoe_Memorial_Cross.jpg",
+      "artist": "Suzannehendersonemerson",
+      "license": "CC BY-SA 4.0",
+      "caption": "Detail of Cross"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 36
+  },
+  {
+   "id": "2591042",
+   "title": "Simon de Montfort's Parliament",
+   "description": "English parliament of 1265",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Simon_de_Montfort%27s_Parliament",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Coat_of_Arms_of_England_%28-1340%29.svg/1280px-Coat_of_Arms_of_England_%28-1340%29.svg.png",
+    "width": 1280,
+    "height": 1642,
+    "page": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_England_(-1340).svg",
+    "artist": "Sodacan",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "Simon de Montfort's Parliament was an English parliament held from 20 January 1265 until mid-March of the same year, called by Simon de Montfort, a baronial rebel leader. Montfort had seized power in England following his victory over Henry III at the Battle of Lewes during the Second Barons' War, but his grip on the country was under threat.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/40/Louis9%2BHenri3%2BStDenis.jpg",
+      "width": 1280,
+      "height": 612,
+      "page": "https://commons.wikimedia.org/wiki/File:Louis9%2BHenri3%2BStDenis.jpg",
+      "artist": "Chroniques de Saint-Denis",
+      "license": "Public domain",
+      "caption": "14th-century representation of Henry III of England visiting Louis IX of France during the Second Barons' War"
+     }
+    },
+    {
+     "text": "To gain more support, he summoned not only the barons and the knights of the shires, as in previous parliaments, but also burgesses from the major towns. They discussed radical reforms and temporarily stabilised Montfort's political situation. Montfort was killed at the Battle of Evesham later that year, but the idea of inviting both knights and burgesses to parliaments became more popular under Henry's son Edward I.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Simon_Leicester.jpg",
+      "width": 1280,
+      "height": 1564,
+      "page": "https://commons.wikimedia.org/wiki/File:Simon_Leicester.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "caption": "Simon de Montfort, in a stained glass window at Chartres Cathedral"
+     }
+    },
+    {
+     "text": "By the 14th century, it had become the norm, with the gathering becoming known as the House of Commons.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Montfort_Evesham.jpg",
+      "width": 1280,
+      "height": 375,
+      "page": "https://commons.wikimedia.org/wiki/File:Montfort_Evesham.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "caption": "A 13th-century depiction of the mutilation of Simon de Montfort's body following the Battle of Evesham in 1265"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 54
+  },
+  {
+   "id": "34282",
+   "title": "Yule",
+   "description": "Winter festival",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Yule",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Drinking_scene_on_an_image_stone.jpg/1280px-Drinking_scene_on_an_image_stone.jpg",
+    "width": 1280,
+    "height": 1707,
+    "page": "https://commons.wikimedia.org/wiki/File:Drinking_scene_on_an_image_stone.jpg",
+    "artist": "Berig",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "Yule (, YOOL; Old English: ġēol, Old Norse: jól) is a winter festival and time of the year historically observed by heathen Germanic peoples that was later merged with the festival of Christmas during the process of Christianisation. The oldest accounts describe two Yule-months around the winter solstice in early, and sometimes explicitly heathen, Germanic calendars.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/De_Mensibus_Anglorum_in_Cotton_MS_Vespasian_B_VI_%282%29.jpg",
+      "width": 1280,
+      "height": 224,
+      "page": "https://commons.wikimedia.org/wiki/File:De_Mensibus_Anglorum_in_Cotton_MS_Vespasian_B_VI_(2).jpg",
+      "artist": "9th-16th century scribe",
+      "license": "CC0",
+      "caption": "Section of De Mensibus Anglorum in The Reckoning of Time describing giuli, Cotton MS Vespasian B VI.[note 1]"
+     }
+    },
+    {
+     "text": "Later, and more extensive, Old Norse sources also describe a Yule festival occurring during this period, which possibly began on Hǫkunótt and continued for several days. During it, feasting, ceremonial drinking and oath swearing was central, and plays and games likely took place. Tales set at this time frequently feature supernatural beings visiting halls and farms, such as trolls and undead draugar.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f3/Reconstruction_of_the_Taplow_Drinking_Horn_in_the_British_Museum.jpg/1280px-Reconstruction_of_the_Taplow_Drinking_Horn_in_the_British_Museum.jpg",
+      "width": 1280,
+      "height": 823,
+      "page": "https://commons.wikimedia.org/wiki/File:Reconstruction_of_the_Taplow_Drinking_Horn_in_the_British_Museum.jpg",
+      "artist": "Ethan Doyle White",
+      "license": "CC BY-SA 4.0",
+      "caption": "Reconstruction of a Taplow drinking horn, British Museum."
+     }
+    },
+    {
+     "text": "Such traditions closely resemble folk practices and beliefs from the modern period such as julebukking and the Wild Hunt, which may have partly heathen roots. Because of the blending of the festival period and Christmas, Yule and its cognates are still used to refer to Christmas and the season of Christmastide in English and some other Northern European languages, including Swedish and Finnish.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Fighting_Mimes_-_Google_Art_Project.jpg/1280px-Fighting_Mimes_-_Google_Art_Project.jpg",
+      "width": 1280,
+      "height": 958,
+      "page": "https://commons.wikimedia.org/wiki/File:Fighting_Mimes_-_Google_Art_Project.jpg",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": "Fresco of two warriors, one of which with the head of a dog, on the ceiling of St. Sophia Cathedral in Kyiv."
+     }
+    },
+    {
+     "text": "In addition to this, adherents of some new religious movements, such as Modern Germanic paganism, celebrate Yule as an independent festival to Christmas.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Gotland-Bunge_Museum_Hof_18.Jhdt._16.jpg/1280px-Gotland-Bunge_Museum_Hof_18.Jhdt._16.jpg",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:Gotland-Bunge_Museum_Hof_18.Jhdt._16.jpg",
+      "artist": "Wolfgang Sauber",
+      "license": "CC BY-SA 3.0",
+      "caption": "Julbock costume, Bungemuseet, Gotland."
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 73
+  },
+  {
+   "id": "7156643",
+   "title": "Prehistoric Ireland",
+   "description": "Ireland until c. 400 AD",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Prehistoric_Ireland",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0f/Irelands_history.jpg/1280px-Irelands_history.jpg",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:Irelands_history.jpg",
+    "artist": "Tjp finn",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "The prehistory of Ireland has been pieced together from archaeological evidence, which has grown at an increasing rate over recent decades.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Atlas_Van_der_Hagen-KW1049B11_048-HIBERNIAE_REGNUM_tam_in_praecipuas_ULTONIAE%2C_CONNACIAE%2C_LAGENIAE%2C_et_MOMONIAE%2C_quam_in_minores_earundem_Provincias%2C_et_Ditiones_subjacentes_peraccurat%C3%A9_divisum.jpeg/1280px-thumbnail.jpeg",
+      "width": 1280,
+      "height": 1509,
+      "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B11_048-HIBERNIAE_REGNUM_tam_in_praecipuas_ULTONIAE,_CONNACIAE,_LAGENIAE,_et_MOMONIAE,_quam_in_minores_earundem_Provincias,_et_Ditiones_subjacentes_peraccurat%C3%A9_divisum.jpeg",
+      "artist": "Nicolaes Visscher II",
+      "license": "Public domain",
+      "caption": ""
+     }
+    },
+    {
+     "text": "It begins with the first evidence of permanent human residence in Ireland around 10,500 BC (although there is some evidence of human presence as early as 31,000 BC) and finishes with the start of the historical record around 400 AD. Both the beginning and end dates of the period are later than for much of Europe and all of the Near East.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Hunter_gatherer%27s_camp_at_Irish_National_Heritage_Park_-_geograph.org.uk_-_1252699.jpg/1280px-Hunter_gatherer%27s_camp_at_Irish_National_Heritage_Park_-_geograph.org.uk_-_1252699.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Hunter_gatherer%27s_camp_at_Irish_National_Heritage_Park_-_geograph.org.uk_-_1252699.jpg",
+      "artist": "David Hawgood",
+      "license": "CC BY-SA 2.0",
+      "caption": "Reconstruction of a hunter-gatherer hut and canoe, Irish National Heritage Park"
+     }
+    },
+    {
+     "text": "The prehistoric period covers the Palaeolithic, Mesolithic, Neolithic, Bronze Age and Iron Age societies of Ireland. For much of Europe, the historical record begins when the Romans invaded; as Ireland was not invaded by the Romans its historical record starts later, with the coming of Christianity.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/UlsterMuseumPrehistoryMe_%289%29_%28cropped%29.JPG/1280px-UlsterMuseumPrehistoryMe_%289%29_%28cropped%29.JPG",
+      "width": 1280,
+      "height": 716,
+      "page": "https://commons.wikimedia.org/wiki/File:UlsterMuseumPrehistoryMe_(9)_(cropped).JPG",
+      "artist": "Notafly",
+      "license": "CC BY-SA 3.0",
+      "caption": "The Moss-side hoard of Mesolithic Bann flake tools and blades, Ulster Museum[26]"
+     }
+    },
+    {
+     "text": "The two periods that have left the most spectacular groups of remains are the Neolithic, with its megalithic tombs, and the Bronze Age, which left among other things, gold jewellery from a time when Ireland was a major centre of gold mining.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/First_Irish_farmers_hut%2C_Irish_National_Heritage_Park_-_geograph.org.uk_-_1252729.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:First_Irish_farmers_hut,_Irish_National_Heritage_Park_-_geograph.org.uk_-_1252729.jpg",
+      "artist": "David Hawgood",
+      "license": "CC BY-SA 2.0",
+      "caption": "Reconstruction of an early Irish farmer's hut, Irish National Heritage Park"
+     }
+    },
+    {
+     "text": "Ireland has many areas of bogland, and a great number of archaeological finds have been recovered from these. The anaerobic conditions sometimes preserve organic materials exceptionally well, as with a number of bog bodies, a Mesolithic wicker fish-trap, and a Bronze Age textile with delicate tassels of horse hair.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/County_Sligo_-_Creevykeel_Court_Tomb_-_20190708134052.jpg/1280px-County_Sligo_-_Creevykeel_Court_Tomb_-_20190708134052.jpg",
+      "width": 1280,
+      "height": 657,
+      "page": "https://commons.wikimedia.org/wiki/File:County_Sligo_-_Creevykeel_Court_Tomb_-_20190708134052.jpg",
+      "artist": "Rob Hurson",
+      "license": "CC BY-SA 4.0",
+      "caption": ""
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 81
+  },
+  {
+   "id": "503783",
+   "title": "Clan MacLeod",
+   "description": "Scottish clan",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Clan_MacLeod",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/61/Clan_member_crest_badge_-_Clan_Macleod.svg/1280px-Clan_member_crest_badge_-_Clan_Macleod.svg.png",
+    "width": 1280,
+    "height": 1572,
+    "page": "https://commons.wikimedia.org/wiki/File:Clan_member_crest_badge_-_Clan_Macleod.svg",
+    "artist": "Celtus (Celtus @ english wikipedia)",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "Clan MacLeod ( mə-KLOWD; Scottish Gaelic: Clann Mhic Leòid [ˈkʰl̪ˠãũn̪ˠ vĩçkʲ ˈʎɔːtʲ]) is a Highland Scottish clan associated with the Isle of Skye. There are two main branches of the clan: the MacLeods of Harris and Dunvegan, known in Gaelic as Sìol Tormoid (\"seed of Tormod\") and the Clan MacLeod of Lewis Assynt and Raasay, known in Gaelic as Sìol Torcaill (\"seed of Torcall\").",
+     "image": null
+    },
+    {
+     "text": "Both branches claim descent from Leòd, a Norse-Gael who lived in the 13th century. Today, Clan MacLeod of The Lewes, Clan MacLeod of Raasay, and Clan MacLeod are represented by \"Associated Clan MacLeod Societies\", and the chiefs of the three clans. The association is made up of ten national societies across the world including: Australia, Canada, England, France, Germany, New Zealand, Scotland, South Africa, Switzerland, and the United States.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Chiefs_of_the_MacLeods.jpg/1280px-Chiefs_of_the_MacLeods.jpg",
+      "width": 1280,
+      "height": 2266,
+      "page": "https://commons.wikimedia.org/wiki/File:Chiefs_of_the_MacLeods.jpg",
+      "artist": "Nizzan Cohen",
+      "license": "CC BY 4.0",
+      "caption": "Genealogy chart and list of the Clan MacLeod's Chiefs, along with the family coat of arms"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 43
+  },
+  {
+   "id": "27196243",
+   "title": "Sutton Hoo purse-lid",
+   "description": "Anglo-Saxon archaeological object found in Suffolk, England",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Sutton_Hoo_purse-lid",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Sutton_hoo_purse_lid02017.JPG/1280px-Sutton_hoo_purse_lid02017.JPG",
+    "width": 1280,
+    "height": 816,
+    "page": "https://commons.wikimedia.org/wiki/File:Sutton_hoo_purse_lid02017.JPG",
+    "artist": "Geni",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "The Sutton Hoo purse-lid is one of the major objects excavated from the Anglo-Saxon royal burial-ground at Sutton Hoo in Suffolk, England. The site contains a collection of burial mounds, of which much the most significant is the undisturbed ship burial in Mound 1 containing very rich grave goods including the purse-lid. The person buried in Mound 1 is usually thought to have been Rædwald, King of East Anglia, who died around 624.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Sutton_hoo_purse_lid02017_%28cropped%29.JPG",
+      "width": 1280,
+      "height": 1118,
+      "page": "https://commons.wikimedia.org/wiki/File:Sutton_hoo_purse_lid02017_(cropped).JPG",
+      "artist": "Geni",
+      "license": "CC BY-SA 4.0",
+      "caption": "Detail of the wolf-warrior on the purse-lid, showing a one-eyed figure (hard to see in photo) between two wolves, thought to depict Odin with Geri and Freki.[2]"
+     }
+    },
+    {
+     "text": "The purse-lid is considered to be \"one of the most remarkable creations of the early medieval period.\" About seven and a half inches long, it is decorated with beautiful ornament in gold and garnet cloisonné enamel, and was undoubtedly a symbol of great wealth and status. In 2017 the purse-lid was on display at the British Museum.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Sutton_hoo_purse_lid02017_%28bird_of_pray%29.JPG/1280px-Sutton_hoo_purse_lid02017_%28bird_of_pray%29.JPG",
+      "width": 1280,
+      "height": 740,
+      "page": "https://commons.wikimedia.org/wiki/File:Sutton_hoo_purse_lid02017_(bird_of_pray).JPG",
+      "artist": "Geni",
+      "license": "CC BY-SA 4.0",
+      "caption": "Detail of the birds of prey on the purse-lid, sitting atop its bird prey, potentially a goshawk preying on a pidgeon?"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 46
+  },
+  {
+   "id": "22552596",
+   "title": "Dual monarchy of England and France",
+   "description": "Dual monarchy in medieval France",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Dual_monarchy_of_England_and_France",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Royal_standard_of_England_%281422%E2%80%931461%29.svg/1280px-Royal_standard_of_England_%281422%E2%80%931461%29.svg.png",
+    "width": 1280,
+    "height": 832,
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_standard_of_England_(1422%E2%80%931461).svg",
+    "artist": "Lommes",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The dual monarchy of England and France existed during the latter phase of the Hundred Years' War when Charles VII of France and Henry VI of England disputed the succession to the throne of France. It commenced on 21 October 1422 upon the death of King Charles VI of France, who had signed the Treaty of Troyes which gave the French crown to his son-in-law Henry V of England and Henry's heirs.",
+     "image": null
+    },
+    {
+     "text": "It excluded King Charles's son, the Dauphin Charles, who by right of primogeniture was the heir to the Kingdom of France. Although the Treaty was ratified by the Estates-General of France, the act was a contravention of the French law of succession which decreed that the French crown could not be alienated.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Marriage_of_henry_and_Catherine.jpg",
+      "width": 1280,
+      "height": 1514,
+      "page": "https://commons.wikimedia.org/wiki/File:Marriage_of_henry_and_Catherine.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "caption": "Henry V's marriage to Catherine of Valois"
+     }
+    },
+    {
+     "text": "Henry VI, son of Henry V, became king of both England and France and was recognised only by the English and Burgundians until 1435 as King Henry II of France. He was crowned King of France on 16 December 1431 in Paris.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Henry_VI_accession.jpg/1280px-Henry_VI_accession.jpg",
+      "width": 1280,
+      "height": 1977,
+      "page": "https://commons.wikimedia.org/wiki/File:Henry_VI_accession.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "caption": "Henry VI, aged nine months, is shown being placed in the care of Richard de Beauchamp, 13th Earl of Warwick"
+     }
+    },
+    {
+     "text": "In practical terms, King Henry's claim to de jure sovereignty and legitimacy as king of France was only recognised in the English and allied-controlled territories of France which were under the domination of his French regency council, while the Dauphin ruled as King of France in part of the realm south of the river Loire.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Vigiles_du_roi_Charles_VII_10.jpg/1280px-Vigiles_du_roi_Charles_VII_10.jpg",
+      "width": 1280,
+      "height": 831,
+      "page": "https://commons.wikimedia.org/wiki/File:Vigiles_du_roi_Charles_VII_10.jpg",
+      "artist": "AnonymousUnknown author",
+      "license": "Public domain",
+      "caption": "Miniature of Joan's Execution from The Vigils of King Charles VII, anonymous (c. 1484, Bibliothèque nationale de France)"
+     }
+    },
+    {
+     "text": "The Dauphin was crowned as King Charles VII of France at Reims on 17 July 1429, largely through the martial efforts of Joan of Arc, who believed it was her mission to free France from the English and to have the Dauphin Charles crowned at Reims. In 1435, the Duke of Burgundy, released from his obligations to Henry VI by a papal legate, recognised Charles VII as the rightful king of France..",
+     "image": null
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 92
+  },
+  {
+   "id": "70411031",
+   "title": "Corp Naomh",
+   "description": "9th or 10th century Irish bell shrine",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Corp_Naomh",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Reliquiario_del_corp_naomh_%28sacro_corpo%29%2C_argento_e_bronzo_con_cristallo_di_rocca%2C_da_Templecross%2C_co._Westmeath%2C_x_poi_xv_secolo%2C_01.jpg/1280px-Reliquiario_del_corp_naomh_%28sacro_corpo%29%2C_argento_e_bronzo_con_cristallo_di_rocca%2C_da_Templecross%2C_co._Westmeath%2C_x_poi_xv_secolo%2C_01.jpg",
+    "width": 1280,
+    "height": 1958,
+    "page": "https://commons.wikimedia.org/wiki/File:Reliquiario_del_corp_naomh_(sacro_corpo),_argento_e_bronzo_con_cristallo_di_rocca,_da_Templecross,_co._Westmeath,_x_poi_xv_secolo,_01.jpg",
+    "artist": "Sailko",
+    "license": "CC BY 3.0"
+   },
+   "cards": [
+    {
+     "text": "The Corp Naomh (Irish pronunciation: [kɔɾˠpˠ n̪ˠiːvˠ], lit. 'Holy or Sacred Body') is an Irish bell shrine made in the 9th or 10th century to enclose a now-lost hand-bell, which probably dated to c. 600 to 900 AD and belonged to an early Irish saint. The shrine was rediscovered sometime before 1682 at Tristernagh Abbey, near Templecross, County Westmeath. The shrine is 23 cm (9.1 in) high and 12 cm (4.7 in) wide.",
+     "image": null
+    },
+    {
+     "text": "It was heavily refurbished and added to during a second phase of embellishment in the 15th century, and now consists of cast and sheet bronze plates mounted on a wooden core decorated with silver, niello and rock crystal. It is severely damaged with extensive losses and wear across almost all of its parts, and when discovered a block of wood had been substituted for the bell itself.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/42/TristernaghAbbey.jpg/1280px-TristernaghAbbey.jpg",
+      "width": 1280,
+      "height": 743,
+      "page": "https://commons.wikimedia.org/wiki/File:TristernaghAbbey.jpg",
+      "artist": "JohnArmagh",
+      "license": "Public domain",
+      "caption": "Ruins of Tristernagh Abbey"
+     }
+    },
+    {
+     "text": "The remaining elements are considered of high historical and artistic value by archaeologists and art historians. Sections from its original, early Medieval phase include the cross on the reverse and the ornate semi-circular cap, which shows a bearded cleric holding a book. He is surrounded by horsemen above whom are large birds seemingly about to take flight.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dd/Campana_di_san_patrizio_e_il_suo_contenitore%2C_da_armagh%2C_co._armagh%2C_VI-VIII_secolo%2C_poi_1100_ca._01.jpg/1280px-Campana_di_san_patrizio_e_il_suo_contenitore%2C_da_armagh%2C_co._armagh%2C_VI-VIII_secolo%2C_poi_1100_ca._01.jpg",
+      "width": 1280,
+      "height": 1782,
+      "page": "https://commons.wikimedia.org/wiki/File:Campana_di_san_patrizio_e_il_suo_contenitore,_da_armagh,_co._armagh,_VI-VIII_secolo,_poi_1100_ca._01.jpg",
+      "artist": "Sailko",
+      "license": "CC BY 3.0",
+      "caption": "St. Patrick's bell, c. 500; enshrined c. 1100"
+     }
+    },
+    {
+     "text": "It was extensively refurbished in the 15th (and possibly 16th) centuries when the central bronze crucifix, the griffin and lion panel, the stamped border panels and the backing plate were added. The badly damaged crucifix and large enamel stud on the front date from at least the 15th century.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Corp_Naomh_%28Cleric%29.jpg",
+      "width": 1280,
+      "height": 1853,
+      "page": "https://commons.wikimedia.org/wiki/File:Corp_Naomh_(Cleric).jpg",
+      "artist": "Sailko",
+      "license": "CC BY 3.0",
+      "caption": "Detail of the cleric with riders, horses and birds to his left and right. The crest's interlaced patterns can be seen at the top."
+     }
+    },
+    {
+     "text": "The shrine's medieval provenance is incomplete. It was probably held by hereditary keepers after the dissolution of Tristernagh Abbey in 1536 until it passed into the possession of the Anglo-Irish owners of the site. The Corp Naomh was first exhibited in 1853 by the Royal Irish Academy (RIA) and was transferred to the National Museum of Ireland in 1887.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 96
+  },
+  {
+   "id": "189908",
+   "title": "Edward Bruce",
+   "description": "High King of Ireland",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Edward_Bruce",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/The_grave_of_Edward_Bruce_at_the_Hill_of_Faughart_-_geograph.org.uk_-_5734295.jpg/1280px-The_grave_of_Edward_Bruce_at_the_Hill_of_Faughart_-_geograph.org.uk_-_5734295.jpg",
+    "width": 1280,
+    "height": 1292,
+    "page": "https://commons.wikimedia.org/wiki/File:The_grave_of_Edward_Bruce_at_the_Hill_of_Faughart_-_geograph.org.uk_-_5734295.jpg",
+    "artist": "Eric Jones",
     "license": "CC BY-SA 2.0"
    },
    "cards": [
     {
-     "text": "Isurium or Isurium of the Brigantes (Latin: Isurium Brigantum) was a Roman fort and town in the province of Britannia at the site of present-day Aldborough in North Yorkshire, England, in the United Kingdom. Its remains—the Aldborough Roman Site—are in the care of English Heritage.",
+     "text": "Edward Bruce, Earl of Carrick (Norman French: Edward de Brus; Middle Irish: Edubard a Briuis; Modern Scottish Gaelic: Scottish Gaelic: Eideard or Iomhair Bruis; c. 1280 – 14 October 1318), was a younger brother of Robert the Bruce, King of Scots. He supported his brother in the 1306–1314 struggle for the Scottish crown, then pursued his own claims in Ireland.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Roman_mosaic_in_Aldborough_%288109%29.jpg/1280px-Roman_mosaic_in_Aldborough_%288109%29.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Edward_Bruce_Grave_stone.jpg/1280px-Edward_Bruce_Grave_stone.jpg",
       "width": 1280,
-      "height": 850,
-      "page": "https://commons.wikimedia.org/wiki/File:Roman_mosaic_in_Aldborough_(8109).jpg",
-      "artist": "Nilfanion",
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Edward_Bruce_Grave_stone.jpg",
+      "artist": "TommyMurf",
       "license": "CC BY-SA 4.0",
-      "caption": "Mosaic floor, in situ."
+      "caption": "Edward Bruce's grave stone, Old Faughart graveyard"
      }
     },
     {
-     "text": "The Roman road through the town formed a leg of both Dere Street—connecting Eboracum (York) to the Antonine Wall—and the Roman equivalent of Watling Street, which here connected Eboracum with Luguvalium (Carlisle). The modern village retains part of the Roman street plan and the church stands on the site of the forum.",
+     "text": "Proclaimed High King of Ireland in 1315 and crowned in 1316, he was eventually defeated and killed by Anglo-Irish forces of the Lordship of Ireland at the Battle of Faughart in County Louth in 1318.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Pot_at_Aldborough_Roman_Museum.jpg/1280px-Pot_at_Aldborough_Roman_Museum.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c3/Old_Faughart_Grave_yard_Map.png/1280px-Old_Faughart_Grave_yard_Map.png",
       "width": 1280,
-      "height": 1707,
-      "page": "https://commons.wikimedia.org/wiki/File:Pot_at_Aldborough_Roman_Museum.jpg",
-      "artist": "ColinFine",
+      "height": 938,
+      "page": "https://commons.wikimedia.org/wiki/File:Old_Faughart_Grave_yard_Map.png",
+      "artist": "TommyMurf",
       "license": "CC BY-SA 4.0",
-      "caption": "Part of a pot found in 2020, displayed in the museum"
+      "caption": "Old Faughart graveyard map"
      }
     }
    ],
    "truncated": false,
    "readSeconds": 37
-  },
-  {
-   "id": "28601",
-   "title": "Aos Sí",
-   "description": "Supernatural race in Irish and Scottish mythology",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Aos_S%C3%AD",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Riders_of_th_Sidhe_%28big%29.jpg/1280px-Riders_of_th_Sidhe_%28big%29.jpg",
-    "width": 1280,
-    "height": 836,
-    "page": "https://commons.wikimedia.org/wiki/File:Riders_of_th_Sidhe_(big).jpg",
-    "artist": "John Duncan",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Aos sí or aos sídhe is the Irish name for a supernatural race in Gaelic folklore, similar to elves. They are said to descend from the Tuatha Dé Danann or the gods of Irish mythology. The term aos sí means \"folk of the sí\"; these are the mounds in which they are said to dwell, which are seen as portals to an Otherworld.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7d/Homestead_between_the_A2_and_Knockshee_Mountain_-_geograph.org.uk_-_5926836.jpg/1280px-Homestead_between_the_A2_and_Knockshee_Mountain_-_geograph.org.uk_-_5926836.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Homestead_between_the_A2_and_Knockshee_Mountain_-_geograph.org.uk_-_5926836.jpg",
-      "artist": "Eric Jones",
-      "license": "CC BY-SA 2.0",
-      "caption": "Knockshee, County Down, known in Irish as Cnoc Sí (\"hill of the fairy mound\")[3]"
-     }
-    },
-    {
-     "text": "Such abodes are referred to in English as \"shees\", \"fairy mounds\", \"elf mounds\" or \"hollow hills\". The aos sí interact with humans and the human world. They are variously said to be the ancestors, the spirits of nature, or goddesses and gods.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/79/Crataegus_monogyna_-_Common_hawthorn.jpg",
-      "width": 1280,
-      "height": 907,
-      "page": "https://commons.wikimedia.org/wiki/File:Crataegus_monogyna_-_Common_hawthorn.jpg",
-      "artist": "Unknown",
-      "license": "CC BY-SA 3.0",
-      "caption": "Hawthorn tree, considered in local Irish lore (and Celtic folklore in general) to be sacred to the aos sí"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 39
   }
  ]
 }
