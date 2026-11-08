@@ -1,558 +1,46 @@
 {
- "date": "2026-11-07",
- "generatedAt": "2026-11-07T11:50:17.785Z",
- "totalReadSeconds": 1321,
+ "date": "2026-11-08",
+ "generatedAt": "2026-11-08T12:04:01.058Z",
+ "totalReadSeconds": 1445,
  "posts": [
   {
-   "id": "43521",
-   "title": "The Three Little Pigs",
-   "description": "Fairy tale",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/The_Three_Little_Pigs",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Three_little_pigs_and_mother_sow_-_Project_Gutenberg_eText_15661.jpg/1280px-Three_little_pigs_and_mother_sow_-_Project_Gutenberg_eText_15661.jpg",
-    "width": 1280,
-    "height": 1645,
-    "page": "https://commons.wikimedia.org/wiki/File:Three_little_pigs_and_mother_sow_-_Project_Gutenberg_eText_15661.jpg",
-    "artist": "Leonard Leslie Brooke (1862-1940)",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "\"The Three Little Pigs\" is a fable about three pigs who build their houses of different materials. A Big Bad Wolf blows down the first two pigs' houses which are made of straw and sticks respectively, but is unable to destroy the third pig's house that is made of bricks. The printed versions of this fable date back to the 1840s, but the story is thought to be much older.",
-     "image": null
-    },
-    {
-     "text": "The earliest version takes place in Dartmoor with three pixies and a fox before its best known version appears in English Fairy Tales by Joseph Jacobs in 1890, with Jacobs crediting James Halliwell-Phillipps as the source.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Page_69_illustration_in_English_Fairy_Tales.png/1280px-Page_69_illustration_in_English_Fairy_Tales.png",
-      "width": 1280,
-      "height": 853,
-      "page": "https://commons.wikimedia.org/wiki/File:Page_69_illustration_in_English_Fairy_Tales.png",
-      "artist": "Joseph Jacobs",
-      "license": "Public domain",
-      "caption": "Illustration from J. Jacobs, English Fairy Tales (New York, 1895)"
-     }
-    },
-    {
-     "text": "In 1886, Halliwell-Phillipps had published his version of the story, in the fifth edition of his Nursery Rhymes of England, and it included, for the first time in print, the now-standard phrases \"not by the hair of my chiny chin chin\" and \"I'll huff, and I'll puff, and I'll blow your house in\".",
-     "image": null
-    },
-    {
-     "text": "The phrases used in the story, and the various morals drawn from it, have become embedded in Western culture. Many versions of The Three Little Pigs have been recreated and modified over the years, sometimes making the wolf a kind character. It is a type B124 folktale in the Thompson Motif Index.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 63
-  },
-  {
-   "id": "1139278",
-   "title": "History of Bristol",
-   "description": "",
+   "id": "10260880",
+   "title": "Royal Fort House",
+   "description": "Historic building in Bristol, England",
    "topic": "bristol",
    "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/History_of_Bristol",
+   "url": "https://en.wikipedia.org/wiki/Royal_Fort_House",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Bristol.cathedral.west.front.arp.jpg/1280px-Bristol.cathedral.west.front.arp.jpg",
-    "width": 1280,
-    "height": 884,
-    "page": "https://commons.wikimedia.org/wiki/File:Bristol.cathedral.west.front.arp.jpg",
-    "artist": "Adrian Pingstone.",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Bristol is a city with a population of nearly half a million people in south west England, situated between Somerset and Gloucestershire on the tidal River Avon. It has been among the country's largest and most economically and culturally important cities for eight centuries. The Bristol area has been settled since the Stone Age and there is evidence of Roman occupation.",
-     "image": null
-    },
-    {
-     "text": "A mint was established in the Saxon burgh of Brycgstow by the 10th century and the town rose to prominence in the Norman era, gaining a charter and county status in 1373. The change in the form of the name 'Bristol' is due to the local pronunciation of 'ow' as 'ol'.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Millerd1728dcastle.jpg/1280px-Millerd1728dcastle.jpg",
-      "width": 1280,
-      "height": 2390,
-      "page": "https://commons.wikimedia.org/wiki/File:Millerd1728dcastle.jpg",
-      "artist": "James Millerd and unknown later editors.",
-      "license": "Public domain",
-      "caption": "Bristol Castle, as depicted on James Millerd's 1673 map of Bristol"
-     }
-    },
-    {
-     "text": "Maritime connections to Wales, Ireland, Iceland, western France, Spain and Portugal brought a steady increase in trade in wool, fish, wine and grain during the Middle Ages. Bristol became a city in 1542 and trade across the Atlantic developed. The city was captured by Royalist troops and then recaptured for Parliament during the English Civil War. During the 17th and 18th centuries the transatlantic slave trade and the Industrial Revolution brought further prosperity.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Bristol_trade_routes1492.png/1280px-Bristol_trade_routes1492.png",
-      "width": 1280,
-      "height": 1299,
-      "page": "https://commons.wikimedia.org/wiki/File:Bristol_trade_routes1492.png",
-      "artist": "Evan T Jones",
-      "license": "CC BY-SA 4.0",
-      "caption": "Bristol's overseas trade as recorded in 1492/3 customs accounts."
-     }
-    },
-    {
-     "text": "Edmund Burke, MP for Bristol, supported the American Revolution and free trade. Prominent reformers such as Mary Carpenter and Hannah More campaigned against the slave trade. The late 18th and early 19th centuries saw the construction of a floating harbour, advances in shipbuilding and further industrialisation with the growth of the glass, paper, soap and chemical industries aided by the establishment of Bristol as the terminus of the Great Western Railway by I.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/en/d/d0/Robert_Ricart%27s_map_of_Bristol.png",
-      "width": 1280,
-      "height": 2005,
-      "page": "https://en.wikipedia.org/wiki/File:Robert_Ricart%27s_map_of_Bristol.png",
-      "artist": "Robert Ricart",
-      "license": "Public domain",
-      "caption": "The map of Bristol in The Maire of Bristowe is Kalendar. This was drawn by Robert Ricart after he became the common clerk of the town in 1478. His drawing was the first such plan of an English town.[46]"
-     }
-    },
-    {
-     "text": "K. Brunel. In the early 20th century, Bristol was in the forefront of aircraft manufacture and the city had become an important financial centre and high technology hub by the beginning of the 21st century.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Bristol_1873.png/1280px-Bristol_1873.png",
-      "width": 1280,
-      "height": 1840,
-      "page": "https://commons.wikimedia.org/wiki/File:Bristol_1873.png",
-      "artist": "T. Sulman",
-      "license": "Public domain",
-      "caption": "Views around Bristol in 1873"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 96
-  },
-  {
-   "id": "211671",
-   "title": "Aldwych tube station",
-   "description": "London Underground station, 1907–1994",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Aldwych_tube_station",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Aldwych_tube_station_1.jpg/1280px-Aldwych_tube_station_1.jpg",
-    "width": 1280,
-    "height": 2101,
-    "page": "https://commons.wikimedia.org/wiki/File:Aldwych_tube_station_1.jpg",
-    "artist": "Photograph by Mike Peel (www.mikepeel.net).",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "Aldwych is a closed station on the London Underground, located in the City of Westminster in Central London. It was opened in 1907 with the name Strand, after the street on which it is located. It was the terminus of the short Piccadilly line branch from Holborn that was a relic of the merger of two railway schemes. The station building is close to the Strand's junction with Surrey Street, near Aldwych.",
-     "image": null
-    },
-    {
-     "text": "During its lifetime, the branch was the subject of a number of unrealised extension proposals that would have seen the tunnels through the station extended southwards, usually to Waterloo. Served mostly by a shuttle train and having low passenger numbers, the station and branch were considered for closure several times. Service was offered only during weekday peak hours from 1962 and discontinued in 1994, when the cost of replacing the lifts was considered too high for the income generated.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5b/Aldwych_surrey_street_entrance.jpg/1280px-Aldwych_surrey_street_entrance.jpg",
-      "width": 1280,
-      "height": 763,
-      "page": "https://commons.wikimedia.org/wiki/File:Aldwych_surrey_street_entrance.jpg",
-      "artist": "--Inselmann 22:05, 13 July 2007 (UTC)",
-      "license": "CC BY-SA 3.0",
-      "caption": "Exit and second entrance on Surrey Street, 2004."
-     }
-    },
-    {
-     "text": "Disused parts of the station and the running tunnels were used during both world wars to shelter artworks from London's public galleries and museums from bombing. The station is the work of Leslie Green and has long been popular as a filming location, appearing as itself and as other London Underground stations in a number of films.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Strand_Tube_Station_-_eastern_platform_-_DSCF0806_%28J50%29.jpg/1280px-Strand_Tube_Station_-_eastern_platform_-_DSCF0806_%28J50%29.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Strand_Tube_Station_-_eastern_platform_-_DSCF0806_(J50).jpg",
-      "artist": "Pencefn",
-      "license": "CC BY-SA 3.0",
-      "caption": "Eastern platform, taken out of use in 1914, showing the exposed structure of the tunnel, 2011."
-     }
-    },
-    {
-     "text": "In recognition of its historical significance, the station is a Grade II listed building and is an example of the Modern Style (British Art Nouveau style). London Transport Museum runs guided tours of the station via its \"Hidden London\" programme throughout the year. The tour takes visitors through the ticket hall, the original lifts, disused platforms and tunnels; and shares findings from the museum's archives on the history of the site.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/90/The_Home_Front_in_Britain_during_the_Second_World_War_HU44272.jpg/1280px-The_Home_Front_in_Britain_during_the_Second_World_War_HU44272.jpg",
-      "width": 1280,
-      "height": 887,
-      "page": "https://commons.wikimedia.org/wiki/File:The_Home_Front_in_Britain_during_the_Second_World_War_HU44272.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "caption": "Shelterers inside Aldwych station during the Blitz, 1940."
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 89
-  },
-  {
-   "id": "4758074",
-   "title": "Hoxne Hoard",
-   "description": "Roman hoard found in England",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Hoxne_Hoard",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Hoxne_Hoard_1.jpg/1280px-Hoxne_Hoard_1.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Royal_Fort_House_in_Bristol.JPG/1280px-Royal_Fort_House_in_Bristol.JPG",
     "width": 1280,
     "height": 853,
-    "page": "https://commons.wikimedia.org/wiki/File:Hoxne_Hoard_1.jpg",
-    "artist": "Photograph by Mike Peel (www.mikepeel.net).",
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Fort_House_in_Bristol.JPG",
+    "artist": "BristolIcarus",
     "license": "CC BY-SA 4.0"
    },
    "cards": [
     {
-     "text": "The Hoxne Hoard ( HOK-sən) is the largest hoard of late Roman silver and gold discovered in Britain, and the largest collection of gold and silver coins of the fourth and fifth centuries found anywhere within the former Roman Empire. It was found by Eric Lawes using a metal detector in the village of Hoxne in Suffolk, England, in 1992.",
+     "text": "The Royal Fort House is a historic house in Tyndall's Park, Bristol. The building currently houses the University of Bristol's Faculty of Science offices, the Brigstow Institute, Elizabeth Blackwell Institute for Health Research, the Cabot Institute and the Jean Golding Institute for data-intensive research.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/71/Hoxne_Hoard_24.jpg/1280px-Hoxne_Hoard_24.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/14/Ground_Plan_of_the_Royal_Fort%2C_Bristol%2C_1644.jpg/1280px-Ground_Plan_of_the_Royal_Fort%2C_Bristol%2C_1644.jpg",
       "width": 1280,
-      "height": 1733,
-      "page": "https://commons.wikimedia.org/wiki/File:Hoxne_Hoard_24.jpg",
-      "artist": "Photograph by Mike Peel (www.mikepeel.net).",
+      "height": 953,
+      "page": "https://commons.wikimedia.org/wiki/File:Ground_Plan_of_the_Royal_Fort,_Bristol,_1644.jpg",
+      "artist": "James Millerd and unknown later editors.",
+      "license": "Public domain",
+      "caption": "Ground Plan of the Royal Fort, Bristol, 1644"
+     }
+    },
+    {
+     "text": "The house was built for Thomas Tyndall KCB, in the 18th century, on the site of bastions which were fought over during the English Civil War and demolished in 1655. The Baroque, Palladian and Rococo styles of architecture are because of the work of three different architects: James Bridges, Thomas Paty, John Wallis. The garden was laid out by Humphry Repton around 1800.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0d/Royal_Fort_Gardens_Bristol_2016.jpg/1280px-Royal_Fort_Gardens_Bristol_2016.jpg",
+      "width": 1280,
+      "height": 1423,
+      "page": "https://commons.wikimedia.org/wiki/File:Royal_Fort_Gardens_Bristol_2016.jpg",
+      "artist": "Officially_Mr_X (talk) (Uploads)",
       "license": "CC BY-SA 4.0",
-      "caption": "The silver \"Hoxne Tigress\" – the broken-off handle from an unknown object – is the best known single piece out of some 15,000 in the hoard.[17]"
-     }
-    },
-    {
-     "text": "The hoard consists of 14,865 Roman gold, silver, and bronze coins and approximately 200 items of silver tableware and gold jewellery. The objects are now in the British Museum in London, where the most important pieces and a selection of the rest are on permanent display. In 1993, the Treasure Valuation Committee valued the hoard at £1.75 million (about £3.77 million in 2025).",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c0/Hoxne_Hoard_coin_1.JPG",
-      "width": 1280,
-      "height": 1219,
-      "page": "https://commons.wikimedia.org/wiki/File:Hoxne_Hoard_coin_1.JPG",
-      "artist": "Unknown",
-      "license": "CC BY-SA 3.0",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The hoard was buried in an oak box or small chest filled with items in precious metal, sorted mostly by type, with some in smaller wooden boxes and others in bags or wrapped in fabric. Remnants of the chest and fittings, such as hinges and locks, were recovered in the excavation. The coins of the hoard date it after AD 407, which coincides with the end of Britain as a Roman province.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Hoxne_Hoard_coin_2.JPG/1280px-Hoxne_Hoard_coin_2.JPG",
-      "width": 1280,
-      "height": 1229,
-      "page": "https://commons.wikimedia.org/wiki/File:Hoxne_Hoard_coin_2.JPG",
-      "artist": "Unknown",
-      "license": "CC BY-SA 3.0",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The owners and reasons for burial of the hoard are unknown, but it was carefully packed and the contents appear consistent with what a single very wealthy family might have owned. It is likely that the hoard represents only a part of the wealth of its owner, given the lack of large silver serving vessels and some of the most common types of jewellery.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/Hoxne_Hoard_coins_6a.jpg",
-      "width": 1280,
-      "height": 1297,
-      "page": "https://commons.wikimedia.org/wiki/File:Hoxne_Hoard_coins_6a.jpg",
-      "artist": "Hoxne_Hoard_coins_6.JPG: User:The Land with thanks to Fæ",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The Hoxne Hoard contains several rare and important objects, such as a gold body-chain and silver-gilt pepper-pots (piperatoria), including the Empress pepper pot. The hoard is also of particular archaeological significance because it was excavated by professional archaeologists with the items largely undisturbed and intact. The find helped to improve the relationship between metal detectorists and archaeologists, and influenced a change in English law regarding finds of treasure.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Hoxne_Hoard_coins_6b.jpg",
-      "width": 1280,
-      "height": 1297,
-      "page": "https://commons.wikimedia.org/wiki/File:Hoxne_Hoard_coins_6b.jpg",
-      "artist": "Hoxne_Hoard_coins_6.JPG: User:The Land with thanks to Fæ for use of equipment",
-      "license": "Public domain",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 109
-  },
-  {
-   "id": "163853",
-   "title": "Amlaíb Cuarán",
-   "description": "King of Jórvík (Scandinavian Northumbria) from 941-944; King of Dublin from 945-947",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/Amla%C3%ADb_Cuar%C3%A1n",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Anlaf_Sihtricsson_silver_penny%3B_struck_941-944_AD.jpg",
-    "width": 1280,
-    "height": 619,
-    "page": "https://commons.wikimedia.org/wiki/File:Anlaf_Sihtricsson_silver_penny;_struck_941-944_AD.jpg",
-    "artist": "CNG - Classical Numismatic Group",
-    "license": "CC BY-SA 2.5"
-   },
-   "cards": [
-    {
-     "text": "Amlaíb mac Sitric (d. 980; Old Norse: Óláfr Sigtryggsson [ˈoːˌlɑːvz̠ ˈsiɡˌtryɡːsˌson]), commonly called Amlaíb Cuarán (O.N.: Óláfr kváran [ˈkwɑːrɑn]), was a 10th-century Norse-Gael who was King of Northumbria and Dublin. His byname, cuarán, is usually translated as \"sandal\". His name appears in a variety of anglicized forms, including Olaf Cuaran, Anlaf Sihtricson and Olaf Sihtricson, particularly in relation to his short-lived rule in York.",
-     "image": null
-    },
-    {
-     "text": "He was the last of the Uí Ímair to play a major part in the politics of the British Isles. Amlaíb was twice, perhaps three times, ruler of Northumbria and twice ruler of Dublin and its dependencies. His reign over these territories spanned some forty years. He was a renowned warrior and a ruthless pillager of churches, but ended his days in retirement at Iona Abbey.",
-     "image": null
-    },
-    {
-     "text": "Born when the Uí Ímair ruled over large areas of the British Isles, by his death the kingdom of Dublin was a minor power in Irish politics. At the same time, Dublin became a major centre of trade in Atlantic Europe and mastery over the city and its wealth became the supreme prize for ambitious Irish kings.",
-     "image": null
-    },
-    {
-     "text": "In death Amlaíb was the prototype for the Middle English romance character Havelok the Dane. In life he was a patron of Irish poets and Scandinavian skalds who wrote verses praising their paymaster. Amlaíb was married at least twice, and had many children who married into Irish and Scandinavian royal families. His descendants were kings in the Isle of Man and the Hebrides until the 13th century.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 70
-  },
-  {
-   "id": "30275656",
-   "title": "Wars of the Roses",
-   "description": "Series of civil wars in England (1455–1487)",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Wars_of_the_Roses",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fc/Beheading_duke_somerset.jpg/1280px-Beheading_duke_somerset.jpg",
-    "width": 1280,
-    "height": 1582,
-    "page": "https://commons.wikimedia.org/wiki/File:Beheading_duke_somerset.jpg",
-    "artist": "Ghent master",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The Wars of the Roses, known at the time and in the following centuries as the Civil Wars, were a series of armed confrontations, machinations, battles and campaigns fought for control of the English throne from 1455 to 1487. The conflict was fought between supporters of the House of York (whose emblem was a white rose) and the House of Lancaster (whose emblem, by 1485, was a red rose), two rival cadet branches of the royal House of Plantagenet.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Plucking_the_Red_and_White_Roses%2C_by_Henry_Payne.jpg",
-      "width": 1280,
-      "height": 1261,
-      "page": "https://commons.wikimedia.org/wiki/File:Plucking_the_Red_and_White_Roses,_by_Henry_Payne.jpg",
-      "artist": "Henry Payne",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The conflict resulted in the end of Lancaster's male line in 1471, leaving the Tudor family to inherit, through the female line, the Lancaster claim to the throne. The conflict was largely brought to an end upon the union of the two houses through marriage, creating the Tudor dynasty that would subsequently rule England.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Battle_of_Bosworth_by_Philip_James_de_Loutherbourg.jpg",
-      "width": 1280,
-      "height": 965,
-      "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Bosworth_by_Philip_James_de_Loutherbourg.jpg",
-      "artist": "Philip James de Loutherbourg",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The Wars of the Roses were rooted in English socio-economic troubles caused by the Hundred Years' War (1337–1453) with France, as well as the quasi-military bastard feudalism resulting from the powerful duchies created by King Edward III (died 1377). The mental instability of the House of Lancaster's King Henry VI (first reign: 1422 to 1461) revived his cousin Richard of York, 3rd Duke of York's interest in a claim to the throne.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Earlwarwicksvow_large.jpg",
-      "width": 1280,
-      "height": 1585,
-      "page": "https://commons.wikimedia.org/wiki/File:Earlwarwicksvow_large.jpg",
-      "artist": "Henry Tresham",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "Warfare began in 1455 with York's capture of Henry at the First Battle of St Albans, upon which York was appointed Lord Protector by Parliament. Fighting resumed four years later when Yorkists led by Richard Neville, Earl of Warwick, captured Henry again, at the Battle of Northampton. After attempting to seize the throne, York was killed at the Battle of Wakefield, and his son Edward inherited his claim per the controversial Act of Accord.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/00/Richard_Caton_Woodville%27s_The_Battle_of_Towton.jpg",
-      "width": 1280,
-      "height": 838,
-      "page": "https://commons.wikimedia.org/wiki/File:Richard_Caton_Woodville%27s_The_Battle_of_Towton.jpg",
-      "artist": "Richard Caton Woodville Jr.",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The Yorkists lost custody of Henry in 1461 after the Second Battle of St Albans, but defeated the Lancastrians at the Battle of Towton. The Yorkist Edward IV was formally crowned in June 1461. In 1464, Edward married Elizabeth Woodville against Warwick's advice, and reversed Warwick's policy of seeking closer ties with France. Warwick rebelled against Edward in 1469, leading to Edward's imprisonment after Warwick's supporters defeated a Yorkist army at the Battle of Edgcote.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/Edward_III_of_England_%28Order_of_the_Garter%29.jpg",
-      "width": 1280,
-      "height": 1738,
-      "page": "https://commons.wikimedia.org/wiki/File:Edward_III_of_England_(Order_of_the_Garter).jpg",
-      "artist": "William Bruges",
-      "license": "Public domain",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 116
-  },
-  {
-   "id": "97377",
-   "title": "Scottish Enlightenment",
-   "description": "Intellectual movement in 18th–19th century Scotland",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/Scottish_Enlightenment",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/David_Hume_and_Adam_Smith_statues%2C_Edinburgh.jpg/1280px-David_Hume_and_Adam_Smith_statues%2C_Edinburgh.jpg",
-    "width": 1280,
-    "height": 1683,
-    "page": "https://commons.wikimedia.org/wiki/File:David_Hume_and_Adam_Smith_statues,_Edinburgh.jpg",
-    "artist": "Kim Traynor",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "The Scottish Enlightenment (Scots: Scots Enlichtenment, Scottish Gaelic: Soillseachadh na h-Alba) was the period in 18th- and early-19th-century Scotland characterised by an outpouring of intellectual and scientific accomplishments. By the eighteenth century, Scotland had a network of parish schools in the Scottish Lowlands and five universities.",
-     "image": null
-    },
-    {
-     "text": "The Enlightenment culture was based on close readings of new books, and intense discussions which took place daily at such intellectual gathering places in Edinburgh as The Select Society and, later, The Poker Club, as well as within Scotland's ancient universities (St Andrews, Glasgow, Edinburgh, King's College, and Marischal College).",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg/1280px-Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg",
-      "width": 1280,
-      "height": 995,
-      "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg",
-      "artist": "Joan Blaeu",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "Sharing the humanist and rational outlook of the Western Enlightenment of the same time period, the thinkers of the Scottish Enlightenment asserted the importance of human reason combined with a rejection of any authority that could not be justified by reason. In Scotland, the Enlightenment was characterised by a thoroughgoing empiricism and practicality where the chief values were improvement, virtue, and practical benefit for the individual and society as a whole.",
-     "image": null
-    },
-    {
-     "text": "Among the fields that rapidly advanced were philosophy, political economy, engineering, architecture, medicine, geology, archaeology, botany and zoology, law, agriculture, chemistry and sociology. Among the Scottish thinkers and scientists of the period were Joseph Black, James Boswell, Robert Burns, William Cullen, Adam Ferguson, David Hume, Francis Hutcheson, James Hutton, Lord Monboddo, John Playfair, Thomas Reid, Adam Smith, and Dugald Stewart.",
-     "image": null
-    },
-    {
-     "text": "The Scottish Enlightenment had effects far beyond Scotland, not only because of the esteem in which Scottish achievements were held outside Scotland, but also because its ideas and attitudes were carried all over Great Britain and across the Western world as part of the Scottish diaspora, and by foreign students who studied in Scotland.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 81
-  },
-  {
-   "id": "68315395",
-   "title": "Shrine of Saint Lachtin's Arm",
-   "description": "Irish reliquary made of wood and metal",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Shrine_of_Saint_Lachtin%27s_Arm",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Shrine_of_Saint_Lachtin%27s_Arm_NMI.jpg/1280px-Shrine_of_Saint_Lachtin%27s_Arm_NMI.jpg",
-    "width": 1280,
-    "height": 1280,
-    "page": "https://commons.wikimedia.org/wiki/File:Shrine_of_Saint_Lachtin%27s_Arm_NMI.jpg",
-    "artist": "Sarah E. Bond",
-    "license": "CC BY 2.0"
-   },
-   "cards": [
-    {
-     "text": "The Shrine of Saint Lachtin's Arm (known in Irish as Lámh Lachtaín) is an early 10th-century Irish arm-shrine type reliquary made of wood and metal shaped as an outstretched forearm and clenched fist. St. Lachtin's dates to between 1118 and 1121 and is associated with his church in the village of Stuake, Donoughmore, County Cork, but probably originates from Kilnamartyra, also in Cork.",
-     "image": null
-    },
-    {
-     "text": "It consists of a yew-wood core lined with decorated bronze and silver plates. The wood at the hand is hollowed out to create a reliquary cavity which once held the arm bone of St. Lachtin (b. 526, County Cork) but is now empty. The circular cap at its base contains a large transparent gemstone and is inlayed with silver decorated with filigree.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Shrine_of_Saint_Lachtin%27s_Arm_fist.jpg/1280px-Shrine_of_Saint_Lachtin%27s_Arm_fist.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Shrine_of_Saint_Lachtin%27s_Arm_fist.jpg",
-      "artist": "Ceoil",
-      "license": "CC BY-SA 4.0",
-      "caption": "Detail of the clenched fist and row of fingers"
-     }
-    },
-    {
-     "text": "The shrine is 39 cm high, 7 cm wide and 7 cm deep. Because the hand is clenched rather than, as is more usual for arm shrines, open as if in the act of blessing, it may have functioned as a battle standard or talisman to protect or heal combatants. Saint Lachtin's Arm was rediscovered by antiquarians c. 1750, having been in the care of its hereditary keepers, the Healy family, for around 200 years.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Shrine_of_Saint_Lachtin%27s_Arm_A.jpg/1280px-Shrine_of_Saint_Lachtin%27s_Arm_A.jpg",
-      "width": 1280,
-      "height": 1707,
-      "page": "https://commons.wikimedia.org/wiki/File:Shrine_of_Saint_Lachtin%27s_Arm_A.jpg",
-      "artist": "Ceoil",
-      "license": "CC BY-SA 4.0",
-      "caption": "Hand and wrist"
-     }
-    },
-    {
-     "text": "It was acquired that year from Donoughmore Church by the art collector Andrew Fountaine. Thereafter, it passed through various private and public collections and has been in the collection of the archaeology branch of the National Museum of Ireland (NMI), Dublin, since 1890.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a8/Reliquiario_del_braccio_di_san_lachtin%2C_da_donaghmore%2C_conteda_di_cork%2C_1120_ca._02.jpg/1280px-Reliquiario_del_braccio_di_san_lachtin%2C_da_donaghmore%2C_conteda_di_cork%2C_1120_ca._02.jpg",
-      "width": 1280,
-      "height": 2466,
-      "page": "https://commons.wikimedia.org/wiki/File:Reliquiario_del_braccio_di_san_lachtin,_da_donaghmore,_conteda_di_cork,_1120_ca._02.jpg",
-      "artist": "Sailko",
-      "license": "CC BY 3.0",
-      "caption": "Lower arm"
-     }
-    },
-    {
-     "text": "The shrine is described as \"one of the finest examples of ecclesiastical metalwork from medieval Ireland\". It is one of two surviving Irish arm-shrines (although many more would have been produced, including those of Ruadhán of Lorrha (d. 584) and Ciarán of Clonmacnoise (d. c. 549)), the other being the 14th-century Shrine of Saint Patrick's Hand, also empty and also at the NMI.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 96
-  },
-  {
-   "id": "11507605",
-   "title": "Wallace Sword",
-   "description": "Sword supposedly owned by William Wallace",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Wallace_Sword",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Wallace_sword.jpg",
-    "width": 1280,
-    "height": 1707,
-    "page": "https://commons.wikimedia.org/wiki/File:Wallace_sword.jpg",
-    "artist": "Glenn J. Mason from Edinburgh, Scotland",
-    "license": "CC BY 2.0"
-   },
-   "cards": [
-    {
-     "text": "The Wallace Sword is an antique two-handed sword purported to have belonged to William Wallace (1270–1305), a Scottish knight who led a resistance to the English occupation of Scotland during the First War of Scottish Independence. It is said to have been used by William Wallace at the Battle of Stirling Bridge in 1297 and the Battle of Falkirk (1298).",
-     "image": null
-    },
-    {
-     "text": "The sword is 5 feet 4 inches (163 cm). long, of which the blade is 4 feet 4 inches (132 cm). The blade tapers from 2.25 inches (5.7 cm) wide at the guard to 0.75 inches (1.9 cm) before the point. The sword weighs 5 pounds 3 ounces (2.35 kg). The sword is currently on display in the National Wallace Monument in Stirling, Scotland.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 36
-  },
-  {
-   "id": "4718030",
-   "title": "Bristol Castle",
-   "description": "Former Norman castle in Bristol",
-   "topic": "bristol",
-   "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Bristol_Castle",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Millerd1728dcastle.jpg/1280px-Millerd1728dcastle.jpg",
-    "width": 1280,
-    "height": 2390,
-    "page": "https://commons.wikimedia.org/wiki/File:Millerd1728dcastle.jpg",
-    "artist": "James Millerd and unknown later editors.",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Bristol Castle was a Norman castle established in the late 11th century on the north bank of the River Avon in Bristol. Remains can be seen today in Castle Park near the Broadmead Shopping Centre, including the sally port. Built during the reign of William the Conqueror, and later owned by Robert FitzHamon, it became an important royal castle and was the scene of several imprisonments and executions.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Water_Gate_to_Bristol_Castle.jpg/1280px-Water_Gate_to_Bristol_Castle.jpg",
-      "width": 1280,
-      "height": 1338,
-      "page": "https://commons.wikimedia.org/wiki/File:Water_Gate_to_Bristol_Castle.jpg",
-      "artist": "The book's text by JF Nicholls (d. 1883) and John Taylor (d. 1893). Death dates ",
-      "license": "Public domain",
-      "caption": "\"Water Gate\" to Bristol Castle, guarded by five towers[2]"
-     }
-    },
-    {
-     "text": "The castle was modified and further fortified between the 12th and 13th centuries under Robert of Gloucester and King Henry III. By the 16th century it was mostly neglected; it was torn down in 1656 under orders from Oliver Cromwell.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Bristol_Castle_plan_ancient_times.jpg/1280px-Bristol_Castle_plan_ancient_times.jpg",
-      "width": 1280,
-      "height": 1212,
-      "page": "https://commons.wikimedia.org/wiki/File:Bristol_Castle_plan_ancient_times.jpg",
-      "artist": "The book's text by JF Nicholls (d. 1883) and John Taylor (d. 1893). Death dates ",
-      "license": "Public domain",
-      "caption": "Plan of Bristol Castle"
+      "caption": "A view to the House from Royal Fort Gardens"
      }
     }
    ],
@@ -560,183 +48,347 @@
    "readSeconds": 40
   },
   {
-   "id": "1031250",
-   "title": "Cotton library",
-   "description": "Collection of manuscripts held by the British Library",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Cotton_library",
+   "id": "16808",
+   "title": "King Arthur",
+   "description": "Legendary king of the Britons",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/King_Arthur",
    "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/LindisfarneFol27rIncipitMatt.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Arth_tapestry2.jpg",
     "width": 1280,
-    "height": 1817,
-    "page": "https://commons.wikimedia.org/wiki/File:LindisfarneFol27rIncipitMatt.jpg",
-    "artist": "Eadfrith of Lindisfarne (presumed)",
+    "height": 2247,
+    "page": "https://commons.wikimedia.org/wiki/File:Arth_tapestry2.jpg",
+    "artist": "Unknown authorUnknown author",
     "license": "Public domain"
    },
    "cards": [
     {
-     "text": "The Cotton or Cottonian library is a collection of manuscripts that came into the hands of the antiquarian and bibliophile Sir Robert Bruce Cotton MP (1571–1631). The collection of books and materials Sir Robert held was one of the three \"foundation collections\" of the British Museum in 1753. It is now one of the major collections of the Department of Manuscripts of the British Library.",
+     "text": "King Arthur (Welsh: Brenin Arthur; Cornish: Arthur Gernow; Breton: Roue Arzhur; French: Roi Arthur) was a legendary king of Britain. He is a folk hero and a central figure in the medieval literary tradition known as the Matter of Britain.",
      "image": null
     },
     {
-     "text": "Cotton was of a Shropshire family who originated near Wem and were based in Alkington and employed by the Geneva Bible publisher, statesman and polymath Sir Rowland Hill in the mid 16th century. After the Dissolution of the Monasteries, many priceless and ancient manuscripts that had belonged to the monastic libraries began to be disseminated among various owners, many of whom were unaware of the cultural value of the manuscripts.",
+     "text": "In Welsh sources, Arthur is portrayed as a leader of the post-Roman Britons in battles against the Anglo-Saxons in the late 5th and early 6th centuries. He first appears in two early medieval historical sources, the Annales Cambriae and the Historia Brittonum, but these date to 300 years after he is supposed to have lived, and most historians who study the period do not consider him a historical figure.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/CottonGenesisFragment26vAbrahamAndAngels.JPG",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Llandaf%2C_yr_eglwys_gadeiriol_Llandaf_Cathedral_De_Cymru_South_Wales_163.JPG/1280px-Llandaf%2C_yr_eglwys_gadeiriol_Llandaf_Cathedral_De_Cymru_South_Wales_163.JPG",
       "width": 1280,
-      "height": 1741,
-      "page": "https://commons.wikimedia.org/wiki/File:CottonGenesisFragment26vAbrahamAndAngels.JPG",
-      "artist": "Unknown",
+      "height": 1834,
+      "page": "https://commons.wikimedia.org/wiki/File:Llandaf,_yr_eglwys_gadeiriol_Llandaf_Cathedral_De_Cymru_South_Wales_163.JPG",
+      "artist": "Llywelyn2000",
+      "license": "CC BY-SA 4.0",
+      "caption": "King Arthur returning from the Battle of Mons Badonis (or Mount Badon). First reference to Arthur, found in early Welsh literature. Stained glass in Llandaff Cathedral, Cardiff."
+     }
+    },
+    {
+     "text": "His name also occurs in early Welsh poetic sources, such as Y Gododdin, but it may be a late interpolation. Arthur's character developed through Welsh mythology, appearing either as a great warrior defending Britain from human and supernatural enemies or as a magical figure of folklore, and was sometimes associated with the Welsh otherworld Annwn.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Former_Gravesite_King_Arthur_%28GlastonburyAbbey%29.jpg",
+      "width": 1280,
+      "height": 1065,
+      "page": "https://commons.wikimedia.org/wiki/File:Former_Gravesite_King_Arthur_(GlastonburyAbbey).jpg",
+      "artist": "Tom Ordelman",
+      "license": "CC BY-SA 3.0",
+      "caption": "Supposed former gravesite of Arthur at Glastonbury Abbey in Somerset"
+     }
+    },
+    {
+     "text": "The legendary Arthur developed as a figure of international interest largely through the popularity of Geoffrey of Monmouth's fanciful and imaginative 12th-century Historia Regum Britanniae (History of the Kings of Britain). Geoffrey depicted Arthur as a king of Britain who defeated the Saxons and established a vast empire.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Edward_Burne-Jones.The_last_sleep_of_Arthur.jpg/1280px-Edward_Burne-Jones.The_last_sleep_of_Arthur.jpg",
+      "width": 1280,
+      "height": 856,
+      "page": "https://commons.wikimedia.org/wiki/File:Edward_Burne-Jones.The_last_sleep_of_Arthur.jpg",
+      "artist": "Edward Burne-Jones",
       "license": "Public domain",
-      "caption": "The Cotton Genesis was badly damaged in the Ashburnham House fire."
+      "caption": "Detail of The Last Sleep of Arthur in Avalon (completed 1898), by Edward Burne-Jones. Arthur sleeping in Avalon, awaiting his return."
      }
     },
     {
-     "text": "Cotton's skill lay in finding, purchasing and preserving these ancient documents. The leading scholars of the era, including Francis Bacon, Walter Raleigh, and James Ussher, came to use Sir Robert's library. Richard James acted as his librarian. The library is of special importance for having preserved the only copy of several works, including Beowulf, The Battle of Maldon, and Sir Gawain and the Green Knight.",
-     "image": null
-    },
-    {
-     "text": "In 1731 the collection was badly damaged by a fire in which 13 manuscripts were completely destroyed, and some 200 seriously damaged. The most important Anglo-Saxon manuscripts had already been copied; the original text of The Battle of Maldon was completely burned.",
+     "text": "Many elements and incidents that are now an integral part of the Arthurian story appear in Geoffrey's Historia, including Arthur's father Uther Pendragon, the magician Merlin, Arthur's wife Guinevere, the sword Excalibur, Arthur's conception at Tintagel, his final battle against Mordred at Camlann, and his final rest in Avalon.",
      "image": null
     }
    ],
-   "truncated": false,
-   "readSeconds": 71
+   "truncated": true,
+   "readSeconds": 84
   },
   {
-   "id": "2579666",
-   "title": "Cheddar Man",
-   "description": "Prehistoric human remains found in England",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Cheddar_Man",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/Cheddar_man_skull.jpg/1280px-Cheddar_man_skull.jpg",
-    "width": 1280,
-    "height": 1688,
-    "page": "https://commons.wikimedia.org/wiki/File:Cheddar_man_skull.jpg",
-    "artist": "Photo by user:geni",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "Cheddar Man is the name given to the nearly complete skeleton of a Mesolithic-era hunter-gatherer discovered in December 1903 in Gough's Cave, in Cheddar Gorge, Somerset, England. He lived around 8300 BC, approximately 10,300 years ago, and probably died in his early twenties. His remains constitute the oldest nearly complete human skeleton found in Great Britain.",
-     "image": null
-    },
-    {
-     "text": "The skeleton was uncovered during drainage work near the cave entrance. Its position has been interpreted as evidence of a deliberate burial with the limbs bent, although the circumstances of deposition remain debated. His cause of death is unknown. Skull damage once considered evidence of fatal injuries is now thought more likely to have occurred after death, while a lesion above his right eye socket suggests a possible bone infection.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Cheddar_Man_upper_body.JPG/1280px-Cheddar_Man_upper_body.JPG",
-      "width": 1280,
-      "height": 1915,
-      "page": "https://commons.wikimedia.org/wiki/File:Cheddar_Man_upper_body.JPG",
-      "artist": "Geni",
-      "license": "CC BY-SA 4.0",
-      "caption": "The upper body of the Cheddar Man"
-     }
-    },
-    {
-     "text": "Ancient DNA analysis indicates that he belonged to the Western European hunter-gatherer population. Genetic evidence suggests that he most likely had blue-green eyes, dark brown or black hair, and dark or dark-to-black skin, although these predictions are limited by incomplete genetic data. He lacked the genetic adaptation associated with the ability to digest milk in adulthood. His ancestry and reconstructed appearance have attracted widespread public attention and debate about British prehistory, race and national identity.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Cheddar_man_2024.JPG/1280px-Cheddar_man_2024.JPG",
-      "width": 1280,
-      "height": 240,
-      "page": "https://commons.wikimedia.org/wiki/File:Cheddar_man_2024.JPG",
-      "artist": "Geni",
-      "license": "CC BY-SA 4.0",
-      "caption": "Cheddar Man's skeleton viewed from the side"
-     }
-    },
-    {
-     "text": "His skeleton is displayed in the Human Evolution Gallery at the Natural History Museum in London, on loan from the Longleat Estate. Beside it is a facial reconstruction created in 2018 by Dutch artists Adrie and Alfons Kennis using skull scans and genetic evidence.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Cheddar_Man%2C_National_History_Museum%2C_London.jpg/1280px-Cheddar_Man%2C_National_History_Museum%2C_London.jpg",
-      "width": 1280,
-      "height": 853,
-      "page": "https://commons.wikimedia.org/wiki/File:Cheddar_Man,_National_History_Museum,_London.jpg",
-      "artist": "Werner Ustorf",
-      "license": "CC BY-SA 2.0",
-      "caption": "Facial reconstruction of Cheddar Man, created from a three-dimensional scan of his skull and genetic evidence about his pigmentation.[3]"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 80
-  },
-  {
-   "id": "19574585",
-   "title": "Jacobo Fitz-James Stuart, 3rd Duke of Berwick",
-   "description": "Spanish nobleman",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/Jacobo_Fitz-James_Stuart,_3rd_Duke_of_Berwick",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/Duke_of_Veragua_Van_Loo.jpg",
-    "width": 1280,
-    "height": 1746,
-    "page": "https://commons.wikimedia.org/wiki/File:Duke_of_Veragua_Van_Loo.jpg",
-    "artist": "Louis-Michel van Loo",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Jacobo Francisco Eduardo Fitz-James Stuart y Colón de Portugal, 3rd Duke of Berwick (28 December 1718 – 30 September 1785) was a Spanish nobleman. On the death of his father, James Fitz-James Stuart, in 1738, he inherited his titles of Duke of Berwick and Duke of Liria and Jérica. He also possessed many other titles in both Spain and England.",
-     "image": null
-    },
-    {
-     "text": "Through his father, he was descended from King James II of England. His mother was Spanish, and on her side he was a direct descendant of explorer Christopher Columbus. His best-known legacy is building the Liria Palace.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c8/Palacio_de_Liria_05.jpg/1280px-Palacio_de_Liria_05.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Palacio_de_Liria_05.jpg",
-      "artist": "UnDíaPorMadrid",
-      "license": "CC0",
-      "caption": "North façade of Liria Palace"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 33
-  },
-  {
-   "id": "734590",
-   "title": "Alfred Jewel",
-   "description": "Quartz and gold Anglo-Saxon artefact",
+   "id": "43245",
+   "title": "Westminster Abbey",
+   "description": "Church in London, England",
    "topic": "medieval-england",
    "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Alfred_Jewel",
+   "url": "https://en.wikipedia.org/wiki/Westminster_Abbey",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Alfred_Jewel_2025.JPG/1280px-Alfred_Jewel_2025.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Westminster_Abbey%2C_Westminster.jpg/1280px-Westminster_Abbey%2C_Westminster.jpg",
     "width": 1280,
-    "height": 1585,
-    "page": "https://commons.wikimedia.org/wiki/File:Alfred_Jewel_2025.JPG",
-    "artist": "Geni",
-    "license": "CC BY-SA 4.0"
+    "height": 2573,
+    "page": "https://commons.wikimedia.org/wiki/File:Westminster_Abbey,_Westminster.jpg",
+    "artist": "Antiquary",
+    "license": "CC BY 4.0"
    },
    "cards": [
     {
-     "text": "The Alfred Jewel is a piece of Anglo-Saxon goldsmithing work made of enamel and quartz enclosed in gold. It was discovered in 1693, in North Petherton, Somerset, England and is now one of the most popular exhibits at the Ashmolean Museum in Oxford. It has been dated to the late 9th century, in the reign of Alfred the Great, and is inscribed \"AELFRED MEC HEHT GEWYRCAN\", meaning \"Alfred ordered me made\".",
+     "text": "Westminster Abbey, formally titled the Collegiate Church of Saint Peter at Westminster, is an Anglican church in the City of Westminster, London, England. Since 1066, it has been the location of the coronations of 40 English and British monarchs and a burial site for 18 English, Scottish, and British monarchs. At least 16 royal weddings have taken place at the abbey since 1100.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/King_Alfred%E2%80%99s_Jewel%E2%80%94front%2C_enamel%2C_back.png/1280px-King_Alfred%E2%80%99s_Jewel%E2%80%94front%2C_enamel%2C_back.png",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/BayeuxTapestryScene26.jpg",
       "width": 1280,
       "height": 624,
-      "page": "https://commons.wikimedia.org/wiki/File:King_Alfred%E2%80%99s_Jewel%E2%80%94front,_enamel,_back.png",
-      "artist": "Henry Shaw (1800-1873)",
+      "page": "https://commons.wikimedia.org/wiki/File:BayeuxTapestryScene26.jpg",
+      "artist": "Image on web site of Ulrich Harsh.",
       "license": "Public domain",
-      "caption": "Front view; frame removed; back view"
+      "caption": ""
      }
     },
     {
-     "text": "The jewel was once attached to a rod, probably of wood, at its base. After decades of scholarly discussion, it is now \"generally accepted\" that the jewel's function was to be the handle for a pointer stick for following words when reading a book. It is an exceptional and unusual example of Anglo-Saxon jewellery.",
+     "text": "Although the origins of the church are obscure, an abbey housing Benedictine monks was on the site by the mid-10th century. The church got its first large building from the 1040s, commissioned by King Edward the Confessor, who is buried inside. Construction of the present church began in 1245 on the orders of Henry III.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/The_Alfred_Jewel_%28side_view%29.jpg/1280px-The_Alfred_Jewel_%28side_view%29.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Chamber_of_the_Pyx.jpg/1280px-Chamber_of_the_Pyx.jpg",
       "width": 1280,
-      "height": 1930,
-      "page": "https://commons.wikimedia.org/wiki/File:The_Alfred_Jewel_(side_view).jpg",
-      "artist": "Giles Watson",
+      "height": 851,
+      "page": "https://commons.wikimedia.org/wiki/File:Chamber_of_the_Pyx.jpg",
+      "artist": "\"ptwo\"",
+      "license": "CC BY 2.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "The monastery was dissolved in 1559, and the church was made a royal peculiar – a Church of England church, accountable directly to the sovereign – by Elizabeth I. The abbey, the Palace of Westminster and St Margaret's Church became a UNESCO World Heritage Site in 1987 because of their historic and symbolic significance.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Westminster_Abbey_-_Plan_showing_relative_positions_of_the_church_of_Edward_the_Confessor_and_of_the_existing_church_1910.jpg/1280px-Westminster_Abbey_-_Plan_showing_relative_positions_of_the_church_of_Edward_the_Confessor_and_of_the_existing_church_1910.jpg",
+      "width": 1280,
+      "height": 804,
+      "page": "https://commons.wikimedia.org/wiki/File:Westminster_Abbey_-_Plan_showing_relative_positions_of_the_church_of_Edward_the_Confessor_and_of_the_existing_church_1910.jpg",
+      "artist": "Robinson, Joseph Armitage, 1858-1933",
+      "license": "Public domain",
+      "caption": "Plan showing relative positions of the 11th-century church (in red) and the present church (in blue)"
+     }
+    },
+    {
+     "text": "The church's Gothic architecture is chiefly inspired by 13th-century French and English styles, although some sections of the church have earlier Romanesque styles or later Baroque and modern styles. The Henry VII Chapel, at the east end of the church, is a typical example of Perpendicular Gothic architecture; antiquarian John Leland called it orbis miraculum (\"the wonder of the world\").",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Westminster_Abbey_-_51370229194.jpg/1280px-Westminster_Abbey_-_51370229194.jpg",
+      "width": 1280,
+      "height": 1572,
+      "page": "https://commons.wikimedia.org/wiki/File:Westminster_Abbey_-_51370229194.jpg",
+      "artist": "amandabhslater",
       "license": "CC BY-SA 2.0",
-      "caption": "Side-on view of the Jewel"
+      "caption": ""
+     }
+    },
+    {
+     "text": "The abbey is the burial site of more than 3,300 people, many prominent in British history: monarchs, prime ministers, poets laureate, actors, musicians, scientists, military leaders, and the Unknown Warrior. Due to the fame of the figures buried there, artist William Morris described the abbey as a \"National Valhalla\".",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b5/Westminster_Abbey_%28Interior%29_05.jpg/1280px-Westminster_Abbey_%28Interior%29_05.jpg",
+      "width": 1280,
+      "height": 1920,
+      "page": "https://commons.wikimedia.org/wiki/File:Westminster_Abbey_(Interior)_05.jpg",
+      "artist": "Maksim Sokolov (maxergon.com)",
+      "license": "CC BY-SA 4.0",
+      "caption": ""
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 97
+  },
+  {
+   "id": "32610",
+   "title": "Vikings",
+   "description": "Norse seafarers, merchants and raiders",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Vikings",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Viking_attack_on_Gu%C3%A9rande%2C_from_a_Saint-Aubin_MS.jpg",
+    "width": 1280,
+    "height": 1700,
+    "page": "https://commons.wikimedia.org/wiki/File:Viking_attack_on_Gu%C3%A9rande,_from_a_Saint-Aubin_MS.jpg",
+    "artist": "Abbey of Saint-Aubin",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Vikings were a seafaring people originally from Scandinavia (present-day Denmark, Norway, and Sweden), who from the late 8th to the late 11th centuries raided, pirated, traded, and settled throughout parts of Europe. They voyaged as far as the Mediterranean, North Africa, the Middle East, Greenland, and Vinland (present-day Newfoundland in Canada, North America).",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/Tj%C3%A4ngvide_crop.jpg/1280px-Tj%C3%A4ngvide_crop.jpg",
+      "width": 1280,
+      "height": 936,
+      "page": "https://commons.wikimedia.org/wiki/File:Tj%C3%A4ngvide_crop.jpg",
+      "artist": "Berig",
+      "license": "CC BY-SA 4.0",
+      "caption": "A Viking Age depiction from the Tjängvide image stone, on Gotland[2]"
+     }
+    },
+    {
+     "text": "In their countries of origin, and in some of the countries they raided and settled, this period of activity is popularly known as the Viking Age, and the term \"Viking\" also commonly includes the inhabitants of the Scandinavian homelands as a whole during the late 8th to the mid-11th centuries.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4d/Sm_10%2C_V%C3%A4xj%C3%B6.JPG/1280px-Sm_10%2C_V%C3%A4xj%C3%B6.JPG",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:Sm_10,_V%C3%A4xj%C3%B6.JPG",
+      "artist": "Berig",
+      "license": "CC BY 3.0",
+      "caption": "Runestone raised in memory of Gunnarr by Tóki the Viking.[19]"
+     }
+    },
+    {
+     "text": "The Vikings had a profound impact on the early medieval history of northern and Eastern Europe, including the political and social development of England (and the English language) and parts of France, and the establishment of Kievan Rus', the ancestor of the later states of Belarus, Russia, and Ukraine.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Hammars_%28I%29.JPG/1280px-Hammars_%28I%29.JPG",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:Hammars_(I).JPG",
+      "artist": "Berig",
+      "license": "CC BY-SA 3.0",
+      "caption": "The Stora Hammars I image stone, showing the saga of Hildr, under what may be the rite of blood eagle, and on the bottom a Viking ship"
+     }
+    },
+    {
+     "text": "Expert sailors and navigators of their characteristic longships, Vikings established Norse settlements and governments in the British Isles, the Faroe Islands, Iceland, Greenland, Normandy, and the Baltic coast, as well as along the Dnieper and Volga trade routes across Eastern Europe where they were also known as Varangians. The Normans, Norse-Gaels, Rus, Faroese, and Icelanders emerged from these Norse colonies.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/32/Miscellany_on_the_Life_of_St._Edmund_-_MS_M.736_fol._9v.jpg",
+      "width": 1280,
+      "height": 1921,
+      "page": "https://commons.wikimedia.org/wiki/File:Miscellany_on_the_Life_of_St._Edmund_-_MS_M.736_fol._9v.jpg",
+      "artist": "Morgan Library",
+      "license": "Public domain",
+      "caption": "Sea-faring Norsemen depicted invading England. Illuminated illustration from the 12th-century Miscellany on the Life of St. Edmund (Pierpont Morgan Library)"
+     }
+    },
+    {
+     "text": "At one point, a group of Rus Vikings went so far south that, after briefly being bodyguards for the Byzantine emperor, they attacked the Byzantine city of Constantinople. Vikings also voyaged to the Caspian Sea and Arabia. They were the first Europeans to reach North America, briefly settling in Newfoundland (Vinland). While spreading Norse culture to foreign lands, they simultaneously brought home slaves, concubines, and foreign cultural influences to Scandinavia, influencing the genetic and historical development of both.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Vikings-Voyages.png",
+      "width": 1280,
+      "height": 875,
+      "page": "https://commons.wikimedia.org/wiki/File:Vikings-Voyages.png",
+      "artist": "en:User:Bogdangiusca",
+      "license": "CC BY-SA 3.0",
+      "caption": "Viking expeditions (blue line): depicting the immense breadth of their voyages through most of Europe, the Mediterranean Sea, Northern Africa, Asia Minor, the Arctic, and North America. Lower Normandy, depicted as a \"Viking territory in 911\", was not part of the lands granted by the king of the Franks to Rollo in 911, but Upper Normandy."
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 100
+  },
+  {
+   "id": "152256",
+   "title": "United Kingdom of Great Britain and Ireland",
+   "description": "Sovereign state in Northwestern Europe (1801–1922)",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/United_Kingdom_of_Great_Britain_and_Ireland",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/83/Flag_of_the_United_Kingdom_%283-5%29.svg/1280px-Flag_of_the_United_Kingdom_%283-5%29.svg.png",
+    "width": 1280,
+    "height": 768,
+    "page": "https://commons.wikimedia.org/wiki/File:Flag_of_the_United_Kingdom_(3-5).svg",
+    "artist": "Original: Acts of Union 1800 Vector: Yaddah",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The United Kingdom of Great Britain and Ireland was established by the Acts of Union in 1801 that united the Kingdom of Great Britain and the Kingdom of Ireland into one unitary and sovereign state. It continued in this form until 1922, after the Irish Free State gained independence, with the remainder continuing as the United Kingdom of Great Britain and Northern Ireland.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/British_Empire_1921.png/1280px-British_Empire_1921.png",
+      "width": 1280,
+      "height": 561,
+      "page": "https://commons.wikimedia.org/wiki/File:British_Empire_1921.png",
+      "artist": "Vadac.",
+      "license": "Public domain",
+      "caption": ""
+     }
+    },
+    {
+     "text": "Rapid industrialisation that began in the decades prior to the state's formation continued up until the mid-19th century. The Great Irish Famine, exacerbated by government inaction in the mid-19th century, led to demographic collapse in much of Ireland and increased calls for Irish land reform. The 19th century was an era of Industrial Revolution, and growth of trade and finance, in which Britain largely dominated the world economy.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Atlas_Van_der_Hagen-KW1049B11_048-HIBERNIAE_REGNUM_tam_in_praecipuas_ULTONIAE%2C_CONNACIAE%2C_LAGENIAE%2C_et_MOMONIAE%2C_quam_in_minores_earundem_Provincias%2C_et_Ditiones_subjacentes_peraccurat%C3%A9_divisum.jpeg/1280px-thumbnail.jpeg",
+      "width": 1280,
+      "height": 1509,
+      "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B11_048-HIBERNIAE_REGNUM_tam_in_praecipuas_ULTONIAE,_CONNACIAE,_LAGENIAE,_et_MOMONIAE,_quam_in_minores_earundem_Provincias,_et_Ditiones_subjacentes_peraccurat%C3%A9_divisum.jpeg",
+      "artist": "Nicolaes Visscher II",
+      "license": "Public domain",
+      "caption": ""
+     }
+    },
+    {
+     "text": "Outward migration was heavy to the principal British overseas possessions and to the United States. The UK, from its islands off the coast of Europe, financed the coalition that defeated France during the Napoleonic Wars, and developed its dominant Royal Navy enabling the British Empire to become the foremost world power for the next century. From the defeat of Napoleon to World War I, Britain was almost continuously at peace with the Great Powers.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Am%C3%A9d%C3%A9e_Forestier_-_Signing_of_Treaty_of_Ghent_%281814%29.jpg/1280px-Am%C3%A9d%C3%A9e_Forestier_-_Signing_of_Treaty_of_Ghent_%281814%29.jpg",
+      "width": 1280,
+      "height": 884,
+      "page": "https://commons.wikimedia.org/wiki/File:Am%C3%A9d%C3%A9e_Forestier_-_Signing_of_Treaty_of_Ghent_(1814).jpg",
+      "artist": "Amédée Forestier",
+      "license": "Public domain",
+      "caption": "The signing of the Treaty of Ghent ending the war with the United States(by Amédée Forestier, c. 1915)"
+     }
+    },
+    {
+     "text": "However, the UK did engage in extensive wars in Africa and Asia, such as the Opium Wars, to extend its empire and influence. The Colonial Office and India Office ruled through a small number of administrators who managed the units of the empire locally, while local institutions developed. British India was by far the most important overseas possession.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/98/Peterloo_Massacre.png",
+      "width": 1280,
+      "height": 853,
+      "page": "https://commons.wikimedia.org/wiki/File:Peterloo_Massacre.png",
+      "artist": "Richard Carlile",
+      "license": "Public domain",
+      "caption": "The Peterloo Massacre of 1819 resulted in 18 deaths and several hundred injured."
+     }
+    },
+    {
+     "text": "In overseas policy, the central policy was free trade, which enabled British financiers and merchants to operate successfully in otherwise independent countries, as in South America. Beginning in earnest in the second half of the 19th century, the Imperial government granted increasing autonomy to local governments in colonies where white settlers were politically dominant, with this process resulting in Canada, Australia, New Zealand, Newfoundland and South Africa becoming self-governing dominions.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Trafalgar_Square_by_James_Pollard.jpg/1280px-Trafalgar_Square_by_James_Pollard.jpg",
+      "width": 1280,
+      "height": 885,
+      "page": "https://commons.wikimedia.org/wiki/File:Trafalgar_Square_by_James_Pollard.jpg",
+      "artist": "James Pollard",
+      "license": "Public domain",
+      "caption": "A painting by James Pollard showing Trafalgar Square before the erection of Nelson's Column"
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 111
+  },
+  {
+   "id": "389552",
+   "title": "Scold's bridle",
+   "description": "16th-century punishment or torture device",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Scold%27s_bridle",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/23/Scoldengravingalpha.jpg/1280px-Scoldengravingalpha.jpg",
+    "width": 1280,
+    "height": 1263,
+    "page": "https://commons.wikimedia.org/wiki/File:Scoldengravingalpha.jpg",
+    "artist": "Joel Dorman Steele and Esther Baker Steele",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "A scold's bridle, sometimes called a witch's bridle, a gossip's bridle, a brank's bridle, or simply branks, was an instrument of punishment used as a form of public humiliation. It consisted of an iron muzzle in an iron framework that enclosed the head (although some bridles were masks that depicted suffering).",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Brank_-_Kelvingrove_Art_Gallery_and_Museum.jpg/1280px-Brank_-_Kelvingrove_Art_Gallery_and_Museum.jpg",
+      "width": 1280,
+      "height": 1577,
+      "page": "https://commons.wikimedia.org/wiki/File:Brank_-_Kelvingrove_Art_Gallery_and_Museum.jpg",
+      "artist": "Postdlf",
+      "license": "CC BY-SA 3.0",
+      "caption": "16th-century Scottish branks, Kelvingrove Art Gallery and Museum, Glasgow, Scotland"
+     }
+    },
+    {
+     "text": "A bridle-bit (or curb-plate), about 5 cm × 2.5 cm (2 in × 1 in) in size, was slid into the mouth and pressed down on top of the tongue, often with a spike, used as a compress. This prevented speaking and resulted in many unpleasant side effects for the wearer, including excessive salivation and fatigue of the mouth. The scold's bridle was used on women, the counterpart of the stocks and pillory used to punish men.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/17XX_Schandmaske_anagoria.JPG/1280px-17XX_Schandmaske_anagoria.JPG",
+      "width": 1280,
+      "height": 947,
+      "page": "https://commons.wikimedia.org/wiki/File:17XX_Schandmaske_anagoria.JPG",
+      "artist": "Anagoria",
+      "license": "CC BY 3.0",
+      "caption": ""
      }
     }
    ],
@@ -744,139 +396,179 @@
    "readSeconds": 45
   },
   {
-   "id": "1978641",
-   "title": "North Berwick witch trials",
-   "description": "Scottish witch trials in 1590",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/North_Berwick_witch_trials",
+   "id": "13633",
+   "title": "Homer",
+   "description": "Ancient Greek poet",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Homer",
    "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/North_Berwick_witches.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Homer_At_the_British_Museum_2024_%283x4_cropped%29.jpg/1280px-Homer_At_the_British_Museum_2024_%283x4_cropped%29.jpg",
     "width": 1280,
-    "height": 1026,
-    "page": "https://commons.wikimedia.org/wiki/File:North_Berwick_witches.jpg",
-    "artist": "Unknown authorUnknown author",
+    "height": 1707,
+    "page": "https://commons.wikimedia.org/wiki/File:Homer_At_the_British_Museum_2024_(3x4_cropped).jpg",
+    "artist": "Photograph by Mike Peel (www.mikepeel.net).",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "Homer (; Ancient Greek: Ὅμηρος [hómɛːros], Hómēros; possibly born c. 8th century BC) was an ancient Greek poet who is traditionally credited as the author of the Iliad and the Odyssey, two epic poems that are foundational works of ancient Greek literature. Homer was highly revered in ancient Greek society and is considered one of the most influential authors in history.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/William-Adolphe_Bouguereau_%281825-1905%29_-_Homer_and_his_Guide_%281874%29.jpg",
+      "width": 1280,
+      "height": 1877,
+      "page": "https://commons.wikimedia.org/wiki/File:William-Adolphe_Bouguereau_(1825-1905)_-_Homer_and_his_Guide_(1874).jpg",
+      "artist": "William-Adolphe Bouguereau",
+      "license": "Public domain",
+      "caption": "Homer and His Guide (1874) by William-Adolphe Bouguereau"
+     }
+    },
+    {
+     "text": "The question of Homer's identity and existence—dubbed the \"Homeric Question\"—continues to be debated, and scholars generally regard the two poems as the works of separate authors. The Iliad centers on a quarrel between King Agamemnon and the warrior Achilles during the last year of the Trojan War. The Odyssey chronicles the ten-year journey of Odysseus, king of Ithaca, back to his home after the fall of Troy.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/19/Townley_Homer.jpg",
+      "width": 1280,
+      "height": 1640,
+      "page": "https://commons.wikimedia.org/wiki/File:Townley_Homer.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "caption": "Part of an eleventh-century manuscript, \"the Townley Homer\". The writings on the top and right side are scholia."
+     }
+    },
+    {
+     "text": "The epics depict man's struggle, the Odyssey especially so, as Odysseus perseveres through the punishment of the gods. The poems are in Homeric Greek, also known as Epic Greek, a literary language that shows a mixture of features of the Ionic and Aeolic dialects from different centuries; the predominant influence is Eastern Ionic. Most researchers believe that the poems were originally transmitted orally.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Page_from_the_first_printed_edition_%28editio_princeps%29_of_collected_works_by_Homer.jpg/1280px-Page_from_the_first_printed_edition_%28editio_princeps%29_of_collected_works_by_Homer.jpg",
+      "width": 1280,
+      "height": 1799,
+      "page": "https://commons.wikimedia.org/wiki/File:Page_from_the_first_printed_edition_(editio_princeps)_of_collected_works_by_Homer.jpg",
+      "artist": "Homer",
+      "license": "Public domain",
+      "caption": "Page from the first printed edition (editio princeps) of collected works by Homer edited by Demetrios Chalkokondyles, Florence, 1489, Bibliothèque Nationale de France"
+     }
+    },
+    {
+     "text": "Despite being predominantly known for their tragic and serious themes, the Homeric poems also contain instances of comedy and laughter. The Homeric poems shaped aspects of ancient Greek culture and education, fostering ideals of heroism, glory, and honor. To Plato, Homer was in simple words the one who \"has educated Greece\" (τὴν Ἑλλάδα πεπαίδευκεν, tēn Helláda pepaídeuken).",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Achamanid-Woman-Statue-Persia-Persepolis.jpg/1280px-Achamanid-Woman-Statue-Persia-Persepolis.jpg",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:Achamanid-Woman-Statue-Persia-Persepolis.jpg",
+      "artist": "Arashk rp2",
+      "license": "CC BY-SA 4.0",
+      "caption": "Among the four surviving statues of Penelope, this is the oldest dating back to the 5th century BC, crafted 300 years after Homer composed the Odyssey. Discovered in Persepolis and housed at the National Museum of Iran, the other three are kept at the Vatican Museum and Capitoline Museum in Rome.[43][44][45]"
+     }
+    },
+    {
+     "text": "In Dante's Divine Comedy, Virgil refers to Homer as \"Poet sovereign\", king of all poets; in the preface to his translation of the Iliad, Alexander Pope acknowledges that Homer has always been considered the \"greatest of poets\". From antiquity to the present, Homeric epics have inspired many famous works of literature, music, art, and film.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Cropped_image_of_Homer_from_Raphael%27s_Parnassus.jpg",
+      "width": 1280,
+      "height": 1903,
+      "page": "https://commons.wikimedia.org/wiki/File:Cropped_image_of_Homer_from_Raphael%27s_Parnassus.jpg",
+      "artist": "Raffaello Sanzio da Urbino (Raphael)",
+      "license": "Public domain",
+      "caption": "Detail of The Parnassus (painted 1509–1510) by Raphael, depicting Homer wearing a crown of laurels atop Mount Parnassus, with Dante on his right, in red, and Virgil on his left, in green."
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 103
+  },
+  {
+   "id": "425824",
+   "title": "London Charterhouse",
+   "description": "Almshouse in Islington",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/London_Charterhouse",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/London_Charterhouse_-_Entrance_from_Charterhouse_Square.jpg/1280px-London_Charterhouse_-_Entrance_from_Charterhouse_Square.jpg",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:London_Charterhouse_-_Entrance_from_Charterhouse_Square.jpg",
+    "artist": "KJP1",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "The London Charterhouse is a historic complex of buildings in Clerkenwell, London, dating from the 14th century. It occupies land to the north of Charterhouse Square, and lies within the London Borough of Islington. It was originally built as (and takes its name from) a Carthusian priory, founded in 1371 on the site of a Black Death burial ground.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/80/Charterhouse_Hospital%2C_engraved_by_Toms%2C_c.1770..jpg",
+      "width": 1280,
+      "height": 852,
+      "page": "https://commons.wikimedia.org/wiki/File:Charterhouse_Hospital,_engraved_by_Toms,_c.1770..jpg",
+      "artist": "William Henry Toms",
+      "license": "Public domain",
+      "caption": "The Charterhouse in 1770"
+     }
+    },
+    {
+     "text": "Following the priory's dissolution in 1537, it was rebuilt from 1545 onwards to become one of the great courtyard houses of Tudor London. In 1611, the property was bought by Thomas Sutton, a businessman and \"the wealthiest commoner in England\", who established a school for the young and an almshouse for the old. The almshouse remains in occupation today, while the school was re-located in 1872 to Godalming, Surrey.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/43/London_Charterhouse_-_The_Great_Hall.jpg/1280px-London_Charterhouse_-_The_Great_Hall.jpg",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:London_Charterhouse_-_The_Great_Hall.jpg",
+      "artist": "KJP1",
+      "license": "CC BY-SA 4.0",
+      "caption": "The Great Hall"
+     }
+    },
+    {
+     "text": "Although substantial fragments survive from the monastic period, most of the standing buildings date from the Tudor era. Thus, today the complex \"conveys a vivid impression of the type of large rambling 16th-century mansion that once existed all round London\".",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/A_View_of_the_Charter_House_Taken_from_the_Green_1813.jpg",
+      "width": 1280,
+      "height": 992,
+      "page": "https://commons.wikimedia.org/wiki/File:A_View_of_the_Charter_House_Taken_from_the_Green_1813.jpg",
+      "artist": "Robert Havell",
+      "license": "Public domain",
+      "caption": "A View of the Charter House taken from the Green, 1813"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 60
+  },
+  {
+   "id": "22559652",
+   "title": "HMS Cleopatra (1779)",
+   "description": "Royal Navy frigate",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/HMS_Cleopatra_(1779)",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Cleopatra_32_Guns_Launched_at_Bristol%2C_December%2C_1779_RMG_PU5997.jpg",
+    "width": 1280,
+    "height": 810,
+    "page": "https://commons.wikimedia.org/wiki/File:Cleopatra_32_Guns_Launched_at_Bristol,_December,_1779_RMG_PU5997.jpg",
+    "artist": "Gold, Joyce (publisher) (publisher); Pocock, Nicholas (artist); Thomas Medland (",
     "license": "Public domain"
    },
    "cards": [
     {
-     "text": "The North Berwick witch trials were the trials in 1590 of a number of people from East Lothian and Scotland, accused of witchcraft in the St Andrew's Auld Kirk in North Berwick on Halloween night. They ran for two years, and implicated over 70 people. These included Francis Stewart, 5th Earl of Bothwell, on charges of high treason.",
-     "image": null
-    },
-    {
-     "text": "The \"witches\" allegedly held their covens on the Auld Kirk Green, part of the modern-day North Berwick Harbour area. Confessions were extracted by torture in the Old Tolbooth, Edinburgh. One source for these events is a 1591 pamphlet Newes from Scotland. King James VI wrote a dissertation on witchcraft and necromancy titled Daemonologie in 1597.",
+     "text": "HMS Cleopatra was a 32-gun Amazon-class fifth-rate frigate of the Royal Navy. She had a long career, seeing service during the Fourth Anglo-Dutch War, and the French Revolutionary and Napoleonic Wars. During the latter wars she fought two notable engagements with larger French opponents. In the first engagement she was forced to surrender, but succeeded in damaging the French ship so badly that she was captured several days later, while Cleopatra was retaken.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/Daemonologie1.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/George_Tobin_-_The_Cleopatra_towing_the_Thetis_towards_the_Chesapeake.jpg",
       "width": 1280,
-      "height": 1219,
-      "page": "https://commons.wikimedia.org/wiki/File:Daemonologie1.jpg",
-      "artist": "James VI and I (1566-1625)",
+      "height": 936,
+      "page": "https://commons.wikimedia.org/wiki/File:George_Tobin_-_The_Cleopatra_towing_the_Thetis_towards_the_Chesapeake.jpg",
+      "artist": "George Tobin (1768 - 1838)",
       "license": "Public domain",
-      "caption": "Suspected witches kneeling before King James; Daemonologie (1597)"
+      "caption": "Cleopatra towing Thetis towards the Chesapeake on 31 December 1794"
      }
     },
     {
-     "text": "The North Berwick trials were among the better known of the large number of witch trials in early modern Scotland between the early sixteenth century and the mid-eighteenth century.",
+     "text": "In the second she forced the surrender of a 40-gun frigate. After serving under several notable commanders she was broken up towards the end of the Napoleonic Wars.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Portrait_of_King_James_I_%26_VI_%28Adrian_Vanson%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/78/Ville_de_Milan_Cleopatre_Causs%C3%A9_PU5687.jpg",
       "width": 1280,
-      "height": 1586,
-      "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_King_James_I_%26_VI_(Adrian_Vanson).jpg",
-      "artist": "Adrian Vanson",
+      "height": 1019,
+      "page": "https://commons.wikimedia.org/wiki/File:Ville_de_Milan_Cleopatre_Causs%C3%A9_PU5687.jpg",
+      "artist": "Pierre-Clément Caussé, capitaine de frégate de la marine royale. b. 8 December 1",
       "license": "Public domain",
-      "caption": "James VI in the 1590s"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 49
-  },
-  {
-   "id": "54713892",
-   "title": "Tailteann Games (Irish Free State)",
-   "description": "Sporting and cultural festival in the Irish Free State",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Tailteann_Games_(Irish_Free_State)",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Fireworks_at_the_First_Tailteann_Games_August_15%2C_1924.jpg",
-    "width": 1280,
-    "height": 870,
-    "page": "https://commons.wikimedia.org/wiki/File:Fireworks_at_the_First_Tailteann_Games_August_15,_1924.jpg",
-    "artist": "National Library of Ireland on The Commons",
-    "license": "No restrictions"
-   },
-   "cards": [
-    {
-     "text": "The Tailteann Games or Aonach Tailteann was an Irish sporting and cultural festival held in the Irish Free State in 1924, 1928, and 1932. It was intended as a modern revival of the Tailteann Games held from legendary times until the Norman invasion of Ireland; as such it drew inspiration from the Modern Olympics revival of the Ancient Olympics.",
-     "image": null
-    },
-    {
-     "text": "Croke Park, the Dublin headquarters of the Gaelic Athletic Association, was the venue for the opening ceremony and many of the sports events, which were open to people of Irish birth or ancestry. The Tailteann Games were held shortly after the Summer Olympics, such that athletes participating in Paris 1924 and Amsterdam 1928 came to compete. Participants came from England, Scotland, Wales, Canada, the USA, the Union of South Africa and Australia as well as Ireland.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Tailteann-Games-Programme-Cover-1924-736x1024.jpg",
-      "width": 1280,
-      "height": 1931,
-      "page": "https://commons.wikimedia.org/wiki/File:Tailteann-Games-Programme-Cover-1924-736x1024.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "Chess competitions were held in conjunction with the Irish Chess Union as part of the Tailteann Games. There were also artistic competitions and industrial displays. The games became regarded as a Cumann na nGaedheal project, and when that party lost power to Fianna Fáil after the 1932 election there was no financial backing for further games.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Aviron_-_le_huit_d%27Australie_%287673980308%29.jpg",
-      "width": 1280,
-      "height": 813,
-      "page": "https://commons.wikimedia.org/wiki/File:Aviron_-_le_huit_d%27Australie_(7673980308).jpg",
-      "artist": "National Library of Australia from Canberra, Australia",
-      "license": "No restrictions",
-      "caption": "The Australian eight won the silver medal"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 62
-  },
-  {
-   "id": "715658",
-   "title": "Royal Hospital Chelsea",
-   "description": "Retirement home and nursing home for British soldiers",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Royal_Hospital_Chelsea",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/The_Royal_Hospital_Chelsea_%281%29.jpg/1280px-The_Royal_Hospital_Chelsea_%281%29.jpg",
-    "width": 1280,
-    "height": 719,
-    "page": "https://commons.wikimedia.org/wiki/File:The_Royal_Hospital_Chelsea_(1).jpg",
-    "artist": "Colin McLaughlin",
-    "license": "CC0"
-   },
-   "cards": [
-    {
-     "text": "The Royal Hospital Chelsea is an old soldiers' retirement home and nursing home for some 300 veterans of the British Army. Founded as an almshouse — the ancient sense of the word \"hospital\" — by King Charles II in 1682, it is a 66-acre (27 ha) site located on Royal Hospital Road in Chelsea, London. It is an independent charity and relies partly upon donations to cover day-to-day running costs to provide care and accommodation for veterans.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/Royal_Hospital_Chelsea_south_front.JPG/1280px-Royal_Hospital_Chelsea_south_front.JPG",
-      "width": 1280,
-      "height": 722,
-      "page": "https://commons.wikimedia.org/wiki/File:Royal_Hospital_Chelsea_south_front.JPG",
-      "artist": "Camster2",
-      "license": "CC BY-SA 3.0",
-      "caption": "Figure Court of the Royal Hospital Chelsea"
-     }
-    },
-    {
-     "text": "Residents are known as Chelsea Pensioners. The gardens of the Royal Hospital are Grade II listed on the Register of Historic Parks and Gardens.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/The_Royal_Hospital_Chelsea_%282%29.jpg/1280px-The_Royal_Hospital_Chelsea_%282%29.jpg",
-      "width": 1280,
-      "height": 719,
-      "page": "https://commons.wikimedia.org/wiki/File:The_Royal_Hospital_Chelsea_(2).jpg",
-      "artist": "Colin McLaughlin",
-      "license": "CC0",
-      "caption": ""
+      "caption": "Battle between Ville de Milan and HMS Cleopatra, depicted in a contemporary print"
      }
     }
    ],
@@ -884,128 +576,580 @@
    "readSeconds": 38
   },
   {
-   "id": "38989621",
-   "title": "Ring of Silvianus",
-   "description": "Gold ring discovered in Hampshire, England, in 1785",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Ring_of_Silvianus",
+   "id": "27633",
+   "title": "Stonehenge",
+   "description": "Prehistoric monument in England",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Stonehenge",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/c/c7/The_Vyne_Ring.jpg/1280px-The_Vyne_Ring.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/Stonehenge2007_07_30.jpg/1280px-Stonehenge2007_07_30.jpg",
     "width": 1280,
-    "height": 1149,
-    "page": "https://en.wikipedia.org/wiki/File:The_Vyne_Ring.jpg",
-    "artist": "Unknown",
-    "license": "CC-BY-SA-4.0"
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:Stonehenge2007_07_30.jpg",
+    "artist": "garethwiscombe",
+    "license": "CC BY 2.0"
    },
    "cards": [
     {
-     "text": "The Vyne Ring, the Ring of Senicianus or the Ring of Silvianus is a gold ring, dating probably from the 4th century AD, discovered while ploughing a field near Silchester, in Hampshire, England, before 1786. After its discovery in the 18th century, the ring became the property of the Chute family, whose country house was The Vyne, also in Hampshire, now a National Trust property.",
-     "image": null
-    },
-    {
-     "text": "The ring went on display there in April 2013. Before 1812, a curse tablet mentioning the name Senicianus was found at Lydney Park in Gloucestershire, England. The ring has been suggested to be originally the property of a British Roman called Silvianus, apparently stolen or otherwise misappropriated by a person named Senicianus, upon whom Silvianus called down a curse.",
+     "text": "Stonehenge is a prehistoric megalithic structure on Salisbury Plain in Wiltshire, England, two miles (3 km) west of Amesbury. It consists of an outer ring of vertical sarsen standing stones, each around 13 feet (4.0 m) high, seven feet (2.1 m) wide, and weighing around 25 tons, topped by connecting horizontal lintel stones which are held in place with mortise and tenon joints—a feature unique among contemporary monuments.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/74/Vyne_Ring_Woodcut.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Stonehenge_Lucas_de_Heere.jpg/1280px-Stonehenge_Lucas_de_Heere.jpg",
       "width": 1280,
-      "height": 835,
-      "page": "https://commons.wikimedia.org/wiki/File:Vyne_Ring_Woodcut.jpg",
-      "artist": "Mr. Utting, Engraver",
+      "height": 920,
+      "page": "https://commons.wikimedia.org/wiki/File:Stonehenge_Lucas_de_Heere.jpg",
+      "artist": "Lucas de Heere",
       "license": "Public domain",
-      "caption": "Woodcuts of the Vyne Ring from A History of the Vyne in Hampshire.[6]"
+      "caption": "Watercolour of Stonehenge by Lucas de Heere, 1574[a]"
      }
     },
     {
-     "text": "Other authors suggested that the connection between the ring and the curse tablet should not be assumed just from the coincidence of the names. In 1929, during excavations of the site of the Roman temple of Nodens at Lydney Park, the archaeologist Sir Mortimer Wheeler reviewed previous finds at the site and became interested in the curse tablet. As Wheeler consulted with J.",
+     "text": "Inside is a ring of smaller bluestones. Inside these are free-standing trilithons: two bulkier vertical sarsens joined by a single lintel. The whole monument, now in ruins, is aligned towards the sunrise on the summer solstice and sunset on the winter solstice. The stones are set within earthworks in the middle of the densest complex of Neolithic and Bronze Age monuments in England, including several hundred tumuli (burial mounds).",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Leaden_Tablet_found_at_Lydney.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Stonehenge_plan.jpg",
       "width": 1280,
-      "height": 1538,
-      "page": "https://commons.wikimedia.org/wiki/File:Leaden_Tablet_found_at_Lydney.jpg",
-      "artist": "Mr. Lazars, Lithographer, Bristol, England",
-      "license": "Public domain",
-      "caption": "Curse Tablet found at Lydney Park[13]"
+      "height": 1246,
+      "page": "https://commons.wikimedia.org/wiki/File:Stonehenge_plan.jpg",
+      "artist": "Drawn by Adamsan",
+      "license": "CC BY-SA 3.0",
+      "caption": "Plan of Stonehenge in 2004. After Cleal et al. and Pitts. Italicised numbers in the text refer to the labels on this plan. Trilithon lintels omitted for clarity. Holes that no longer, or never, contained stones are shown as open circles. Stones visible today are shown coloured."
      }
     },
     {
-     "text": "R. R. Tolkien on the name of the god invoked in the curse, the ring and curse may have inspired the One Ring in The Hobbit and The Lord of the Rings. The Tolkien Society worked with the National Trust to display the ring but the latter is lately more sceptical about the connection.",
-     "image": null
+     "text": "Stonehenge was constructed in several phases, beginning about 3100 BC and continuing until about 1600 BC. The famous circle of large sarsen stones was placed between 2600 BC and 2400 BC. The surrounding circular earth bank and ditch, which constitute the earliest phase of the monument, have been dated to about 3100 BC. Radiocarbon dating suggests that the bluestones were given their current positions between 2400 and 2200 BC, although they may have been at the site as early as 3000 BC.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/52/Stonehenge_phase_one.jpg",
+      "width": 1280,
+      "height": 1246,
+      "page": "https://commons.wikimedia.org/wiki/File:Stonehenge_phase_one.jpg",
+      "artist": "Drawing by Adamsan",
+      "license": "CC BY-SA 3.0",
+      "caption": "Stonehenge 1. After Cleal et al."
+     }
+    },
+    {
+     "text": "One of the most famous landmarks in the United Kingdom, Stonehenge is regarded as a British cultural icon. It has been a legally protected scheduled monument since the Ancient Monuments Protection Act 1882 was passed. The site and its surroundings were added to UNESCO's list of World Heritage Sites in 1986. Stonehenge is owned by the Crown Estate and managed by English Heritage; the surrounding land is owned by the National Trust.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b7/Stonehenge_dagger.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Stonehenge_dagger.jpg",
+      "artist": "User:Ranger Steve",
+      "license": "Public domain",
+      "caption": "Graffiti on the sarsen stones include ancient carvings of a dagger and an axe."
+     }
+    },
+    {
+     "text": "Stonehenge could have been a burial ground from its earliest beginnings. Deposits containing human bone date from as early as 3000 BC, when the ditch and bank were first dug, and continued for at least another 500 years.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Stone_Plan.jpg/1280px-Stone_Plan.jpg",
+      "width": 1280,
+      "height": 1355,
+      "page": "https://commons.wikimedia.org/wiki/File:Stone_Plan.jpg",
+      "artist": "Anthony Johnson",
+      "license": "CC BY 3.0",
+      "caption": "Plan of the central stone structure today; after Johnson 2008"
+     }
     }
    ],
    "truncated": false,
-   "readSeconds": 75
+   "readSeconds": 110
   },
   {
-   "id": "4401858",
-   "title": "Mercat cross",
-   "description": "Scottish historic structure",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/Mercat_cross",
+   "id": "20958",
+   "title": "Magna Carta",
+   "description": "English charter of freedoms made in 1215",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Magna_Carta",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/16/Mercat_Cross%2C_Edinburgh.jpg/1280px-Mercat_Cross%2C_Edinburgh.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg/1280px-Magna_Carta_%28British_Library_Cotton_MS_Augustus_II.106%29.jpg",
     "width": 1280,
-    "height": 1707,
-    "page": "https://commons.wikimedia.org/wiki/File:Mercat_Cross,_Edinburgh.jpg",
-    "artist": "User:Kim Traynor",
+    "height": 853,
+    "page": "https://commons.wikimedia.org/wiki/File:Magna_Carta_(British_Library_Cotton_MS_Augustus_II.106).jpg",
+    "artist": "Original authors were the barons and King John of England. Uploaded by Earthsoun",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Magna Carta (Medieval Latin for \"Great Charter\"), sometimes spelled Magna Charta, is a royal charter of rights sealed by King John of England at Runnymede, near Windsor, on 15 June 1215.",
+     "image": null
+    },
+    {
+     "text": "First drafted by the Archbishop of Canterbury, Cardinal Stephen Langton, to make peace between the unpopular king and a group of rebel barons who demanded that the King confirm the Charter of Liberties, it promised the protection of church rights, protection for the barons from illegal imprisonment, access to swift and impartial justice, and limitations on feudal payments to the Crown, to be implemented through a council of 25 barons.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/King_John_from_De_Rege_Johanne.jpg/1280px-King_John_from_De_Rege_Johanne.jpg",
+      "width": 1280,
+      "height": 1061,
+      "page": "https://commons.wikimedia.org/wiki/File:King_John_from_De_Rege_Johanne.jpg",
+      "artist": "See description",
+      "license": "Public domain",
+      "caption": "King John on a stag hunt"
+     }
+    },
+    {
+     "text": "Neither side stood by their commitments, and the charter was annulled by Pope Innocent III, leading to the First Barons' War. After John's death, the regency government of his young son, Henry III, reissued the document in 1216, stripped of some of its more radical content, in an unsuccessful bid to build political support for their cause.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/05/Innozenz3.jpg",
+      "width": 1280,
+      "height": 1611,
+      "page": "https://commons.wikimedia.org/wiki/File:Innozenz3.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "caption": "A mural of Pope Innocent III, c. 1219"
+     }
+    },
+    {
+     "text": "At the end of the war in 1217, it formed part of the peace treaty agreed at Lambeth, where the document acquired the name \"Magna Carta\", to distinguish it from the smaller Charter of the Forest, which was issued at the same time. Short of funds, Henry reissued the charter again in 1225 in exchange for a grant of new taxes.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Article-barons-add-ms-4838.jpg",
+      "width": 1280,
+      "height": 2408,
+      "page": "https://commons.wikimedia.org/wiki/File:Article-barons-add-ms-4838.jpg",
+      "artist": "13th original, anonymous; photograph by British Library",
+      "license": "Public domain",
+      "caption": "The Articles of the Barons, 1215, held by the British Library"
+     }
+    },
+    {
+     "text": "His son, Edward I, repeated the exercise in 1297, this time confirming it as part of England's statute law. However, Magna Carta was not unique; other legal documents of its time, both in England and beyond, made broadly similar statements of rights and limitations on the powers of the Crown. The charter became part of English political life and was typically renewed by each monarch in turn.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Forest-charter-1225-C13550-78.jpg/1280px-Forest-charter-1225-C13550-78.jpg",
+      "width": 1280,
+      "height": 1655,
+      "page": "https://commons.wikimedia.org/wiki/File:Forest-charter-1225-C13550-78.jpg",
+      "artist": "13th century original is anonymous; photograph by British Library",
+      "license": "Public domain",
+      "caption": "The Charter of the Forest re-issued in 1225, held by the British Library"
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 95
+  },
+  {
+   "id": "149258",
+   "title": "Titchwell Marsh",
+   "description": "Nature reserve in the United Kingdom",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Titchwell_Marsh",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/Titchwell131111-238.jpg/1280px-Titchwell131111-238.jpg",
+    "width": 1280,
+    "height": 702,
+    "page": "https://commons.wikimedia.org/wiki/File:Titchwell131111-238.jpg",
+    "artist": "Jimfbleak",
     "license": "CC BY-SA 3.0"
    },
    "cards": [
     {
-     "text": "A mercat cross is a structure used in Scottish settlements to denote a market square. It historically indicated that the settlement had been granted the right to hold a regular market or fair by the monarch, a bishop or a baron; the cross therefore served as a symbol of authority, and was an indication of a burgh's relative prosperity. Some burghs had more than one cross, often named for the produce sold at their base.",
+     "text": "Titchwell Marsh is an English nature reserve owned and managed by the Royal Society for the Protection of Birds (RSPB). Located on the north coast of the county of Norfolk, between the villages of Titchwell and Thornham, about 8 km (5.0 mi) east of the seaside resort of Hunstanton, its 171 hectares (420 acres) include reed beds, saltmarshes, a freshwater lagoon and sandy beach, with a small woodland area near the car park.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/15/Royal_unicorn_finial_on_Prestonpans_mercat_cross.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Coastal_defence_at_Titchwell%2C_Norfolk._-_geograph.org.uk_-_164972.jpg",
       "width": 1280,
-      "height": 1042,
-      "page": "https://commons.wikimedia.org/wiki/File:Royal_unicorn_finial_on_Prestonpans_mercat_cross.jpg",
-      "artist": "Kim Traynor",
-      "license": "CC BY-SA 3.0",
-      "caption": "Royal unicorn finial on the cross at Prestonpans"
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Coastal_defence_at_Titchwell,_Norfolk._-_geograph.org.uk_-_164972.jpg",
+      "artist": "Andy Peacock",
+      "license": "CC BY-SA 2.0",
+      "caption": "Remains of Second World War coastal defences"
      }
     },
     {
-     "text": "There are around 126 known examples of mercat crosses in Scotland, with many examples dating from the sixteenth and seventeenth centuries. Scottish crosses are distinct from market crosses found elsewhere in the United Kingdom in form and iconography.",
+     "text": "This internationally important reserve is part of the North Norfolk Coast Site of Special Scientific Interest (SSSI) and the Norfolk Coast Area of Outstanding Natural Beauty (AONB), and is also protected through Natura 2000, Special Protection Area (SPA) and Ramsar listings.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Cross-house_at_Prestonpans%2C_East_Lothian.JPG/1280px-Cross-house_at_Prestonpans%2C_East_Lothian.JPG",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/SS_Vina%2C_The_Brancaster_Wreck.jpg/1280px-SS_Vina%2C_The_Brancaster_Wreck.jpg",
       "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Cross-house_at_Prestonpans,_East_Lothian.JPG",
-      "artist": "Kim Traynor",
+      "height": 850,
+      "page": "https://commons.wikimedia.org/wiki/File:SS_Vina,_The_Brancaster_Wreck.jpg",
+      "artist": "Julian Dowse",
+      "license": "CC BY-SA 2.0",
+      "caption": "The wreck of the SS Vina, seen in 2010."
+     }
+    },
+    {
+     "text": "The reserve is important for some scarce breeding birds, such as pied avocets on the islands, and western marsh harriers, Eurasian bitterns and bearded reedlings in the reeds. To encourage bitterns to breed, the reed beds have been improved to make them wetter, and the lagoon has been stocked with the common rudd. Typical wetland birds such as the water rail, reed warbler and sedge warbler also appear, and little egrets are common.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d5/Recurvirostra_avosetta_-Titchwell_Marsh%2C_Norfolk%2C_England_-swimming-8.jpg",
+      "width": 1280,
+      "height": 783,
+      "page": "https://commons.wikimedia.org/wiki/File:Recurvirostra_avosetta_-Titchwell_Marsh,_Norfolk,_England_-swimming-8.jpg",
+      "artist": "David Merrett from Daventry, England",
+      "license": "CC BY 2.0",
+      "caption": "The avocet features on the RSPB's logo."
+     }
+    },
+    {
+     "text": "The reserve has regularly attracted rarities, as its location is important for migrating birds. Ducks and geese winter at Titchwell in considerable numbers, and the reserve shelters the endangered European water vole. Facilities include three bird hides, a seawatching platform, two nature trails, and a visitor centre.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/76/Acrocephalus_schoenobaenus_1948.jpg",
+      "width": 1280,
+      "height": 854,
+      "page": "https://commons.wikimedia.org/wiki/File:Acrocephalus_schoenobaenus_1948.jpg",
+      "artist": "Bogbumper",
       "license": "CC BY-SA 3.0",
-      "caption": "The cross-house at Prestonpans, built some time after 1617, when the right to hold a fair was granted"
+      "caption": "Sedge warblers breed in the marsh."
+     }
+    },
+    {
+     "text": "Because of concerns about climate change, a major project in 2010 and 2011 brought improvements to the banks around the freshwater lagoon and the conversion of the brackish lagoon to tidal saltmarsh, a more effective barrier to encroachment by the sea.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/Limosalimosaislandica_1979.jpg",
+      "width": 1280,
+      "height": 880,
+      "page": "https://commons.wikimedia.org/wiki/File:Limosalimosaislandica_1979.jpg",
+      "artist": "Bogbumper",
+      "license": "CC BY-SA 3.0",
+      "caption": "Black-tailed godwits of the Icelandic subspecies pass through on migration."
      }
     }
    ],
-   "truncated": false,
-   "readSeconds": 41
+   "truncated": true,
+   "readSeconds": 96
   },
   {
-   "id": "23304930",
-   "title": "Cath Finntrágha",
-   "description": "Early Modern Irish prose narrative",
+   "id": "100436",
+   "title": "Irish round tower",
+   "description": "Irish mediaeval stone tower beside a church or monastery",
    "topic": "ireland",
    "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Cath_Finntr%C3%A1gha",
+   "url": "https://en.wikipedia.org/wiki/Irish_round_tower",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2d/Ireland_dingle_beach.jpeg/1280px-Ireland_dingle_beach.jpeg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Glendalough_Round_Tower.jpg/1280px-Glendalough_Round_Tower.jpg",
     "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Ireland_dingle_beach.jpeg",
-    "artist": "Christian Faulhammer",
-    "license": "CC BY-SA 2.5"
+    "height": 1920,
+    "page": "https://commons.wikimedia.org/wiki/File:Glendalough_Round_Tower.jpg",
+    "artist": "Superbass",
+    "license": "CC BY-SA 3.0"
    },
    "cards": [
     {
-     "text": "Cath Finntrágha (Scottish Gaelic: Cath Fionntràgha) (The Battle of Ventry) is an Early Modern Irish prose narrative of the Finn Cycle of Irish mythology. It dates probably to the 15th century in its current form, but apparently relied on older material. It concerns the deeds of the warrior-hero Fionn mac Cumhaill, his fianna, and, eventually, the gods and goddesses of Irish myth as they defend Ireland against a foreign invasion led by the world-king Dáire Donn.",
+     "text": "Irish round towers (Irish: Cloigtheach (singular), Cloigthithe (plural); literally 'bell house') are early medieval stone towers of a type found mainly in Ireland, with two in Scotland and one on the Isle of Man. As their name Cloigtheach indicates, they were originally bell towers, though they may have been later used for additional purposes.",
      "image": null
     },
     {
-     "text": "According to Derick Thomson, an 18th-century manuscript of the story in the Scottish Gaelic language also survives in the hand of iconic Scottish war poet Alasdair Mac Mhaighstir Alasdair.",
+     "text": "A tower of this kind is generally found in the vicinity of a church or monastery, with the door of the tower facing the west doorway of the church. Knowledge of this fact has made it possible, where towers still exist, to determine without excavation the approximate sites of lost churches that once stood nearby.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/f/f6/Kinneigh_tower.jpg",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://en.wikipedia.org/wiki/File:Kinneigh_tower.jpg",
+      "artist": "Womblewilly (talk)",
+      "license": "CC-BY-3.0",
+      "caption": "The Round Tower at Kinneigh has a unique hexagonal base."
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 36
+  },
+  {
+   "id": "581399",
+   "title": "James Murray (British Army officer, born 1721)",
+   "description": "British army officer and colonial administrator (1721–1794)",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/James_Murray_(British_Army_officer,_born_1721)",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/13/James_Murray_from_NPG.jpg/1280px-James_Murray_from_NPG.jpg",
+    "width": 1280,
+    "height": 1610,
+    "page": "https://commons.wikimedia.org/wiki/File:James_Murray_from_NPG.jpg",
+    "artist": "anonymous",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "General James Murray (20 January 1721 – 18 June 1794) was a British army officer and colonial administrator who served as the governor of the Province of Quebec from 1764 to 1768 and governor of Minorca from 1778 to 1782. Born in Ballencrieff, East Lothian, Murray served in the War of Jenkins' Ear, War of the Austrian Succession and Seven Years' War.",
+     "image": null
+    },
+    {
+     "text": "He came to prominence during the French and Indian War and following the conflict's end in 1763 began serving as the new governor of the newly-founded British colony of Quebec. His administration was noted for its successes, being marked by positive relationships with French Canadians, who were reassured of the traditional rights and customs. Murray died in Battle, East Sussex in 1794.",
      "image": null
     }
    ],
    "truncated": false,
-   "readSeconds": 31
+   "readSeconds": 36
+  },
+  {
+   "id": "249974",
+   "title": "Battle of Dun Nechtain",
+   "description": "685 battle between Picts and Northumbrians",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Dun_Nechtain",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Pictish_Stone_at_Aberlemno_Church_Yard_-_Battle_Scene_Detail.jpg",
+    "width": 1280,
+    "height": 1651,
+    "page": "https://commons.wikimedia.org/wiki/File:Pictish_Stone_at_Aberlemno_Church_Yard_-_Battle_Scene_Detail.jpg",
+    "artist": "Greenshed",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The Battle of Dun Nechtain or Battle of Nechtansmere (Old Irish: Cath Dúin Nechtáin; Old Welsh: Gueith Linn Garan) was fought between the Picts, led by King Bridei Mac Bili, and the Northumbrians, led by King Ecgfrith, on 20 May 685.",
+     "image": null
+    },
+    {
+     "text": "The Northumbrian hegemony over northern Britain, won by Ecgfrith's predecessors, had begun to disintegrate. Several of Northumbria's subject nations had rebelled in recent years, leading to a number of large-scale battles against the Picts, Mercians and Irish, with varied success. After sieges of neighbouring territories carried out by the Picts, Ecgfrith led his forces against them, despite advice to the contrary, in an effort to reassert his suzerainty over the Pictish nations.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/75/DunnichenHill.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:DunnichenHill.jpg",
+      "artist": "Karen Vernon",
+      "license": "CC BY-SA 2.0",
+      "caption": "Dunnichen Moss. The body of water to the left is a modern pond"
+     }
+    },
+    {
+     "text": "A feigned retreat by the Picts drew the Northumbrians into an ambush at Dun Nechtain near the lake of Linn Garan. The battle site has long been thought to have been near the present-day village of Dunnichen in Angus. Recent research, however, has suggested a more northerly location near Dunachton, on the shores of Loch Insh in Badenoch and Strathspey.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Loch_Insh2.jpg",
+      "width": 1280,
+      "height": 616,
+      "page": "https://commons.wikimedia.org/wiki/File:Loch_Insh2.jpg",
+      "artist": "John S Ross",
+      "license": "CC BY-SA 2.0",
+      "caption": "Loch Insh, possible site of Linn Garan. Dunachton is to the right of the photograph"
+     }
+    },
+    {
+     "text": "The battle ended with a decisive Pictish victory which severely weakened Northumbria's power in northern Britain. Ecgfrith was killed in battle, along with the greater part of his army. The Pictish victory marked their independence from Northumbria, who never regained their dominance in the north.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 69
+  },
+  {
+   "id": "32329380",
+   "title": "Murder of Daniel Morgan",
+   "description": "1987 unsolved murder in Sydenham, London",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Murder_of_Daniel_Morgan",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a4/GoldenLion.jpg/1280px-GoldenLion.jpg",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:GoldenLion.jpg",
+    "artist": "Chris Whippet",
+    "license": "CC BY-SA 2.0"
+   },
+   "cards": [
+    {
+     "text": "Daniel John Morgan (3 November 1949 – 10 March 1987) was a British private investigator who was murdered with an axe in a pub car park in Sydenham, London, in 1987. Despite several Metropolitan Police investigations, arrests, and trial, the crime remains unsolved. An independent review into the handling of the investigation of Morgan's killing was published in 2021; it found that the Met Police had \"a form of institutional corruption\" which had concealed or denied failings in the case. ",
+     "image": null
+    },
+    {
+     "text": "At the time of his death, Morgan worked for Southern Investigations, a company he had founded with his business partner Jonathan Rees. Rees was arrested in April 1987 on suspicion of murder along with Morgan's future replacement at Southern, Detective Sergeant Sid Fillery, and two brothers, Glenn and Garry Vian. All were released without charge. Over the next three decades, several additional police inquiries were conducted.",
+     "image": null
+    },
+    {
+     "text": "In 2009 Rees, Fillery, the Vian Brothers and a builder, James Cook, appeared at the Old Bailey charged with Morgan's murder. The trial collapsed in 2011 after evidence obtained from supergrasses was deemed inadmissible by the court. Shortly after the case, the activities of Rees – as a private investigator – became the centre of allegations concerning the conduct of journalists at the now-defunct News of the World newspaper.",
+     "image": null
+    },
+    {
+     "text": "In 2006 Morgan's unsolved murder was described by Jennette Arnold, a former Labour Co-op politician who served as chair of the London Assembly, as a reminder of the culture of corruption and unaccountability within the Metropolitan Police. The profile of the case has been raised by investigative journalist Peter Jukes, who released a podcast and book about the murder in conjunction with Alastair Morgan, Daniel's brother.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 77
+  },
+  {
+   "id": "88651",
+   "title": "Jörmungandr",
+   "description": "Sea serpent in Norse mythology",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/J%C3%B6rmungandr",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Ragnarok_-_Louis_Moe_%2817006%29_-_cropped_%28cropped%29.png/1280px-Ragnarok_-_Louis_Moe_%2817006%29_-_cropped_%28cropped%29.png",
+    "width": 1280,
+    "height": 948,
+    "page": "https://commons.wikimedia.org/wiki/File:Ragnarok_-_Louis_Moe_(17006)_-_cropped_(cropped).png",
+    "artist": "Louis Moe",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "In Norse mythology, Jörmungandr (Old Norse: Jǫrmungandr, see Etymology), also known as the Midgard Serpent or World Serpent (Old Norse: Miðgarðsormr, \"worm of Midgard\"), is an unfathomably large and monstrous sea serpent (or \"worm\", see Germanic dragon) who dwells in the world sea, encircling the Earth (Midgard) and biting his own tail, an example of an ouroboros. As a result of him surrounding Midgard, the beast is referred to as the World Serpent.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Thor_lifts_the_cat.jpg/1280px-Thor_lifts_the_cat.jpg",
+      "width": 1280,
+      "height": 2366,
+      "page": "https://commons.wikimedia.org/wiki/File:Thor_lifts_the_cat.jpg",
+      "artist": "Lorenz Frølich",
+      "license": "Public domain",
+      "caption": "Thor lifts Jörmungandr, disguised as a cat. (Lorenz Frølich)"
+     }
+    },
+    {
+     "text": "Jörmungandr releasing his tail is one of the signs of the beginning of Ragnarök. Jörmungandr is said to be the middle child of the god Loki and the jötunn Angrboða. According to the Prose Edda, Odin took Loki's three children by Angrboða – the wolf Fenrir, underworld ruler Hel, and the serpent Jörmungandr – and removed them from Asgard (the world of the Æsir).",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9d/U1161_Altunastenen_Tors_fiskaf%C3%A4nge_2.jpg/1280px-U1161_Altunastenen_Tors_fiskaf%C3%A4nge_2.jpg",
+      "width": 1280,
+      "height": 3272,
+      "page": "https://commons.wikimedia.org/wiki/File:U1161_Altunastenen_Tors_fiskaf%C3%A4nge_2.jpg",
+      "artist": "Gunnar Creutz",
+      "license": "CC0",
+      "caption": "Thor's fishing trip depicted on the Altuna Runestone, one of the few confirmed Viking Age depictions of Jörmungandr."
+     }
+    },
+    {
+     "text": "The serpent Jörmungandr was tossed into the great ocean that encircles Midgard. There the serpent grew so large that he was able to surround the Earth and grasp his own tail. The old Norse thunder god, Thor, has a lengthy feud with Jörmungandr and the serpent is regarded as his archenemy. During Ragnarök, Thor and Jörmungandr engage in a ferocious battle, culminating in both of their deaths.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/35/Thor_and_Hymir.jpg",
+      "width": 1280,
+      "height": 1581,
+      "page": "https://commons.wikimedia.org/wiki/File:Thor_and_Hymir.jpg",
+      "artist": "Jakob Sigurðsson",
+      "license": "Public domain",
+      "caption": ""
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 69
+  },
+  {
+   "id": "2019048",
+   "title": "Mike Parker Pearson",
+   "description": "English archaeologist (born 1957)",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Mike_Parker_Pearson",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Mike_Parker-Pearson_2026-09-17_6506.jpg/1280px-Mike_Parker-Pearson_2026-09-17_6506.jpg",
+    "width": 1280,
+    "height": 853,
+    "page": "https://commons.wikimedia.org/wiki/File:Mike_Parker-Pearson_2026-09-17_6506.jpg",
+    "artist": "H-stt",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "Michael Parker Pearson, (born 26 June 1957) is an English archaeologist specialising in the study of the Neolithic British Isles, Madagascar and the archaeology of death and burial. A professor at the UCL Institute of Archaeology, he previously worked for 25 years as a professor at the University of Sheffield in England, and was the director of the Stonehenge Riverside Project.",
+     "image": null
+    },
+    {
+     "text": "A prolific author, he has also written a variety of books on the subject. A media personality, Parker Pearson has appeared several times in the Channel 4 show Time Team in particular in one looking at the excavation of Durrington Walls in Wiltshire. He also appeared in the National Geographic Channel documentary Stonehenge Decoded, along with the PBS programme Nova: Secrets of Stonehenge.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 36
+  },
+  {
+   "id": "10848413",
+   "title": "Rolls Series",
+   "description": "Published collection of British and Irish historical materials",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Rolls_Series",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Rolls_Series_preamble.jpg/1280px-Rolls_Series_preamble.jpg",
+    "width": 1280,
+    "height": 1970,
+    "page": "https://commons.wikimedia.org/wiki/File:Rolls_Series_preamble.jpg",
+    "artist": "HM Treasury",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The Chronicles and Memorials of Great Britain and Ireland during the Middle Ages (Latin: Rerum Britannicarum medii aevi scriptores), widely known as the Rolls Series, is a major collection of British and Irish historical materials and primary sources published as 99 works in 253 volumes between 1858 and 1911. Almost all the great medieval English chronicles were included: most existing editions, published by scholars of the 17th and 18th centuries, were considered to be unsatisfactory.",
+     "image": null
+    },
+    {
+     "text": "The scope was also extended to include legendary, folklore and hagiographical materials, and archival records and legal tracts. The series was government-funded, and takes its unofficial name from the fact that its volumes were published \"by the authority of Her Majesty's Treasury, under the direction of the Master of the Rolls\", who was the official custodian of the records of the Court of Chancery and other courts, and nominal head of the Public Record Office.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Rolls_Series_label.jpg/1280px-Rolls_Series_label.jpg",
+      "width": 1280,
+      "height": 981,
+      "page": "https://commons.wikimedia.org/wiki/File:Rolls_Series_label.jpg",
+      "artist": "HMSO",
+      "license": "Public domain",
+      "caption": "Standard presentation label, in this case in a volume donated to University College, London, reserving the right of the Stationery Office to reclaim the volume in the event of the library being broken up"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 47
+  },
+  {
+   "id": "164676",
+   "title": "Elizabeth Stuart, Queen of Bohemia",
+   "description": "Electress Palatine from 1613 to 1623",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Elizabeth_Stuart,_Queen_of_Bohemia",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Workshop_of_Michiel_Jansz._van_Miereveldt_Elizabeth_Stuart_Queen_of_Bohemia.jpg/1280px-Workshop_of_Michiel_Jansz._van_Miereveldt_Elizabeth_Stuart_Queen_of_Bohemia.jpg",
+    "width": 1280,
+    "height": 1712,
+    "page": "https://commons.wikimedia.org/wiki/File:Workshop_of_Michiel_Jansz._van_Miereveldt_Elizabeth_Stuart_Queen_of_Bohemia.jpg",
+    "artist": "Workshop of Michiel Jansz. van Mierevelt",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Elizabeth Stuart (19 August 1596 – 13 February 1662) was Electress of the Palatinate and briefly Queen of Bohemia as the wife of Frederick V of the Palatinate. The couple's selection for the crown by the nobles of Bohemia was part of the political and religious turmoil that set off the Thirty Years' War. Since her husband's reign in Bohemia lasted over only one winter, she is called \"The Winter Queen\" (German: Die Winterkönigin, Czech: Zimní královna).",
+     "image": null
+    },
+    {
+     "text": "Princess Elizabeth was the only surviving daughter of James VI and I, King of Scotland, England, and Ireland, and his queen, Anne of Denmark; she was the elder sister of Charles I. Born in Scotland, she was named in honour of her father's cousin and predecessor on the English throne, Elizabeth I.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Eliz_bohemia_2.jpg/1280px-Eliz_bohemia_2.jpg",
+      "width": 1280,
+      "height": 1870,
+      "page": "https://commons.wikimedia.org/wiki/File:Eliz_bohemia_2.jpg",
+      "artist": "Robert Peake the elder",
+      "license": "Public domain",
+      "caption": "Elizabeth at the age of 7 by Robert Peake the Elder"
+     }
+    },
+    {
+     "text": "During Elizabeth Stuart's childhood, unbeknownst to her, part of the failed Gunpowder Plot was a scheme to replace her father with her on the throne, and forcibly raise her as a Catholic. Her father later arranged for her marriage to the Protestant Frederick V, a senior prince of the Holy Roman Empire. They were married in the Chapel Royal in the Palace of Whitehall, and then left for his lands in Germany.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/70/Johnson_CoombeAbbey_HAGAM.jpg",
+      "width": 1280,
+      "height": 925,
+      "page": "https://commons.wikimedia.org/wiki/File:Johnson_CoombeAbbey_HAGAM.jpg",
+      "artist": "Maria Johnson",
+      "license": "Public domain",
+      "caption": "Coombe Abbey painted in 1797 by Maria Johnson"
+     }
+    },
+    {
+     "text": "Their marriage proved successful, but after they left Bohemia, they spent years in exile in The Hague, while the Thirty Years' War continued. In her widowhood, she eventually returned to England at the end of her own life during the Stuart Restoration of her nephew and is buried in Westminster Abbey.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Der_junge_Friedrich_V._C-B_011.jpg/1280px-Der_junge_Friedrich_V._C-B_011.jpg",
+      "width": 1280,
+      "height": 1593,
+      "page": "https://commons.wikimedia.org/wiki/File:Der_junge_Friedrich_V._C-B_011.jpg",
+      "artist": "Workshop of Michiel Jansz. van Mierevelt",
+      "license": "Public domain",
+      "caption": "Portrait of Frederick believed to have been painted in 1613 the year of his marriage to Elizabeth by Michiel Jansz. van Mierevelt"
+     }
+    },
+    {
+     "text": "With the death in 1714 of Elizabeth's great-niece, Anne, Queen of Great Britain, the last Stuart monarch, the British throne passed to her grandson (by her daughter Sophia of Hanover) as George I, initiating the rule of the House of Hanover.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Elisabeth_Stuart_Winterkoenigin_1613_von_Anonymus.jpg",
+      "width": 1280,
+      "height": 1699,
+      "page": "https://commons.wikimedia.org/wiki/File:Elisabeth_Stuart_Winterkoenigin_1613_von_Anonymus.jpg",
+      "artist": "Unknown authorUnknown author",
+      "license": "Public domain",
+      "caption": "Portrait of Elizabeth by an unknown artist"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 96
   }
  ]
 }
