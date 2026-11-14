@@ -1,38 +1,430 @@
 {
- "date": "2026-11-13",
- "generatedAt": "2026-11-13T13:15:47.017Z",
- "totalReadSeconds": 1143,
+ "date": "2026-11-14",
+ "generatedAt": "2026-11-14T12:21:42.489Z",
+ "totalReadSeconds": 1212,
  "posts": [
   {
-   "id": "48733",
-   "title": "Ragnar Lodbrok",
-   "description": "Legendary king of Sweden and Denmark",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Ragnar_Lodbrok",
+   "id": "43917152",
+   "title": "HMSAS Protea (1947)",
+   "description": "Survey ship of the South African navy",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/HMSAS_Protea_(1947)",
    "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Harley_MS_2278%2C_folio_39r_excerpt.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7f/The_Royal_Navy_during_the_Second_World_War_A7111.jpg",
     "width": 1280,
-    "height": 1065,
-    "page": "https://commons.wikimedia.org/wiki/File:Harley_MS_2278,_folio_39r_excerpt.jpg",
-    "artist": "Uncertain. The manuscript may have been compiled under the direction of John Lyd",
+    "height": 971,
+    "page": "https://commons.wikimedia.org/wiki/File:The_Royal_Navy_during_the_Second_World_War_A7111.jpg",
+    "artist": "Royal Navy official photographer",
     "license": "Public domain"
    },
    "cards": [
     {
-     "text": "Ragnar Lodbrok or Ragnar Lothbrok (Old Norse: Ragnar loðbrók, lit. 'Ragnar hairy-breeches'), according to legends, was a Viking hero and a Swedish and Danish king. He is known from Old Norse poetry of the Viking Age, Icelandic sagas, and near-contemporary chronicles. According to traditional literature, Ragnar distinguished himself by conducting many raids against the British Isles and the Carolingian Empire during the 9th century.",
+     "text": "HMSAS Protea was a survey ship of the South African Navy. The ship was originally built as a Flower-class corvette for the Royal Navy during World War II and served as HMS Rockrose (pennant number: K51). Rockrose was initially assigned to convoy escort duties in the North Atlantic after her completion in 1941 but was later transferred to South African waters and then to the Far East with the same mission.",
      "image": null
     },
     {
-     "text": "He also appears in Norse legends, and according to the legendary sagas Tale of Ragnar's Sons and a Saga about Certain Ancient Kings, Ragnar Lodbrok's father has been given as the legendary king of the Swedes, Sigurd Ring.",
+     "text": "She returned home in 1945 and was paid off. Two years later the ship was purchased by South Africa and was converted into a survey ship in 1949. Protea was obsolete by the late 1950s and was placed in reserve in 1957. The ship was sold in 1962 and was converted into a fishing trawler with the name of Justin. The company subsequently failed and she was scrapped in 1967.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 41
+  },
+  {
+   "id": "33281461",
+   "title": "Strawberry Hill House",
+   "description": "Historic villa in Twickenham, London",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Strawberry_Hill_House",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Strawberry_Hill_House_from_garden_in_2012_after_restoration.jpg/1280px-Strawberry_Hill_House_from_garden_in_2012_after_restoration.jpg",
+    "width": 1280,
+    "height": 748,
+    "page": "https://commons.wikimedia.org/wiki/File:Strawberry_Hill_House_from_garden_in_2012_after_restoration.jpg",
+    "artist": "Chiswick Chap",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "Strawberry Hill House—often called simply Strawberry Hill—is a Gothic Revival villa in Twickenham, London, built by Horace Walpole from 1749 onward. It is the prototypical example of the \"Strawberry Hill Gothic\" style of architecture, and it prefigured the nineteenth-century Gothic Revival.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Bronspl%C3%A5t_4_fr_Torslunda_sn%2C_%C3%96land_%28Stjerna%2C_Hj%C3%A4lmar_och_sv%C3%A4rd_i_Beovulf_%281903%29_sid_103%29.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Strawberry_Hill.jpg/1280px-Strawberry_Hill.jpg",
       "width": 1280,
-      "height": 1315,
-      "page": "https://commons.wikimedia.org/wiki/File:Bronspl%C3%A5t_4_fr_Torslunda_sn,_%C3%96land_(Stjerna,_Hj%C3%A4lmar_och_sv%C3%A4rd_i_Beovulf_(1903)_sid_103).jpg",
-      "artist": "Knut Stjerna (1874-1909)",
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Strawberry_Hill.jpg",
+      "artist": "Nigeljbee",
       "license": "Public domain",
-      "caption": "A warrior with shaggy breeches, killing a beast, on one of the Torslunda plates. The man has been identified with Ragnar Lodbrok in an early Swedish version of the legend (Schück). More recently, it has been interpreted as showing a Germanic initiation ritual in which shaggy trousers played a role and which may subsequently have contributed to the legend of Ragnar Lodbrok.[7]"
+      "caption": "Clock tower of the later 'Waldegrave' extension"
+     }
+    },
+    {
+     "text": "Walpole rebuilt the existing house in stages starting in 1749, 1760, 1772 and 1776. These additions introduced Gothic features such as towers and battlements outside and elaborate decoration inside to create \"gloomth\" to suit Walpole's collection of antiquarian objects, contrasting with the more cheerful or \"riant \" (lit. 'laughing') garden.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7c/Strawberryhill.jpg",
+      "width": 1280,
+      "height": 831,
+      "page": "https://commons.wikimedia.org/wiki/File:Strawberryhill.jpg",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": "An 18th-century engraving of the villa"
+     }
+    },
+    {
+     "text": "The interior included gilded ceilings and intentionally grand fireplaces—with one by Robert Adam, along with small details like enamelled door handles, carved wooden screens, and ancestral-looking coats of arms; parts of the exterior were designed by James Essex. The garden contained a large seat shaped like a Rococo sea shell, which was recreated during the garden's 2012 restoration, one of the many examples of historic garden conservation in the UK.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Robert_Adam_fireplace%2C_Round_room%2C_Strawberry_Hill.jpg/1280px-Robert_Adam_fireplace%2C_Round_room%2C_Strawberry_Hill.jpg",
+      "width": 1280,
+      "height": 850,
+      "page": "https://commons.wikimedia.org/wiki/File:Robert_Adam_fireplace,_Round_room,_Strawberry_Hill.jpg",
+      "artist": "Jonathan Cardy",
+      "license": "CC BY-SA 3.0",
+      "caption": "The Robert Adam fireplace in the round room"
+     }
+    },
+    {
+     "text": "Later owners included Anne Seymour Damer and John Waldegrave and his descendants, followed by Hermann de Stern. In 1923 it was bought by the Roman Catholic St Mary's University College.  The Strawberry Hill Gothic architectural style became briefly popular, though its definition is disputed. Examples include Priory Hospital in Roehampton.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/09/2-page_spread_from_A_Description_of_Strawberry-Hill_by_Horace_Walpole_1774.jpg",
+      "width": 1280,
+      "height": 846,
+      "page": "https://commons.wikimedia.org/wiki/File:2-page_spread_from_A_Description_of_Strawberry-Hill_by_Horace_Walpole_1774.jpg",
+      "artist": "Horace Walpole",
+      "license": "Public domain",
+      "caption": "2-page spread from Walpole's A Description of Strawberry-Hill, 1774, itemising his collection. On the right-hand page is the gothic detail \"[Portrait of] The same lady Digby, as she was found dead in her bed\"."
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 75
+  },
+  {
+   "id": "21430675",
+   "title": "Gregorian mission",
+   "description": "6th-century Christian mission to Britain",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Gregorian_mission",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Britain_peoples_circa_600.svg/1280px-Britain_peoples_circa_600.svg.png",
+    "width": 1280,
+    "height": 1588,
+    "page": "https://commons.wikimedia.org/wiki/File:Britain_peoples_circa_600.svg",
+    "artist": "User:Hel-hama",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "The Gregorian mission or Augustinian mission was a Christian mission sent by Pope Gregory the Great to England in 596 to convert the Anglo-Saxons. The mission was headed by Augustine of Canterbury. By the time of the death of the last missionary in 653, the mission had established Christianity among the southern Anglo-Saxons. Along with the Irish and Frankish missions it converted Anglo-Saxons in other parts of Britain as well and influenced the Hiberno-Scottish missions to continental Europe.",
+     "image": null
+    },
+    {
+     "text": "When the Roman Empire recalled its legions from the province of Britannia in 410, parts of the island had already been settled by pagan Germanic tribes who, later in the century, appear to have taken control of Kent and other coastal regions no longer defended by the Roman Empire.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Gregory_I_-_Antiphonary_of_Hartker_of_Sankt_Gallen.jpg/1280px-Gregory_I_-_Antiphonary_of_Hartker_of_Sankt_Gallen.jpg",
+      "width": 1280,
+      "height": 1548,
+      "page": "https://commons.wikimedia.org/wiki/File:Gregory_I_-_Antiphonary_of_Hartker_of_Sankt_Gallen.jpg",
+      "artist": "Hartker of Sankt-Gallen. See this book for information on the manuscript.",
+      "license": "Public domain",
+      "caption": "Gregory dictating, from a 10th-century manuscript"
+     }
+    },
+    {
+     "text": "In the late 6th century, Pope Gregory sent a group of missionaries to Kent to convert Æthelberht, King of Kent, whose wife, Bertha of Kent, was a Frankish princess and practising Christian. Augustine had been the prior of Gregory's own monastery in Rome, and Gregory prepared the way for the mission by soliciting aid from the Frankish rulers along Augustine's route.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8b/Gravesites_of_Mellitus%2C_Justus_and_Laurence_at_St._Augustine%27s_Abbey.jpg/1280px-Gravesites_of_Mellitus%2C_Justus_and_Laurence_at_St._Augustine%27s_Abbey.jpg",
+      "width": 1280,
+      "height": 1531,
+      "page": "https://commons.wikimedia.org/wiki/File:Gravesites_of_Mellitus,_Justus_and_Laurence_at_St._Augustine%27s_Abbey.jpg",
+      "artist": "Ealdgyth",
+      "license": "CC BY-SA 3.0",
+      "caption": "Site of the graves of Laurence, Mellitus and Justus at St Augustine's Abbey, Canterbury"
+     }
+    },
+    {
+     "text": "In 597, the forty missionaries arrived in Kent and were permitted by Æthelberht to preach freely in his capital of Canterbury. Soon the missionaries wrote to Gregory telling him of their success and of the conversions taking place. The exact date of Æthelberht's conversion is unknown, but it occurred before 601. A second group of monks and clergy was dispatched in 601, bearing books and other items for the new foundation.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Staugustinescanterburyruins.jpg/1280px-Staugustinescanterburyruins.jpg",
+      "width": 1280,
+      "height": 853,
+      "page": "https://commons.wikimedia.org/wiki/File:Staugustinescanterburyruins.jpg",
+      "artist": "Ealdgyth",
+      "license": "CC BY-SA 3.0",
+      "caption": "Ruins at Canterbury of St Augustine's Abbey, founded by Augustine."
+     }
+    },
+    {
+     "text": "Gregory intended Augustine to be the metropolitan archbishop of the southern part of the British Isles, and gave him power over the clergy of the native Britons, but in a series of meetings with Augustine, the long-established Celtic bishops refused to acknowledge his authority.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0a/Staugustinescanterburygraveaugustine.jpg/1280px-Staugustinescanterburygraveaugustine.jpg",
+      "width": 1280,
+      "height": 1740,
+      "page": "https://commons.wikimedia.org/wiki/File:Staugustinescanterburygraveaugustine.jpg",
+      "artist": "Ealdgyth",
+      "license": "CC BY-SA 3.0",
+      "caption": "Augustine's gravesite at Canterbury"
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 99
+  },
+  {
+   "id": "2583",
+   "title": "Arbroath Abbey",
+   "description": "Former Benedictine Abbey in Scotland",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Arbroath_Abbey",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Arbroath_Abbey1.jpg/1280px-Arbroath_Abbey1.jpg",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:Arbroath_Abbey1.jpg",
+    "artist": "Unknown",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "Arbroath Abbey, in the Scottish town of Arbroath, was founded in 1178 by King William the Lion for a group of Tironensian Benedictine monks from Kelso Abbey. It was consecrated in 1197 with a dedication to the deceased Saint Thomas Becket, whom the king had met at the English court. It was William's only personal foundation — he was buried before the high altar of the church in 1214.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Arbroath_Abbey_Seal_01.jpg",
+      "width": 1280,
+      "height": 1060,
+      "page": "https://commons.wikimedia.org/wiki/File:Arbroath_Abbey_Seal_01.jpg",
+      "artist": "seal is medieval",
+      "license": "Public domain",
+      "caption": "Abbey's seal, depicting the murder of St Thomas"
+     }
+    },
+    {
+     "text": "The last Abbot was Cardinal David Beaton, who in 1522 succeeded his uncle James to become Archbishop of St Andrews. The Abbey is cared for by Historic Environment Scotland and is open to the public throughout the year (entrance charge). The distinctive red sandstone ruins stand at the top of the High Street in Arbroath.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/44/Arbroath_Abbey2.jpg",
+      "width": 1280,
+      "height": 855,
+      "page": "https://commons.wikimedia.org/wiki/File:Arbroath_Abbey2.jpg",
+      "artist": "Unknown",
+      "license": "CC BY-SA 3.0",
+      "caption": "Arbroath Abbey, showing The Round 'O'"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 44
+  },
+  {
+   "id": "33918",
+   "title": "William II of England",
+   "description": "King of England from 1087 to 1100",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/William_II_of_England",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/William_II_of_England_Historia_Anglorum.png",
+    "width": 1280,
+    "height": 1990,
+    "page": "https://commons.wikimedia.org/wiki/File:William_II_of_England_Historia_Anglorum.png",
+    "artist": "Matthew Paris",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "William II (Anglo-Norman: Williame; c. 1057 – 2 August 1100) was King of England from 26 September 1087 until his death in 1100, with powers over Normandy and influence in Scotland. He was less successful in extending his control into Wales. The third son of William the Conqueror, he is commonly referred to as William Rufus (Rufus being Latin for 'the Red'), perhaps because of his ruddy appearance or, more likely, because he had red hair.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4b/Great_Seal_of_William_Rufus.jpg/1280px-Great_Seal_of_William_Rufus.jpg",
+      "width": 1280,
+      "height": 739,
+      "page": "https://commons.wikimedia.org/wiki/File:Great_Seal_of_William_Rufus.jpg",
+      "artist": "George Lillie Craik and al.",
+      "license": "Public domain",
+      "caption": "Engraving of the Great Seal of William II"
+     }
+    },
+    {
+     "text": "William was a figure of complex temperament, capable of both bellicosity and flamboyance. He did not marry or have children, which – along with contemporary accounts – has led some historians to speculate on his sexuality. He died after being hit by an arrow while hunting. Circumstantial evidence in the behaviour of those around him – including his younger brother Henry I – raises strong but unproven suspicions of murder.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d4/Silver_penny_of_William_II_%28YORYM_2000_2062%29_obverse.jpg/1280px-Silver_penny_of_William_II_%28YORYM_2000_2062%29_obverse.jpg",
+      "width": 1280,
+      "height": 1283,
+      "page": "https://commons.wikimedia.org/wiki/File:Silver_penny_of_William_II_(YORYM_2000_2062)_obverse.jpg",
+      "artist": "Photographed by: York Museums Trust Staff",
+      "license": "CC BY-SA 4.0",
+      "caption": "Silver penny of William II showing a crowned head facing forward (1089), Yorkshire Museum, York"
+     }
+    },
+    {
+     "text": "Upon William's death, Henry immediately seized the treasury and had himself crowned king. Historian Frank Barlow writes that William was a \"rumbustious, devil-may-care soldier, without natural dignity or social graces, with no cultivated tastes and little show of conventional religious piety or morality – indeed, according to his critics, addicted to every kind of vice, particularly lust and especially sodomy.\"",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/WilliamRufus.png/1280px-WilliamRufus.png",
+      "width": 1280,
+      "height": 1376,
+      "page": "https://commons.wikimedia.org/wiki/File:WilliamRufus.png",
+      "artist": "UnknownUnknown",
+      "license": "CC BY-SA 4.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "On the other hand, he was a wise ruler and victorious general, Barlow writes: \"His chivalrous virtues and achievements were all too obvious. He had maintained good order and satisfactory justice in England and restored good peace to Normandy. He had extended Anglo-Norman rule in Wales, brought Scotland firmly under his lordship, recovered Maine, and kept up the pressure on the Vexin.\"",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/93/A_Chronicle_of_England_-_Page_123_-_Death_of_William_the_Red.jpg",
+      "width": 1280,
+      "height": 1313,
+      "page": "https://commons.wikimedia.org/wiki/File:A_Chronicle_of_England_-_Page_123_-_Death_of_William_the_Red.jpg",
+      "artist": "James William Edmund Doyle / Edmund Evans",
+      "license": "Public domain",
+      "caption": ""
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 90
+  },
+  {
+   "id": "100240",
+   "title": "Scheduled monument",
+   "description": "Protected site or building in the UK",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Scheduled_monument",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/CranmoreCastle1.jpg/1280px-CranmoreCastle1.jpg",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:CranmoreCastle1.jpg",
+    "artist": "User:Trotboy",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "In the United Kingdom, a scheduled monument is a nationally important archaeological site or historic building, given protection against unauthorised change. The various pieces of legislation that legally protect heritage assets from damage, visual disturbance, and destruction are grouped under the term \"designation\". The protection provided to scheduled monuments is given under the Ancient Monuments and Archaeological Areas Act 1979, which is a different law from that used for listed buildings (which fall within the town and country planning system).",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Dunluce_Castle_Overlooking_Atlantic_Ocean.jpg/1280px-Dunluce_Castle_Overlooking_Atlantic_Ocean.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Dunluce_Castle_Overlooking_Atlantic_Ocean.jpg",
+      "artist": "Sealark25",
+      "license": "CC BY 4.0",
+      "caption": "Dunluce Castle in Northern Ireland is a monument in state care."
+     }
+    },
+    {
+     "text": "A heritage asset is a part of the historic environment that is valued because of its historic, archaeological, architectural or artistic interest. Only some of these are judged to be important enough to have extra legal protection through designation. There are about 20,000 scheduled monuments in England representing about 37,000 heritage assets. Of the tens of thousands of scheduled monuments in the UK, most are inconspicuous archaeological sites, but some are large ruins.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Loughbrickland_Crannog.jpg",
+      "width": 1280,
+      "height": 852,
+      "page": "https://commons.wikimedia.org/wiki/File:Loughbrickland_Crannog.jpg",
+      "artist": "Aubrey Dale",
+      "license": "CC BY-SA 2.0",
+      "caption": "Loughbrickland Crannóg in Northern Ireland is a late Bronze Age human-made island."
+     }
+    },
+    {
+     "text": "According to the 1979 Act, a monument cannot be a structure which is occupied as a dwelling, used as a place of worship or a protected shipwreck.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/63/Roslin_Rosslyn_Chapel_seen_from_the_south.jpg/1280px-Roslin_Rosslyn_Chapel_seen_from_the_south.jpg",
+      "width": 1280,
+      "height": 853,
+      "page": "https://commons.wikimedia.org/wiki/File:Roslin_Rosslyn_Chapel_seen_from_the_south.jpg",
+      "artist": "Ymblanter",
+      "license": "CC BY-SA 4.0",
+      "caption": "Rosslyn Chapel in Scotland is an intact church, though only the unused sections are protected by scheduling"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 63
+  },
+  {
+   "id": "65288458",
+   "title": "Whitechapel Mount",
+   "description": "Former artificial mound in London",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Whitechapel_Mount",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e1/Whitechapel_Mount.png/1280px-Whitechapel_Mount.png",
+    "width": 1280,
+    "height": 985,
+    "page": "https://commons.wikimedia.org/wiki/File:Whitechapel_Mount.png",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Whitechapel Mount was a large artificial mound of disputed origin. A prominent landmark in 18th century London, it stood in the Whitechapel Road beside the newly constructed London Hospital, being not only older, but significantly taller. It was crossed by tracks, served as a scenic viewing-point (and a hiding place for stolen goods), could be ascended by horses and carts, and supported some trees and formal dwelling-houses.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/The_London_Hospital%2C_Whitechapel%3B_seen_from_the_northern_sid_Wellcome_L0002107.jpg/1280px-The_London_Hospital%2C_Whitechapel%3B_seen_from_the_northern_sid_Wellcome_L0002107.jpg",
+      "width": 1280,
+      "height": 965,
+      "page": "https://commons.wikimedia.org/wiki/File:The_London_Hospital,_Whitechapel;_seen_from_the_northern_sid_Wellcome_L0002107.jpg",
+      "artist": "Unknown",
+      "license": "CC BY 4.0",
+      "caption": "The newly built London Hospital in 1753, showing part of Whitechapel Mount to the west with trees and a house"
+     }
+    },
+    {
+     "text": "It has been interpreted as: a defensive fortification in the English Civil War; a burial place for victims of the Great Plague; rubble from the Great Fire of London; and as a laystall (hence it was sometimes called Whitechapel Dunghill). Possibly all of these theories are true to some extent.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Christopher_Wren%27s_survey_of_Westheath%2C_1673.png/1280px-Christopher_Wren%27s_survey_of_Westheath%2C_1673.png",
+      "width": 1280,
+      "height": 1037,
+      "page": "https://commons.wikimedia.org/wiki/File:Christopher_Wren%27s_survey_of_Westheath,_1673.png",
+      "artist": "Sir Christopher Wren",
+      "license": "Public domain",
+      "caption": ""
+     }
+    },
+    {
+     "text": "Whitechapel Mount was physically removed around 1807. Because Londoners widely believed in the \"Great Fire rubble\" theory, the remains were sifted by antique hunters, and some sensational finds were claimed. It survives in its present-day placename Mount Terrace, E1.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Gascoyne_1703_-_Whitechapel_Mount.jpg/1280px-Gascoyne_1703_-_Whitechapel_Mount.jpg",
+      "width": 1280,
+      "height": 965,
+      "page": "https://commons.wikimedia.org/wiki/File:Gascoyne_1703_-_Whitechapel_Mount.jpg",
+      "artist": "Joel Gascoyne",
+      "license": "Public domain",
+      "caption": ""
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 57
+  },
+  {
+   "id": "664697",
+   "title": "Fenian Cycle",
+   "description": "Grouping of Irish myths",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Fenian_Cycle",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/Irishfairytales01step_0219.jpg",
+    "width": 1280,
+    "height": 1547,
+    "page": "https://commons.wikimedia.org/wiki/File:Irishfairytales01step_0219.jpg",
+    "artist": "Arthur Rackham",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The Fenian Cycle, Fianna Cycle or Finn Cycle (Irish: an Fhiannaíocht) is a body of early Irish literature focusing on the exploits of the mythical hero Finn or Fionn mac Cumhaill and his warrior band the Fianna. Sometimes called the Ossianic Cycle after its narrator Oisín, it is one of the four groupings of Irish mythology along with the Mythological Cycle, the Ulster Cycle, and the Kings' Cycles.",
+     "image": null
+    },
+    {
+     "text": "Timewise, the Fenian cycle is the third, between the Ulster and Kings' cycles. The cycle also contains stories about other famous Fianna members, including Diarmuid, Caílte, Oisín's son Oscar, and Fionn's rival Goll mac Morna.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/9/90/Hope-coventina01a.jpg",
+      "width": 1280,
+      "height": 771,
+      "page": "https://commons.wikimedia.org/wiki/File:Hope-coventina01a.jpg",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": ""
      }
     }
    ],
@@ -40,139 +432,287 @@
    "readSeconds": 35
   },
   {
-   "id": "784514",
-   "title": "National Library of Scotland",
-   "description": "Legal deposit library of Scotland",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/National_Library_of_Scotland",
+   "id": "9632711",
+   "title": "Netham Lock",
+   "description": "Canal lock in Bristol, England",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/Netham_Lock",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/National_Library_of_Scotland%2C_Edinburgh.JPG/1280px-National_Library_of_Scotland%2C_Edinburgh.JPG",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Nethamlock.JPG/1280px-Nethamlock.JPG",
     "width": 1280,
-    "height": 918,
-    "page": "https://commons.wikimedia.org/wiki/File:National_Library_of_Scotland,_Edinburgh.JPG",
-    "artist": "Kim Traynor",
+    "height": 970,
+    "page": "https://commons.wikimedia.org/wiki/File:Nethamlock.JPG",
+    "artist": "The original uploader was Rodw at English Wikipedia.",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Netham Lock (grid reference ST616727) is the point at Netham in Bristol at which boats from the River Avon, acting as part of the Kennet and Avon Canal, gain access to Bristol's Floating Harbour. Construction started in 1804 to build the tidal New Cut and divert the River Avon along the Feeder Canal to the harbour; a system designed and built by William Jessop and later improved by Isambard Kingdom Brunel.",
+     "image": null
+    },
+    {
+     "text": "A weir carries the river into the New Cut and boats use the adjacent lock. High tides often pass over the weir, and the river is effectively tidal to the next lock upstream at Hanham. Some spring tides can also pass over the weir at Hanham, making the river tidal as far as Keynsham Lock.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/18/Nethamweir.JPG/1280px-Nethamweir.JPG",
+      "width": 1280,
+      "height": 970,
+      "page": "https://commons.wikimedia.org/wiki/File:Nethamweir.JPG",
+      "artist": "The original uploader was Rodw at English Wikipedia.",
+      "license": "Public domain",
+      "caption": "Netham Weir"
+     }
+    },
+    {
+     "text": "Access to the harbour is only possible during the day when the lock keeper will open the gates unless the water level in the river between Netham and Hanham is above or below the level of the harbour. The maximum dimensions of a vessel which can pass through Netham Lock are:",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Bristolharbourmap.png/1280px-Bristolharbourmap.png",
+      "width": 1280,
+      "height": 329,
+      "page": "https://commons.wikimedia.org/wiki/File:Bristolharbourmap.png",
+      "artist": "Steinsky",
+      "license": "Public domain",
+      "caption": ""
+     }
+    },
+    {
+     "text": "Length: 24.4 metres (80 ft) Beam: 5.4 metres (18 ft) Draught: 1.9 metres (6.2 ft) Headroom: 3.1 metres (10 ft) The lock-keeper's cottage, built in the early nineteenth century, is a grade II listed building and has a plaque listing it as Bristol Docks building number 1. The floral displays around the cottage and on the banking have attracted praise.",
+     "image": null
+    },
+    {
+     "text": "Netham Lock and the weir form part of Bristol's flood defence mechanisms and it was announced in December 2008 that they would be upgraded as part of the £11 million City Docks Capital Project.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 83
+  },
+  {
+   "id": "52947",
+   "title": "Hampton Court Palace",
+   "description": "Historic royal palace in Greater London",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Hampton_Court_Palace",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Hampton_Court_Palace%2C_West_Front_Richmond_upon_Thames_1193127_20230823_0050.jpg/1280px-Hampton_Court_Palace%2C_West_Front_Richmond_upon_Thames_1193127_20230823_0050.jpg",
+    "width": 1280,
+    "height": 776,
+    "page": "https://commons.wikimedia.org/wiki/File:Hampton_Court_Palace,_West_Front_Richmond_upon_Thames_1193127_20230823_0050.jpg",
+    "artist": "Tilman2007",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "Hampton Court Palace is a Grade I listed royal palace in the London Borough of Richmond upon Thames, 12 miles (19 kilometres) southwest and upstream of central London on the River Thames. The building of the palace began in 1514 for Cardinal Thomas Wolsey, Archbishop of York and the chief minister of Henry VIII.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/en/e/e7/Hampton_Court_Key.jpg",
+      "width": 1280,
+      "height": 880,
+      "page": "https://en.wikipedia.org/wiki/File:Hampton_Court_Key.jpg",
+      "artist": "Unknown",
+      "license": "PD",
+      "caption": "Hampton Court Palace, with marked reference points referred to on this page. A: West Front & Main Entrance; B: Base Court; C: Clock Tower; D: Clock Court, E: Fountain Court; F: East Front; G: South Front; H: Banqueting House; J: Great Hall; K: River Thames; L: Pond Gardens; M: East Gardens; O: Cardinal Wolsey's Rooms; P: Chapel."
+     }
+    },
+    {
+     "text": "In 1529, as Wolsey fell from favour, the cardinal gave the palace to the king to try to save his own life, which was in danger due to Henry VIII's deepening frustration and anger. The palace became one of Henry's most favoured residences; soon after acquiring it, he enlarged it to accommodate his sizeable retinue of courtiers. ",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b6/Tudor_Chimney_Pots_at_Hampton_Court_Palace_-_panoramio.jpg",
+      "width": 1280,
+      "height": 954,
+      "page": "https://commons.wikimedia.org/wiki/File:Tudor_Chimney_Pots_at_Hampton_Court_Palace_-_panoramio.jpg",
+      "artist": "Maxwell Hamilton",
+      "license": "CC BY-SA 3.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "In the early 1690s, William III's massive rebuilding and expansion work, which was intended to rival the Palace of Versailles, destroyed much of the Tudor palace. His work ceased in 1703, leaving the palace in two distinct contrasting architectural styles, domestic Tudor and Baroque. While the palace's styles are an accident of fate, a unity exists due to the use of pink bricks and a symmetrical, if vague, balancing of successive low wings.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/28/Tudor_chimneys_on_Hampton_Court_Palace%2C_Middlesex.jpg",
+      "width": 1280,
+      "height": 1484,
+      "page": "https://commons.wikimedia.org/wiki/File:Tudor_chimneys_on_Hampton_Court_Palace,_Middlesex.jpg",
+      "artist": "Billbeee (talk) (Uploads)",
+      "license": "CC BY 3.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "George II was the last monarch to reside in the palace. The palace structure and its grounds are cared for by an independent charity, Historic Royal Palaces, and are open to the public. The palace displays works of art from the Royal Collection. The palace gardens include the Hampton Court Maze, the royal tennis court, and the world's largest grape vine as of 2005.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5d/Hampton_Court_Palace%2C_Great_Hall_-_Diliff.jpg/1280px-Hampton_Court_Palace%2C_Great_Hall_-_Diliff.jpg",
+      "width": 1280,
+      "height": 1275,
+      "page": "https://commons.wikimedia.org/wiki/File:Hampton_Court_Palace,_Great_Hall_-_Diliff.jpg",
+      "artist": "Diliff",
+      "license": "CC BY 3.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "The palace is the site of the annual Hampton Court Palace Festival and the Hampton Court Garden Festival, held in the Home Park.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Hampton_Court_Palace%2C_The_Great_Hall_Richmond_upon_Thames_1193127_20230823_0110.jpg/1280px-Hampton_Court_Palace%2C_The_Great_Hall_Richmond_upon_Thames_1193127_20230823_0110.jpg",
+      "width": 1280,
+      "height": 853,
+      "page": "https://commons.wikimedia.org/wiki/File:Hampton_Court_Palace,_The_Great_Hall_Richmond_upon_Thames_1193127_20230823_0110.jpg",
+      "artist": "Tilman2007",
+      "license": "CC BY-SA 4.0",
+      "caption": ""
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 95
+  },
+  {
+   "id": "26525433",
+   "title": "Ridgeway Hill Viking burial pit",
+   "description": "Mass grave in Dorset, England",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Ridgeway_Hill_Viking_burial_pit",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Ridgeway_Hill_from_Povington_Hill_2.JPG/1280px-Ridgeway_Hill_from_Povington_Hill_2.JPG",
+    "width": 1280,
+    "height": 853,
+    "page": "https://commons.wikimedia.org/wiki/File:Ridgeway_Hill_from_Povington_Hill_2.JPG",
+    "artist": "Bermicourt",
     "license": "CC BY-SA 3.0"
    },
    "cards": [
     {
-     "text": "The National Library of Scotland (NLS; Scottish Gaelic: Leabharlann Nàiseanta na h-Alba; Scots: Naitional Leebrar o Scotland) is one of Scotland's National Collections. It is one of the largest libraries in the United Kingdom. As well as a public programme of exhibitions, events, workshops, and tours, the National Library of Scotland has reading rooms where visitors can access the collections.",
+     "text": "The Ridgeway Hill Viking burial pit at Ridgeway Hill near Weymouth, Dorset, was a mass grave of 54 skeletons, including 51 skulls, of Scandinavian men executed some time between AD 970 and 1025. The men are believed to have been Vikings executed by local Anglo-Saxons. The dismembered skeletons were discovered by archaeologists in June 2009, and their identity and approximate ages were later confirmed by forensic analyses.",
      "image": null
     },
     {
-     "text": "It is the legal deposit library of Scotland and is a member of Research Libraries UK (RLUK) and the Consortium of European Research Libraries (CERL). There are over 24 million items held at the library in various formats including books, annotated manuscripts and first-drafts, postcards, photographs, and newspapers. The library is also home to Scotland's Moving Image Archive, a collection of over 46,000 videos and films.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/National_Library_Extension.jpg",
-      "width": 1280,
-      "height": 1383,
-      "page": "https://commons.wikimedia.org/wiki/File:National_Library_Extension.jpg",
-      "artist": "https://www.flickr.com/photos/yellowbookltd/",
-      "license": "CC BY 2.0",
-      "caption": "Causewayside annexe (opened in 1988)"
-     }
+     "text": "Although the immediate circumstances of the deaths is unknown, the event occurred at a time of conflict between the native Anglo-Saxons and Viking invaders, and it has been suggested that the Vikings had been captured during an attempted raid into Anglo-Saxon territory. There is a possibility it could be linked to the St. Brice's Day massacre order of 1002.",
+     "image": null
     },
     {
-     "text": "Notable items amongst the collection include copies of the Gutenberg Bible, Charles Darwin's letter with which he submitted the manuscript of On the Origin of Species, the First Folio of Shakespeare, the Glenriddell Manuscripts, and the last letter written by Mary Queen of Scots. It has the largest collection of Scottish Gaelic material of any library in the world.",
+     "text": "It is suggested that the 'Oxford Massacre' was not an isolated incident and could have been part of a kingdom-wide order to eradicate the Vikings.",
      "image": null
     }
    ],
    "truncated": false,
-   "readSeconds": 56
+   "readSeconds": 43
   },
   {
-   "id": "1653192",
-   "title": "Pitzhanger Manor",
-   "description": "English country house",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Pitzhanger_Manor",
+   "id": "10681623",
+   "title": "Kildalton Cross",
+   "description": "Monolithic high cross in Celtic cross form in the Inner Hebrides, Scotland",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Kildalton_Cross",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Pitz_eastface.JPG/1280px-Pitz_eastface.JPG",
+    "src": "https://upload.wikimedia.org/wikipedia/en/8/8e/KildaltonCross-Islay-Scotland-1987-1.jpg",
     "width": 1280,
-    "height": 1022,
-    "page": "https://commons.wikimedia.org/wiki/File:Pitz_eastface.JPG",
-    "artist": "p.g.champion",
-    "license": "CC BY 2.0 uk"
+    "height": 1910,
+    "page": "https://en.wikipedia.org/wiki/File:KildaltonCross-Islay-Scotland-1987-1.jpg",
+    "artist": "Newt (winkle)",
+    "license": "CC-BY-3.0"
    },
    "cards": [
     {
-     "text": "Pitzhanger Manor is an English country house famous as the home of neoclassical architect, Sir John Soane. Built between 1800 and 1804 in what is now Walpole Park Ealing, to the west of London, the Regency Manor is a rare and spectacular example of a building designed, built and lived in by Sir John Soane himself.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/SirJohnSoane.jpg/1280px-SirJohnSoane.jpg",
-      "width": 1280,
-      "height": 1636,
-      "page": "https://commons.wikimedia.org/wiki/File:SirJohnSoane.jpg",
-      "artist": "William Owen",
-      "license": "Public domain",
-      "caption": "William Owen's Portrait of John Soane (1804)"
-     }
+     "text": "The Kildalton Cross is a monolithic high cross in Celtic cross form in the churchyard of the former parish church of Kildalton (from Scottish Gaelic Cill Daltain, \"Church of the Foster Son\" (i.e. St John the Evangelist) on the island of Islay in the Inner Hebrides, Scotland. It was carved probably in the second half of the 8th century AD, and is closely related to crosses of similar date on Iona.",
+     "image": null
     },
     {
-     "text": "Soane intended it as a domestic space to entertain guests in, as well as a family home for a dynasty of architects, starting with his sons. Pitzhanger Manor and Gallery was established as a heritage attraction in 1987, later showing contemporary art exhibitions from 1996. In 2015, the Pitzhanger closed for a major conservation project to restore the Grade I listed building to Soane’s original designs, and upgrade the contemporary Gallery.",
+     "text": "It is often considered the finest surviving Celtic cross in Scotland, and is certainly one of the most perfect monuments of its date to survive in western Europe. The cross and the adjacent roofless medieval parish church are in the care of Historic Environment Scotland (access at all times) and are jointly a scheduled monument. A simpler cross of late medieval date stands nearby.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 39
+  },
+  {
+   "id": "31262291",
+   "title": "Overtoun Bridge",
+   "description": "Category B-listed bridge over the Overtoun Burn",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Overtoun_Bridge",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/42/Overtoun_Bridge_-_geograph.org.uk_-_4625800.jpg",
+    "width": 1280,
+    "height": 1753,
+    "page": "https://commons.wikimedia.org/wiki/File:Overtoun_Bridge_-_geograph.org.uk_-_4625800.jpg",
+    "artist": "Lairich Rig",
+    "license": "CC BY-SA 2.0"
+   },
+   "cards": [
+    {
+     "text": "Overtoun Bridge is a category B-listed structure over the Overtoun Burn on the approach road from the west to Overtoun House, near Dumbarton in West Dunbartonshire, Scotland. It was completed in 1895, based on a design by the landscape architect H. E. Milner. It spans a ditch known as Spardie Linn.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/04/UpperLandingPitzhanger.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Overtoun_Bridge_-_approach_to_Overtoun_House.jpg/1280px-Overtoun_Bridge_-_approach_to_Overtoun_House.jpg",
       "width": 1280,
-      "height": 1755,
-      "page": "https://commons.wikimedia.org/wiki/File:UpperLandingPitzhanger.jpg",
-      "artist": "Pitzhanger Manor & Gallery Trust",
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Overtoun_Bridge_-_approach_to_Overtoun_House.jpg",
+      "artist": "dave souza",
       "license": "CC BY-SA 4.0",
-      "caption": ""
+      "caption": "Overtoun Bridge, on the approach to Overtoun House"
      }
     },
     {
-     "text": "The three-year project was led by Ealing Council, in collaboration with Pitzhanger Manor & Gallery Trust and with the aid of the National Lottery Heritage Fund. On 16 March 2019 Pitzhanger Manor & Gallery re-opened, revealing Soane’s original design for the first time in over 175 years.",
+     "text": "Since the 1950s, numerous accounts of dogs either falling or jumping from the bridge have been reported. With the incidents often resulting in serious injury or death upon landing on the rocks some 50 ft (15 m) below, the bridge has been dubbed the \"Dog Suicide Bridge\". Various explanations for these deaths have been proposed, ranging from natural accidents to paranormal activity.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2f/Pitzhanger_manor_gallery.jpg/1280px-Pitzhanger_manor_gallery.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f9/OvertounBridge.jpg",
       "width": 1280,
-      "height": 831,
-      "page": "https://commons.wikimedia.org/wiki/File:Pitzhanger_manor_gallery.jpg",
-      "artist": "P.g.champion",
-      "license": "CC BY-SA 2.0 uk",
-      "caption": ""
+      "height": 853,
+      "page": "https://commons.wikimedia.org/wiki/File:OvertounBridge.jpg",
+      "artist": "Allan Ogg",
+      "license": "CC BY-SA 3.0",
+      "caption": "Bridge with decorative bartizans"
      }
     }
    ],
    "truncated": false,
-   "readSeconds": 61
+   "readSeconds": 41
   },
   {
-   "id": "2412892",
-   "title": "Gropecunt Lane",
-   "description": "Street name in England in the Middle Ages",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Gropecunt_Lane",
+   "id": "4014747",
+   "title": "Vitrified fort",
+   "description": "Stone enclosure with vitrified walls",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Vitrified_fort",
    "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0f/Magpie_lane.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Vitrified_fort.jpg/1280px-Vitrified_fort.jpg",
     "width": 1280,
-    "height": 1921,
-    "page": "https://commons.wikimedia.org/wiki/File:Magpie_lane.jpg",
-    "artist": "Newton2",
-    "license": "CC BY 2.5"
+    "height": 1805,
+    "page": "https://commons.wikimedia.org/wiki/File:Vitrified_fort.jpg",
+    "artist": "William Day",
+    "license": "Public domain"
    },
    "cards": [
     {
-     "text": "Gropecunt Lane was a street name found in English towns and cities during the Middle Ages, believed to be a reference to the prostitution centred on those areas; it was normal practice for a medieval street name to reflect the street's function or the economic activity taking place within it. Gropecunt, the earliest known use of which is in about 1230, appears to have been derived as a compound of the words grope and cunt.",
+     "text": "Vitrified forts are stone enclosures whose walls have been subjected to vitrification through heat. It was long thought that these structures were unique to Scotland, but they have since been identified in several other parts of western and northern Europe.",
+     "image": null
+    },
+    {
+     "text": "Vitrified forts are generally situated on hills offering strong defensive positions. Their form seems to have been determined by the contour of the flat summits which they enclose. The walls vary in size, a few being upwards of 12 feet (3.7 m) high, and are so broad that they present the appearance of embankments.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/36/Grope_Lane_1542.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Mur_vitrifi%C3%A9_Ste-Suzanne.JPG/1280px-Mur_vitrifi%C3%A9_Ste-Suzanne.JPG",
       "width": 1280,
-      "height": 422,
-      "page": "https://commons.wikimedia.org/wiki/File:Grope_Lane_1542.jpg",
-      "artist": "Evan T Jones",
+      "height": 853,
+      "page": "https://commons.wikimedia.org/wiki/File:Mur_vitrifi%C3%A9_Ste-Suzanne.JPG",
+      "artist": "jp.morteveille",
       "license": "Public domain",
-      "caption": "Grope Lane, Bristol, 1542"
+      "caption": "Part of the vitrified wall at Sainte-Suzanne (Mayenne)"
      }
     },
     {
-     "text": "Streets with that name were often in the busiest parts of medieval towns and cities, and at least one appears to have been an important thoroughfare. Although the name was once common throughout England, changes in attitude resulted in its replacement by more innocuous versions such as Grape Lane. A variation of Gropecunt was last recorded as a street name in 1561.",
+     "text": "Weak parts of the defence are strengthened by double or triple walls, and occasionally vast lines of ramparts, composed of large blocks of unhewn and unvitrified stones, envelop the vitrified centre at some distance from it. The walls themselves are termed vitrified ramparts.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Bread_street_ward_and_Cordwainer_ward_1720_john_stow_with_streets_highlighted.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Mur_vitrifi%C3%A9_2.JPG/1280px-Mur_vitrifi%C3%A9_2.JPG",
       "width": 1280,
-      "height": 740,
-      "page": "https://commons.wikimedia.org/wiki/File:Bread_street_ward_and_Cordwainer_ward_1720_john_stow_with_streets_highlighted.jpg",
-      "artist": "John Stow",
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Mur_vitrifi%C3%A9_2.JPG",
+      "artist": "jp.morteveille",
       "license": "Public domain",
-      "caption": "A 1720 map of Bread Street and Cordwainer wards included in a 19th-century edition of John Stow's Survey of the Cities of London and Westminster.  The routes of three extinct streets are highlighted in blue, Puppekirtylane on the left, \"Grope Countlane\" in the middle, and Bordhawlane on the right.  The location is opposite the modern-day Mercers' Hall.[7]  Little Fryday Street [sic] (Pissing Alley) is visible on the left."
+      "caption": "Fragment of vitrified wall at Sainte-Suzanne (Mayenne)"
      }
     }
    ],
@@ -180,756 +720,300 @@
    "readSeconds": 48
   },
   {
-   "id": "56403067",
-   "title": "Roman Bath, York",
-   "description": "Listed pub in York, England",
+   "id": "72258579",
+   "title": "Lichfield Angel",
+   "description": "Anglo-Saxon sculpture of Gabriel",
    "topic": "archaeology",
    "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Roman_Bath,_York",
+   "url": "https://en.wikipedia.org/wiki/Lichfield_Angel",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Roman_Bath_York.jpg/1280px-Roman_Bath_York.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Lichfield_-_043_-_interior_-_Cathedral_-_The_Lichfield_angel_%2835605515431%29.jpg/1280px-Lichfield_-_043_-_interior_-_Cathedral_-_The_Lichfield_angel_%2835605515431%29.jpg",
     "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Roman_Bath_York.jpg",
-    "artist": "Fingalo Christian Bickel",
-    "license": "CC BY-SA 2.0 de"
-   },
-   "cards": [
-    {
-     "text": "The Roman Bath is a Grade II* listed public house on St Sampson's Square in the city of York, England. It is built above an ancient Roman bath house. The remains were uncovered during building work when the present pub was erected between 1929 and 1931 replacing an inn. The exterior has Tudor Revival features including applied half-timbering. The pub is however more notable for the Roman remains which can be viewed inside.",
-     "image": null
-    },
-    {
-     "text": "The bath house apparently served the military personnel of Eboracum (Roman York). Not only was the facility in Eboracum's fortress (built in the 1st century AD to house a legion of about 5,000 men), but also tiles have been discovered at the bath house site which are marked with the identity of specific legions. The Ninth may have constructed the facility.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/The_Caldarium%2C_Roman_Bath_Museum%2C_Eboracum%2C_York%2C_England_%287676852636%29.jpg/1280px-The_Caldarium%2C_Roman_Bath_Museum%2C_Eboracum%2C_York%2C_England_%287676852636%29.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:The_Caldarium,_Roman_Bath_Museum,_Eboracum,_York,_England_(7676852636).jpg",
-      "artist": "Carole Raddato from FRANKFURT, Germany",
-      "license": "CC BY-SA 2.0",
-      "caption": "The Caldarium"
-     }
-    },
-    {
-     "text": "The last attested activity of the Ninth in Britain is in AD 108. Baths dating from the 2nd and 3rd centuries AD have been excavated at Tanner Row on the other side of the River Ouse: these are believed to have served the civilian population of York.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 55
-  },
-  {
-   "id": "3416349",
-   "title": "Tantallon Castle",
-   "description": "Castle in Scotland",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/Tantallon_Castle",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3f/Tantallon_Castle%2C_2015.JPG/1280px-Tantallon_Castle%2C_2015.JPG",
-    "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Tantallon_Castle,_2015.JPG",
-    "artist": "D. Gordon E. Robertson",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "Tantallon Castle is a ruined mid-14th-century fortress, located 5 kilometres (3.1 mi) east of North Berwick, in East Lothian, Scotland. It sits atop a promontory opposite the Bass Rock, looking out onto the Firth of Forth. The last medieval curtain wall castle to be constructed in Scotland, Tantallon comprises a single wall blocking off the headland, with the other three sides naturally protected by sea cliffs.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/Tantallon_Castle_from_the_west.jpg/1280px-Tantallon_Castle_from_the_west.jpg",
-      "width": 1280,
-      "height": 852,
-      "page": "https://commons.wikimedia.org/wiki/File:Tantallon_Castle_from_the_west.jpg",
-      "artist": "Stephencdickson",
-      "license": "CC BY-SA 4.0",
-      "caption": "Tantallon Castle from the west"
-     }
-    },
-    {
-     "text": "Tantallon was built in the mid 14th century by William Douglas, 1st Earl of Douglas. It was passed to his illegitimate son, George Douglas, later created Earl of Angus, and despite several sieges, it remained the property of his descendants for much of its history. It was besieged by King James IV in 1491, and again by his successor James V in 1527, when extensive damage was done.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Tantallon_Plan.png/1280px-Tantallon_Plan.png",
-      "width": 1280,
-      "height": 971,
-      "page": "https://commons.wikimedia.org/wiki/File:Tantallon_Plan.png",
-      "artist": "Jonathan Oldenbuck",
-      "license": "CC BY-SA 4.0",
-      "caption": "Plan of the inner court of Tantallon Castle"
-     }
-    },
-    {
-     "text": "Tantallon saw action in the First Bishops' War in 1639, and again during Oliver Cromwell's invasion of Scotland in 1651, when it was once more severely damaged. It was sold by the Marquis of Douglas in 1699 to Hew Dalrymple, Lord North Berwick and the ruin is today in the care of Historic Environment Scotland.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/12/The_curtain_wall_of_Tantallon_Castle%2C_East_Lothian%2C_Scotland%2C_1972.jpg/1280px-The_curtain_wall_of_Tantallon_Castle%2C_East_Lothian%2C_Scotland%2C_1972.jpg",
-      "width": 1280,
-      "height": 636,
-      "page": "https://commons.wikimedia.org/wiki/File:The_curtain_wall_of_Tantallon_Castle,_East_Lothian,_Scotland,_1972.jpg",
-      "artist": "Phillip Capper from Wellington, New Zealand",
-      "license": "CC BY 2.0",
-      "caption": "Curtain wall, with the gatehouse in the centre"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 65
-  },
-  {
-   "id": "24410159",
-   "title": "Early Scandinavian Dublin",
-   "description": "Historical era in Ireland",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Early_Scandinavian_Dublin",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Ireland900.png/1280px-Ireland900.png",
-    "width": 1280,
-    "height": 1634,
-    "page": "https://commons.wikimedia.org/wiki/File:Ireland900.png",
-    "artist": "Erakis",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Early Scandinavian Dublin was a major Viking settlement and pivotal center of Hiberno-Norse power in Ireland from its establishment in the mid-9th century until the Anglo-Norman invasion in 1170. The First Viking Age in Ireland began in 795, when Vikings began carrying out hit-and-run raids on Gaelic Irish coastal settlements.",
-     "image": null
-    },
-    {
-     "text": "Over the following decades the raiding parties became bigger and better organized; inland settlements were targeted as well as coastal ones; and the raiders built naval encampments known as longphorts to allow them to remain in Ireland throughout the winter. ",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/af/Early_Scandinavian_Dublin_-_North-East.png/1280px-Early_Scandinavian_Dublin_-_North-East.png",
-      "width": 1280,
-      "height": 704,
-      "page": "https://commons.wikimedia.org/wiki/File:Early_Scandinavian_Dublin_-_North-East.png",
-      "artist": "Erakis",
-      "license": "Public domain",
-      "caption": "Rathlin Island"
-     }
-    },
-    {
-     "text": "In the mid 9th century, Viking leader Turgeis or Thorgest founded a stronghold at Dublin, plundered Leinster and Meath, and raided other parts of Ireland. He was killed by the High King, Máel Sechnaill mac Máele Ruanaid, which was followed by several Irish victories against the Vikings and the seizure of Dublin in 849.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Early_Scandinavian_Dublin_-_Carlingford.png/1280px-Early_Scandinavian_Dublin_-_Carlingford.png",
-      "width": 1280,
-      "height": 725,
-      "page": "https://commons.wikimedia.org/wiki/File:Early_Scandinavian_Dublin_-_Carlingford.png",
-      "artist": "Erakis",
-      "license": "Public domain",
-      "caption": "Conaille Muirthemne."
-     }
-    },
-    {
-     "text": "Shortly after, a new group of Vikings known as the Dubgaill (\"dark foreigners\") came to Ireland and clashed with the earlier Viking settlers, now called the Finngaill (\"fair foreigners\"). The wavering fortunes of these three groups and their shifting alliances, together with the shortcomings of contemporary records and the inaccuracy of later accounts, make this period one of the most complicated and least understood in the fledgling city's history.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Dublindynasty902.png/1280px-Dublindynasty902.png",
-      "width": 1280,
-      "height": 640,
-      "page": "https://commons.wikimedia.org/wiki/File:Dublindynasty902.png",
-      "artist": "Erakis",
-      "license": "Public domain",
-      "caption": "The Scandinavian dynasty of Dublin."
-     }
-    },
-    {
-     "text": "In 853 a Viking warlord called Amlaíb (Old Norse: Óláfr, possibly Olaf the White) arrived and made himself king of Dublin. He ruled along with his brothers Ímar (Ívarr, possibly Ivar the Boneless) and Auisle (Ásl). For the next fifteen years or so, they used Dublin as their base for a series of campaigns against Irish kingdoms. During these conflicts they briefly allied themselves with several Irish kings.",
-     "image": null
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 89
-  },
-  {
-   "id": "35539370",
-   "title": "Mayor of Bristol",
-   "description": "Mayors and Lord Mayors of Bristol, England",
-   "topic": "bristol",
-   "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Mayor_of_Bristol",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0b/William_Killigrew_Wait.jpg",
-    "width": 1280,
-    "height": 1360,
-    "page": "https://commons.wikimedia.org/wiki/File:William_Killigrew_Wait.jpg",
-    "artist": "Unidentified painter",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The Mayor of Bristol has existed since the 13th century. Bristol's first mayor was probably Roger Cordewainer, a confident of King John, and likely appointed by him in 1216. Cordwainer was followed by Adam Le Page, who was likely the first mayor chosen by the town itself.",
-     "image": null
-    },
-    {
-     "text": "Despite being accepted as the leader of the town, the mayor was not formally recognised in royal charters till 1373 which stipulated that ‘the said mayor and sheriff and 40 men would raise and disburse money for the necessities and profits of the said town’.",
-     "image": null
-    },
-    {
-     "text": "The position of Lord Mayor of Bristol was conferred on the city in June 1899 (effective 15 November 1899) as part of the Queen's Birthday Honours and was confirmed by letters patent dated 1 April 1974. The Lord Mayor is the Chairperson of the City Council and has the casting vote. As Bristol's first citizen, they are the non-political, ceremonial head of the city.",
-     "image": null
-    },
-    {
-     "text": "The Lord Mayor of Bristol is styled The Right Honourable, although without official sanction, rather than the more normal Right Worshipful enjoyed by most other Lord Mayors. The names of all Mayors and Lord Mayors of Bristol since 1216 are cut into the stone walls of the Conference Hall of Bristol City Hall.",
-     "image": null
-    },
-    {
-     "text": "From 2012 to 2024, a separate directly elected Mayor of Bristol role existed who, along with the 70 members of Bristol City Council, was responsible for the strategic government of Bristol. During this period Bristol had two mayors simultaneously: the directly elected Mayor with a political role, and the ceremonial Lord Mayor. The directly elected Mayor was abolished in 2024.",
-     "image": null
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 74
-  },
-  {
-   "id": "330305",
-   "title": "John Franklin",
-   "description": "British naval officer and explorer (1786–1847)",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/John_Franklin",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Sir_John_Franklin_by_Thomas_Phillips.jpg/1280px-Sir_John_Franklin_by_Thomas_Phillips.jpg",
-    "width": 1280,
-    "height": 1527,
-    "page": "https://commons.wikimedia.org/wiki/File:Sir_John_Franklin_by_Thomas_Phillips.jpg",
-    "artist": "Thomas Phillips",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Rear-Admiral Sir John Franklin (16 April 1786 – 11 June 1847) was a British Royal Navy officer, explorer and colonial administrator. After serving in the Napoleonic Wars and the War of 1812, he led two expeditions into the Canadian Arctic and through the islands of the Arctic Archipelago, during the Coppermine expedition of 1819 and the Mackenzie River expedition of 1825, and served as Lieutenant-Governor of Van Diemen's Land from 1837 to 1843.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Sir_John_Franklin_SLNSW_FL3318446.jpg/1280px-Sir_John_Franklin_SLNSW_FL3318446.jpg",
-      "width": 1280,
-      "height": 1680,
-      "page": "https://commons.wikimedia.org/wiki/File:Sir_John_Franklin_SLNSW_FL3318446.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "caption": "Sir John Franklin, c. 1835"
-     }
-    },
-    {
-     "text": "During his third and final expedition, an attempt to traverse the Northwest Passage in 1845, Franklin's ships became icebound off King William Island in what is now Nunavut, where he died in June 1847. The icebound ships were abandoned ten months later, and the entire crew died from starvation, hypothermia, and scurvy.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Franklin%27s_lost_expedition_map.png",
-      "width": 1280,
-      "height": 1106,
-      "page": "https://commons.wikimedia.org/wiki/File:Franklin%27s_lost_expedition_map.png",
-      "artist": "Finetooth, Kennonv, U.S. Central Intelligence Agency",
-      "license": "Public domain",
-      "caption": "The routes that were thought likely to have been taken by HMS Erebus and HMS Terror, prior to their 2014–2016 rediscovery. King William Island is at centre, coloured a darker green, above the dotted line of the Arctic Circle..mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}  Disko Bay to Beechey Island, 1845  Around Cornwallis Island, 1845–46  Northwest off King William Island, 1846.mw-parser-output .block-indent{padding-left:3em;padding-right:0;overflow:hidden}.mw-parser-output .hlist dl,.mw-parser-output .hlist ol,.mw-parser-output .hlist ul{margin:0;padding:0}.mw-parser-output .hlist dd,.mw-parser-output .hlist dt,.mw-parser-output .hlist li{margin:0;display:inline}.mw-parser-output .hlist.inline,.mw-parser-output .hlist.inline dl,.mw-parser-output .hlist.inline ol,.mw-parser-output .hlist.inline ul,.mw-parser-output .hlist dl dl,.mw-parser-output .hlist dl ol,.mw-parser-output .hlist dl ul,.mw-parser-output .hlist ol dl,.mw-parser-output .hlist ol ol,.mw-parser-output .hlist ol ul,.mw-parser-output .hlist ul dl,.mw-parser-output .hlist ul ol,.mw-parser-output .hlist ul ul{display:inline}.mw-parser-output .hlist .mw-empty-li{display:none}.mw-parser-output .hlist dt::after{content:\": \"}.mw-parser-output .hlist dd::after,.mw-parser-output .hlist li::after{content:\"\\a0 · \";font-weight:bold}.mw-parser-output .hlist dd:last-child::after,.mw-parser-output .hlist dt:last-child::after,.mw-parser-output .hlist li:last-child::after{content:none}.mw-parser-output .hlist dd dd:first-child::before,.mw-parser-output .hlist dd dt:first-child::before,.mw-parser-output .hlist dd li:first-child::before,.mw-parser-output .hlist dt dd:first-child::before,.mw-parser-output .hlist dt dt:first-child::before,.mw-parser-output .hlist dt li:first-child::before,.mw-parser-output .hlist li dd:first-child::before,.mw-parser-output .hlist li dt:first-child::before,.mw-parser-output .hlist li li:first-child::before{content:\" (\";font-weight:normal}.mw-parser-output .hlist dd dd:last-child::after,.mw-parser-output .hlist dd dt:last-child::after,.mw-parser-output .hlist dd li:last-child::after,.mw-parser-output .hlist dt dd:last-child::after,.mw-parser-output .hlist dt dt:last-child::after,.mw-parser-output .hlist dt li:last-child::after,.mw-parser-output .hlist li dd:last-child::after,.mw-parser-output .hlist li dt:last-child::after,.mw-parser-output .hlist li li:last-child::after{content:\")\";font-weight:normal}.mw-parser-output .hlist ol{counter-reset:listitem}.mw-parser-output .hlist ol>li{counter-increment:listitem}.mw-parser-output .hlist ol>li::before{content:\" \"counter(listitem)\"\\a0 \"}.mw-parser-output .hlist dd ol>li:first-child::before,.mw-parser-output .hlist dt ol>li:first-child::before,.mw-parser-output .hlist li ol>li:first-child::before{content:\" (\"counter(listitem)\"\\a0 \"}1. Cornwallis Island2. Prince of Wales Island3. Somerset Island4. Boothia Peninsula5. Disko Island6. Mackenzie River"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 45
-  },
-  {
-   "id": "52005143",
-   "title": "Argyll's Rising",
-   "description": "1685 rebellion in Scotland",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/Argyll%27s_Rising",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/91/Archibald_Campbell%2C_9th_Earl_of_Argyll_captured_1685_%28cropped%29.jpg/1280px-Archibald_Campbell%2C_9th_Earl_of_Argyll_captured_1685_%28cropped%29.jpg",
-    "width": 1280,
-    "height": 1002,
-    "page": "https://commons.wikimedia.org/wiki/File:Archibald_Campbell,_9th_Earl_of_Argyll_captured_1685_(cropped).jpg",
-    "artist": "Rijksmuseum",
-    "license": "CC0"
-   },
-   "cards": [
-    {
-     "text": "Argyll's Rising, June 1685, was an attempt to overthrow James II and VII in Scotland led by Archibald Campbell, 9th Earl of Argyll. Planned to coincide with the Monmouth Rebellion in England, both were backed by Protestants who opposed James due to his Catholicism.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b7/Portrait_of_Archibald_Campbell%2C_9th_Earl_of_Argyll.jpg/1280px-Portrait_of_Archibald_Campbell%2C_9th_Earl_of_Argyll.jpg",
-      "width": 1280,
-      "height": 1674,
-      "page": "https://commons.wikimedia.org/wiki/File:Portrait_of_Archibald_Campbell,_9th_Earl_of_Argyll.jpg",
-      "artist": "Kim Traynor",
-      "license": "CC BY-SA 3.0",
-      "caption": "Archibald Campbell, 9th Earl of Argyll; convicted of treason in 1681, he escaped to the Dutch Republic in 1683"
-     }
-    },
-    {
-     "text": "Argyll expected to raise several thousand men from Clan Campbell, as well as additional support from Presbyterian dissidents. He landed in Scotland with around 300 men, but attracted few recruits. Hampered by disagreements amongst their leaders, the rebels began to disperse in mid June, while Argyll was captured and executed on 30 June.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Patrick_Hume%2C_1st_Earl_of_Marchmont.jpg",
-      "width": 1280,
-      "height": 1587,
-      "page": "https://commons.wikimedia.org/wiki/File:Patrick_Hume,_1st_Earl_of_Marchmont.jpg",
-      "artist": "Godfrey Kneller",
-      "license": "Public domain",
-      "caption": "Sir Patrick Hume, a key member of the rebels' Council. His disagreements with Argyll hampered the progress of the rebellion."
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 37
-  },
-  {
-   "id": "71348749",
-   "title": "Murder of Alison Shaughnessy",
-   "description": "1991 high profile murder case in London, England",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Murder_of_Alison_Shaughnessy",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Vardens_Road_-_geograph.org.uk_-_3583627.jpg/1280px-Vardens_Road_-_geograph.org.uk_-_3583627.jpg",
-    "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Vardens_Road_-_geograph.org.uk_-_3583627.jpg",
-    "artist": "Andrew Wilson",
-    "license": "CC BY-SA 2.0"
-   },
-   "cards": [
-    {
-     "text": "On 3 June 1991, 21-year-old Alison Shaughnessy (née Blackmore; born 7 November 1969) was stabbed to death in the stairwell of her flat near Clapham Junction station. Shaughnessy was newly married, but her husband was having an affair with a 20-year-old woman, Michelle Taylor. A witness reported seeing two women running from Shaughnessy's building after the murder, and fingerprints found at the scene matched those of Michelle and her sister Lisa Taylor, who claimed never to have been there.",
-     "image": null
-    },
-    {
-     "text": "Michelle's diary included an entry that read: \"My dream solution would be for Alison to disappear, as if she never existed.\" The Taylor sisters were found guilty of the murder in 1992, but one year later their convictions were overturned by the Court of Appeal because the prosecution had failed to turn evidence over to the defence, and because the sensationalist media coverage may have influenced jurors.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/South_East_entrance_to_Clapham_Junction_Railway_Station.jpg/1280px-South_East_entrance_to_Clapham_Junction_Railway_Station.jpg",
-      "width": 1280,
-      "height": 991,
-      "page": "https://commons.wikimedia.org/wiki/File:South_East_entrance_to_Clapham_Junction_Railway_Station.jpg",
-      "artist": "Curran2",
-      "license": "CC0",
-      "caption": "The flat where the murder occurred is only 400 meters (440 yards) from Clapham Junction station."
-     }
-    },
-    {
-     "text": "Reinvestigations by the Metropolitan Police did not identify any other suspects, and in 2002 it was decided to no longer formally investigate the case. Nightclub bouncer Bernard O'Mahoney, who had originally campaigned for the release of the Taylors and who then had an affair with Michelle, has since claimed that she confessed to the murder to him and has campaigned for the sisters to be re-convicted.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Central_Criminal_Court%2C_Old_Bailey_-_geograph.org.uk_-_2503473.jpg",
-      "width": 1280,
-      "height": 930,
-      "page": "https://commons.wikimedia.org/wiki/File:Central_Criminal_Court,_Old_Bailey_-_geograph.org.uk_-_2503473.jpg",
-      "artist": "Stephen Richards",
-      "license": "CC BY-SA 2.0",
-      "caption": "The Old Bailey in central London, where the trial was held"
-     }
-    },
-    {
-     "text": "The case led to discussions about the role of press and media in relation to criminal cases.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/64/Royal_Courts_of_Justice_-_geograph.org.uk_-_2234582.jpg",
-      "width": 1280,
-      "height": 860,
-      "page": "https://commons.wikimedia.org/wiki/File:Royal_Courts_of_Justice_-_geograph.org.uk_-_2234582.jpg",
-      "artist": "N Chadwick",
-      "license": "CC BY-SA 2.0",
-      "caption": "The Taylors were freed at the Court of Appeal in 1993."
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 76
-  },
-  {
-   "id": "3679339",
-   "title": "Burh",
-   "description": "Old English fortification or fortified settlement",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Burh",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Anglo-Saxon_burhs.svg/1280px-Anglo-Saxon_burhs.svg.png",
-    "width": 1280,
-    "height": 924,
-    "page": "https://commons.wikimedia.org/wiki/File:Anglo-Saxon_burhs.svg",
-    "artist": "Hel-hama",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "A burh (Old English pronunciation: [burˠx]) or burg was an Anglo-Saxon fortification or fortified settlement. In the 9th century, raids and invasions by Vikings prompted Alfred the Great to develop a network of burhs and roads to use against such attackers. Some were new constructions; others were situated at the site of Iron Age hillforts or Roman forts and employed materials from the original fortifications.",
-     "image": null
-    },
-    {
-     "text": "As at Lundenburh (medieval London), many were also situated on rivers: this facilitated internal lines of supply while aiming to restrict access to the interior of the kingdom for attackers in shallow-draught vessels such as longships. Burhs also had a secondary role as commercial and sometimes administrative centres. Their fortifications were used to protect England's various royal mints.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 36
-  },
-  {
-   "id": "79545961",
-   "title": "Melsonby Hoard",
-   "description": "Items from the Iron Age in Melsonby, England",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Melsonby_Hoard",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/YORYM-0E157E_67d93bc13d2f8.jpg/1280px-YORYM-0E157E_67d93bc13d2f8.jpg",
-    "width": 1280,
-    "height": 1110,
-    "page": "https://commons.wikimedia.org/wiki/File:YORYM-0E157E_67d93bc13d2f8.jpg",
-    "artist": "Rebecca Griffiths",
+    "height": 2055,
+    "page": "https://commons.wikimedia.org/wiki/File:Lichfield_-_043_-_interior_-_Cathedral_-_The_Lichfield_angel_(35605515431).jpg",
+    "artist": "Peter from Lincoln, UK",
     "license": "CC BY 2.0"
    },
    "cards": [
     {
-     "text": "The Melsonby Hoard is a hoard of Iron Age items found buried in a field near the village of Melsonby in North Yorkshire, England, by Peter Heads, an amateur metal-detectorist, in December 2021. Archaeologists from Durham University excavated the site in 2022 with funding from Historic England. The artefacts are from the time of the Roman Empire, and show pottery, weaponry, use of the wheel, metallurgy and status symbolism.",
+     "text": "The Lichfield Angel is a late 8th-century Anglo-Saxon stone carving discovered at Lichfield Cathedral in Staffordshire, England, in 2003. It depicts the archangel Gabriel, likely as the left-hand portion of a larger plaque showing the Annunciation, along with a lost right-hand panel of the Virgin Mary. The carving is thought to be the end piece of a shrine containing the remains of Saint Chad (died 672) to whom, with Mary, the cathedral is dedicated.",
+     "image": null
+    },
+    {
+     "text": "The Lichfield Angel was found buried in the nave of the cathedral during an archaeological survey of the area ahead of the construction of an altar platform. It was found broken into three pieces, two of which were placed face-down in the ground. The plaque was originally decorated with coloured pigments and the halo may have been gilded.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/YORYM-0E157E_67d93bbdce826.jpg/1280px-YORYM-0E157E_67d93bbdce826.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Lichfield_Angel_2011-06008.jpg/1280px-Lichfield_Angel_2011-06008.jpg",
       "width": 1280,
-      "height": 731,
-      "page": "https://commons.wikimedia.org/wiki/File:YORYM-0E157E_67d93bbdce826.jpg",
-      "artist": "Rebecca Griffiths",
-      "license": "CC BY 2.0",
-      "caption": ""
+      "height": 2065,
+      "page": "https://commons.wikimedia.org/wiki/File:Lichfield_Angel_2011-06008.jpg",
+      "artist": "Bs0u10e01",
+      "license": "CC BY-SA 4.0",
+      "caption": "The separate fragments"
      }
     },
     {
-     "text": "The find was publicised in March 2025, coinciding with the temporary display of a number of the items at the Yorkshire Museum in York.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/10/YORYM-0E157E_67d93bc9812cc.jpg/1280px-YORYM-0E157E_67d93bc9812cc.jpg",
-      "width": 1280,
-      "height": 910,
-      "page": "https://commons.wikimedia.org/wiki/File:YORYM-0E157E_67d93bc9812cc.jpg",
-      "artist": "Rebecca Griffiths",
-      "license": "CC BY 2.0",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 36
-  },
-  {
-   "id": "29512546",
-   "title": "Henrietta of England",
-   "description": "English and French princess (1644–1670)",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/Henrietta_of_England",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1a/Peter_Lely_-_Henrietta_of_England%2C_Duchess_of_Orl%C3%A9ans_-_Goodwood_House.jpg",
-    "width": 1280,
-    "height": 1368,
-    "page": "https://commons.wikimedia.org/wiki/File:Peter_Lely_-_Henrietta_of_England,_Duchess_of_Orl%C3%A9ans_-_Goodwood_House.jpg",
-    "artist": "Peter Lely",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Henrietta of England (Henrietta Anne Stuart; 16 June 1644 O.S. [26 June 1644 N.S.] – 30 June 1670) was the youngest child of King Charles I of England and Henrietta Maria of France. She was Duchess of Orléans through her marriage to Philippe I, Duke of Orléans.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Mathieu%2C_Antoine_-_Henriette_of_England_holding_a_portrait_of_her_husband_-_Versailles.jpg/1280px-Mathieu%2C_Antoine_-_Henriette_of_England_holding_a_portrait_of_her_husband_-_Versailles.jpg",
-      "width": 1280,
-      "height": 1683,
-      "page": "https://commons.wikimedia.org/wiki/File:Mathieu,_Antoine_-_Henriette_of_England_holding_a_portrait_of_her_husband_-_Versailles.jpg",
-      "artist": "Antoine Mathieu",
-      "license": "Public domain",
-      "caption": "Henrietta as Minerva holding a painting of Monsieur by Antoine Mathieu"
-     }
-    },
-    {
-     "text": "Fleeing England with her mother as an infant in the midst of the English Civil War, Henrietta moved to the court of her first cousin King Louis XIV of France, where she was known as Minette. She married her cousin Philippe d'Orléans and became a fille de France, but their relationship was marked by frequent tensions over suitors common to the two.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Henrietta_Anne_of_England_holding_a_dog.jpg",
-      "width": 1280,
-      "height": 1679,
-      "page": "https://commons.wikimedia.org/wiki/File:Henrietta_Anne_of_England_holding_a_dog.jpg",
-      "artist": "Pierre Mignard I",
-      "license": "Public domain",
-      "caption": "Portrait of Henrietta holding a dog, possibly painted in 1665"
-     }
-    },
-    {
-     "text": "Henrietta played an instrumental role in negotiating the Secret Treaty of Dover between France and England against the Dutch Republic in June 1670, the same month as her unexpected death at the age of 26. Jacobite claims to the British throne after Henry Benedict Stuart's death descend from her daughter Anne Marie.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Henriette_d%27Angleterre.jpg",
-      "width": 1280,
-      "height": 2067,
-      "page": "https://commons.wikimedia.org/wiki/File:Henriette_d%27Angleterre.jpg",
-      "artist": "Peter Lely",
-      "license": "Public domain",
-      "caption": "A posthumous painting by Peter Lely of Henrietta commissioned by her brother Charles II and presented to Exeter Guildhall, in which it still hangs, in recognition of her birth in the city"
-     }
+     "text": "The carving retains traces of the original pigments, which is rare for Anglo-Saxon painted stonework; the careful placement of the fragments in the ground has contributed to survival of the pigment. The panels may have been broken and buried as a result of Viking raids on Mercia in the mid-9th century. They are now shown alongside the near contemporary Lichfield Gospels.",
+     "image": null
     }
    ],
    "truncated": false,
    "readSeconds": 58
   },
   {
-   "id": "70255015",
-   "title": "Tully Lough Cross",
-   "description": "8th or 9th century Irish cross",
+   "id": "27696991",
+   "title": "Táin Bó Flidhais",
+   "description": "Tale from the Ulster Cycle of early Irish literature",
    "topic": "ireland",
    "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Tully_Lough_Cross",
+   "url": "https://en.wikipedia.org/wiki/T%C3%A1in_B%C3%B3_Flidhais",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Croce_di_tully_lough%2C_da_tully%2C_co._di_roscommon%2C_viii-ix_secolo_01_%28cropped%29_%28B%29.jpg/1280px-Croce_di_tully_lough%2C_da_tully%2C_co._di_roscommon%2C_viii-ix_secolo_01_%28cropped%29_%28B%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Queen_Maev_by_J.C._Leyendecker_%281911%29.jpg/1280px-Queen_Maev_by_J.C._Leyendecker_%281911%29.jpg",
     "width": 1280,
-    "height": 2078,
-    "page": "https://commons.wikimedia.org/wiki/File:Croce_di_tully_lough,_da_tully,_co._di_roscommon,_viii-ix_secolo_01_(cropped)_(B).jpg",
-    "artist": "Sailko",
-    "license": "CC BY 3.0"
-   },
-   "cards": [
-    {
-     "text": "The Tully Lough Cross is an 8th- or 9th-century Irish altar or processional cross discovered in 1986 at the bottom of Tully Lough, County Roscommon. Although its origin is unknown, archaeologists associate it with a nearby church in Kilmore. It was formed from a wooden core overlain with bronze sheets containing spirals influenced by Iron Age Celtic Ultimate La Tène style.",
-     "image": null
-    },
-    {
-     "text": "Its dating is based on its use of amber and style of ornamentation. When rediscovered, the Tully Lough Cross was badly damaged, and broken into pieces. It was repaired in the late 1980s when lost metal parts were replaced, and it was reconstruction based on similar crosses from contemporary Irish manuscript illustrations and high crosses. ",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/5/54/Croce_di_tully_lough%2C_da_tully%2C_co._di_roscommon%2C_viii-ix_secolo_02_uomo_tra_serpenti_%28cropped%29.jpg",
-      "width": 1280,
-      "height": 2678,
-      "page": "https://commons.wikimedia.org/wiki/File:Croce_di_tully_lough,_da_tully,_co._di_roscommon,_viii-ix_secolo_02_uomo_tra_serpenti_(cropped).jpg",
-      "artist": "Sailko",
-      "license": "CC BY 3.0",
-      "caption": "Detail of the three inserted panels (one is missing) on the upper arm of the cross."
-     }
-    },
-    {
-     "text": "The divers failed to report the finding of this highly important object of national heritage to the Irish government, as required by law. One of them was later prosecuted for trying to sell it to a number of American museums, including the Getty in California at an offer price of $1.75m. It was acquired by the NMI in 1990, where it is on permanent display.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cd/Ruthwell_Cross_20100924_south_side_detail.jpg",
-      "width": 1280,
-      "height": 1965,
-      "page": "https://commons.wikimedia.org/wiki/File:Ruthwell_Cross_20100924_south_side_detail.jpg",
-      "artist": "Otter",
-      "license": "CC BY-SA 3.0",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 59
-  },
-  {
-   "id": "8928605",
-   "title": "Minerva-class frigate",
-   "description": "1778 series of ships",
-   "topic": "bristol",
-   "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Minerva-class_frigate",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/7/7e/HMS_Phaeton.jpg",
-    "width": 1280,
-    "height": 1135,
-    "page": "https://commons.wikimedia.org/wiki/File:HMS_Phaeton.jpg",
-    "artist": "Unknown authorUnknown author",
+    "height": 1872,
+    "page": "https://commons.wikimedia.org/wiki/File:Queen_Maev_by_J.C._Leyendecker_(1911).jpg",
+    "artist": "Joseph Christian Leyendecker (1874 - 1951)",
     "license": "Public domain"
    },
    "cards": [
     {
-     "text": "The Minerva-class sailing frigates were a series of four ships built to a 1778 design by Sir Edward Hunt, which served in the Royal Navy during the latter decades of the eighteenth century. During the early stages of the American Revolutionary War, the Royal Navy – while well supplied with ships from earlier programs, but faced with coastal operations and trade protection tasks along the American littoral – ordered numerous forty-four gun, two-decked ships and thirty-two gun 12-pounder armed frigates.",
+     "text": "Táin Bó Flidhais, also known as the Mayo Táin, is a tale from the Ulster Cycle of early Irish literature. It is one of a group of works known as Táin Bó, or \"cattle raid\" stories, the best known of which is Táin Bó Cúailnge. Táin Bó Flidhais survives in two forms, a short version from the Old Irish period and a longer version found in the 15th century Glenmasan manuscript, which is held in the Advocates Library in Edinburgh.",
      "image": null
     },
     {
-     "text": "Anticipating the entry of European powers into the war, and with renewed resistance provided by the large, nine hundred ton, thirty-two gun 12-pounder armed frigates of the French Navy, the RN looked to a newer larger design of frigate to meet this challenge. From November 1778 larger frigates with a heavier 18-pounder primary armament were ordered.",
-     "image": null
-    },
-    {
-     "text": "They were the first Royal Navy frigates designed to be armed with the eighteen-pounder cannon on their upper deck, the main gun deck of a frigate. Before coming into service, their designed secondary armament was augmented, with 9-pounder guns being substituted for the 6-pounder guns originally planned, and with ten 18-pounder carronades being added (six on the quarterdeck and four on the forecastle).",
-     "image": null
-    },
-    {
-     "text": "The type eventually proved successful, and went on to be virtually the standard frigate type during the latter periods of the age of sail.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 62
-  },
-  {
-   "id": "56621267",
-   "title": "Sycamore Gap tree",
-   "description": "Sycamore tree in Northumberland, England",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Sycamore_Gap_tree",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/09/Sycamore_Gap_Tree_arbre.jpg/1280px-Sycamore_Gap_Tree_arbre.jpg",
-    "width": 1280,
-    "height": 853,
-    "page": "https://commons.wikimedia.org/wiki/File:Sycamore_Gap_Tree_arbre.jpg",
-    "artist": "Clementp.fr",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "The Sycamore Gap tree, also known as the Robin Hood tree, is a 150-year-old sycamore tree next to Hadrian's Wall near Crag Lough in Northumberland, England. It now exists only as a stump, having been illegally felled in 2023. Standing in a dip in the landscape created by glacial meltwater, it was one of the country's most photographed trees and an emblem for the North East of England.",
+     "text": "It is believed to be a copy of an earlier manuscript from the 12th century. The early version of Táin Bó Flidhais predates the Táin Bó Cúailnge. It is named for the heroine of the tale, Flidais.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Sycamore_Gap_2007.jpg/1280px-Sycamore_Gap_2007.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f3/Copy_of_standingstonesmuingerroon6may08_023.JPG",
       "width": 1280,
       "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Sycamore_Gap_2007.jpg",
-      "artist": "Robin van Mourik",
-      "license": "CC BY-SA 2.0",
-      "caption": "Sycamore Gap, looking west in 2007"
-     }
-    },
-    {
-     "text": "Its alternative name is derived from featuring in a scene in the 1991 film Robin Hood: Prince of Thieves. The tree won the Woodland Trust 2016 England Tree of the Year award, receiving a £1,000 care grant funded by the People's Postcode Lottery.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ea/FelledSycamoreTree.jpg/1280px-FelledSycamoreTree.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:FelledSycamoreTree.jpg",
-      "artist": "Wandering wounder",
-      "license": "CC BY-SA 4.0",
-      "caption": "The tree two days after it was felled"
-     }
-    },
-    {
-     "text": "In July 2025, Daniel Graham and Adam Carruthers were convicted of causing criminal damage by felling the tree, and were each sentenced to 4 years and 3 months in prison. Carruthers was released in April 2026 and Graham that October. The stump has thrown up basal shoots, and seeds and cuttings have been gathered for propagation. Now standing as a coppiced specimen, the tree is expected to take more than 150 years to regrow back to its former size.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Sycamore_Gap_Tree.jpg/1280px-Sycamore_Gap_Tree.jpg",
-      "width": 1280,
-      "height": 327,
-      "page": "https://commons.wikimedia.org/wiki/File:Sycamore_Gap_Tree.jpg",
-      "artist": "Clementp.fr",
-      "license": "CC BY-SA 4.0",
-      "caption": ""
+      "page": "https://commons.wikimedia.org/wiki/File:Copy_of_standingstonesmuingerroon6may08_023.JPG",
+      "artist": "Comhar (talk · contribs)",
+      "license": "Public domain",
+      "caption": "Dún Flidhais at Rathmorgan left of the hills in the background of Carrowmore Lake"
      }
     }
    ],
    "truncated": false,
-   "readSeconds": 66
+   "readSeconds": 39
   },
   {
-   "id": "9652708",
-   "title": "Anglo-Saxon London",
-   "description": "City of London during the Anglo-Saxon period",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Anglo-Saxon_London",
+   "id": "45391527",
+   "title": "Temple Quay",
+   "description": "Area of Bristol, England",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/Temple_Quay",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/02/Essex_2.svg/1280px-Essex_2.svg.png",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b2/Sunny_morning_-_Temple_Quay_-_Feb_2012_-_panoramio.jpg/1280px-Sunny_morning_-_Temple_Quay_-_Feb_2012_-_panoramio.jpg",
     "width": 1280,
-    "height": 879,
-    "page": "https://commons.wikimedia.org/wiki/File:Essex_2.svg",
-    "artist": "Hel-hama",
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:Sunny_morning_-_Temple_Quay_-_Feb_2012_-_panoramio.jpg",
+    "artist": "Forester2009",
     "license": "CC BY-SA 3.0"
    },
    "cards": [
     {
-     "text": "The Anglo-Saxon period of the history of London dates from the end of the Roman period in the 5th century to the beginning of the Norman period in 1066. Romano-British Londinium was abandoned by the late 5th century, although the London Wall remained intact. There was an Anglo-Saxon settlement by the early 7th century, called Lundenwic, about one mile west of Londinium, to the north of the present Strand.",
+     "text": "Temple Quay is an area of mixed-use development in central Bristol, England. The project was initiated by Bristol Development Corporation in 1989, under the name Quay Point until 1995. In that year it was handed over to English Partnerships, under whom development eventually started in 1998.",
      "image": null
     },
     {
-     "text": "Lundenwic came under direct Mercian control in about 670. After the death of Offa of Mercia in 796, it was disputed between Mercia and Wessex. Viking invasions became frequent from the 830s, and a Viking army is believed to have camped in the old Roman walls during the winter of 871. Alfred the Great reestablished English control of London in 886, and renewed its fortifications.",
+     "text": "It is bounded by Temple Way (the A4044) to the west and Bristol Temple Meads railway station to the southeast; to the northeast the development was bounded by Bristol Floating Harbour until 2002, when development of Temple Quay North started on the harbour's other side. In 2012 the whole area became part of Bristol Temple Quarter Enterprise Zone.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Blue_Sky_Above_-_geograph.org.uk_-_4343590.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7a/Reflections_-_Temple_quay_-_Feb_2012_-_panoramio.jpg/1280px-Reflections_-_Temple_quay_-_Feb_2012_-_panoramio.jpg",
       "width": 1280,
       "height": 1707,
-      "page": "https://commons.wikimedia.org/wiki/File:Blue_Sky_Above_-_geograph.org.uk_-_4343590.jpg",
-      "artist": "Bill Nicholls",
-      "license": "CC BY-SA 2.0",
-      "caption": "Statue of Alfred the Great in Wantage (now in Oxfordshire), his birthplace."
+      "page": "https://commons.wikimedia.org/wiki/File:Reflections_-_Temple_quay_-_Feb_2012_-_panoramio.jpg",
+      "artist": "Forester2009",
+      "license": "CC BY-SA 3.0",
+      "caption": "Valentine Bridge and The Eye"
      }
     },
     {
-     "text": "The old Roman walls were repaired and the defensive ditch was recut, and the old Roman city became the main site of population. The city now became known as Lundenburh, marking the beginning of the history of the City of London. Sweyn Forkbeard attacked London unsuccessfully in 996 and 1013, but his son Cnut the Great finally gained control of London, and all of England, in 1016.",
+     "text": "Temple Quay includes a significant amount of office accommodation occupied by UK Government departments and agencies including Homes England, The Planning Inspectorate, Insolvency Service, Care Quality Commission, Ofsted and English Heritage.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/33/Southwark_Bridge_City_Plaque.JPG/1280px-Southwark_Bridge_City_Plaque.JPG",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Bristolharbourmap.png/1280px-Bristolharbourmap.png",
       "width": 1280,
-      "height": 839,
-      "page": "https://commons.wikimedia.org/wiki/File:Southwark_Bridge_City_Plaque.JPG",
-      "artist": "David (talk)",
+      "height": 329,
+      "page": "https://commons.wikimedia.org/wiki/File:Bristolharbourmap.png",
+      "artist": "Steinsky",
       "license": "Public domain",
-      "caption": "Plaque in the City noting the restoration of the city by Alfred."
-     }
-    },
-    {
-     "text": "Edward the Confessor became king in 1042. He built Westminster Abbey, the first large Romanesque church in England, consecrated in 1065, and the first Palace of Westminster. These were located just up-river from the city. Edward's death led to a succession crisis, and ultimately the Norman invasion of England.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 77
-  },
-  {
-   "id": "31167754",
-   "title": "Charles Thurstan Shaw",
-   "description": "English archaeologist (1914–2013)",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Charles_Thurstan_Shaw",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/Thurstan_shaw_1967.jpg/1280px-Thurstan_shaw_1967.jpg",
-    "width": 1280,
-    "height": 897,
-    "page": "https://commons.wikimedia.org/wiki/File:Thurstan_shaw_1967.jpg",
-    "artist": "John Atherton",
-    "license": "CC BY-SA 2.0"
-   },
-   "cards": [
-    {
-     "text": "Chief Charles Thurstan Shaw CBE FBA FSA (27 June 1914 – 8 March 2013) was an English archaeologist, the first trained specialist to work in what was then British West Africa. He specialized in the ancient cultures of present-day Ghana and Nigeria. He helped establish academic institutions, including the Ghana National Museum and the archaeology department at the University of Ghana.",
-     "image": null
-    },
-    {
-     "text": "He began working with the University of Ibadan in 1960, where he later founded and developed its archaeology department. He led this for more than 10 years before his retirement in 1974. Shaw's excavations at Igbo-Ukwu, Nigeria, revealed a 9th-century indigenous culture that created sophisticated work in bronze metalworking, independent of any Arab or European influence and centuries before other sites that were better known at the time of discovery.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Bronze_ornamental_staff_head%2C_9th_century%2C_Igbo-Ukwu.JPG/1280px-Bronze_ornamental_staff_head%2C_9th_century%2C_Igbo-Ukwu.JPG",
-      "width": 1280,
-      "height": 1745,
-      "page": "https://commons.wikimedia.org/wiki/File:Bronze_ornamental_staff_head,_9th_century,_Igbo-Ukwu.JPG",
-      "artist": "Ochiwar",
-      "license": "CC BY-SA 3.0",
-      "caption": "9th-century bronze ornament excavated by Charles Thurstan Shaw at Igbo-Ukwu"
-     }
-    },
-    {
-     "text": "He was awarded the C.B.E. in 1972 for his contributions. In 1989, he was made a tribal chief in Nigeria. In addition, Shaw worked on expanding communications about African archaeology; in 1964, he founded the West African Archaeological Newsletter, which he edited until 1970; from 1971 to 1975, he edited the West African Journal of Archaeology.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1c/Bronze_pot%2C_Igbo-Ukwu%2C_9th_century.JPG/1280px-Bronze_pot%2C_Igbo-Ukwu%2C_9th_century.JPG",
-      "width": 1280,
-      "height": 1255,
-      "page": "https://commons.wikimedia.org/wiki/File:Bronze_pot,_Igbo-Ukwu,_9th_century.JPG",
-      "artist": "Ochiwar",
-      "license": "CC BY-SA 3.0",
-      "caption": "9th century bronze pot excavated by Shaw at Igbo-Ukwu"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 61
-  },
-  {
-   "id": "156718",
-   "title": "Richard Amerike",
-   "description": "Anglo-Welsh merchant and customs officer",
-   "topic": "bristol",
-   "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Richard_Amerike",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/b9/Richard_Ap_Meryk_name_variants.jpg",
-    "width": 1280,
-    "height": 753,
-    "page": "https://commons.wikimedia.org/wiki/File:Richard_Ap_Meryk_name_variants.jpg",
-    "artist": "Evan T Jones",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "Richard ap Meryk (or ap Meurig), anglicised to Richard Amerike (or Ameryk) (c. 1440–1503) was an English merchant, royal customs officer and later, sheriff of Bristol. Several claims have been made for Amerike by popular writers of the late twentieth century. One was that he was the major funder of the voyage of exploration launched from Bristol by the Venetian John Cabot in 1497, and that Amerike was the owner of Cabot's ship, the Matthew.",
-     "image": null
-    },
-    {
-     "text": "The other claim revived a theory first proposed in 1908 by a Bristolian scholar and amateur historian, Alfred Hudd. Hudd's theory, greatly elaborated by later writers, suggested that the continental name America was derived from Amerike's surname in gratitude for his sponsorship of Cabot's successful discovery expedition to 'the new World'. However, neither claim is backed up by hard evidence, and the consensus view is that America is named after Amerigo Vespucci, the Italian explorer.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cc/Monumental_brass_of_John_and_Joanna_Brook_-_St_Mary_Redcliffe_-_PXL_20251107_154909843.jpg/1280px-Monumental_brass_of_John_and_Joanna_Brook_-_St_Mary_Redcliffe_-_PXL_20251107_154909843.jpg",
-      "width": 1280,
-      "height": 1685,
-      "page": "https://commons.wikimedia.org/wiki/File:Monumental_brass_of_John_and_Joanna_Brook_-_St_Mary_Redcliffe_-_PXL_20251107_154909843.jpg",
-      "artist": "Tadeusz Hare",
-      "license": "CC BY-SA 4.0",
-      "caption": "The 1522 monumental brass of John Broke (or Brook). On the right side is his wife, Joan, daughter of Richard Amerike.[15]"
+      "caption": ""
      }
     }
    ],
    "truncated": false,
    "readSeconds": 47
+  },
+  {
+   "id": "41770473",
+   "title": "Descendants of Charles I of England",
+   "description": "",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Descendants_of_Charles_I_of_England",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Anthony_van_Dyck_-_King_Charles_I_of_England%2C_three-quarter_portrait.jpg",
+    "width": 1280,
+    "height": 1613,
+    "page": "https://commons.wikimedia.org/wiki/File:Anthony_van_Dyck_-_King_Charles_I_of_England,_three-quarter_portrait.jpg",
+    "artist": "Anthony van Dyck",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Charles I of England was the second king of the then newly enthroned House of Stuart and had many descendants. He was the second but eldest surviving son of King James I of England. He became heir apparent to the English, Irish and Scottish thrones on the death of his elder brother in 1612. Later, he married a Bourbon princess, Henrietta Maria of France, after a failed Spanish match.",
+     "image": null
+    },
+    {
+     "text": "During his time in Spain, he met a daughter from one of the junior branches of the Brydges family (Barons Chandos) of Sudeley Castle. By her Charles was alleged to have fathered a natural daughter, Joanna Brydges, who was brought up in Mandinam, Wales and married Bishop Jeremy Taylor as his second wife; there is no hard evidence for Charles' paternity.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Anthony_van_Dyck_-_King_Charles_I_of_England%2C_three-quarter_portrait.jpg",
+      "width": 1280,
+      "height": 1613,
+      "page": "https://commons.wikimedia.org/wiki/File:Anthony_van_Dyck_-_King_Charles_I_of_England,_three-quarter_portrait.jpg",
+      "artist": "Anthony van Dyck",
+      "license": "Public domain",
+      "caption": "King Charles I of England"
+     }
+    },
+    {
+     "text": "From this marriage, two daughters were born, Mary Taylor, who married Bishop Francis Marsh and had issue; and Joanna Taylor, who married Edward Harrison, MP for Lisburn, and had issue. His reign is known for his conflicts with the Parliament of England, which sought to curb his royal prerogative. Charles believed in the divine right of kings, which was against the belief of many of his subjects, leading to them perceiving his actions as those of a tyrannical absolute monarch.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Henrietta_Maria_and_Charles_I.jpg",
+      "width": 1280,
+      "height": 1514,
+      "page": "https://commons.wikimedia.org/wiki/File:Henrietta_Maria_and_Charles_I.jpg",
+      "artist": "Anthony van Dyck",
+      "license": "Public domain",
+      "caption": "King Charles and Queen Henrietta Maria with their eldest infant children"
+     }
+    },
+    {
+     "text": "His religious policies, coupled with his marriage to a Roman Catholic, made him an enemy of the Puritans and Calvinists. Most of his actions as monarch ultimately helped precipitate the English Civil War and his eventual deposition and beheading in 1649 and the declaration of the Protectorate under Oliver Cromwell.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/King_Charles_II_by_John_Michael_Wright_or_studio.jpg/1280px-King_Charles_II_by_John_Michael_Wright_or_studio.jpg",
+      "width": 1280,
+      "height": 1632,
+      "page": "https://commons.wikimedia.org/wiki/File:King_Charles_II_by_John_Michael_Wright_or_studio.jpg",
+      "artist": "John Michael Wright",
+      "license": "Public domain",
+      "caption": ""
+     }
+    },
+    {
+     "text": "Many of today's European royalty are descendants of Charles, such as Felipe VI of Spain, Franz, Duke of Bavaria, Philippe of Belgium, Guillaume V, Grand Duke of Luxembourg and Karl von Habsburg. Many are related to him via collateral lines, such as Charles III of the United Kingdom (descended from his sister Elizabeth Stuart, Queen of Bohemia, mother of Sophia, Electress of Hanover); Willem-Alexander of the Netherlands and Frederik X of Denmark.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Mary_Princess_of_Orange.jpg/1280px-Mary_Princess_of_Orange.jpg",
+      "width": 1280,
+      "height": 1513,
+      "page": "https://commons.wikimedia.org/wiki/File:Mary_Princess_of_Orange.jpg",
+      "artist": "Bartholomeus van der Helst / Attributed to Johannes Lingelbach",
+      "license": "Public domain",
+      "caption": ""
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 107
+  },
+  {
+   "id": "86243",
+   "title": "Clíodhna",
+   "description": "Irish goddess of love and beauty",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Cl%C3%ADodhna",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Eileen_and_the_Fairy_Queen.jpg",
+    "width": 1280,
+    "height": 2242,
+    "page": "https://commons.wikimedia.org/wiki/File:Eileen_and_the_Fairy_Queen.jpg",
+    "artist": "John O'Hea (1838-1922)",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "In Irish mythology, Clíodhna (Clídna, Clíodna, Clíona, sometimes anglicised to Cleena) is a Queen of the Banshees of the Tuatha Dé Danann. Clíodna of Carrigcleena is the potent banshee that rules as queen over the sióga (fairies) of South Munster, or Desmond.",
+     "image": null
+    },
+    {
+     "text": "In some Irish myths, Clíodhna is a goddess of love and beauty, and the patron of County Cork. She is said to have three brightly coloured birds who eat apples from an otherworldly tree and whose sweet song heals sickness.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3c/The_Rock_of_Cliodhna.jpg/1280px-The_Rock_of_Cliodhna.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:The_Rock_of_Cliodhna.jpg",
+      "artist": "Tim Sheerman-Chase",
+      "license": "CC BY 2.0",
+      "caption": "Carrigcleena is an outcrop of rocks near Mallow that is said to contain Clíodhna's palace."
+     }
+    },
+    {
+     "text": "She had her palace in the heart of a pile of rocks, 5 mi (8.0 km) from Mallow, which is still commonly known by the name of Carrig-Cleena, and numerous legends about her are told among the Munster peasantry who considered her their benefactor.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 41
+  },
+  {
+   "id": "30385482",
+   "title": "Military roads of Scotland",
+   "description": "Road network created in the wake of the Jacobite rebellions",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Military_roads_of_Scotland",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/General_Wade%27s_Military_Road_near_Melgarve_below_Corrieyairack_Pass.JPG/1280px-General_Wade%27s_Military_Road_near_Melgarve_below_Corrieyairack_Pass.JPG",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:General_Wade%27s_Military_Road_near_Melgarve_below_Corrieyairack_Pass.JPG",
+    "artist": "Chiswick Chap",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "A network of military roads, sometimes called General Wade's Military Roads, was constructed in the Scottish Highlands during the middle part of the 18th century in the wake of the Jacobite rebellion of 1715. The roads were constructed to link the Central Lowlands with a series of fortified barracks located strategically across the Highlands.",
+     "image": null
+    },
+    {
+     "text": "Their purpose, much like the network of roads constructed by the Romans more than 1,500 years earlier, was to suppress and exert control over the local population. The engineered roads of the Roman period did not extend into the Highlands, which was where these later roads were constructed.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/69/Attributed_to_Johan_van_Diest_-_Field-Marshal_George_Wade%2C_1673_-_1748._Commander-in-chief_in_Scotland_-_Google_Art_Project.jpg/1280px-Attributed_to_Johan_van_Diest_-_Field-Marshal_George_Wade%2C_1673_-_1748._Commander-in-chief_in_Scotland_-_Google_Art_Project.jpg",
+      "width": 1280,
+      "height": 1515,
+      "page": "https://commons.wikimedia.org/wiki/File:Attributed_to_Johan_van_Diest_-_Field-Marshal_George_Wade,_1673_-_1748._Commander-in-chief_in_Scotland_-_Google_Art_Project.jpg",
+      "artist": "Attributed to Johan van Diest (Scottish) Details on Google Art Project",
+      "license": "Public domain",
+      "caption": "Field Marshal George Wade, painted about 1731"
+     }
+    },
+    {
+     "text": "The first four of these roads were constructed in the 1720s and 1730s under the direction of General George Wade (an Anglo-Irishman) and are commonly referred to as General Wade’s Military Roads or simply as Wade’s Roads.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Wades_military_road_near_Highbridge_%28geograph_3934562%29.jpg/1280px-Wades_military_road_near_Highbridge_%28geograph_3934562%29.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Wades_military_road_near_Highbridge_(geograph_3934562).jpg",
+      "artist": "Jennifer Jones",
+      "license": "CC BY-SA 2.0",
+      "caption": "Near Spean Bridge"
+     }
+    },
+    {
+     "text": "The network was subsequently expanded considerably under the direction of Major William Caulfeild, although his name is now largely forgotten and each of the roads that he had put in place are referred to, on Ordnance Survey mapping for example, simply as \"Old Military Road\". A further road was constructed by Caulfeild in southwest Scotland in the 1760s.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/7/7a/Wade_Road%2C_Blair_Atholl_%28geograph_6032162%29.jpg",
+      "width": 1280,
+      "height": 854,
+      "page": "https://commons.wikimedia.org/wiki/File:Wade_Road,_Blair_Atholl_(geograph_6032162).jpg",
+      "artist": "Richard Webb",
+      "license": "CC BY-SA 2.0",
+      "caption": "Blair Atholl"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 67
   }
  ]
 }
