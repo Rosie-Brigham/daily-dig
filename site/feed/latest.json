@@ -1,554 +1,222 @@
 {
- "date": "2026-11-19",
- "generatedAt": "2026-11-19T14:32:46.020Z",
- "totalReadSeconds": 1193,
+ "date": "2026-11-20",
+ "generatedAt": "2026-11-20T14:11:16.940Z",
+ "totalReadSeconds": 1433,
  "posts": [
   {
-   "id": "1418202",
-   "title": "Cumdach",
-   "description": "Medieval Irish case for a reliquary or book",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Cumdach",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/Contenitore_del_messale_con_iscrizione_al_%27re%27_d%27irlanda_donnchad%2C_1030_ca.%2C_dal_monastero_di_lorrha%2C_co._di_tipperary%2C_01.jpg/1280px-Contenitore_del_messale_con_iscrizione_al_%27re%27_d%27irlanda_donnchad%2C_1030_ca.%2C_dal_monastero_di_lorrha%2C_co._di_tipperary%2C_01.jpg",
-    "width": 1280,
-    "height": 1218,
-    "page": "https://commons.wikimedia.org/wiki/File:Contenitore_del_messale_con_iscrizione_al_%27re%27_d%27irlanda_donnchad,_1030_ca.,_dal_monastero_di_lorrha,_co._di_tipperary,_01.jpg",
-    "artist": "Sailko",
-    "license": "CC BY 3.0"
-   },
-   "cards": [
-    {
-     "text": "A cumdach (Old Irish pronunciation: [ˈkuβ̃d̪ax], in Irish \"cover\") or book shrine is an elaborate ornamented metal reliquary box or case used to hold Early Medieval Irish manuscripts or relics. They are typically later than the book they contain, often by several centuries. In most surviving examples, the book comes from the peak age of Irish monasticism before 800, and the extant cumdachs date from after 1000, although it is clear the form dates from considerably earlier.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c2/Soisc%C3%A9l_Molaisse_view.jpg/1280px-Soisc%C3%A9l_Molaisse_view.jpg",
-      "width": 1280,
-      "height": 1347,
-      "page": "https://commons.wikimedia.org/wiki/File:Soisc%C3%A9l_Molaisse_view.jpg",
-      "artist": "Ceoil",
-      "license": "CC BY-SA 4.0",
-      "caption": "The Soiscél Molaisse, 11th century"
-     }
-    },
-    {
-     "text": "The majority are of Irish origin, with most surviving examples held by the National Museum of Ireland (NMI). The usual form is a design based on a cross on the main face, with the use of large gems of rock crystal or other semi-precious stones, leaving the spaces between the arms of the cross for more varied decoration.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Stowe_Missal_side_view.jpg/1280px-Stowe_Missal_side_view.jpg",
-      "width": 1280,
-      "height": 599,
-      "page": "https://commons.wikimedia.org/wiki/File:Stowe_Missal_side_view.jpg",
-      "artist": "Ceoil",
-      "license": "CC BY-SA 4.0",
-      "caption": "Side-view of the shrine of the Stowe Missal, mid-11th century"
-     }
-    },
-    {
-     "text": "Several were carried on a metal chain or leather cord, often worn off the belt, or suspended around the neck, placing them next to the heart and thus offering spiritual and perhaps medical benefits (the same was done with the St Cuthbert Gospel in a leather bag in medieval Durham). They were also used to bring healing to the sick or dying, or more formally, as witness contracts.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9b/Shrine_of_the_Cathach_reverse_%28cropped%29.jpg/1280px-Shrine_of_the_Cathach_reverse_%28cropped%29.jpg",
-      "width": 1280,
-      "height": 936,
-      "page": "https://commons.wikimedia.org/wiki/File:Shrine_of_the_Cathach_reverse_(cropped).jpg",
-      "artist": "Ceoil",
-      "license": "CC BY-SA 4.0",
-      "caption": "Reverse of the Shrine of the Cathach"
-     }
-    },
-    {
-     "text": "Many had hereditary laykeepers from among the chiefly families who had formed links with monasteries. Only five early examples of cumdach survive, including those of the Book of Dimma and Book of Mulling at Trinity College Dublin, and the Cathach of St. Columba and Stowe Missal. Of the St. Molaise Shrine, only the Gospels are extant; the casing is lost, but more often the reverse is the case.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Soisc%C3%A9l_Molaisse_%28St._Matthew%29.jpg",
-      "width": 1280,
-      "height": 1846,
-      "page": "https://commons.wikimedia.org/wiki/File:Soisc%C3%A9l_Molaisse_(St._Matthew).jpg",
-      "artist": "Ceoil",
-      "license": "CC BY-SA 4.0",
-      "caption": "Detail a panel on the front showing Matthew the Apostle.[39]"
-     }
-    },
-    {
-     "text": "Other books such as the Book of Kells, Book of Armagh and Book of Durrow are known to have once had either cumdachs or treasure bindings or both, but as they contained valuable precious metals they were a natural target for looters and thieves.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Stowe_Missal_Side.jpg/1280px-Stowe_Missal_Side.jpg",
-      "width": 1280,
-      "height": 532,
-      "page": "https://commons.wikimedia.org/wiki/File:Stowe_Missal_Side.jpg",
-      "artist": "Ceoil",
-      "license": "CC BY-SA 4.0",
-      "caption": "Sidel panel, Stowe Missal"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 106
-  },
-  {
-   "id": "4972737",
-   "title": "Demographics of London",
-   "description": "",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Demographics_of_London",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/London_population_pyramid.svg/1280px-London_population_pyramid.svg.png",
-    "width": 1280,
-    "height": 1010,
-    "page": "https://commons.wikimedia.org/wiki/File:London_population_pyramid.svg",
-    "artist": "Tweedle",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "The demography of London is analysed by the Office for National Statistics and data is produced for each of the Greater London wards, the City of London and the 32 London boroughs, the Inner London and Outer London statistical sub-regions, each of the Parliamentary constituencies in London, and for all of Greater London as a whole. Additionally, data is produced for the Greater London Urban Area.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2b/Population_Density_London_2011_Census.png/1280px-Population_Density_London_2011_Census.png",
-      "width": 1280,
-      "height": 989,
-      "page": "https://commons.wikimedia.org/wiki/File:Population_Density_London_2011_Census.png",
-      "artist": "SkateTier",
-      "license": "CC BY-SA 4.0",
-      "caption": "A map of Greater London's 2011 population density"
-     }
-    },
-    {
-     "text": "Statistical information is produced about the size and geographical breakdown of the population, the number of people entering and leaving country and the number of people in each demographic subgroup. The 2021 population of London was 8,799,800.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/60/2021_White_British_London.png/1280px-2021_White_British_London.png",
-      "width": 1280,
-      "height": 958,
-      "page": "https://commons.wikimedia.org/wiki/File:2021_White_British_London.png",
-      "artist": "Tweedle",
-      "license": "CC BY-SA 4.0",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 39
-  },
-  {
-   "id": "7320243",
-   "title": "Christina of Norway, Infanta of Castile",
-   "description": "Norwegian princess (1234–1262)",
+   "id": "230949",
+   "title": "Kingdom of the Isles",
+   "description": "Norse-Gaelic polity in the British Isles (849–1265)",
    "topic": "medieval-scotland",
    "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/Christina_of_Norway,_Infanta_of_Castile",
+   "url": "https://en.wikipedia.org/wiki/Kingdom_of_the_Isles",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Covarrubias_-_Estatua_de_la_princesa_Kristina.jpg/1280px-Covarrubias_-_Estatua_de_la_princesa_Kristina.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Kingdom_of_Mann_and_the_Isles-en.svg/1280px-Kingdom_of_Mann_and_the_Isles-en.svg.png",
     "width": 1280,
-    "height": 1707,
-    "page": "https://commons.wikimedia.org/wiki/File:Covarrubias_-_Estatua_de_la_princesa_Kristina.jpg",
-    "artist": "Ecelan",
-    "license": "CC BY-SA 4.0"
+    "height": 1344,
+    "page": "https://commons.wikimedia.org/wiki/File:Kingdom_of_Mann_and_the_Isles-en.svg",
+    "artist": "Sémhur",
+    "license": "CC BY-SA 3.0"
    },
    "cards": [
     {
-     "text": "Christina of Norway (Norwegian: Kristina Håkonsdotter; 1234 – 1262) was the daughter of Håkon IV and his wife, Margaret Skulesdatter. She was born in Bergen. As part of an alliance she was betrothed to Philip, brother of Alfonso X of Castile. They married in 1258, and she lived in Castile until her death four years later. Tradition states that Christina desired that a church dedicated to St Olaf should be built in Castile.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3b/Nils_Bergslien_Kristinas_avreise_til_Spanien_%28prinsesse_Kristina_av_Tunsberg%29_painting_oil_on_canvas_179x222_cm_%2870.5x87.5_in%29_displayed_at_T%C3%B8nsberg_og_F%C3%A6rder_bibliotek_Public_library_Norway_photo_2018-02-12_B_cropped.jpg/1280px-thumbnail.jpg",
-      "width": 1280,
-      "height": 1038,
-      "page": "https://commons.wikimedia.org/wiki/File:Nils_Bergslien_Kristinas_avreise_til_Spanien_(prinsesse_Kristina_av_Tunsberg)_painting_oil_on_canvas_179x222_cm_(70.5x87.5_in)_displayed_at_T%C3%B8nsberg_og_F%C3%A6rder_bibliotek_Public_library_Norway_photo_2018-02-12_B_cropped.jpg",
-      "artist": "Wolfmann",
-      "license": "CC BY-SA 4.0",
-      "caption": "The history painting \"Christina's departure to Spain\" (in Norwegian: \"Kristinas avreise til Spania\") by Nils Bergslien(1853–1928) shows the princess leaving for Spain in 1257. The painting is on display in the public library in Tønsberg, Norway. Photo 2018."
-     }
-    },
-    {
-     "text": "750 years later, \"a modernized version of [a] simple pre-Roman church\" was built and dedicated in Covarrubias, Spain.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Colegiata_de_Covarrubias_-_Tumba_de_la_princes_Kristina.jpg/1280px-Colegiata_de_Covarrubias_-_Tumba_de_la_princes_Kristina.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Colegiata_de_Covarrubias_-_Tumba_de_la_princes_Kristina.jpg",
-      "artist": "Ecelan",
-      "license": "CC BY-SA 4.0",
-      "caption": "Tomb of the Infanta in the cloister of the collegiate church."
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 36
-  },
-  {
-   "id": "314131",
-   "title": "Púca",
-   "description": "Mythological creature",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/P%C3%BAca",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Pwca_Wirt_Sikes_British_Goblins_1880.png",
-    "width": 1280,
-    "height": 1646,
-    "page": "https://commons.wikimedia.org/wiki/File:Pwca_Wirt_Sikes_British_Goblins_1880.png",
-    "artist": "Wirt Sikes",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The púca (Irish for spirit/ghost; plural púcaí), puca (Old English for goblin), also pwca, pooka, pookah, phouka, and puck, is a creature of Celtic, English, and Channel Islands folklore. Considered to be bringers both of good and bad fortune, they could help or hinder rural and marine communities. Púcaí can have dark or white fur or hair. The creatures were said to be shape-changers that could take the appearance of horses, goats, cats, dogs, and hares.",
+     "text": "The Kingdom of the Isles was a Norse–Gaelic kingdom comprising the Isle of Man, the Hebrides and the islands of the Clyde from the 9th to the 13th centuries. It is also called Sodor or the Sudreys, from its Old Norse name Suðreyjar, or \"Southern Isles\"; as distinct from the Norðreyjar or Northern Isles of Orkney and Shetland. Some of its later rulers were referred to as kings of Mann and the Isles.",
      "image": null
     },
     {
-     "text": "They may also take a human disguise, which includes various animal features, such as animal ears or a tail.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 29
-  },
-  {
-   "id": "35607197",
-   "title": "Great Polish Map of Scotland",
-   "description": "Sculpture near Eddleston, Scotland",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/Great_Polish_Map_of_Scotland",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Above_Winter_View.jpg/1280px-Above_Winter_View.jpg",
-    "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Above_Winter_View.jpg",
-    "artist": "Novemberscot",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "The Great Polish Map of Scotland is a large (50 m x 40 m) three-dimensional, outdoor concrete scale model of Scotland, located in the grounds of the Barony Castle Hotel, outside the village of Eddleston near Peebles in the Scottish Borders. It is also known as the Mapa Scotland (derived from Polish mapa Szkocji) or the Barony Map.",
+     "text": "The historical record is incomplete, and the kingdom was not a continuous entity throughout the whole period. At times it was independent of outside control, although for much of the period the Isles were a Norwegian dependency and its rulers had overlords in Norway, Orkney, or Ireland. At times there also appear to have been competing claims for all or parts of the territory.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a7/Barony_Castle_Hotel%2C_Eddleston_near_Peebles%2C_Scotland.JPG/1280px-Barony_Castle_Hotel%2C_Eddleston_near_Peebles%2C_Scotland.JPG",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b1/KellsFol032vChristEnthroned.jpg/1280px-KellsFol032vChristEnthroned.jpg",
       "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Barony_Castle_Hotel,_Eddleston_near_Peebles,_Scotland.JPG",
-      "artist": "Kim Traynor",
+      "height": 1668,
+      "page": "https://commons.wikimedia.org/wiki/File:KellsFol032vChristEnthroned.jpg",
+      "artist": "Unattributed",
+      "license": "Public domain",
+      "caption": "Folio 32v of the Book of Kells which may have been produced by the monks of Iona and taken to Ireland for safekeeping after repeated Viking raids of the Hebrides."
+     }
+    },
+    {
+     "text": "The islands have a total land area of over 8,300 square kilometres (3,205 sq mi) and extend for more than 500 kilometres (310 mi) from north to south. Viking influence in the area began in the late 8th century. There is no doubt that the Uí Ímair (Ivar) dynasty played a prominent role in this early period, but the records for the dates and details of its rulers are speculative until the mid-10th century.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Scotland_Dumbarton_Castle_bordercropped.jpg/1280px-Scotland_Dumbarton_Castle_bordercropped.jpg",
+      "width": 1280,
+      "height": 759,
+      "page": "https://commons.wikimedia.org/wiki/File:Scotland_Dumbarton_Castle_bordercropped.jpg",
+      "artist": "Unknown",
       "license": "CC BY-SA 3.0",
-      "caption": "Barony Castle Hotel in 2011"
+      "caption": "Modern Dumbarton Castle, the site of the 9th-century siege by Amlaíb Conung and Ímar"
      }
     },
     {
-     "text": "The brainchild of Polish war veteran Jan Tomasik, it was built between 1974 and 1979 and is claimed to be the world's largest terrain relief model. The sculpture is a category B listed building, and has been restored by the Mapa Scotland volunteer group.",
+     "text": "Hostility between the Kings of the Isles and the rulers of Ireland, and intervention by the crown of Norway (either directly or through their vassal the Earl of Orkney) were recurring themes. An invasion by Magnus Barefoot in the 1090s resulted in a brief period of direct Norwegian rule over the kingdom, but soon the descendants of Godred Crovan re-asserted a further period of largely independent overlordship.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/81/Maczek_-_graf_1_%28cropped%29.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/56/Sihtric_posthumous_coin_1050.jpg",
       "width": 1280,
-      "height": 1322,
-      "page": "https://commons.wikimedia.org/wiki/File:Maczek_-_graf_1_(cropped).jpg",
-      "artist": "Miho",
-      "license": "CC BY 3.0",
-      "caption": "General Maczek's grave in Breda, one of the towns his forces liberated in 1944"
+      "height": 1309,
+      "page": "https://commons.wikimedia.org/wiki/File:Sihtric_posthumous_coin_1050.jpg",
+      "artist": "PHGCOM",
+      "license": "Public domain",
+      "caption": "A posthumous \"Sihtric\" coin from the British Museum, minted at Dublin c. 1050"
+     }
+    },
+    {
+     "text": "This came to an end with the rise of Somerled, on whose death in 1164 the kingdom was split in two. Just over a century later, the Isles were transferred from Norwegian overlordship to the Kingdom of Scotland, following the 1266 Treaty of Perth. Most of the territory continued as the Scottish Lordship of the Isles and Diocese of the Isles.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/fb/Wikingerschiff_Oslo.jpg/1280px-Wikingerschiff_Oslo.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Wikingerschiff_Oslo.jpg",
+      "artist": "Hofi0006",
+      "license": "CC BY-SA 3.0",
+      "caption": "The preserved remains of the Oseberg ship in the Viking Ship Museum in Oslo."
      }
     }
    ],
    "truncated": false,
-   "readSeconds": 39
+   "readSeconds": 108
   },
   {
-   "id": "245989",
-   "title": "Ēostre",
-   "description": "Germanic goddess",
+   "id": "49451",
+   "title": "Bayeux Tapestry",
+   "description": "Embroidery depicting the 1066 Norman invasion of England",
    "topic": "medieval-england",
    "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/%C4%92ostre",
+   "url": "https://en.wikipedia.org/wiki/Bayeux_Tapestry",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d0/Ostara.png/1280px-Ostara.png",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9c/Odo_bayeux_tapestry.png/1280px-Odo_bayeux_tapestry.png",
     "width": 1280,
-    "height": 1920,
-    "page": "https://commons.wikimedia.org/wiki/File:Ostara.png",
-    "artist": "Johannes Gehrts (1855–1921)",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Ēostre ([ˈeːostre]) is an Anglo-Saxon goddess mentioned by Bede in his 8th century work The Reckoning of Time. He wrote that pagan Anglo-Saxons had held feasts in her honour during the month named after her: Ēosturmōnaþ (April), and that this became the English name for the Paschal season: Easter. ",
-     "image": null
-    },
-    {
-     "text": "The Old High German name for April was the cognate Ôstarmânoth, which has led scholars to suggest there was a similar Continental Germanic goddess, *Ôstara. Their theory is supported by votive inscriptions dedicated to goddesses called the matronae Austriahenae, found in 1958 in Rhein-Erft-Kreis, Germany. The theonym may also be a part of some placenames and personal names.",
-     "image": null
-    },
-    {
-     "text": "By way of linguistic reconstruction, the matter of a goddess called *Austrō(n) in the Proto-Germanic language has been examined in detail since the foundation of Germanic philology in the 19th century by scholar Jacob Grimm and others. As the Germanic languages descend from Proto-Indo-European (PIE), historical linguists have traced the name to a Proto-Indo-European goddess of the dawn *H₂ewsṓs, from which may descend the Germanic goddess at the origin of the Old English Ēostre and the Old High German *Ôstara.",
-     "image": null
-    },
-    {
-     "text": "It has been debated whether the goddess was an invention of Bede, particularly before the discovery of the matronae Austriahenae and further developments in Indo-European studies. Due to these later developments, modern scholars generally accept that she was a genuine pagan goddess. Ēostre and Ostara are sometimes referenced in modern popular culture and are venerated in some forms of Germanic neopaganism.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 69
-  },
-  {
-   "id": "3701654",
-   "title": "St James' Priory, Bristol",
-   "description": "Church in Bristol, England",
-   "topic": "bristol",
-   "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/St_James%27_Priory,_Bristol",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/St_James%27s_Priory%2C_Bristol%2C_tower.jpg/1280px-St_James%27s_Priory%2C_Bristol%2C_tower.jpg",
-    "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:St_James%27s_Priory,_Bristol,_tower.jpg",
-    "artist": "Robert Cutts from Bristol, England, UK",
-    "license": "CC BY-SA 2.0"
-   },
-   "cards": [
-    {
-     "text": "The Priory Church of St James, Bristol (grid reference ST588734), is a Grade I listed building in Horsefair, Whitson Street. It was founded between 1124 and 1137, or more specifically c. 1129 in some sources, as a Benedictine priory by Robert, Earl of Gloucester, the illegitimate son of Henry I. Serving as the first religious house in Bristol, it was strategically located across the River Frome from Bristol Castle, where the Earl was constructing a massive new keep.",
-     "image": null
-    },
-    {
-     "text": "The Earl endowed the priory with his large meadow, the origin of the modern Broadmead area, which the priory subsequently laid out into a planned suburb consisting of burgage plots. Furthermore, a vast lay cemetery spanning roughly 128,000 square feet was established, extending south from the priory complex to what is currently known as the Horsefair and St James' Park.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/6d/St_James%27_Priory_Church%2C_Bristol%2C_BRO_Picbox-4-BCh-22%2C_1250x1250.jpg",
-      "width": 1280,
-      "height": 791,
-      "page": "https://commons.wikimedia.org/wiki/File:St_James%27_Priory_Church,_Bristol,_BRO_Picbox-4-BCh-22,_1250x1250.jpg",
-      "artist": "Unknown, published in 1630. Image from the collections of Bristol Record Office",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The early nave from 1129 survived the Dissolution of the Monasteries because an agreement in 1374 between the Abbot of Tewkesbury and the parishioners stated that the nave would become the parishioners responsibility, and the tower was added around 1374. On 9 January 1540 the dissolution of the monasteries by Henry VIII meant that St James Priory was surrendered to the crown.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5e/St_James%27_Priory_Bristol_Ground_Plan.jpg/1280px-St_James%27_Priory_Bristol_Ground_Plan.jpg",
-      "width": 1280,
-      "height": 1109,
-      "page": "https://commons.wikimedia.org/wiki/File:St_James%27_Priory_Bristol_Ground_Plan.jpg",
-      "artist": "The book's text by JF Nicholls (d. 1883) and John Taylor (d. 1893). Death dates ",
-      "license": "Public domain",
-      "caption": "A plan of the priory from 1882"
-     }
-    },
-    {
-     "text": "The priory buildings were demolished, keeping only the nave of the church. In 1543 the land and the right to hold a fair were sold to a London merchant-tailor. In 1604 there was concern that the national attraction of St James' Fair would increase the spread of the plague, so a royal proclamation was issued prohibiting Londoners from attending. The south aisle was widened and rebuilt in 1698.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/St_James%27_Priory_Church%2C_Bristol%2C_BRO_Picbox-4-BCh-21%2C_1250x1250.jpg",
-      "width": 1280,
-      "height": 2228,
-      "page": "https://commons.wikimedia.org/wiki/File:St_James%27_Priory_Church,_Bristol,_BRO_Picbox-4-BCh-21,_1250x1250.jpg",
-      "artist": "Unknown, published by George Davey (Broad Street, Bristol) c.1838, delinator is ",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The porch dates from the late 18th century, and the north aisle was rebuilt in 1864. The traditional account, as told to John Leland, has it that every tenth stone brought from Normandy to build the Castle was set aside to build the Priory.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/0/0e/St_James%27_Priory_Church%2C_Bristol%2C_BRO_Picbox-4-BCh-23%2C_1250x1250.jpg",
-      "width": 1280,
-      "height": 1949,
-      "page": "https://commons.wikimedia.org/wiki/File:St_James%27_Priory_Church,_Bristol,_BRO_Picbox-4-BCh-23,_1250x1250.jpg",
-      "artist": "Unknown, published in 1820. Image from the collections of Bristol Record Office",
-      "license": "Public domain",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 101
-  },
-  {
-   "id": "8053237",
-   "title": "Norton Priory",
-   "description": "Historic site in Norton, Runcorn, Cheshire, England",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Norton_Priory",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Norton_Priory.jpg/1280px-Norton_Priory.jpg",
-    "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Norton_Priory.jpg",
+    "height": 928,
+    "page": "https://commons.wikimedia.org/wiki/File:Odo_bayeux_tapestry.png",
     "artist": "Unknown",
     "license": "Public domain"
    },
    "cards": [
     {
-     "text": "Norton Priory is a historic site in Norton, Runcorn, Cheshire, England, comprising the remains of an abbey complex dating from the 12th to 16th centuries, and an 18th-century country house; it is now a museum. The remains are a scheduled ancient monument and are recorded in the National Heritage List for England as a designated Grade I listed building. They are considered to be the most important monastic remains in Cheshire.",
+     "text": "The Bayeux Tapestry (French: Tapisserie de Bayeux) is an embroidered cloth nearly 70 metres (230 feet) long and 50 centimetres (20 inches) tall that depicts the events leading up to the Norman conquest of England, led by William, Duke of Normandy, and the Battle of Hastings in 1066. It is normally thought to have been made in England in the decades after the events it shows, although the earliest known written reference to it was in 1476.",
+     "image": null
+    },
+    {
+     "text": "Since 2007 it has been inscribed on UNESCO's Memory of the World Register. It is normally displayed in the Bayeux Tapestry Museum in Bayeux, Normandy, France, but this is closed for renovation until 2027, and the work is currently on display in London. ",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Norton_Priory_plan.png/1280px-Norton_Priory_plan.png",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Tapisserie_de_Bayeux%2C_p1.jpg/1280px-Tapisserie_de_Bayeux%2C_p1.jpg",
       "width": 1280,
-      "height": 758,
-      "page": "https://commons.wikimedia.org/wiki/File:Norton_Priory_plan.png",
-      "artist": "Espresso Addict",
-      "license": "CC BY-SA 3.0",
-      "caption": "Plan of the priory in the 12th century (left) and 13th century (right).\n.mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}  early 12th century\n  late 12th century\n  early–mid 13th century\n.mw-parser-output figure[typeof=\"mw:File/Thumb\"] .image-key>ol{margin-left:1.3em;margin-top:0}.mw-parser-output figure[typeof=\"mw:File/Thumb\"] .image-key>ul{margin-top:0}.mw-parser-output figure[typeof=\"mw:File/Thumb\"] .image-key li{page-break-inside:avoid;break-inside:avoid-column}@media(min-width:300px){.mw-parser-output figure[typeof=\"mw:File/Thumb\"] .image-key,.mw-parser-output figure[typeof=\"mw:File/Thumb\"] .image-key-wide{column-count:2}.mw-parser-output figure[typeof=\"mw:File/Thumb\"] .image-key-narrow{column-count:1}}@media(min-width:450px){.mw-parser-output figure[typeof=\"mw:File/Thumb\"] .image-key-wide{column-count:3}}.mw-parser-output .plainlist ol,.mw-parser-output .plainlist ul{line-height:inherit;list-style:none;margin:0;padding:0}.mw-parser-output .plainlist ol li,.mw-parser-output .plainlist ul li{margin-bottom:0}A: naveB: choirC: chancelD: north transeptE: south transeptF: cellarer's rangeG: cloisterH: sacristyI: chapter houseJ: refectoryK: dormitoryL: latrinesM: extended west frontN: extended chancelO: north chapelP: south chapelQ: kitchensAsterisk: buildings of similar function in a different later location"
+      "height": 29,
+      "page": "https://commons.wikimedia.org/wiki/File:Tapisserie_de_Bayeux,_p1.jpg",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": ""
      }
     },
     {
-     "text": "The priory was established as an Augustinian foundation in the 12th century, and was raised to the status of an abbey in 1391. The abbey was closed in 1536, as part of the dissolution of the monasteries. Nine years later the surviving structures, together with the manor of Norton, were purchased by Sir Richard Brooke, who built a Tudor house on the site, incorporating part of the abbey.",
+     "text": "Despite its name, the work is technically an embroidery rather than a true tapestry, since the images are stitched rather than woven into the fabric. It was worked in wool thread on a coarse linen ground using four different stitches and ten natural dye colours. The cloth now consists of 58 scenes, all with Medieval Latin tituli.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d1/Norton_Priory_model.jpg/1280px-Norton_Priory_model.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/48/Tapisserie_de_Bayeux%2C_p2.jpg/1280px-Tapisserie_de_Bayeux%2C_p2.jpg",
       "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Norton_Priory_model.jpg",
-      "artist": "Peter I. Vardy",
+      "height": 29,
+      "page": "https://commons.wikimedia.org/wiki/File:Tapisserie_de_Bayeux,_p2.jpg",
+      "artist": "Unknown",
       "license": "Public domain",
-      "caption": "Model of the abbey as it is thought it would have appeared in the 16th century"
+      "caption": ""
      }
     },
     {
-     "text": "This was replaced in the 18th century by a Georgian house. The Brooke family left the house in 1921, and it was partially demolished in 1928. In 1966 the site was given in trust for the use of the general public.",
+     "text": "The surviving piece depicts 623 human figures, 994 animals, 438 plants, 37 buildings and fortifications, 41 ships and boats, and a vast array of other objects. The narrative runs from the final years of the reign of Edward the Confessor in 1064 through to the Battle of Hastings in 1066, when William, Duke of Normandy, defeated Harold Godwinson to claim the English throne.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/49/Norton_Priory_Tudor_House.jpg/1280px-Norton_Priory_Tudor_House.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d3/MontfauconHaroldEye.jpg",
       "width": 1280,
-      "height": 678,
-      "page": "https://commons.wikimedia.org/wiki/File:Norton_Priory_Tudor_House.jpg",
-      "artist": "Buck Brothers",
+      "height": 786,
+      "page": "https://commons.wikimedia.org/wiki/File:MontfauconHaroldEye.jpg",
+      "artist": "Bernard de Montfaucon",
       "license": "Public domain",
-      "caption": "Engraving of the Tudor house from the west by the Buck brothers, dated 1727"
+      "caption": "Montfaucon / Benoît drawing showing King Harold's death"
      }
     },
     {
-     "text": "Excavation of the site began in 1971, and became the largest to be carried out by modern methods on any European monastic site. It revealed the foundations and lower parts of the walls of the monastery buildings and the abbey church.",
+     "text": "The final scenes are missing.  The tapestry gives a detailed account of the battle's key turning points, though nearly half of its scenes actually cover events that preceded the invasion itself. It is generally thought to have been commissioned by Bishop Odo of Bayeux, William's half-brother who appears four times, and produced in England in the years following the Conquest.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Norton_Priory_Georgian_House.jpg/1280px-Norton_Priory_Georgian_House.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/65/Stothard_Bayeux_41_42_Plate_10.jpg/1280px-Stothard_Bayeux_41_42_Plate_10.jpg",
       "width": 1280,
-      "height": 863,
-      "page": "https://commons.wikimedia.org/wiki/File:Norton_Priory_Georgian_House.jpg",
-      "artist": "Unknown authorUnknown author",
+      "height": 923,
+      "page": "https://commons.wikimedia.org/wiki/File:Stothard_Bayeux_41_42_Plate_10.jpg",
+      "artist": "Charles Alfred Stothard",
       "license": "Public domain",
-      "caption": "Georgian house before 1868"
-     }
-    },
-    {
-     "text": "Important finds included: a Norman doorway; a finely carved arcade; a floor of mosaic tiles, the largest floor area of this type to be found in any modern excavation; the remains of the kiln where the tiles were fired; a bell casting pit used for casting the bell; and a large medieval statue of Saint Christopher.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Norton_Priory_wine_bins.jpg/1280px-Norton_Priory_wine_bins.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Norton_Priory_wine_bins.jpg",
-      "artist": "Peter I. Vardy",
-      "license": "Public domain",
-      "caption": "Wine bins in the undercroft"
+      "caption": "Stothard / Basire engravings: scenes showing the Norman troops crossing the Channel and landing in Sussex"
      }
     }
    ],
    "truncated": true,
-   "readSeconds": 96
+   "readSeconds": 98
   },
   {
-   "id": "71379771",
-   "title": "Shrine of St Patrick's Tooth",
-   "description": "",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Shrine_of_St_Patrick%27s_Tooth",
+   "id": "495472",
+   "title": "Boobrie",
+   "description": "Mythological shapeshifting entity in Scotland",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Boobrie",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b0/Reliquiario_del_dente_di_san_patrizio%2C_del_xii_e_xiv_secolo%2C_in_oro%2C_argento%2C_lega_di_rame%2C_cristallo_di_rocca_su_anima_lignea%2C_da_athenry%2C_co._galway_01.jpg/1280px-Reliquiario_del_dente_di_san_patrizio%2C_del_xii_e_xiv_secolo%2C_in_oro%2C_argento%2C_lega_di_rame%2C_cristallo_di_rocca_su_anima_lignea%2C_da_athenry%2C_co._galway_01.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/01/Wormius%27_Great_Auk.jpg",
     "width": 1280,
-    "height": 1615,
-    "page": "https://commons.wikimedia.org/wiki/File:Reliquiario_del_dente_di_san_patrizio,_del_xii_e_xiv_secolo,_in_oro,_argento,_lega_di_rame,_cristallo_di_rocca_su_anima_lignea,_da_athenry,_co._galway_01.jpg",
-    "artist": "Sailko",
-    "license": "CC BY 3.0"
-   },
-   "cards": [
-    {
-     "text": "The Shrine of St Patrick's Tooth (Irish: Fiacail Phádraig, translated as Patrick's Tooth) is a medieval reliquary traditionally believed to contain a tooth belonging to Patrick, Ireland's patron saint, who lived in the 5th century. The shrine comprises a wooden case lined with bronze and decorated with gold, silver and amber fittings, and was built in two phases.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/Killaspugbrone_Church_-_geograph.org.uk_-_1471581.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Killaspugbrone_Church_-_geograph.org.uk_-_1471581.jpg",
-      "artist": "Stephen Armstrong",
-      "license": "CC BY-SA 2.0",
-      "caption": "Ruin of Killaspugbrone Church"
-     }
-    },
-    {
-     "text": "Its basic structure and the central ringed crosses on either side are 12th century, while the purse-shaped form and most of the metal work, including the saints, were added in the 1370s when the object was substantially refurbished. Its two sides were again decorated in the 14th century, however the back has since suffered far more damage and losses. Only some of the figures are identifiable with specific saints.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8c/Reliquiario_del_dente_di_san_patrizio%2C_del_xii_e_xiv_secolo%2C_in_oro%2C_argento%2C_lega_di_rame%2C_cristallo_di_rocca_su_anima_lignea%2C_da_athenry%2C_co._galway_02.jpg/1280px-Reliquiario_del_dente_di_san_patrizio%2C_del_xii_e_xiv_secolo%2C_in_oro%2C_argento%2C_lega_di_rame%2C_cristallo_di_rocca_su_anima_lignea%2C_da_athenry%2C_co._galway_02.jpg",
-      "width": 1280,
-      "height": 1550,
-      "page": "https://commons.wikimedia.org/wiki/File:Reliquiario_del_dente_di_san_patrizio,_del_xii_e_xiv_secolo,_in_oro,_argento,_lega_di_rame,_cristallo_di_rocca_su_anima_lignea,_da_athenry,_co._galway_02.jpg",
-      "artist": "Sailko",
-      "license": "CC BY 3.0",
-      "caption": "Reverse panel"
-     }
-    },
-    {
-     "text": "They all appear on the front, and are: on the upper register: Christ with John the Baptist to his left and Mary at right. On the lower register Benán stands to the left with an unidentified figure, while to the right are Patrick, Colmcille and Brendan.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Reliquiario_del_dente_di_san_patrizio%2C_del_xii_e_xiv_secolo%2C_in_oro%2C_argento%2C_lega_di_rame%2C_cristallo_di_rocca_su_anima_lignea%2C_da_athenry%2C_co._galway_01_%28crop_4%29.jpg",
-      "width": 1280,
-      "height": 1441,
-      "page": "https://commons.wikimedia.org/wiki/File:Reliquiario_del_dente_di_san_patrizio,_del_xii_e_xiv_secolo,_in_oro,_argento,_lega_di_rame,_cristallo_di_rocca_su_anima_lignea,_da_athenry,_co._galway_01_(crop_4).jpg",
-      "artist": "Sailko",
-      "license": "CC BY 3.0",
-      "caption": ""
-     }
-    },
-    {
-     "text": "While the shrine's provenance is unknown, it may have originated from Cong, County Mayo. According to a 9th-century hagiography, Patrick began to lose his teeth towards end of his life, and lost a number during his travels across Connacht. The tooth is believed to have been kept for an extended period at Killaspugbrone church in County Sligo, where it had supposedly fallen out.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/22/Reliquiario_del_dente_di_san_patrizio%2C_del_xii_e_xiv_secolo%2C_in_oro%2C_argento%2C_lega_di_rame%2C_cristallo_di_rocca_su_anima_lignea%2C_da_athenry%2C_co._galway_01_%28Figure_on_the_lower_left_front_side%29.jpg",
-      "width": 1280,
-      "height": 2002,
-      "page": "https://commons.wikimedia.org/wiki/File:Reliquiario_del_dente_di_san_patrizio,_del_xii_e_xiv_secolo,_in_oro,_argento,_lega_di_rame,_cristallo_di_rocca_su_anima_lignea,_da_athenry,_co._galway_01_(Figure_on_the_lower_left_front_side).jpg",
-      "artist": "Sailko",
-      "license": "CC BY 3.0",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The shrine is later associated with Athenry, County Galway, and during the 18th and 19th centuries was used to cure sick animals. It was acquired by the Royal Irish Academy in 1845, and is now held at the National Museum of Ireland, Kildare Street, Dublin. An early 20th-century reproduction is in the Metropolitan Museum of Art, New York.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Reliquiario_del_dente_di_san_patrizio%2C_del_xii_e_xiv_secolo%2C_in_oro%2C_argento%2C_lega_di_rame%2C_cristallo_di_rocca_su_anima_lignea%2C_da_athenry%2C_co._galway_01_%28Central_cricifixion%29.jpg",
-      "width": 1280,
-      "height": 1748,
-      "page": "https://commons.wikimedia.org/wiki/File:Reliquiario_del_dente_di_san_patrizio,_del_xii_e_xiv_secolo,_in_oro,_argento,_lega_di_rame,_cristallo_di_rocca_su_anima_lignea,_da_athenry,_co._galway_01_(Central_cricifixion).jpg",
-      "artist": "Sailko",
-      "license": "CC BY 3.0",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 101
-  },
-  {
-   "id": "2593539",
-   "title": "1889 London dock strike",
-   "description": "Industrial dispute in the Port of London",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/1889_London_dock_strike",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/a/ad/South_Side_Central_Strike_Committee.jpg",
-    "width": 1280,
-    "height": 1638,
-    "page": "https://commons.wikimedia.org/wiki/File:South_Side_Central_Strike_Committee.jpg",
-    "artist": "Unknown. Signed by Ben Tillett (1860 - 1943), John Burns (1858 - 1943), Tom Mann",
+    "height": 1808,
+    "page": "https://commons.wikimedia.org/wiki/File:Wormius%27_Great_Auk.jpg",
+    "artist": "Ole Worm - Olaus Wormius",
     "license": "Public domain"
    },
    "cards": [
     {
-     "text": "A strike action involving dock workers in the Port of London broke out on 14 August 1889, and resulted in victory for the 100,000 strikers when they won their pay claim of sixpence per hour, the so-called \"dockers' tanner\". The industrial action also established strong trade unions amongst London dockers, one of which became the nationally important Dock, Wharf, Riverside and General Labourers' Union.",
+     "text": "The boobrie is a mythological shapeshifting entity inhabiting the lochs of the west coast of Scotland. It commonly adopts the appearance of a gigantic water bird resembling a cormorant or great northern diver, but it can also materialise in the form of various other mythological creatures such as a water bull.",
+     "image": null
+    },
+    {
+     "text": "A generally malevolent entity, the boobrie typically preys on livestock being transported on ships, but it is also fond of otters, of which it consumes a considerable number. In its manifestation as a water horse the creature is able to gallop across the top of lochs as if on solid ground. During the summer months it is seen infrequently as a large insect, sucking the blood of horses.",
+     "image": null
+    },
+    {
+     "text": "Folklorist Campbell of Islay has speculated that descriptions of the boobrie may be based on sightings of the great auk. The bellowing sound made by the boobrie, more like a bull than a bird, may have its origin in the strange call of the common bittern, which was a rare visitor to Scotland.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 49
+  },
+  {
+   "id": "1361006",
+   "title": "Leif Larsen",
+   "description": "Norwegian sailor",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Leif_Larsen",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Leif_Larsen_ShetlandsLarsen.jpg",
+    "width": 1280,
+    "height": 1961,
+    "page": "https://commons.wikimedia.org/wiki/File:Leif_Larsen_ShetlandsLarsen.jpg",
+    "artist": "Marit Larsen",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "Leif Andreas Larsen DSO, DSC, CGM, DSM and Bar (9 January 1906 – 12 October 1990), popularly known as \"Shetlands Larsen\", was a highly decorated Norwegian sailor. He was arguably the most famous of the men who operated the Shetland bus escape route during the war.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Strikers_at_the_East_India_Dock_Road_during_the_1889_London_dock_strike.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Leif_Larsen_ShetlandsLarsen_med_mannskap_p%C3%A5_KNM_Vigra.jpg",
       "width": 1280,
-      "height": 988,
-      "page": "https://commons.wikimedia.org/wiki/File:Strikers_at_the_East_India_Dock_Road_during_the_1889_London_dock_strike.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "caption": "Strikers at the East India Dock Road during the 1889 London dock strike. The model ship was carried on those protest marches."
+      "height": 849,
+      "page": "https://commons.wikimedia.org/wiki/File:Leif_Larsen_ShetlandsLarsen_med_mannskap_p%C3%A5_KNM_Vigra.jpg",
+      "artist": "Marit Larsen",
+      "license": "CC BY-SA 3.0",
+      "caption": "Leif Larsen with his crew on board the Vigra"
      }
     },
     {
-     "text": "The strike is widely considered a milestone in the development of the British labour movement, symbolising the growth of the New Unions of casual, unskilled and poorly paid workers, in contrast to the craft unions already in existence. The strike helped to draw attention to the problem of poverty in Victorian Britain and the dockers' cause attracted considerable public sympathy.",
+     "text": "He participated as a volunteer on the Finnish side during the Winter War and was a soldier in the defence of Norway following the German invasion at Kongsvinger Fortress. He had excellent leadership skills; one of the British officers at the Shetland base, David Howarth, described him as \"one of the most remarkable personalities of the entire Second World War\". Larsen preferred to downplay his own role and instead credited his crew for his achievements.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/39/The_Australian_Bulletin_August_1889.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/82/Leif_Larsen_-_Shetlands-Larsen.jpg",
       "width": 1280,
-      "height": 808,
-      "page": "https://commons.wikimedia.org/wiki/File:The_Australian_Bulletin_August_1889.JPG",
-      "artist": "Livingston Hopkins",
-      "license": "Public domain",
-      "caption": "\"The Secret of Englands Greatness: 5d per hour\" by Livingstone Hopkins in The Australian Bulletin, August 1889"
+      "height": 721,
+      "page": "https://commons.wikimedia.org/wiki/File:Leif_Larsen_-_Shetlands-Larsen.jpg",
+      "artist": "Marit Larsen",
+      "license": "CC BY-SA 3.0",
+      "caption": "Leif Larsen, aka \"Shetlands Larsen\""
      }
     }
    ],
@@ -556,452 +224,884 @@
    "readSeconds": 44
   },
   {
-   "id": "253564",
-   "title": "Battle of Lumphanan",
-   "description": "1057 battle between Macbeth and Malcolm III of Scotland",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/Battle_of_Lumphanan",
+   "id": "3031324",
+   "title": "History of Ireland (1169–1534)",
+   "description": "",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/History_of_Ireland_(1169%E2%80%931534)",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Galerie_de_Shakspeare._Ser._5%2C_Mackbeth_1830_%28125873827%29.jpg/1280px-Galerie_de_Shakspeare._Ser._5%2C_Mackbeth_1830_%28125873827%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3a/Atlas_Van_der_Hagen-KW1049B11_048-HIBERNIAE_REGNUM_tam_in_praecipuas_ULTONIAE%2C_CONNACIAE%2C_LAGENIAE%2C_et_MOMONIAE%2C_quam_in_minores_earundem_Provincias%2C_et_Ditiones_subjacentes_peraccurat%C3%A9_divisum.jpeg/1280px-thumbnail.jpeg",
     "width": 1280,
-    "height": 1072,
-    "page": "https://commons.wikimedia.org/wiki/File:Galerie_de_Shakspeare._Ser._5,_Mackbeth_1830_(125873827).jpg",
-    "artist": "Unknown authorUnknown author",
+    "height": 1509,
+    "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B11_048-HIBERNIAE_REGNUM_tam_in_praecipuas_ULTONIAE,_CONNACIAE,_LAGENIAE,_et_MOMONIAE,_quam_in_minores_earundem_Provincias,_et_Ditiones_subjacentes_peraccurat%C3%A9_divisum.jpeg",
+    "artist": "Nicolaes Visscher II",
     "license": "Public domain"
    },
    "cards": [
     {
-     "text": "The Battle of Lumphanan was fought on 15 August 1057, between Macbeth, King of Scots, and the future King Malcolm III. Macbeth would die from wounds sustained in the battle, which came after his defeat at the battle of Dunsinane in 1054. According to tradition, the battle took place at Lumphanan in Aberdeenshire. Macbeth's Stone, a large boulder at the site, is said to mark the spot where Macbeth was mortally wounded.",
+     "text": "The history of Ireland from 1169–1534 covers the period from the arrival of the Cambro-Normans to the reign of Henry VIII of England, who made himself King of Ireland. After the Norman invasion of 1169–1171, Ireland was under an alternating level of control from Norman lords and the King of England. Previously, Ireland had seen intermittent warfare between provincial kingdoms over the position of High King.",
      "image": null
     },
     {
-     "text": "Following the battle, Lulach - Macbeth's stepson - was crowned King, before being killed by Malcolm who then took the throne.",
+     "text": "This situation was transformed by intervention in these conflicts by Norman mercenaries and later the English crown. After their successful conquest of England, the Normans turned their attention to Ireland. Ireland was made a lordship of the King of England and much of its land was seized by Norman barons. With time, Hiberno-Norman rule shrank to a territory known as the Pale, stretching from Dublin to Dundalk.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/ae/Peel_Ring_of_Lumphanan_20080502.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/17/TrimCastle.jpg",
       "width": 1280,
-      "height": 728,
-      "page": "https://commons.wikimedia.org/wiki/File:Peel_Ring_of_Lumphanan_20080502.jpg",
-      "artist": "Otter",
-      "license": "CC BY-SA 3.0",
-      "caption": "Peel Ring of Lumphanan, Aberdeenshire, Scotland"
+      "height": 525,
+      "page": "https://commons.wikimedia.org/wiki/File:TrimCastle.jpg",
+      "artist": "The original uploader was Logicalrealist at English Wikipedia.",
+      "license": "CC BY-SA 2.5",
+      "caption": "Trim Castle (1169-) is a major construction of this period"
+     }
+    },
+    {
+     "text": "The Hiberno-Norman lords elsewhere in the country became Gaelicised and integrated in Gaelic society.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c9/King_John%27s_Castle_in_Limerick.jpg/1280px-King_John%27s_Castle_in_Limerick.jpg",
+      "width": 1280,
+      "height": 520,
+      "page": "https://commons.wikimedia.org/wiki/File:King_John%27s_Castle_in_Limerick.jpg",
+      "artist": "Eric The Fish",
+      "license": "CC BY 2.0",
+      "caption": "King John's Castle sits on the southern bank of the River Shannon. It was built in the 12th century on the orders of King John of England"
      }
     }
    ],
    "truncated": false,
-   "readSeconds": 32
+   "readSeconds": 50
   },
   {
-   "id": "23403333",
-   "title": "Samlesbury witches",
-   "description": "17th-century English women accused of witchcraft",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Samlesbury_witches",
+   "id": "9368980",
+   "title": "Dover Bronze Age Boat",
+   "description": "Bronze Age boat discovered 1992",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Dover_Bronze_Age_Boat",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Lancaster_Castle.jpg/1280px-Lancaster_Castle.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Bronze_Age_Boat_-_Dover_Museum._%285106968203%29.jpg/1280px-Bronze_Age_Boat_-_Dover_Museum._%285106968203%29.jpg",
     "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Lancaster_Castle.jpg",
-    "artist": "Tom Oates",
+    "height": 1707,
+    "page": "https://commons.wikimedia.org/wiki/File:Bronze_Age_Boat_-_Dover_Museum._(5106968203).jpg",
+    "artist": "Jim Linwood from London",
+    "license": "CC BY 2.0"
+   },
+   "cards": [
+    {
+     "text": "The Dover Bronze Age boat is one of fewer than 20 Bronze Age boats so far found in Britain. It dates to 1575–1520 BC, which may make it one of the oldest substantially intact boats in the world (older boat finds are small fragments, some less than a metre square) – though much older ships exist, such as the Khufu ship from 2500 BC. The boat was made using oak planks sewn together with yew lashings.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Bronze_age_boat_%283752754931%29.jpg/1280px-Bronze_age_boat_%283752754931%29.jpg",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:Bronze_age_boat_(3752754931).jpg",
+      "artist": "mari from tokyo, japan",
+      "license": "CC BY 2.0",
+      "caption": "Dover Bronze Age Boat at Dover Museum"
+     }
+    },
+    {
+     "text": "This technique has a long tradition of use in British prehistory; the oldest known examples are the narrower Ferriby boats from east Yorkshire. A 9.5m long section of the boat is on display at Dover Museum.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1f/Dover_Bronze_Age_Boat_2011.jpg/1280px-Dover_Bronze_Age_Boat_2011.jpg",
+      "width": 1280,
+      "height": 853,
+      "page": "https://commons.wikimedia.org/wiki/File:Dover_Bronze_Age_Boat_2011.jpg",
+      "artist": "Hiyotchi",
+      "license": "CC BY-SA 4.0",
+      "caption": "The Dover Boat"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 41
+  },
+  {
+   "id": "5748072",
+   "title": "Architecture of London",
+   "description": "Overview of the architecture in London",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Architecture_of_London",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/London_Tower_Bridge_22.jpg/1280px-London_Tower_Bridge_22.jpg",
+    "width": 1280,
+    "height": 719,
+    "page": "https://commons.wikimedia.org/wiki/File:London_Tower_Bridge_22.jpg",
+    "artist": "Dronepicr",
+    "license": "CC BY 3.0"
+   },
+   "cards": [
+    {
+     "text": "London's architectural heritage consists of buildings from a very wide variety of styles and historical periods, with no one of these being dominant. London's distinctive architectural eclecticism stems from its long history, continual redevelopment, destruction by the Great Fire of London and the Blitz, and state recognition of private property rights which have limited large-scale state planning.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/87/Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg/1280px-Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg",
+      "width": 1280,
+      "height": 853,
+      "page": "https://commons.wikimedia.org/wiki/File:Palace_of_Westminster_from_the_dome_on_Methodist_Central_Hall.jpg",
+      "artist": "Colin",
+      "license": "CC BY-SA 4.0",
+      "caption": "A view of Westminster, with the Palace of Westminster in the foreground, the London Eye in the mid-ground and high rise buildings like The Shard in the background"
+     }
+    },
+    {
+     "text": "This sets London apart from other European capitals such as Paris and Rome which are more architecturally homogeneous as a result of being largely rebuilt in neoclassical styles during the 16th-19th centuries.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/St_Paul%27s_Cathedral%2C_2017-05-27.jpg/1280px-St_Paul%27s_Cathedral%2C_2017-05-27.jpg",
+      "width": 1280,
+      "height": 1064,
+      "page": "https://commons.wikimedia.org/wiki/File:St_Paul%27s_Cathedral,_2017-05-27.jpg",
+      "artist": "Lewis Hulbert",
+      "license": "CC BY-SA 4.0",
+      "caption": "St Paul's Cathedral (1710) by Christopher Wren, which was the centrepiece of the city's reconstruction after The Great Fire of London of 1666"
+     }
+    },
+    {
+     "text": "London's diverse architecture ranges from the Romanesque central keep of the Tower of London, the great Gothic church of Westminster Abbey, the Palladian royal residence Queen's House, Christopher Wren's Baroque masterpiece St Paul's Cathedral, the High Victorian Gothic of the Palace of Westminster, the industrial Art Deco of Battersea Power Station, the post-war Modernism of the Barbican Estate and the Postmodern skyscraper 30 St Mary Axe, also known as \"the Gherkin\".",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bb/Greenwich_and_Canary_Wharf_%283%29_-_2022-04-24.jpg/1280px-Greenwich_and_Canary_Wharf_%283%29_-_2022-04-24.jpg",
+      "width": 1280,
+      "height": 853,
+      "page": "https://commons.wikimedia.org/wiki/File:Greenwich_and_Canary_Wharf_(3)_-_2022-04-24.jpg",
+      "artist": "The wub",
+      "license": "CC BY-SA 4.0",
+      "caption": "Queen's House (1616) by Inigo Jones and Old Royal Naval College (1692) by Christopher Wren, with numerous modern high-rise buildings of The Canary Wharf Cluster in the background"
+     }
+    },
+    {
+     "text": "After the Roman withdrawal from Britain in the 5th century AD, the layout of the Roman settlement governed the plan of the Saxon and medieval city. This core of London is known as the City of London, while Westminster, the ancient centre of political power, lies to the west.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/28/Roman_%28London%29_Wall%2C_Barbican_-_geograph.org.uk_-_2699793.jpg/1280px-Roman_%28London%29_Wall%2C_Barbican_-_geograph.org.uk_-_2699793.jpg",
+      "width": 1280,
+      "height": 857,
+      "page": "https://commons.wikimedia.org/wiki/File:Roman_(London)_Wall,_Barbican_-_geograph.org.uk_-_2699793.jpg",
+      "artist": "D M Wilmot",
+      "license": "CC BY-SA 2.0",
+      "caption": "Surviving bastion from London Wall in the Barbican Estate, with Roman masonry at the base (c. 2nd century) and latter medieval additions above (c. 13th century)"
+     }
+    },
+    {
+     "text": "Relatively few medieval structures survive due to the city's near-total destruction in the Great Fire of London in 1666, with exceptions such as the Tower of London, Westminster Abbey, Westminster Hall, Guildhall, St James's Palace, Lambeth Palace and some Tudor buildings. After the Great Fire, London was rebuilt and greatly modernised under the direction of the baroque architect Sir Christopher Wren, with the new St Paul's Cathedral as its centrepiece.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/ca/%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%9B%D0%BE%D0%BD%D0%B4%D0%B0%D0%BD%D0%B0%2C_2014_05.JPG/1280px-%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%9B%D0%BE%D0%BD%D0%B4%D0%B0%D0%BD%D0%B0%2C_2014_05.JPG",
+      "width": 1280,
+      "height": 857,
+      "page": "https://commons.wikimedia.org/wiki/File:%D0%9C%D1%83%D0%B7%D0%B5%D0%B9_%D0%9B%D0%BE%D0%BD%D0%B4%D0%B0%D0%BD%D0%B0,_2014_05.JPG",
+      "artist": "Хомелка",
+      "license": "CC BY-SA 4.0",
+      "caption": "A speculative model of the central forum of Londinium at The Museum of London"
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 97
+  },
+  {
+   "id": "224676",
+   "title": "William II Canynges",
+   "description": "English merchant (c. 1399–1474)",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/William_II_Canynges",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Effigy_of_William_II_Canynges_in_mayoral_robes_from_his_tomb%2C_St_Mary_Redcliffe%2C_Bristol%2C_UK_-_20101015.jpg",
+    "width": 1280,
+    "height": 1707,
+    "page": "https://commons.wikimedia.org/wiki/File:Effigy_of_William_II_Canynges_in_mayoral_robes_from_his_tomb,_St_Mary_Redcliffe,_Bristol,_UK_-_20101015.jpg",
+    "artist": "Lobsterthermidor at en.wikipedia.",
+    "license": "CC0"
+   },
+   "cards": [
+    {
+     "text": "William II Canynges (c. 1399–1474) was an English merchant and shipper from Bristol, one of the wealthiest private citizens of his day and an occasional royal financier. He served as Mayor of Bristol five times and as MP for Bristol thrice. He was a generous patron of the arts in Bristol, particularly concerning the church of St Mary Redcliffe in Bristol, \"The crown of Bristol architecture\".",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/53/Effigy_of_William_II_Canynges_in_canonical_vestments%2C_St_Mary_Redcliffe%2C_Bristol%2C_UK_-_20101015.jpg",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:Effigy_of_William_II_Canynges_in_canonical_vestments,_St_Mary_Redcliffe,_Bristol,_UK_-_20101015.jpg",
+      "artist": "Lobsterthermidor at en.wikipedia.",
+      "license": "CC0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "Following the death of his wife Joan in 1467, he renounced civic and commercial life and was ordained a priest in 1468, in which capacity he remained until his death six years later. His tomb effigy in St Mary's later inspired the boy poet Thomas Chatterton to write the romantic poem \"The Storie of William Canynge\".",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Canynges_arms_on_the_tomb_of_William_II_Canynges_and_Joan_Burton%2C_St_Mary_Redcliffe%2C_Bristol%2C_UK_-_20101015.jpg",
+      "width": 1280,
+      "height": 1460,
+      "page": "https://commons.wikimedia.org/wiki/File:Canynges_arms_on_the_tomb_of_William_II_Canynges_and_Joan_Burton,_St_Mary_Redcliffe,_Bristol,_UK_-_20101015.jpg",
+      "artist": "Lobsterthermidor at en.wikipedia.",
+      "license": "CC0",
+      "caption": "Arms of William Canynges, as depicted on his canopied tomb in St Mary Redcliffe: Argent, 3 Moor's heads couped in profile proper wreathed around the temples of the first and azure.[2] The shape of the shield, being a late Tudor (16th century or later) escutcheon suggests this is a later addition or possibly repainting. The arms are however accurate as they match those shown in the contemporary portrait of his elder brother Thomas by Roger Leigh"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 44
+  },
+  {
+   "id": "56251",
+   "title": "Harald Fairhair",
+   "description": "Legendary first king of Norway (c. 850–c. 932)",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Harald_Fairhair",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/1/1b/Flateyjarbok_Haraldr_Halfdan_2.jpg",
+    "width": 1280,
+    "height": 978,
+    "page": "https://commons.wikimedia.org/wiki/File:Flateyjarbok_Haraldr_Halfdan_2.jpg",
+    "artist": "Jón Þórðarson and Magnús Þórhallsson",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Harald Fairhair (Old Norse: Haraldr Hárfagri; c. 850 – c. 932) was a Norwegian king. According to traditions current in Norway and Iceland in the eleventh and twelfth centuries, he reigned from c. 872 to 930 and was the first King of Norway. Supposedly, two of his sons, Eric Bloodaxe and Haakon the Good, succeeded Harald to become kings after his death.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/29/Harald_Fairhead.jpg",
+      "width": 1280,
+      "height": 1821,
+      "page": "https://commons.wikimedia.org/wiki/File:Harald_Fairhead.jpg",
+      "artist": "Morris Meredith Williams",
+      "license": "Public domain",
+      "caption": "Harald Fairhair as imagined by Morris Meredith Williams"
+     }
+    },
+    {
+     "text": "Much of Harald's biography is uncertain. A couple of praise poems by his court poet Þorbjörn Hornklofi survive in fragments, but the extant accounts of his life come from sagas set down in writing around three centuries after his lifetime. His life is described in several of the Kings' sagas, none of them older than the twelfth century.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Ole_Peter_Hansen_Balling_-_Harold_the_Fairhaired_in_the_Battle_at_Hafrsfjord_-_NG.M.03750_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg/1280px-Ole_Peter_Hansen_Balling_-_Harold_the_Fairhaired_in_the_Battle_at_Hafrsfjord_-_NG.M.03750_-_National_Museum_of_Art%2C_Architecture_and_Design.jpg",
+      "width": 1280,
+      "height": 972,
+      "page": "https://commons.wikimedia.org/wiki/File:Ole_Peter_Hansen_Balling_-_Harold_the_Fairhaired_in_the_Battle_at_Hafrsfjord_-_NG.M.03750_-_National_Museum_of_Art,_Architecture_and_Design.jpg",
+      "artist": "Hansen 'Ole Peter' Balling",
+      "license": "Public domain",
+      "caption": "Harald the Fairhaired in the Battle at Hafrsfjord, painting by Ole Peter Hansen Balling"
+     }
+    },
+    {
+     "text": "Their accounts of Harald and his life differ on many points, but it is clear that in the twelfth and thirteenth centuries Harald was regarded as having unified Norway into one kingdom. Since the nineteenth century, when Norway was in a personal union with Sweden, Harald has become a national icon of Norway and a symbol of independence.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Erik_Werenskiold_-_Den_fangne_kong_Gryting_f%C3%B8res_fram_for_kong_Harald_-_NG.K%26H.B.05044_-_National_Museum_of_Art%2C_Architecture_and_Design_%28cropped%29.jpg/1280px-Erik_Werenskiold_-_Den_fangne_kong_Gryting_f%C3%B8res_fram_for_kong_Harald_-_NG.K%26H.B.05044_-_National_Museum_of_Art%2C_Architecture_and_Design_%28cropped%29.jpg",
+      "width": 1280,
+      "height": 1326,
+      "page": "https://commons.wikimedia.org/wiki/File:Erik_Werenskiold_-_Den_fangne_kong_Gryting_f%C3%B8res_fram_for_kong_Harald_-_NG.K%26H.B.05044_-_National_Museum_of_Art,_Architecture_and_Design_(cropped).jpg",
+      "artist": "Erik Werenskiold",
+      "license": "Public domain",
+      "caption": "A scene from Heimskringla: King Gryting is brought before Harald after being defeated in battle."
+     }
+    },
+    {
+     "text": "Though the king's sagas and medieval accounts have been critically scrutinised during the twentieth and early twenty-first centuries, Harald maintains a reputation as the father of the Norwegian nation. At the turn of the 21st century, a few historians have argued that Harald Fairhair did not exist as a historical figure.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/85/Norwegian_petty_kingdoms_ca._930.png",
+      "width": 1280,
+      "height": 2260,
+      "page": "https://commons.wikimedia.org/wiki/File:Norwegian_petty_kingdoms_ca._930.png",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": "Harald I's division of Norway c. 930 CE..mw-parser-output .legend{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .legend-color{display:inline-block;min-width:1.25em;height:1.25em;line-height:1.25;margin:1px 0;text-align:center;border:1px solid black;background-color:transparent;color:black}.mw-parser-output .legend-text{}  The domain of the High King of Norway.  Petty kingdoms assigned to Harald's kinsmen.  The domain of the jarls of Hlaðir.  The domain of the jarls of Møre. Not shown: the domains of the jarls of Norðreyjar and Suðreyjar."
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 80
+  },
+  {
+   "id": "3182765",
+   "title": "Franks Casket",
+   "description": "Anglo-Saxon carved chest",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Franks_Casket",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5a/Franks_casket_03.jpg/1280px-Franks_casket_03.jpg",
+    "width": 1280,
+    "height": 853,
+    "page": "https://commons.wikimedia.org/wiki/File:Franks_casket_03.jpg",
+    "artist": "Unknown",
     "license": "CC BY-SA 3.0"
    },
    "cards": [
     {
-     "text": "The Samlesbury witches were three women from the Lancashire village of Samlesbury – Jane Southworth, Jennet Bierley, and Ellen Bierley – accused by a 14-year-old girl, Grace Sowerbutts, of practising witchcraft. Their trial at Lancaster Assizes in England on 19 August 1612 was one in a series of witch trials held there over two days, among the most infamous in English history.",
-     "image": null
+     "text": "The Franks Casket (or the Auzon Casket) is a small Anglo-Saxon whale's bone (not \"whalebone\" in the sense of baleen) chest from the early 8th century, now in the British Museum. The casket is densely decorated with knife-cut narrative scenes in flat two-dimensional low-relief and with inscriptions mostly in Anglo-Saxon runes. Generally thought to be of Northumbrian origin, it is of unique importance for the insight it gives into early Anglo-Saxon art and culture.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/53/Franks_Casket_1.jpg/1280px-Franks_Casket_1.jpg",
+      "width": 1280,
+      "height": 852,
+      "page": "https://commons.wikimedia.org/wiki/File:Franks_Casket_1.jpg",
+      "artist": "Photograph by Mike Peel (www.mikepeel.net).",
+      "license": "CC BY-SA 4.0",
+      "caption": "Left side and top"
+     }
     },
     {
-     "text": "The trials were unusual for England at that time in two respects: Thomas Potts, the clerk to the court, published the proceedings in his The Wonderfull Discoverie of Witches in the Countie of Lancaster; and the number of the accused found guilty and hanged was unusually high, ten at Lancaster and another at York. All three of the Samlesbury women were acquitted.",
+     "text": "Both identifying the images and interpreting the runic inscriptions has generated a considerable amount of scholarship. The imagery is very diverse in its subject matter and derivations, and includes a single Christian image, the Adoration of the Magi, along with images derived from Roman history (Emperor Titus) and Roman mythology (Romulus and Remus), as well as a depiction of at least one legend indigenous to the Germanic peoples: that of Weyland the Smith.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Samlesbury_Hall_-_geograph.org.uk_-_150049.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c6/Franks_Casket_right_panel_original_on_display_in_Bargello_Museum.jpg/1280px-Franks_Casket_right_panel_original_on_display_in_Bargello_Museum.jpg",
       "width": 1280,
       "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Samlesbury_Hall_-_geograph.org.uk_-_150049.jpg",
-      "artist": "Alexander P Kapp",
-      "license": "CC BY-SA 2.0",
-      "caption": "Samlesbury Hall, family home of the Southworths[14]"
+      "page": "https://commons.wikimedia.org/wiki/File:Franks_Casket_right_panel_original_on_display_in_Bargello_Museum.jpg",
+      "artist": "HuMcCulloch",
+      "license": "CC BY-SA 3.0",
+      "caption": "Original of right panel, on display in Bargello Museum, Florence"
      }
     },
     {
-     "text": "The charges against the women included child murder and cannibalism. In contrast, the others tried at the same assizes, who included the Pendle witches, were accused of maleficium – causing harm by witchcraft. The case against the three women collapsed \"spectacularly\" when the chief prosecution witness, Grace Sowerbutts, was exposed by the trial judge to be \"the perjuring tool of a Catholic priest\".",
+     "text": "It has also been suggested that there may be an episode from the Sigurd legend, an otherwise lost episode from the life of Weyland's brother Egil, a Homeric legend involving Achilles, and perhaps even an allusion to the legendary founding of England by Hengist and Horsa.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Potts.png",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Lipsanoteca_di_Brescia.jpg/1280px-Lipsanoteca_di_Brescia.jpg",
       "width": 1280,
-      "height": 1998,
-      "page": "https://commons.wikimedia.org/wiki/File:Potts.png",
-      "artist": "ElinorD",
+      "height": 1039,
+      "page": "https://commons.wikimedia.org/wiki/File:Lipsanoteca_di_Brescia.jpg",
+      "artist": "RobyBS89",
       "license": "Public domain",
-      "caption": "Title page of the original edition published in 1613"
+      "caption": "The Brescia Casket, one of the best survivals of the sort of Late Antique models the Franks Casket emulates. Late 4th century"
      }
     },
     {
-     "text": "Many historians, notably Hugh Trevor-Roper, have suggested that the witch trials of the 16th and 17th centuries were a consequence of the religious struggles of the period, with both the Catholic and Protestant Churches determined to stamp out what they regarded as heresy.",
-     "image": null
-    },
-    {
-     "text": "The trial of the Samlesbury witches is perhaps one example of that trend; it has been described as \"largely a piece of anti-Catholic propaganda\", and even as a show-trial, to demonstrate that Lancashire, considered at that time to be a wild and lawless region, was being purged not only of witches but also of \"popish plotters\" (i.e., recusant Catholics).",
-     "image": null
+     "text": "The inscriptions \"display a deliberate linguistic and alphabetic virtuosity; though they are mostly written in Old English and in runes, they shift into Latin and the Roman alphabet; then back into runes while still writing Latin\". Some are written upside down or back to front. It is named after a former owner, Sir Augustus Wollaston Franks, who gave it to the British Museum.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Franks_Casket_front.jpg/1280px-Franks_Casket_front.jpg",
+      "width": 1280,
+      "height": 748,
+      "page": "https://commons.wikimedia.org/wiki/File:Franks_Casket_front.jpg",
+      "artist": "John W. Schulze",
+      "license": "CC BY 2.0",
+      "caption": "Detail of front panel, depicting the Germanic legend of Wayland the Smith and the Christian adoration of the Magi"
+     }
     }
    ],
    "truncated": false,
    "readSeconds": 87
   },
   {
-   "id": "77382645",
-   "title": "Scotland in the Iron Age",
-   "description": "",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/Scotland_in_the_Iron_Age",
+   "id": "466760",
+   "title": "Wild man",
+   "description": "Mythical figure",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Wild_man",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg/1280px-Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/23/ADurerWoodwoses1499.jpg",
     "width": 1280,
-    "height": 995,
-    "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg",
-    "artist": "Joan Blaeu",
+    "height": 2050,
+    "page": "https://commons.wikimedia.org/wiki/File:ADurerWoodwoses1499.jpg",
+    "artist": "Albrecht Dürer",
     "license": "Public domain"
    },
    "cards": [
     {
-     "text": "Scotland in the Iron Age concerns the period of prehistory in Scotland from about 800 BCE to the commencement of written records in the early Christian era. As the Iron Age emerged from the preceding Bronze Age, it becomes legitimate to talk of a Celtic culture in Scotland. It was an age of forts and farmsteads, the most dramatic remains of which are brochs some of whose walls still exceed 6.5 m (21 ft) in height.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e7/Bunbury_Vol_2_Map_09_Ptolemy_Britain_p_584.jpg/1280px-Bunbury_Vol_2_Map_09_Ptolemy_Britain_p_584.jpg",
-      "width": 1280,
-      "height": 1084,
-      "page": "https://commons.wikimedia.org/wiki/File:Bunbury_Vol_2_Map_09_Ptolemy_Britain_p_584.jpg",
-      "artist": "Edward Bunbury",
-      "license": "Public domain",
-      "caption": "Map drawn from Claudius Ptolemy's cartographic works, showing his rotation of Caledonia to the east. From Edward Bunbury's A History of Ancient Geography Among the Greeks and Romans (1879)"
-     }
-    },
-    {
-     "text": "Pastoral farming was widespread but as the era progressed there is more evidence of cereal growing and increasing intensification of agriculture. Unlike the previous epochs of human occupation, early Iron Age burial sites in Scotland are relatively rare although monasteries and other religious sites were constructed in the last centuries of the period. The Stirling torcs are amongst examples of high quality crafts produced at an early date and the Pictish symbol stones are emblematic of later times.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/87/Dun_Vulan_20090609_04.jpg",
-      "width": 1280,
-      "height": 845,
-      "page": "https://commons.wikimedia.org/wiki/File:Dun_Vulan_20090609_04.jpg",
-      "artist": "Otter",
-      "license": "CC BY-SA 3.0",
-      "caption": "Dun Vulan broch site, showing concrete surrounds to protect it from coastal erosion"
-     }
-    },
-    {
-     "text": "Some authorities consider the Iron Age to have ended with the first century invasions by the Romans. However much of Scotland remained outside of the Roman world and after the departure of the legions the Celtic Iron Age way of life, often troubled but never extinguished by Rome, re-asserted itself for several centuries more.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/40/Britain.north.peoples.Ptolemy.jpg/1280px-Britain.north.peoples.Ptolemy.jpg",
-      "width": 1280,
-      "height": 1859,
-      "page": "https://commons.wikimedia.org/wiki/File:Britain.north.peoples.Ptolemy.jpg",
-      "artist": "(myself)",
-      "license": "CC BY-SA 3.0",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 70
-  },
-  {
-   "id": "144455",
-   "title": "Beverley Minster",
-   "description": "Church in the East Riding of Yorkshire, England",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Beverley_Minster",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/37/Beverley_-_Minster_-_19.jpg/1280px-Beverley_-_Minster_-_19.jpg",
-    "width": 1280,
-    "height": 1707,
-    "page": "https://commons.wikimedia.org/wiki/File:Beverley_-_Minster_-_19.jpg",
-    "artist": "Benjamin Smith",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "Beverley Minster, otherwise known as the Parish Church of Saint John and Saint Martin, in Beverley, East Riding of Yorkshire, is a parish church in the Church of England. It is one of the largest parish churches in the UK, larger than one-third of all English cathedrals and is regarded as a Gothic masterpiece.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6f/Beverley_-_Minster_-_18.jpg/1280px-Beverley_-_Minster_-_18.jpg",
-      "width": 1280,
-      "height": 2048,
-      "page": "https://commons.wikimedia.org/wiki/File:Beverley_-_Minster_-_18.jpg",
-      "artist": "Benjamin Smith",
-      "license": "CC BY-SA 4.0",
-      "caption": "The Perpendicular Gothic West front of Beverley Minster"
-     }
-    },
-    {
-     "text": "Originally a collegiate church, it was not selected as a bishop's seat during the Dissolution of the Monasteries; nevertheless, it survived as a parish church and the chapter house and the attached church of St Martin were the only major parts of the building to be lost. It is part of the Major Churches Network and a Grade I listed building.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Beverley_Minster_rose_window.jpg",
-      "width": 1280,
-      "height": 934,
-      "page": "https://commons.wikimedia.org/wiki/File:Beverley_Minster_rose_window.jpg",
-      "artist": "http://en.wikipedia.org/wiki/User:Camposanta",
-      "license": "Public domain",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 42
-  },
-  {
-   "id": "9574321",
-   "title": "Park Street, Bristol",
-   "description": "Street in Bristol, England",
-   "topic": "bristol",
-   "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Park_Street,_Bristol",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f1/Park_Street%2C_Bristol_-_geograph.org.uk_-_2393250.jpg/1280px-Park_Street%2C_Bristol_-_geograph.org.uk_-_2393250.jpg",
-    "width": 1280,
-    "height": 958,
-    "page": "https://commons.wikimedia.org/wiki/File:Park_Street,_Bristol_-_geograph.org.uk_-_2393250.jpg",
-    "artist": "Chris Denny",
-    "license": "CC BY-SA 2.0"
-   },
-   "cards": [
-    {
-     "text": "Park Street is a major shopping street in Bristol, England, linking the city centre to Clifton. It forms part of the A4018. The building of Park Street started in 1761 and it was Bristol's earliest example of uniformly stepped hillside terracing. The street runs from College Green up a steep incline northwards to join Park Row near the eastern corner of the Clifton Triangle.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a1/Location_map_United_Kingdom_Bristol_Central1.png/1280px-Location_map_United_Kingdom_Bristol_Central1.png",
-      "width": 1280,
-      "height": 1142,
-      "page": "https://commons.wikimedia.org/wiki/File:Location_map_United_Kingdom_Bristol_Central1.png",
-      "artist": "OpenStreetMap",
-      "license": "CC BY-SA 3.0",
-      "caption": ""
-     }
-    },
-    {
-     "text": "Looking up the street there is a dramatic view of the Wills Memorial Building. Along with nearby Brandon Hill and some neighbouring streets it forms the Park Street and Brandon Hill Conservation Area.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/04/Park_Street_viewed_from_College_Green.jpg/1280px-Park_Street_viewed_from_College_Green.jpg",
-      "width": 1280,
-      "height": 1178,
-      "page": "https://commons.wikimedia.org/wiki/File:Park_Street_viewed_from_College_Green.jpg",
-      "artist": "Unknown authorUnknown author",
-      "license": "Public domain",
-      "caption": "Park Street viewed from College Green in the early 20th century"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 37
-  },
-  {
-   "id": "189716",
-   "title": "William Stukeley",
-   "description": "English antiquarian (1687–1765)",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/William_Stukeley",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/6/6f/William_Stukeley_attributed_to_Richard_Collins.jpg",
-    "width": 1280,
-    "height": 2010,
-    "page": "https://commons.wikimedia.org/wiki/File:William_Stukeley_attributed_to_Richard_Collins.jpg",
-    "artist": "Attributed to Richard Collins",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "William Stukeley (7 November 1687 – 3 March 1765) was an English antiquarian, physician, and Anglican clergyman. A significant influence on the later development of archaeology, he pioneered the scholarly investigation of the prehistoric monuments of Stonehenge and Avebury in Wiltshire. He published over twenty books on archaeology and other subjects during his lifetime.",
+     "text": "The wild man (German: Wilder Mann, der Wilde Mann), or wild man of the woods, is a mythical figure and motif resembling a hairy human that appears in the art and literature of medieval Europe. Generally they are considered a large-statured race of humans who are hairy all over their body, and live in the wilderness or woodlands.",
      "image": null
     },
     {
-     "text": "Born in Holbeach, Lincolnshire as the son of a lawyer, Stukeley worked in his father's law business before attending Bene't College, Cambridge. In 1709 he began studying medicine at St Thomas' Hospital, Southwark, before working as a general practitioner in Boston, Lincolnshire. From 1710 till 1725 he embarked on annual tours of the countryside, seeking out archaeological monuments and other features that interested him; he wrote up and published several accounts of his travels.",
+     "text": "They are often thought to be covered with moss, or wear green or vegetative clothing, and iconically wield a club or hold an uprooted tree as a staff. They also occur in female versions as wild women. The Wilde Mann (Middle High German: wilde man) is attested in Middle High German literature, particularly German heroic epics, while the female Wilde Weib (wildez wîp) figures in the Arthurian works, typically appear as adversaries.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Rollright_Stones_%28part%29%2C_Oxfordshire_-_geograph.org.uk_-_605684.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/24/Tugendreiche_Dame_z%C3%A4hmt_Wildmann.png/1280px-Tugendreiche_Dame_z%C3%A4hmt_Wildmann.png",
       "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Rollright_Stones_(part),_Oxfordshire_-_geograph.org.uk_-_605684.jpg",
-      "artist": "Brian Robert Marshall",
-      "license": "CC BY-SA 2.0",
-      "caption": "The Rollright Stones, which Stukeley visited, describing it as \"the greatest Antiquity we have yet seen... a very noble, rustic, sight\" which could \"strike an odd terror upon the spectators\".[19]"
-     }
-    },
-    {
-     "text": "In 1717, he returned to London and established himself within the city's antiquarian circles. In 1718 he was elected a Fellow of the Royal Society and became the first secretary of the Society of Antiquaries of London. In 1721 he became a Freemason and in 1722 co-founded the Society of Roman Knights, an organisation devoted to the study of Roman Britain.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/6/65/Stonehenge_Stukeley.jpg",
-      "width": 1280,
-      "height": 669,
-      "page": "https://commons.wikimedia.org/wiki/File:Stonehenge_Stukeley.jpg",
-      "artist": "William Stukeley",
+      "height": 1019,
+      "page": "https://commons.wikimedia.org/wiki/File:Tugendreiche_Dame_z%C3%A4hmt_Wildmann.png",
+      "artist": "unknown, Basel",
       "license": "Public domain",
-      "caption": "An inward view of Stonehenge from August 1722[34]"
+      "caption": "Late 15th century tapestry from Basel, showing a wild man being tamed by a virtuous lady"
      }
     },
     {
-     "text": "In the early 1720s, Stukeley developed a particular interest in Stonehenge and Avebury, two prehistoric stone circles in Wiltshire. He visited them repeatedly, undertaking fieldwork to determine their dimensions.  In 1726 Stukeley relocated to Grantham, Lincolnshire, where he married. In 1729 he was ordained as a cleric in the Church of England and appointed vicar of All Saints' Church in Stamford, Lincolnshire.",
+     "text": "These beings are also called by names meaning \"wood men\" and in older forms of the language, \"wood maiden\", \"wood wife\", or \"wood woman\". In Middle English a corresponding term for the wild man is woodwose or wodewose. In the folklore of German-speaking areas collected mainly in the 19th century, there are especially the Alpine wild men and wild women.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/William_Stukeley._Line_engraving%2C_1776%2C_after_I._Whood%2C_1727_Wellcome_V0005651.jpg/1280px-William_Stukeley._Line_engraving%2C_1776%2C_after_I._Whood%2C_1727_Wellcome_V0005651.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/bf/The_Fight_in_the_Forest_%28Hans_Burgkmair_d._%C3%84.%29.jpg",
       "width": 1280,
-      "height": 1815,
-      "page": "https://commons.wikimedia.org/wiki/File:William_Stukeley._Line_engraving,_1776,_after_I._Whood,_1727_Wellcome_V0005651.jpg",
-      "artist": "Unknown",
-      "license": "CC BY 4.0",
-      "caption": "A 1776 line engraving of Stukeley, based on a 1727 illustration by I. Whood"
-     }
-    },
-    {
-     "text": "He was a friend of the Archbishop of Canterbury William Wake, who encouraged him to use his antiquarian studies to combat the growth of deism and freethought in Britain. To this end, Stukeley developed the belief that Britain's ancient druids had followed a monotheistic religion inherited from the Biblical Patriarchs; he called this druidic religion \"Patriarchal Christianity\". He further argued that the druids had erected the stone circles as part of serpentine monuments symbolising the Trinity.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Stukelykitscoty.jpg",
-      "width": 1280,
-      "height": 402,
-      "page": "https://commons.wikimedia.org/wiki/File:Stukelykitscoty.jpg",
-      "artist": "Unknown",
+      "height": 942,
+      "page": "https://commons.wikimedia.org/wiki/File:The_Fight_in_the_Forest_(Hans_Burgkmair_d._%C3%84.).jpg",
+      "artist": "Hans Burgkmair the Elder",
       "license": "Public domain",
-      "caption": "Stukeley's drawings such as this 1722 prospect of Kit's Coty House in Kent have provided valuable information on monuments since damaged."
+      "caption": "The Fight in the Forest, drawing by Hans Burgkmair, possibly of a scene from the Middle High German poem Sigenot, about Dietrich von Bern"
+     }
+    },
+    {
+     "text": "These beings could be man-hunters or otherwise be sinister, but could also endow luck or bounty, exhibiting aspects of woodland spirits. The folklore that had developed in the mining areas around Harz or Ore Mountains by the 16th century regarded the wild man of the mines (also known as \"mountain monk\") as potentially both dangerous and beneficent, guiding humans to the discovery of ore deposits.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ec/Karlsruhe_BLB_CodDon71_125r-Wigalois%26Ruel.jpg/1280px-Karlsruhe_BLB_CodDon71_125r-Wigalois%26Ruel.jpg",
+      "width": 1280,
+      "height": 1479,
+      "page": "https://commons.wikimedia.org/wiki/File:Karlsruhe_BLB_CodDon71_125r-Wigalois%26Ruel.jpg",
+      "artist": "Diebold Lauber's workshop in Hagenau, Alsace or perhaps more likely, the so-call",
+      "license": "Public domain",
+      "caption": "The fearsome Rûel (considered a wild woman) carrying off Wigalois"
+     }
+    },
+    {
+     "text": "The house of the Princes of Brunswick-Wolfenbüttel (Brunswick-Lüneburg), which controlled one of the silver mines, minted silver thaler ('dollar') coinage with the wild man in their coat-of-arms, starting 1539. These wild men had already frequently appeared in European family heraldic devices since the latter half of the 15th century. It also became commonplace to depict the wild man as shield-bearers of the family coat of arms (e.g., within a portrait painting by Albrecht Dürer, cf. image right).",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ae/Wildweibchen_mit_Einhorn.jpg/1280px-Wildweibchen_mit_Einhorn.jpg",
+      "width": 1280,
+      "height": 1572,
+      "page": "https://commons.wikimedia.org/wiki/File:Wildweibchen_mit_Einhorn.jpg",
+      "artist": "UnknownUnknown , Strassburg",
+      "license": "Public domain",
+      "caption": "Wild woman with unicorn, tapestry c. 1500–1510 (Basel Historical Museum).[av]"
      }
     }
    ],
    "truncated": true,
-   "readSeconds": 105
+   "readSeconds": 107
   },
   {
-   "id": "7487759",
-   "title": "Synod of Kells",
-   "description": "",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Synod_of_Kells",
+   "id": "644272",
+   "title": "John Pinkerton",
+   "description": "Scottish antiquarian",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/John_Pinkerton",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/36/Old_Mellifont_Abbey_8.jpg/1280px-Old_Mellifont_Abbey_8.jpg",
+    "src": "https://upload.wikimedia.org/wikipedia/commons/5/50/John_Pinkerton%2C_PA06324.jpg",
     "width": 1280,
-    "height": 853,
-    "page": "https://commons.wikimedia.org/wiki/File:Old_Mellifont_Abbey_8.jpg",
-    "artist": "Oliver Gargan",
-    "license": "CC BY-SA 4.0"
+    "height": 2019,
+    "page": "https://commons.wikimedia.org/wiki/File:John_Pinkerton,_PA06324.jpg",
+    "artist": "Holl, William the Elder (British stipple engraver, 1771-1838) (artist) (graphic ",
+    "license": "Public domain"
    },
    "cards": [
     {
-     "text": "The Synod of Kells (Irish: Sionad Cheanannais, Latin: Kenana Synodus) took place in 1152, under the presidency of Giovanni Cardinal Paparoni, and continued the process begun at the Synod of Ráth Breasail (1111) of reforming the Irish church. The sessions were divided between the abbeys of Kells and Mellifont, and in later times the synod has been called the Synod of Kells-Mellifont and the Synod of Mellifont-Kells.",
-     "image": null
+     "text": "John Pinkerton (17 February 1758 – 10 March 1826) was a Scottish antiquarian, cartographer, author, numismatist, historian, and early advocate of Germanic racial supremacy theory. He was born in Edinburgh, as one of three sons to James Pinkerton and Mary (nee Heron or Bowie) Pinkerton. He lived in the neighbourhood of that city for some of his earliest childhood years, but later moved to Lanark.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d6/Cameo_of_John_Pinkerton.jpg/1280px-Cameo_of_John_Pinkerton.jpg",
+      "width": 1280,
+      "height": 1922,
+      "page": "https://commons.wikimedia.org/wiki/File:Cameo_of_John_Pinkerton.jpg",
+      "artist": "Stephencdickson",
+      "license": "CC BY-SA 4.0",
+      "caption": "Cameo of John Pinkerton"
+     }
     },
     {
-     "text": "Its main effect was to increase the number of archbishops from two to four, and to redefine the number and size of dioceses. The Primacy of Ireland was granted to the Archdiocese of Armagh.",
-     "image": null
+     "text": "His studious youth brought him extensive knowledge of the Classics, and it is known that in his childhood years he enjoyed translating Roman authors such as Livy. He moved on to Edinburgh University, and after graduating, remained in the city to take up an apprenticeship in Law. However, his scholarly inclinations led him to abandon the legal profession after he began writing Elegy on Craigmillar Castle, first published in 1776.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/60/Cape_Colony00.jpg",
+      "width": 1280,
+      "height": 798,
+      "page": "https://commons.wikimedia.org/wiki/File:Cape_Colony00.jpg",
+      "artist": "John Pinkerton",
+      "license": "Public domain",
+      "caption": "1809 Cape Colony map by John Pinkerton"
+     }
     }
    ],
    "truncated": false,
-   "readSeconds": 30
+   "readSeconds": 47
   },
   {
-   "id": "69496117",
-   "title": "Ilkley Moor UFO incident",
-   "description": "Supposed alien abduction in 1987",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Ilkley_Moor_UFO_incident",
+   "id": "1503265",
+   "title": "Derrynaflan Chalice",
+   "description": "8th- or 9th-century chalice",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Derrynaflan_Chalice",
    "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/2/2d/Ilkley_Moor.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a6/Calice_argenteo%2C_da_derrynaflan%2C_contea_di_tipperary%2C_ix_secolo%2C_01.jpg/1280px-Calice_argenteo%2C_da_derrynaflan%2C_contea_di_tipperary%2C_ix_secolo%2C_01.jpg",
     "width": 1280,
-    "height": 851,
-    "page": "https://commons.wikimedia.org/wiki/File:Ilkley_Moor.jpg",
-    "artist": "TJBlackwell",
+    "height": 1135,
+    "page": "https://commons.wikimedia.org/wiki/File:Calice_argenteo,_da_derrynaflan,_contea_di_tipperary,_ix_secolo,_01.jpg",
+    "artist": "Sailko",
     "license": "CC BY 3.0"
    },
    "cards": [
     {
-     "text": "The Ilkley Moor UFO incident refers to an alleged UFO encounter on Ilkley Moor on 1 December 1987. A retired police officer reported being abducted by extraterrestrial beings during a morning walk, briefly detained aboard their craft and subsequently returned to the moor. He took a photograph of the surrounding landscape that he claimed depicted one of the beings involved in the abduction.",
-     "image": null
-    },
-    {
-     "text": "The photograph subsequently received coverage in the UK media and has been cited by some UFO researchers as evidence of extraterrestrial visitation. Other assessments have described the image as “incredibly blurry”, while sceptical interpretations have suggested that the figure may depict a person or a cardboard cut-out. The authenticity of the photograph remains disputed.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 35
-  },
-  {
-   "id": "4968509",
-   "title": "Layer Marney Tower",
-   "description": "Prodigy House in Layer Marney, Essex",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Layer_Marney_Tower",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Layer_Marney_gatehouse_03.jpg/1280px-Layer_Marney_gatehouse_03.jpg",
-    "width": 1280,
-    "height": 1706,
-    "page": "https://commons.wikimedia.org/wiki/File:Layer_Marney_gatehouse_03.jpg",
-    "artist": "Poliphilo",
-    "license": "CC0"
-   },
-   "cards": [
-    {
-     "text": "Layer Marney Tower is an incomplete early Tudor country house, with gardens and parkland, dating from about 1523, in Layer Marney, Essex, England, between Colchester and Maldon. The building was designated Grade I listed in 1952. The large gatehouse tower is much the most striking element to be completed and to survive.",
-     "image": null
-    },
-    {
-     "text": "Constructed in the first half of the reign of Henry VIII, Layer Marney Tower is in many ways the apotheosis of the Tudor gatehouse, and is the tallest example in Britain. It is contemporaneous with East Barsham Manor in Norfolk and Sutton Place, Surrey, with which latter building it shares the rare combination of brick and terracotta construction.",
+     "text": "The Derrynaflan Chalice is an 8th- or 9th-century chalice that was found as part of the Derrynaflan Hoard of five liturgical vessels. The discovery was made on 17 February 1980 near Killenaule, County Tipperary in Ireland. According to art historian Michael Ryan the hoard \"represents the most complex and sumptuous expression of the ecclesiastical art-style of early-medieval Ireland as we know it in its eighth- and ninth-century maturity.\"",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Layer_Marney_gatehouse_02.jpg/1280px-Layer_Marney_gatehouse_02.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Calice_argenteo%2C_da_derrynaflan%2C_contea_di_tipperary%2C_ix_secolo%2C_05%2C0.jpg/1280px-Calice_argenteo%2C_da_derrynaflan%2C_contea_di_tipperary%2C_ix_secolo%2C_05%2C0.jpg",
       "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Layer_Marney_gatehouse_02.jpg",
-      "artist": "Poliphilo",
-      "license": "CC0",
-      "caption": "The house and tower from the garden"
+      "height": 1181,
+      "page": "https://commons.wikimedia.org/wiki/File:Calice_argenteo,_da_derrynaflan,_contea_di_tipperary,_ix_secolo,_05,0.jpg",
+      "artist": "Sailko",
+      "license": "CC BY 3.0",
+      "caption": "Detail"
      }
     },
     {
-     "text": "The building is principally the creation of Henry 1st Lord Marney, who died in 1523, and his son John, who continued the building work but died just two years later, leaving no male heirs to continue the family line or the construction. What was completed was the main range measuring some 300 feet (91 m) long, the principal gatehouse that is about 80 feet (24 m) tall, an array of outbuildings, and a new church.",
+     "text": "The area known as Derrynaflan is an island of pastureland surrounded by bogland, which was the site of an early Irish abbey. The chalice was found with a composite silver paten, a hoop that may have been a stand for the paten, a liturgical strainer and a bronze basin inverted over the other objects. The group is among the most important surviving examples of Insular metalwork.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Patena_d%27argento_con_sostegno_di_bronzo%2C_da_derrynaflan%2C_contea_di_tipperary%2C_viii_secolo%2C_01.jpg/1280px-Patena_d%27argento_con_sostegno_di_bronzo%2C_da_derrynaflan%2C_contea_di_tipperary%2C_viii_secolo%2C_01.jpg",
+      "width": 1280,
+      "height": 908,
+      "page": "https://commons.wikimedia.org/wiki/File:Patena_d%27argento_con_sostegno_di_bronzo,_da_derrynaflan,_contea_di_tipperary,_viii_secolo,_01.jpg",
+      "artist": "Sailko",
+      "license": "CC BY 3.0",
+      "caption": "Derrynaflan Paten"
+     }
+    },
+    {
+     "text": "It was donated to the Irish State and the items are now on display in the National Museum of Ireland. The hoard was probably secreted during the turbulent 10th to 12th centuries, when Viking raids and dynastic turmoil created many occasions when valuables were hidden. The early and later 10th century is marked by a particular concentration of hoarding in Ireland.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5f/Ireland_2010_etc_032.jpg/1280px-Ireland_2010_etc_032.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Ireland_2010_etc_032.jpg",
+      "artist": "Johnbod",
+      "license": "CC BY-SA 3.0",
+      "caption": "Detail"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 67
+  },
+  {
+   "id": "5866242",
+   "title": "Ringlemere Cup",
+   "description": "Bronze Age vessel",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Ringlemere_Cup",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/ff/Ringlemere_EBA_Cup_%28FindID_49483%29.jpg/1280px-Ringlemere_EBA_Cup_%28FindID_49483%29.jpg",
+    "width": 1280,
+    "height": 1829,
+    "page": "https://commons.wikimedia.org/wiki/File:Ringlemere_EBA_Cup_(FindID_49483).jpg",
+    "artist": "The Portable Antiquities Scheme, Daniel Pett, 2003-07-29 16:01:39",
+    "license": "CC BY-SA 2.0"
+   },
+   "cards": [
+    {
+     "text": "The Ringlemere Gold Cup is a Bronze Age vessel found in the Ringlemere barrow near Sandwich in the English county of Kent in 2001. Its discovery marked the beginning of research into and excavation of ring marks in the surrounding soil and what was later termed the Ringlemere Barrow. This find inspired further research by the British Museum and others into the connection between the Ringlemere Cup and others like it, published as a book in 2006.",
+     "image": null
+    },
+    {
+     "text": "It is thought that the cup was not a grave good, but a votive offering independent of any inhumation, which was placed at the centre of the barrow in about 1700–1500 BC. No contemporary burials have been found at the site, although later Iron Age ones have since been found, along with an Anglo-Saxon cemetery.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/Ringlemere_Cup_detail.jpg/1280px-Ringlemere_Cup_detail.jpg",
+      "width": 1280,
+      "height": 1408,
+      "page": "https://commons.wikimedia.org/wiki/File:Ringlemere_Cup_detail.jpg",
+      "artist": "Unknown",
+      "license": "CC BY-SA 3.0",
+      "caption": "Side view showing rivets and pointillé lip decoration"
+     }
+    },
+    {
+     "text": "Only seven similar gold \"unstable handled cups\" (unstable because round-bottomed) have been found in Europe, all dating to the period between 1700 and 1500 BC. The Ringlemere cup is most similar to the other British example, the Rillaton gold cup found in Cornwall in 1837. The other examples are two from Germany, two from Switzerland, one now lost from Brittany, and an unprovenanced, perhaps German, example.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Rillaton_gold_cup.jpg/1280px-Rillaton_gold_cup.jpg",
+      "width": 1280,
+      "height": 1263,
+      "page": "https://commons.wikimedia.org/wiki/File:Rillaton_gold_cup.jpg",
+      "artist": "Fæ",
+      "license": "CC BY-SA 3.0",
+      "caption": "Rillaton gold cup"
+     }
+    },
+    {
+     "text": "Two other silver cups and, from Britain, two amber and some shale cups all share the same basic shapes (see Hove amber cup). The finds in Britain are in the approximate Wessex area, and on the continent near the Rhine or the Channel coast, suggesting that the vessels, though probably all made fairly locally to their find spots, related to a specific cross-channel trading zone.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/86/Ringlemere_Cup_Book.jpg/1280px-Ringlemere_Cup_Book.jpg",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:Ringlemere_Cup_Book.jpg",
+      "artist": "IceDragon64",
+      "license": "CC BY-SA 4.0",
+      "caption": "The book about the cup and the surrounding context, as well as the range of similar cups from across Europe"
+     }
+    },
+    {
+     "text": "The cup is usually on display in Room 2 of the Prehistory Galleries in the British Museum, London. As a popular gold piece, it is sometimes loaned to exhibitions.",
      "image": null
     }
    ],
    "truncated": false,
-   "readSeconds": 56
+   "readSeconds": 92
   },
   {
-   "id": "13183190",
-   "title": "Underfall Yard",
-   "description": "Boatyard in Bristol, England",
-   "topic": "bristol",
-   "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Underfall_Yard",
+   "id": "1709000",
+   "title": "Kenwood House",
+   "description": "Country house in Hampstead, London",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Kenwood_House",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/Underfall_Yard_Pump_Room.jpg/1280px-Underfall_Yard_Pump_Room.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0b/Kenwood_House_2.jpg/1280px-Kenwood_House_2.jpg",
     "width": 1280,
     "height": 853,
-    "page": "https://commons.wikimedia.org/wiki/File:Underfall_Yard_Pump_Room.jpg",
-    "artist": "BlytheVarney",
+    "page": "https://commons.wikimedia.org/wiki/File:Kenwood_House_2.jpg",
+    "artist": "MrsEllacott",
     "license": "CC BY-SA 4.0"
    },
    "cards": [
     {
-     "text": "The Underfall Yard is a historic boatyard on Spike Island serving Bristol Harbour in England. Underfall Yard was commonly referred to as \"The Underfalls\" and takes its name from the underfall sluices. The construction was completed in 1809 under the direction of William Jessop and substantially improved by Isambard Kingdom Brunel in the 1830s.",
+     "text": "Kenwood House (also known as the Iveagh Bequest) is a stately home in Hampstead, London, on the northern boundary of Hampstead Heath. The present house, built in the late 17th century, was remodelled in the 18th century for William Murray, 1st Earl of Mansfield by Scottish architect Robert Adam, serving as a residence for the Earls of Mansfield until the 20th century.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/74/Underfall_Yard_%2C_Bristol%2C_England_arp.jpg/1280px-Underfall_Yard_%2C_Bristol%2C_England_arp.jpg",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cb/Kenwood_by_Robert_and_James_Adam%2C_published_1764_edited.jpg",
       "width": 1280,
-      "height": 948,
-      "page": "https://commons.wikimedia.org/wiki/File:Underfall_Yard_,_Bristol,_England_arp.jpg",
-      "artist": "Myself (Adrian Pingstone).",
+      "height": 889,
+      "page": "https://commons.wikimedia.org/wiki/File:Kenwood_by_Robert_and_James_Adam,_published_1764_edited.jpg",
+      "artist": "Unknown",
       "license": "Public domain",
-      "caption": "General view of Underfall Yard"
+      "caption": "Elevations of the north and south fronts of Kenwood by Robert and James Adam"
      }
     },
     {
-     "text": "Restored in the 1990s, Underfall Yard has been designated as a scheduled monument and from the 1970s onward many of the buildings at Underfall Yard have been given Grade II Listed Building status. The harbour and its equipment are still maintained, and house a number of maritime related companies.",
+     "text": "The house and part of the grounds were bought from the 6th Earl of Mansfield in 1925 by Edward Guinness, 1st Earl of Iveagh, and donated to the nation in 1927. The entire estate came under ownership of the London County Council and was open to the public by the end of the 1920s. It remains a popular local tourist attraction.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c1/Underfallsluices.JPG/1280px-Underfallsluices.JPG",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/21/RobertAdamLibraryKenwood1774_edited.jpg",
       "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Underfallsluices.JPG",
-      "artist": "Rodw",
+      "height": 959,
+      "page": "https://commons.wikimedia.org/wiki/File:RobertAdamLibraryKenwood1774_edited.jpg",
+      "artist": "Unknown",
       "license": "Public domain",
-      "caption": "The sluices"
+      "caption": "The library plan, above the fireplace was Lord Mansfield's painting by David Martin"
      }
     }
    ],
    "truncated": false,
-   "readSeconds": 39
+   "readSeconds": 44
+  },
+  {
+   "id": "12186119",
+   "title": "Parkfield Colliery",
+   "description": "Former UK coal mine",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/Parkfield_Colliery",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3d/Parkfield_Colliery_Chimney._%28Disused%29_-_panoramio.jpg/1280px-Parkfield_Colliery_Chimney._%28Disused%29_-_panoramio.jpg",
+    "width": 1280,
+    "height": 1552,
+    "page": "https://commons.wikimedia.org/wiki/File:Parkfield_Colliery_Chimney._(Disused)_-_panoramio.jpg",
+    "artist": "Bob&Anne Powell",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "Parkfield Colliery was a coal mine near Pucklechurch, South Gloucestershire, England. It was sunk in 1851 under the ownership of Handel Cossham. Coal was reached in 1853. The shaft was 840 ft (260 m) deep, but only the upper series of coal veins were worked. These were the Hard, the Top, the Hollybush and Great veins. The quality of the coal mined was extremely good, and was used for gas manufacture and house coal.",
+     "image": null
+    },
+    {
+     "text": "Handel Cossham died in 1890 and the pit was put up for sale. (Along with other pits he owned at Deep Pit, South Pit and Speedwell.) It was purchased by Bristol United Collieries, owners of Dean Lane, Easton, Hanham, Pennywell Road and Whitehall collieries. They formed a new company to manage their assets called The Bedminster, Easton, Kingswood and Parkfield Collieries Ltd.",
+     "image": null
+    },
+    {
+     "text": "A survey of Parkfield Colliery at the time of sale noted that it had two horizontal direct-acting steam winding engines each with 28 in (71 cm) cylinders, a 4 ft (1.2 m) stroke and a drum 15 ft (4.6 m) in diameter. These had been made by Teague & Chew of Cinderford in the Forest of Dean. There were two 38 ft (12 m) high headgears, each with two pulley wheels of 15 ft (4.6 m) diameter.",
+     "image": null
+    },
+    {
+     "text": "Steam was provided by four Lancashire boilers which measured 27 by 7 ft (8.2 by 2.1 m). A ventilating fan measured 18 by 7 ft (5.5 by 2.1 m) and was driven by a pair of horizontal engines which had 14 in (36 cm) cylinders and a 16 in (41 cm) stroke. A Cornish pumping engine had a 54 in (1.4 m) cylinder and a 7 ft (2.1 m) stroke and was powered by two Lancashire boilers.",
+     "image": null
+    },
+    {
+     "text": "The pit had an endless haulage system comprising a beam engine and two galvanized ropes, each 990 ft (300 m) in length. Underground there were three engines for haulage, 5,250 ft (1.60 km) of single T-headed rails, 4,350 ft (1,330 m) of bridge rails and 5,400 ft (1,600 m) of tram bridge rails.",
+     "image": null
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 93
+  },
+  {
+   "id": "11213762",
+   "title": "Bald's Leechbook",
+   "description": "Medieval collection of medical remedies",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Bald%27s_Leechbook",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Bald%27s_Leechbook_page.jpg",
+    "width": 1280,
+    "height": 1778,
+    "page": "https://commons.wikimedia.org/wiki/File:Bald%27s_Leechbook_page.jpg",
+    "artist": "Unknown, the Internet Archive scan is low quality, and some of the text that is ",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Bald's Leechbook (also known as Medicinale Anglicum) is a medical text in Old English and Medieval Latin probably compiled in the mid-10th century, possibly under the influence of Alfred the Great's educational reforms. The term Leechbook is not related to leeches as such, although they were used in ancient medicine, but a modernisation of the Old English word lǣċe-bōc ('book of medical prescriptions', literally Old English lǣċe 'physician' + bōc 'book').",
+     "image": null
+    },
+    {
+     "text": "The Leechbook's name comes from its owner; a Latin verse colophon at the end of the second book begins Bald habet hunc librum Cild quem conscribere iussit, meaning \"Bald owns this book which he ordered Cild to compile.\" The text survives in only one manuscript, which is in the British Library in London, England, and can be viewed in digitised form online. The manuscript contains a further medical text, called Leechbook III, which is also covered in this article.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 43
+  },
+  {
+   "id": "34393",
+   "title": "Yule log",
+   "description": "Log burnt on a hearth as a Christmas tradition",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Yule_log",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Chambers_Yule_Log.png/1280px-Chambers_Yule_Log.png",
+    "width": 1280,
+    "height": 1233,
+    "page": "https://commons.wikimedia.org/wiki/File:Chambers_Yule_Log.png",
+    "artist": "Robert Chambers",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The Yule log is a specially selected log burnt on a hearth as a winter tradition in regions of Europe, and subsequently North America. Today, this tradition is celebrated by Christians and modern pagans on or around Christmas or Yule. The name by which this tradition goes, as well as when and how the Yule log should be burnt, varies widely with time and place.",
+     "image": null
+    },
+    {
+     "text": "The first solid evidence for this tradition originates in 1184 AD as a Christmas eve tradition. The practice was originally known as the \"Christmas log\" (and still is in languages other than English), with \"Yule log\" first used in the late 17th century.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/07/Embrasement_de_la_b%C3%BBche_du_cacho_fio.jpg",
+      "width": 1280,
+      "height": 1052,
+      "page": "https://commons.wikimedia.org/wiki/File:Embrasement_de_la_b%C3%BBche_du_cacho_fio.jpg",
+      "artist": "otbeaumes",
+      "license": "CC BY 2.0",
+      "caption": "Cacho fio Noël celebrations in Beaumes-de-Venise."
+     }
+    },
+    {
+     "text": "The origins of the Yule log are unclear, with scholars proposing a variety of possible theories ranging from a medieval Christmas tradition, a surviving ritual from Albanian, Roman, Celtic, Germanic, Baltic or Slavic paganism, or as a Proto-Indo-European ritual that has survived in a variety of cultures until today. ",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c7/Vasari_tempio_santo_stefano_alla_vittoria_pozzo_della_chiana.jpg/1280px-Vasari_tempio_santo_stefano_alla_vittoria_pozzo_della_chiana.jpg",
+      "width": 1280,
+      "height": 956,
+      "page": "https://commons.wikimedia.org/wiki/File:Vasari_tempio_santo_stefano_alla_vittoria_pozzo_della_chiana.jpg",
+      "artist": "Mauro Pieri",
+      "license": "CC BY-SA 4.0",
+      "caption": "Val di Chiana, Tuscany, Italy, where it was customary to sing a prayer during the \"cerimonia del ceppo\" (log ceremony). Later, blindfolded children (later rewarded with sweets and other gifts), had to hit the log, while the rest of the family sang a particular song, called \"Ave Maria del Ceppo\".[8]"
+     }
+    },
+    {
+     "text": "Folklorist Linda Watts provides the following overview of the English Yule log custom:The Christmas practice calls for burning a portion of the log each evening until Twelfth Night (January 6). The log is subsequently placed beneath the bed for luck, and particularly for protection from the household threats of lightning and, with some irony, fire.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e8/Badnjak_-_Trogir%2C_Croatia.jpg",
+      "width": 1280,
+      "height": 1705,
+      "page": "https://commons.wikimedia.org/wiki/File:Badnjak_-_Trogir,_Croatia.jpg",
+      "artist": "Nhscare0",
+      "license": "CC BY-SA 4.0",
+      "caption": "Badnjak logs burning in the hearth, Christmas Eve in Dalmatia."
+     }
+    },
+    {
+     "text": "Many have beliefs based on the Yule log as it burns, and by counting the sparks and such, they seek to discern their fortunes for the new year and beyond.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 79
+  },
+  {
+   "id": "27356236",
+   "title": "Fishpool Hoard",
+   "description": "British hoard",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Fishpool_Hoard",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Fishpool_hoard_BM.jpg/1280px-Fishpool_hoard_BM.jpg",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:Fishpool_hoard_BM.jpg",
+    "artist": "Andy Flatman from Ipswich, UK",
+    "license": "CC BY 2.0"
+   },
+   "cards": [
+    {
+     "text": "In 1966 the Fishpool Hoard of 1,237 15th century gold coins, four rings and four other pieces of jewellery, and two lengths of gold chain was discovered by workmen on a building site near present-day Cambourne Gardens, in Ravenshead, Nottinghamshire, England, an area that was then known as \"Fishpool\". It is the largest hoard of medieval coins ever found in Britain.",
+     "image": null
+    },
+    {
+     "text": "To judge from the dates of the coins, the hoard was probably buried in haste at some time between winter 1463 and summer 1464, perhaps by someone fleeing south after the Battle of Hexham in May 1464, in the first stages of England's civil war between aristocratic factions, the War of the Roses.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/cf/Fishpool_Hoard_jewel.jpg",
+      "width": 1280,
+      "height": 985,
+      "page": "https://commons.wikimedia.org/wiki/File:Fishpool_Hoard_jewel.jpg",
+      "artist": "Unknown",
+      "license": "CC BY 2.0",
+      "caption": "One of the pendants[6]"
+     }
+    },
+    {
+     "text": "The Fishpool Hoard, on display in Room 40 in the British Museum, London, was listed in 2003 among Our Top Ten Treasures, a special episode of BBC Television series Meet the Ancestors that profiled the ten most important treasures ever unearthed in Britain as voted by a panel of experts from the British Museum. The British Museum assesses the face value of the hoard when deposited, about £400, would be equivalent to around £300,000 today.",
+     "image": null
+    },
+    {
+     "text": "The makeup of the coinage, as well as dating the hoard, showed that the light coinage of 1412 did not eliminate earlier gold coins. Among the coins were detected some nearly contemporary gold-plated counterfeit coins from the reign of Henry VI (1422–61).",
+     "image": null
+    },
+    {
+     "text": "The jewellery is all in gold, with several items set with gems or using enamel. Apart from the four rings there are three pendants and a heart-shaped brooch, which like some other items is inscribed with an \"amatory phrase\", in this case \"je suys vostre sans de partier\" (I am yours wholly). One of the pendants is a tiny enamelled padlock, inscribed \"de tout\" on one side and \"mon cuer\" on the other (of all... my heart).",
+     "image": null
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 88
+  },
+  {
+   "id": "7872146",
+   "title": "Third-oldest university in England debate",
+   "description": "Debate since the mid-19th century",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Third-oldest_university_in_England_debate",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/94/Durham_Castle_and_Cathedral_SMierzwa_%283%29_%28cropped%29.jpg/1280px-Durham_Castle_and_Cathedral_SMierzwa_%283%29_%28cropped%29.jpg",
+    "width": 1280,
+    "height": 1706,
+    "page": "https://commons.wikimedia.org/wiki/File:Durham_Castle_and_Cathedral_SMierzwa_(3)_(cropped).jpg",
+    "artist": "Sebastian Mierzwa",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "The third-oldest university in England debate has been carried out since the mid-19th century, with rival claims being made originally by Durham University as the third-oldest officially recognised university (1832) and the third to confer degrees (1837) and the University of London as the third university to be granted a royal charter (1836).",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/Senate_House%2C_University_of_London.jpg/1280px-Senate_House%2C_University_of_London.jpg",
+      "width": 1280,
+      "height": 1713,
+      "page": "https://commons.wikimedia.org/wiki/File:Senate_House,_University_of_London.jpg",
+      "artist": "stevecadman",
+      "license": "CC BY-SA 2.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "These have been joined more recently by University College London as it was founded as London University (1826) and was the third-oldest university institution to start teaching (1828) and by King's College London (which officially claims to be the fourth-oldest university in England but is claimed by some students to be the third-oldest as the third university institution to receive a royal charter, in 1829).",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/Wilkins_Building_1%2C_UCL%2C_London_-_Diliff.jpg/1280px-Wilkins_Building_1%2C_UCL%2C_London_-_Diliff.jpg",
+      "width": 1280,
+      "height": 844,
+      "page": "https://commons.wikimedia.org/wiki/File:Wilkins_Building_1,_UCL,_London_-_Diliff.jpg",
+      "artist": "Diliff",
+      "license": "CC BY-SA 3.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "Most historians identify Durham as the third-oldest, following standard practice in how a university is defined and how this is applied historically, although the popular press is more divided. There were various other attempts to establish a third university in England, including short-lived medieval studia in Northampton (1238 to 1265), Salisbury (1238 to before 1300) and Stamford (1333 to 1335), none of which ever attained recognition as a university.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/The_Maughan_Library%2C_King%27s_College%2C_London.jpg/1280px-The_Maughan_Library%2C_King%27s_College%2C_London.jpg",
+      "width": 1280,
+      "height": 853,
+      "page": "https://commons.wikimedia.org/wiki/File:The_Maughan_Library,_King%27s_College,_London.jpg",
+      "artist": "K Ulysses-Ono",
+      "license": "CC BY-SA 4.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "The 17th-century New College, Durham (1653 to 1660), was similarly stymied by the opposition of the older universities and never received university powers.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/95/UK-2014-Oxford-All_Souls_College_03.jpg/1280px-UK-2014-Oxford-All_Souls_College_03.jpg",
+      "width": 1280,
+      "height": 1598,
+      "page": "https://commons.wikimedia.org/wiki/File:UK-2014-Oxford-All_Souls_College_03.jpg",
+      "artist": "Godot13",
+      "license": "CC BY-SA 4.0",
+      "caption": "Oxford, the oldest university in England (All Souls College pictured)"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 75
   }
  ]
 }
