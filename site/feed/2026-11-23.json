@@ -1,0 +1,923 @@
+{
+ "date": "2026-11-23",
+ "generatedAt": "2026-11-23T16:13:47.608Z",
+ "totalReadSeconds": 1204,
+ "posts": [
+  {
+   "id": "27973732",
+   "title": "Frome Hoard",
+   "description": "Hoard of Roman coins found in Somerset, UK",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Frome_Hoard",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Frome_Hoard_pile_of_coins.jpg/1280px-Frome_Hoard_pile_of_coins.jpg",
+    "width": 1280,
+    "height": 849,
+    "page": "https://commons.wikimedia.org/wiki/File:Frome_Hoard_pile_of_coins.jpg",
+    "artist": "Portable Antiquities Scheme from London, England",
+    "license": "CC BY-SA 2.0"
+   },
+   "cards": [
+    {
+     "text": "The Frome Hoard is a hoard of 52,503 Roman coins found in April 2010, by metal detectorist Dave Crisp near Frome in Somerset, England. The coins were contained in a ceramic pot 45 cm (18 in) in diameter, and date from AD 253 to 305. Most of the coins are made from debased silver or bronze.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/da/Frome_Hoard_Silver_denarius_of_Carausius_Adventus_2.jpg/1280px-Frome_Hoard_Silver_denarius_of_Carausius_Adventus_2.jpg",
+      "width": 1280,
+      "height": 676,
+      "page": "https://commons.wikimedia.org/wiki/File:Frome_Hoard_Silver_denarius_of_Carausius_Adventus_2.jpg",
+      "artist": "Portable Antiquities Scheme from London, England",
+      "license": "CC BY 2.0",
+      "caption": "Silver denarius of Carausius Adventus"
+     }
+    },
+    {
+     "text": "The hoard is one of the largest ever found in Britain, and is also important as it contains the largest group ever found of coins issued during the reign of Carausius (who ruled Britain independently from 286 to 293, and was the first Roman Emperor to strike coins in Britain). The Museum of Somerset in Taunton, using a grant from the National Heritage Memorial Fund (NHMF), acquired the hoard in 2011 for a value of £320,250.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/31/Frome_Hoard_3.JPG/1280px-Frome_Hoard_3.JPG",
+      "width": 1280,
+      "height": 1920,
+      "page": "https://commons.wikimedia.org/wiki/File:Frome_Hoard_3.JPG",
+      "artist": "Rodw",
+      "license": "CC BY-SA 3.0",
+      "caption": "The Frome Hoard at the Museum of Somerset in Taunton Castle"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 46
+  },
+  {
+   "id": "22733324",
+   "title": "Bristol bus station",
+   "description": "Bus station in Bristol, England",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/Bristol_bus_station",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/51/Bristol_Bus_Station.jpg/1280px-Bristol_Bus_Station.jpg",
+    "width": 1280,
+    "height": 958,
+    "page": "https://commons.wikimedia.org/wiki/File:Bristol_Bus_Station.jpg",
+    "artist": "Rob Brewer from Bristol, England",
+    "license": "CC BY-SA 2.0"
+   },
+   "cards": [
+    {
+     "text": "Bristol Bus and Coach Station serves the city of Bristol in the west of England. It is situated on Marlborough Street, near the Broadmead shopping area. The original bus station and onsite depot were opened in 1958 by the Bristol Omnibus Company. It was later redeveloped with the current bus station opening in 2006.",
+     "image": null
+    },
+    {
+     "text": "Before 1958 Bristol had no bus station; most country and long-distance coach services departed from Prince Street, and others used street stops in the Centre, Canon's Road and Old Market. The station is managed by First West of England. There are 19 bays, Bays 1 to 7 are for National Express long-distance coach services, bay 8 is for Flixbus, bays 9 & 10 are reserved for the A1 Airport Flyer service to Bristol Airport via Bristol Temple Meads.",
+     "image": null
+    },
+    {
+     "text": "Bays 11 to 19 are for local bus services to locations outside of Bristol. Bristol Bus and Coach Station has many facilities including a First Bus Travelhub which offers information and ticket sales for First Bus services, a National Express Ticket Sales and Information Desk, National Express ticket machines, The Coffee Room cafe, 24-hour security and public toilets including an accessible toilet.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 55
+  },
+  {
+   "id": "79135120",
+   "title": "Corpus Iuris Hibernici",
+   "description": "Collection of Irish legal texts",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Corpus_Iuris_Hibernici",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/9/95/Fergus%2C_A_Guide_to_Early_Irish_Law%2C_pl._3.jpg",
+    "width": 1280,
+    "height": 1875,
+    "page": "https://commons.wikimedia.org/wiki/File:Fergus,_A_Guide_to_Early_Irish_Law,_pl._3.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The Corpus Iuris Hibernici (cited as CIH) is a six-volume collection of the sources for the study of early Irish law (known as Brehon law) edited by D. A. Binchy. It presents a transcription of the manuscripts (Old Irish and Latin) relevant to this study.",
+     "image": null
+    },
+    {
+     "text": "The CIH was intended as a replacement for the Ancient Laws of Ireland (1865-1901), a series which relied on more limited sources and suffered from unscholarly and unreliable editorial work (with the exception of that done by Robert Atkinson). Prior to Binchy's work, the best sources for early Irish law were the unpublished transcripts of John O'Donovan and Eugene O'Curry, which circulated in scholarly libraries in a few (often incomplete) copies.",
+     "image": null
+    },
+    {
+     "text": "Because of this, scholars like Rudolf Thurneysen were forced to rely on O'Donovan and O'Curry to correct errors in the published version, but nonetheless referred to the Ancient Laws of Ireland in their published footnotes for reasons of accessibility. Though the CIH was highly rated for its editorial work, it received some criticism for its difficulty of use.",
+     "image": null
+    },
+    {
+     "text": "Critics pointed out that it had no translations, no explanatory notes, few cross-references, and a table of contents which only listed the manuscripts transcribed. Myles Dillon called the work \"austere\". T. M. Charles Edwards suggested that, rather than produce an edition of the manuscripts, a scholar of Binchy's stature could well have produced a critical edition of the texts themselves.",
+     "image": null
+    },
+    {
+     "text": "Fergus Kelly's Guide to early Irish law (1988) and Liam Breatnach's Companion to the Corpus iuris hibernici (2005) took on the task of identifying, describing, and making comprehensible these texts. Breatnach has identified 102 individual texts in the CIH and has incorporated elsewhere published texts (such as the archaic legal poem published previously by Binchy) into the corpus.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 80
+  },
+  {
+   "id": "29169507",
+   "title": "Despenser War",
+   "description": "1321–22 English baronial revolt against Edward II",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Despenser_War",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/Royal_Banner_of_England.svg/1280px-Royal_Banner_of_England.svg.png",
+    "width": 1280,
+    "height": 767,
+    "page": "https://commons.wikimedia.org/wiki/File:Royal_Banner_of_England.svg",
+    "artist": "Flag of the Duchy of Lancaster.svg: Yaddah / derivative work: Brunanburh",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The Despenser War (1321–22) was a baronial revolt against Edward II of England led by the Marcher Lords Roger Mortimer and Humphrey de Bohun. The rebellion was fuelled by opposition to Hugh Despenser the Younger, the royal favourite.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d1/Edward_II_-_British_Library_Royal_20_A_ii_f10_%28detail%29.jpg",
+      "width": 1280,
+      "height": 1263,
+      "page": "https://commons.wikimedia.org/wiki/File:Edward_II_-_British_Library_Royal_20_A_ii_f10_(detail).jpg",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": "King Edward II, whose domination by his favourites, the Despensers, led to the Despenser War"
+     }
+    },
+    {
+     "text": "After the rebels' summer campaign of 1321, Edward was able to take advantage of a temporary peace to rally more support and a successful winter campaign in southern Wales, culminating in royal victory at the Battle of Boroughbridge in the north of England in March 1322. Edward's response to victory was his increasingly harsh rule until his fall from power in 1326.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/32/Caerphilly_Castle_Detail.JPG/1280px-Caerphilly_Castle_Detail.JPG",
+      "width": 1280,
+      "height": 868,
+      "page": "https://commons.wikimedia.org/wiki/File:Caerphilly_Castle_Detail.JPG",
+      "artist": "Russ Hamer",
+      "license": "CC BY-SA 3.0",
+      "caption": ""
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 38
+  },
+  {
+   "id": "76272",
+   "title": "Glamis Castle",
+   "description": "Castle in Glamis, Angus, Scotland",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Glamis_Castle",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/25/Glamis_Castle_-_geograph.org.uk_-_7848853.jpg/1280px-Glamis_Castle_-_geograph.org.uk_-_7848853.jpg",
+    "width": 1280,
+    "height": 691,
+    "page": "https://commons.wikimedia.org/wiki/File:Glamis_Castle_-_geograph.org.uk_-_7848853.jpg",
+    "artist": "Colin Smith",
+    "license": "CC BY-SA 2.0"
+   },
+   "cards": [
+    {
+     "text": "Glamis Castle is situated beside the village of Glamis (, glahmz) in Angus, Scotland. It is the home of the Earl of Strathmore and Kinghorne, and is open to the public. Glamis Castle has been the home of the Lyon family since the 14th century, though the present building dates largely from the 17th century. Glamis Castle was the childhood home of Queen Elizabeth the Queen Mother.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/68/Lithograph_of_Glamis_Castle_by_T._Picken_after_G._Cattermole.jpg/1280px-Lithograph_of_Glamis_Castle_by_T._Picken_after_G._Cattermole.jpg",
+      "width": 1280,
+      "height": 1002,
+      "page": "https://commons.wikimedia.org/wiki/File:Lithograph_of_Glamis_Castle_by_T._Picken_after_G._Cattermole.jpg",
+      "artist": "T. Picken",
+      "license": "CC BY 3.0",
+      "caption": "A lithograph of Glamis Castle, created between 1847 and 1854"
+     }
+    },
+    {
+     "text": "Her second daughter, Princess Margaret was born there on 21 August 1930. The castle is protected as a category A listed building, and the grounds are included on the Inventory of Gardens and Designed Landscapes in Scotland, the national listing of significant gardens.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/db/Glamis_Morris.jpg/1280px-Glamis_Morris.jpg",
+      "width": 1280,
+      "height": 934,
+      "page": "https://commons.wikimedia.org/wiki/File:Glamis_Morris.jpg",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": "Glamis Castle in the snow, circa 1880"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 41
+  },
+  {
+   "id": "19163052",
+   "title": "Prehistoric Orkney",
+   "description": "Overview of the prehistoric period on the Orkney Islands, Scotland",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Prehistoric_Orkney",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a9/Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg/1280px-Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg",
+    "width": 1280,
+    "height": 995,
+    "page": "https://commons.wikimedia.org/wiki/File:Atlas_Van_der_Hagen-KW1049B11_038-SCOTIA_REGNUM_cum_insulis_adjacentibus.jpeg",
+    "artist": "Joan Blaeu",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Prehistoric Orkney refers only to the prehistory of the Orkney archipelago of Scotland that begins with human occupation. (The islands' history before human occupation is part of the geology of Scotland.) Although some records referring to Orkney survive that were written during the Roman invasions of Scotland, \"prehistory\" in northern Scotland is defined as lasting until the start of Scotland's Early Historic Period (around AD 600).",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Knapofhowarinsun.jpg/1280px-Knapofhowarinsun.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Knapofhowarinsun.jpg",
+      "artist": "Me677 (talk)",
+      "license": "Public domain",
+      "caption": "The seaward walls of Knap of Howar"
+     }
+    },
+    {
+     "text": "There are numerous important prehistoric remains in Orkney, especially from the Neolithic period. Four of these remains today constitute a World Heritage Site. There are diverse reasons for the abundance of the archaeological record. The sandstone bedrock provides easily workable stone materials and the wind-blown sands have helped preserve several sites. The relative lack of industrialisation and the low incidence of ploughing have also helped to preserve these ancient monuments.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Knapp_of_Howar_2.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Knapp_of_Howar_2.jpg",
+      "artist": "Unknown",
+      "license": "CC BY-SA 3.0",
+      "caption": "The interior of Knap of Howar"
+     }
+    },
+    {
+     "text": "In addition, local tradition hints at both fear and veneration of these ancient structures (perhaps inherited from the Norse period of occupation), and these attitudes may have helped prevent human interference with their structural integrity. Prehistory is conventionally divided into a number of shorter periods, but differentiating these various eras of human history is a complex task – their boundaries are uncertain, and the changes between them are gradual.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/5/5b/Barnhouse04.jpg",
+      "width": 1280,
+      "height": 923,
+      "page": "https://commons.wikimedia.org/wiki/File:Barnhouse04.jpg",
+      "artist": "taken by Martin McCarthy (Tumulus)",
+      "license": "CC BY-SA 3.0",
+      "caption": "House 3 in the Barnhouse Settlement, with Loch of Harray beyond"
+     }
+    },
+    {
+     "text": "A number of the sites span long periods of time, and, in particular, the distinctions between the Neolithic and the later periods are not clear cut.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d2/Skara_Brae_house_1_5.jpg/1280px-Skara_Brae_house_1_5.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Skara_Brae_house_1_5.jpg",
+      "artist": "Wknight94",
+      "license": "CC BY-SA 3.0",
+      "caption": "A stone dresser at Skara Brae."
+     }
+    },
+    {
+     "text": "However, in general, the Paleolithic lasted until the retreat of the ice, the Mesolithic until the adoption of farming and the Neolithic until metalworking commenced The Neolithic period's extraordinary wealth of structures is not matched by the remains from earlier periods, in which the evidence of human occupation is sparse or non-existent – nor is it matched by remains from the later Bronze Age, which provides a relative dearth of evidence.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/0/06/MaesHowe.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:MaesHowe.jpg",
+      "artist": "Unknown",
+      "license": "Public domain",
+      "caption": "Maeshowe chambered cairn"
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 103
+  },
+  {
+   "id": "54060",
+   "title": "City of Westminster",
+   "description": "City and borough in London, England",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/City_of_Westminster",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/70/Trafalgar_Square%2C_London_-_geograph.org.uk_-_6357014.jpg/1280px-Trafalgar_Square%2C_London_-_geograph.org.uk_-_6357014.jpg",
+    "width": 1280,
+    "height": 622,
+    "page": "https://commons.wikimedia.org/wiki/File:Trafalgar_Square,_London_-_geograph.org.uk_-_6357014.jpg",
+    "artist": "Christine Matthews",
+    "license": "CC BY-SA 2.0"
+   },
+   "cards": [
+    {
+     "text": "The City of Westminster is a London borough with city status in Greater London, England. It is the site of the United Kingdom's Houses of Parliament and much of the British government. It contains a large part of central London, including most of the West End, such as the major shopping areas around Oxford Street, Regent Street, Piccadilly and Bond Street, and the entertainment district of Soho.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Open_Happiness_Piccadilly_Circus_Blue-Pink_Hour_120917-1126-jikatu.jpg/1280px-Open_Happiness_Piccadilly_Circus_Blue-Pink_Hour_120917-1126-jikatu.jpg",
+      "width": 1280,
+      "height": 850,
+      "page": "https://commons.wikimedia.org/wiki/File:Open_Happiness_Piccadilly_Circus_Blue-Pink_Hour_120917-1126-jikatu.jpg",
+      "artist": "Jimmy Baikovicius",
+      "license": "CC BY-SA 2.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "Many London landmarks are within the borough, including Buckingham Palace, Westminster Abbey, Whitehall, Westminster Cathedral, 10 Downing Street, and Trafalgar Square. The borough also has a number of major parks and open spaces, including Hyde Park, and most of Regent's Park. Away from central London the borough also includes various inner suburbs, including St John's Wood, Maida Vale, Bayswater, Belgravia and Pimlico.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Buckingham_Palace_London_Morning_2020_04.jpg/1280px-Buckingham_Palace_London_Morning_2020_04.jpg",
+      "width": 1280,
+      "height": 928,
+      "page": "https://commons.wikimedia.org/wiki/File:Buckingham_Palace_London_Morning_2020_04.jpg",
+      "artist": "Julian Herzog (Website)",
+      "license": "CC BY 4.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "The borough had a population of 204,300 at the 2021 census. The original settlement of Westminster was historically a separate urban area to the west of London, growing up around the minster church of Westminster Abbey. Westminster was an important centre of royal authority from Saxon times, and was declared a city in 1540.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/The_Mall_2_June_2013_-_panoramio.jpg/1280px-The_Mall_2_June_2013_-_panoramio.jpg",
+      "width": 1280,
+      "height": 852,
+      "page": "https://commons.wikimedia.org/wiki/File:The_Mall_2_June_2013_-_panoramio.jpg",
+      "artist": "Robert Dimov",
+      "license": "CC BY-SA 3.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "It was gradually absorbed into the urban area of London, but London's official city boundaries remained unchanged, covering just the area called the City of London, broadly corresponding to the medieval walled city. From the 19th century some metropolis-wide administrative bodies were introduced. The County of London was created in 1889, replaced in 1965 by the larger administrative area of Greater London, which since 2000 has been led by the mayor of London.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8e/Westminster_from_the_dome_on_Methodist_Central_Hall.jpg/1280px-Westminster_from_the_dome_on_Methodist_Central_Hall.jpg",
+      "width": 1280,
+      "height": 574,
+      "page": "https://commons.wikimedia.org/wiki/File:Westminster_from_the_dome_on_Methodist_Central_Hall.jpg",
+      "artist": "Colin",
+      "license": "CC BY-SA 4.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "The cities of London and Westminster retain their separate city statuses despite having long been part of the same urban area. The modern borough was created in 1965 as part of the same reforms which created Greater London, covering the area of the three former metropolitan boroughs of Westminster, Paddington and St Marylebone. The local authority is Westminster City Council.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/89/Westminster_Abbey_-_West_Door.jpg/1280px-Westminster_Abbey_-_West_Door.jpg",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:Westminster_Abbey_-_West_Door.jpg",
+      "artist": "Ellocharlie at English Wikipedia",
+      "license": "Public domain",
+      "caption": "Westminster Abbey, around which the original settlement grew."
+     }
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 106
+  },
+  {
+   "id": "149239",
+   "title": "Bernicia",
+   "description": "Early medieval Anglo-Saxon kingdom in northeast England (6th century – 654)",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Bernicia",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/46/Northumbria.rise.600.700.jpg/1280px-Northumbria.rise.600.700.jpg",
+    "width": 1280,
+    "height": 1330,
+    "page": "https://commons.wikimedia.org/wiki/File:Northumbria.rise.600.700.jpg",
+    "artist": "myself",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "Bernicia (Old English: Bernica rice, Beornica rice) was a kingdom in Britain established by Anglian settlers of the 6th century in what is now southeastern Scotland and North East England. The Anglian territory of Bernicia was approximately equivalent to the modern English counties of Northumberland, Tyne and Wear, and Durham, as well as the Scottish counties of Berwickshire and East Lothian, stretching from the Forth to the Tees.",
+     "image": null
+    },
+    {
+     "text": "In 604 AD, it merged with its southern neighbour, Deira, to form the kingdom of Northumbria, and its borders subsequently expanded considerably.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 27
+  },
+  {
+   "id": "57130399",
+   "title": "Battersea Cauldron",
+   "description": "Bronze cooking vessel found in England",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Battersea_Cauldron",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/73/Battersea_Cauldron_in_the_British_Museum.jpg/1280px-Battersea_Cauldron_in_the_British_Museum.jpg",
+    "width": 1280,
+    "height": 945,
+    "page": "https://commons.wikimedia.org/wiki/File:Battersea_Cauldron_in_the_British_Museum.jpg",
+    "artist": "Ethan Doyle White",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "The Battersea Cauldron is a large bronze cooking vessel, dated to 800 BC to 700 BC. It was found in 1861 from dredging in the River Thames near the new Chelsea Bridge, which connects Chelsea on the north bank to Battersea on the south bank. It was bought by the British Museum from William Godwin shortly after it was discovered.",
+     "image": null
+    },
+    {
+     "text": "It is one of over 60 examples of similar Late Bronze Age and Iron Age cauldrons found in Great Britain and Ireland. The cauldron stands 40.5 centimetres (15.9 in) high, has a diameter of 56 centimetres (22 in), and a capacity of about 70 litres (15 imp gal; 18 US gal). It was made from seven curved plates of bronze riveted together, forming a cooking vessel with a large round body and narrower neck.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Battersea_Cauldron_in_the_British_Museum_%28Side_Detail%29.jpg/1280px-Battersea_Cauldron_in_the_British_Museum_%28Side_Detail%29.jpg",
+      "width": 1280,
+      "height": 1920,
+      "page": "https://commons.wikimedia.org/wiki/File:Battersea_Cauldron_in_the_British_Museum_(Side_Detail).jpg",
+      "artist": "Ethan Doyle White",
+      "license": "CC BY-SA 4.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "The opening flares out, strengthened with corrugations around the rim, which has a separate tubular binding. Two ring handles are attached to riveted straps. As a large vessel for preparing food or drink, it may have been used for communal feasts, and has the patches and repairs from use over an extended period, perhaps several generations. It may have been deliberately placed in the river as a religious sacrifice.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/3e/Battersea_Cauldron_in_the_British_Museum_%28Handle%29.jpg/1280px-Battersea_Cauldron_in_the_British_Museum_%28Handle%29.jpg",
+      "width": 1280,
+      "height": 855,
+      "page": "https://commons.wikimedia.org/wiki/File:Battersea_Cauldron_in_the_British_Museum_(Handle).jpg",
+      "artist": "Ethan Doyle White",
+      "license": "CC BY-SA 4.0",
+      "caption": ""
+     }
+    },
+    {
+     "text": "Late Bronze Age and Iron Age cauldrons from Britain and Ireland have been connected archaeologically and culturally to similar cauldrons from Greece. Similar bronze cauldrons of the Atlantic Bronze Age are also known from Iberia. Large bronze cauldrons are also found in elite burials of the Iron Age Hallstatt culture in Germany and France. The Hochdorf Chieftain's Grave in Germany contained a cauldron imported from Greece which was originally filled with mead and contained a gold serving bowl.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 85
+  },
+  {
+   "id": "10472499",
+   "title": "Berkeley Square, Bristol",
+   "description": "Area in Bristol, England",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/Berkeley_Square,_Bristol",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/BerkeleySquareEastSide2.JPG/1280px-BerkeleySquareEastSide2.JPG",
+    "width": 1280,
+    "height": 970,
+    "page": "https://commons.wikimedia.org/wiki/File:BerkeleySquareEastSide2.JPG",
+    "artist": "The original uploader was Rodw at English Wikipedia.",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Berkeley Square is an area close to Park Street in the Clifton area of Bristol, England, that includes buildings and a central area of greenery. It was laid out around 1790 in Georgian style with a central grass area behind railings, by Thomas and William Paty. Nos. 12–18 were damaged during the Bristol Blitz in World War II and were rebuilt to maintain the same facade.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/85/BerkeleySquareWestside.JPG/1280px-BerkeleySquareWestside.JPG",
+      "width": 1280,
+      "height": 970,
+      "page": "https://commons.wikimedia.org/wiki/File:BerkeleySquareWestside.JPG",
+      "artist": "The original uploader was Rodw at English Wikipedia.",
+      "license": "Public domain",
+      "caption": "West and North sides of Berkeley Square"
+     }
+    },
+    {
+     "text": "Many of the buildings are now owned and used by the University of Bristol; these include the Institute for Learning and Research Technology (ILRT) and the Technical Advisory Service for Images (TASI); while others are hotels and offices. No. 24 was used as the main exterior in the BBC television drama The House of Eliott.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Berkelysquarestatue.JPG",
+      "width": 1280,
+      "height": 2616,
+      "page": "https://commons.wikimedia.org/wiki/File:Berkelysquarestatue.JPG",
+      "artist": "The original uploader was Rodw at English Wikipedia.",
+      "license": "Public domain",
+      "caption": "High Cross replica in the gardens"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 44
+  },
+  {
+   "id": "79304413",
+   "title": "Tongu do dia toinges mo thúath",
+   "description": "Oath in Old Irish",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Tongu_do_dia_toinges_mo_th%C3%BAath",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Cuchulain_in_Battle.jpg",
+    "width": 1280,
+    "height": 1842,
+    "page": "https://commons.wikimedia.org/wiki/File:Cuchulain_in_Battle.jpg",
+    "artist": "Joseph Christian Leyendecker (1874 - 1951)",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Tongu do dia toinges mo thúath is an Old Irish oath which translates to 'I swear by the god by whom my people (túath) swear'. It is the standard oath in early Irish literature. Such formulae are common in early Irish literature, and especially in the heroic sagas, where they are sworn for emphasis when a character declares they will perform some feat.",
+     "image": null
+    },
+    {
+     "text": "Some scholars have interpreted this oath as a relic of Irish Celtic paganism, preserved in Irish literature. Along these lines, Joseph Vendryes argued that the god behind this oath was the Celtic god Teutates, and Calvert Watkins that the oath had roots in Proto-Indo-European. On the other hand, Ruairí Ó hUiginn has argued that the oath was a scholarly Christian invention, contrived to suit the pagan background of the Old Irish sagas.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f7/TOTATESVoingt.jpg/1280px-TOTATESVoingt.jpg",
+      "width": 1280,
+      "height": 835,
+      "page": "https://commons.wikimedia.org/wiki/File:TOTATESVoingt.jpg",
+      "artist": "Rossignol Benoît",
+      "license": "CC BY-SA 4.0",
+      "caption": "The Celtic god Teutates (whose name is inscribed on this pottery sherd) has been suggested to be the pagan god behind this oath."
+     }
+    },
+    {
+     "text": "The aspect of taboo in this oath has also been discussed, with John T. Koch suggesting that it originated as a taboo deformation (i.e., modification of a phrase to avoid a taboo word).",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 52
+  },
+  {
+   "id": "8770933",
+   "title": "Burghal Hidage",
+   "description": "Deed",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Burghal_Hidage",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6e/Anglo-Saxon_burhs.svg/1280px-Anglo-Saxon_burhs.svg.png",
+    "width": 1280,
+    "height": 924,
+    "page": "https://commons.wikimedia.org/wiki/File:Anglo-Saxon_burhs.svg",
+    "artist": "Hel-hama",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "The Burghal Hidage is an Anglo-Saxon document providing a list of over thirty fortified places (burhs), the majority being in the ancient Kingdom of Wessex, and the taxes (recorded as numbers of hides) assigned for their maintenance. The document, so named by Frederic William Maitland in 1897, survives in two versions of medieval and early modern date.",
+     "image": null
+    },
+    {
+     "text": "Version A, Cotton Otho B.xi was badly damaged in a fire at Ashburnham House in Westminster in 1731, but the body of the text survives in a transcript made by the antiquary Laurence Nowell in 1562. Version B survives as a composite part of seven further manuscripts, usually given the title De numero hydarum Anglie in Britannia.",
+     "image": null
+    },
+    {
+     "text": "There are several discrepancies in the lists recorded in the two versions of the document: Version A includes references to Burpham, Wareham and Bridport but omits Shaftesbury and Barnstaple which are listed in Version B. Version B also names Worcester and Warwick in an appended list.",
+     "image": null
+    },
+    {
+     "text": "The Burghal Hidage offers a detailed picture of the network of burhs that Alfred the Great designed to defend his kingdom from the predations of Viking invaders.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 53
+  },
+  {
+   "id": "42943433",
+   "title": "Blue men of the Minch",
+   "description": "Scottish mythological creatures",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Blue_men_of_the_Minch",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d7/Little_Minch.jpg",
+    "width": 1280,
+    "height": 842,
+    "page": "https://commons.wikimedia.org/wiki/File:Little_Minch.jpg",
+    "artist": "Lord P in the Commons 17:16, 17 June 2007 (UTC)",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "The blue men of the Minch, also known as storm kelpies (Scottish Gaelic: na fir ghorma Scottish Gaelic pronunciation: [nə fiɾʲ ˈɣɔɾɔmə]), are mythological creatures inhabiting the stretch of water between the northern Outer Hebrides and mainland Scotland, looking for sailors to drown and stricken boats to sink.",
+     "image": null
+    },
+    {
+     "text": "Apart from their blue colour, the mythical creatures look much like humans, and are about the same size. They have the power to create storms, but when the weather is fine they float sleeping on or just below the surface of the water. The blue men swim with their torsos raised out of the sea, twisting and diving as porpoises do.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/45/Harbor_Porpoise_Fjord_Baelt_Denmark.JPG/1280px-Harbor_Porpoise_Fjord_Baelt_Denmark.JPG",
+      "width": 1280,
+      "height": 1920,
+      "page": "https://commons.wikimedia.org/wiki/File:Harbor_Porpoise_Fjord_Baelt_Denmark.JPG",
+      "artist": "Rene at da.wikipedia",
+      "license": "Public domain",
+      "caption": "The blue men are said to twist and dive like porpoises (harbour porpoise pictured jumping from the water)."
+     }
+    },
+    {
+     "text": "They are able to speak, and when a group approaches a ship its chief may shout two lines of poetry to the master of the vessel and challenge him to complete the verse. If the skipper fails in that task then the blue men will attempt to capsize his ship.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Ancient_Britons_-_Description_of_Great_Britain_and_Ireland_%28c.1574%29%2C_f.8v_-_BL_Add_MS_28330.jpg",
+      "width": 1280,
+      "height": 2052,
+      "page": "https://commons.wikimedia.org/wiki/File:Ancient_Britons_-_Description_of_Great_Britain_and_Ireland_(c.1574),_f.8v_-_BL_Add_MS_28330.jpg",
+      "artist": "Unknown",
+      "license": "CC0",
+      "caption": "Art of ancient Britons, drawn c. 1574, with men with tattoos and skin painted with woad. The Picts may be the inspiration for the Blue Men."
+     }
+    },
+    {
+     "text": "Suggestions to explain the mythical blue men include that they may be a personification of the sea, or originate with the Picts, whose painted bodies may have given the impression of men raising themselves out of the water if they were seen crossing the sea in boats that might have resembled kayaks.",
+     "image": null
+    },
+    {
+     "text": "The genesis of the blue men may alternatively lie with the North African slaves the Vikings took with them to Scotland, where they spent the winter months close to the Shiant Isles in the Minch.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 76
+  },
+  {
+   "id": "14827218",
+   "title": "Hinba",
+   "description": "Island in Scotland",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Hinba",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8d/Saint_Columba_converting_the_Picts.jpg/1280px-Saint_Columba_converting_the_Picts.jpg",
+    "width": 1280,
+    "height": 967,
+    "page": "https://commons.wikimedia.org/wiki/File:Saint_Columba_converting_the_Picts.jpg",
+    "artist": "William Hole",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "Hinba is an island in Scotland of uncertain location that was the site of a small monastery associated with the Columban church on Iona. Although a number of details are known about the monastery and its early superiors, and various anecdotes dating from the time of Columba of a mystical nature have survived, modern scholars are divided as to its whereabouts.",
+     "image": null
+    },
+    {
+     "text": "The source of information about the island is Adomnán's late 7th-century Vita Columbae. Adomnan The islands of Eileach an Naoimh, Jura, Colonsay and Oronsay are the most likely candidates, although Seil and Canna are also possibilities. The origin of the name 'Hinba' appears to be Goidelic. The Hebrides remain the stronghold of the modern Gàidhealtachd and unsurprisingly this language has had a significant influence on the island names still found there.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ca/Iona_Abbey.jpg",
+      "width": 1280,
+      "height": 849,
+      "page": "https://commons.wikimedia.org/wiki/File:Iona_Abbey.jpg",
+      "artist": "John Naisbitt",
+      "license": "CC BY-SA 2.0",
+      "caption": "The restored Iona Abbey. In Columba's day all church buildings would have been constructed from wood."
+     }
+    },
+    {
+     "text": "Why then would an island name vanish from the records? As a result of the Norse impact on Scotland from some point prior to 900 AD and for several centuries thereafter many of the Hebridean island names were altered or replaced. It has been argued that these changes to the onomasticon only applied to the islands north of Ardnamurchan and that original Gaelic place names predominate to the south.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/4/45/Papsofjura1.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Papsofjura1.jpg",
+      "artist": "Ileach at English Wikipedia",
+      "license": "Public domain",
+      "caption": "Two of the Paps of Jura."
+     }
+    },
+    {
+     "text": "However, recent research suggests that the obliteration of pre-Norse names throughout the Hebrides was almost total and Gaelic derived place names on the southern islands are of post-Norse origin. Some islands names have been more persistent, especially amongst the larger islands, but it is clear that that is not the case for Hinba.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/d/d2/Summit_of_Beinn_Oronsay_-_geograph.org.uk_-_306638.jpg",
+      "width": 1280,
+      "height": 602,
+      "page": "https://commons.wikimedia.org/wiki/File:Summit_of_Beinn_Oronsay_-_geograph.org.uk_-_306638.jpg",
+      "artist": "Dr Julian Paren",
+      "license": "CC BY-SA 2.0",
+      "caption": "The summit of Beinn Oronsay with Beinn Eibhne on Colonsay beyond"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 82
+  },
+  {
+   "id": "168107",
+   "title": "Kensal Green Cemetery",
+   "description": "Cemetery in London, England",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Kensal_Green_Cemetery",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e6/Kensal_Green_Cemetery_view_December_2005.jpg/1280px-Kensal_Green_Cemetery_view_December_2005.jpg",
+    "width": 1280,
+    "height": 720,
+    "page": "https://commons.wikimedia.org/wiki/File:Kensal_Green_Cemetery_view_December_2005.jpg",
+    "artist": "Unknown",
+    "license": "CC BY-SA 2.0"
+   },
+   "cards": [
+    {
+     "text": "Kensal Green Cemetery is a cemetery in the Kensal Green area of North Kensington in the Royal Borough of Kensington and Chelsea and the London Borough of Hammersmith and Fulham in London, England. Inspired by Père Lachaise Cemetery in Paris, it was founded by the barrister George Frederick Carden. The cemetery opened in 1833 and comprises 72 acres (29 ha) of grounds, including two conservation areas, adjoining a canal.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ed/A_typical_mausoleum%2C_Kensal_Green_Cemetery.JPG/1280px-A_typical_mausoleum%2C_Kensal_Green_Cemetery.JPG",
+      "width": 1280,
+      "height": 1922,
+      "page": "https://commons.wikimedia.org/wiki/File:A_typical_mausoleum,_Kensal_Green_Cemetery.JPG",
+      "artist": "Stephencdickson",
+      "license": "CC BY-SA 4.0",
+      "caption": "A typical mausoleum, that of Sir John Dean Paul"
+     }
+    },
+    {
+     "text": "The cemetery is home to at least 33 species of bird and other wildlife. This distinctive garden cemetery has memorials ranging from large mausoleums housing the rich and famous to many distinctive smaller graves and includes special areas dedicated to the very young. It has three chapels and serves all faiths. It is one of the Magnificent Seven cemeteries in London.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a5/The_grave_of_Baldomero_de_Bertodano%2C_Kensal_Green_Cemetery.JPG/1280px-The_grave_of_Baldomero_de_Bertodano%2C_Kensal_Green_Cemetery.JPG",
+      "width": 1280,
+      "height": 1922,
+      "page": "https://commons.wikimedia.org/wiki/File:The_grave_of_Baldomero_de_Bertodano,_Kensal_Green_Cemetery.JPG",
+      "artist": "Stephencdickson",
+      "license": "CC BY-SA 4.0",
+      "caption": "Grave of Baldomero de Bertodano"
+     }
+    },
+    {
+     "text": "The cemetery was immortalised in the lines of G. K. Chesterton's poem \"The Rolling English Road\" from his book The Flying Inn: Despite its Grecian-style buildings, the cemetery is primarily Gothic in character, due to the high number of private Gothic monuments. Due to this atmosphere, the cemetery was the chosen location of several scenes in movies, notably in Theatre of Blood. The cemetery is listed Grade I on the Register of Historic Parks and Gardens. It remains in use.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/The_tomb_of_Charles_Spencer_Ricketts%2C_Kensal_Green_Cemetery.JPG/1280px-The_tomb_of_Charles_Spencer_Ricketts%2C_Kensal_Green_Cemetery.JPG",
+      "width": 1280,
+      "height": 1922,
+      "page": "https://commons.wikimedia.org/wiki/File:The_tomb_of_Charles_Spencer_Ricketts,_Kensal_Green_Cemetery.JPG",
+      "artist": "Stephencdickson",
+      "license": "CC BY-SA 4.0",
+      "caption": "Tomb of Charles Spencer Ricketts"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 71
+  },
+  {
+   "id": "40471000",
+   "title": "Interregnum (1649–1660)",
+   "description": "Political event",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Interregnum_(1649%E2%80%931660)",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/64/Coat_of_Arms_of_the_Protectorate_%281653%E2%80%931659%29.svg/1280px-Coat_of_Arms_of_the_Protectorate_%281653%E2%80%931659%29.svg.png",
+    "width": 1280,
+    "height": 1280,
+    "page": "https://commons.wikimedia.org/wiki/File:Coat_of_Arms_of_the_Protectorate_(1653%E2%80%931659).svg",
+    "artist": "Sodacan This W3C-unspecified vector image was created with Inkscape .",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "The Interregnum in the British Isles began with the execution of Charles I in January 1649 (and from September 1651 in Scotland) and ended in May 1660 when his son Charles II was restored to the thrones of the three realms, although he had been already acclaimed king in Scotland since 1649. During this time the monarchical system of government was replaced with the Commonwealth of England, enlarged in 1653 as the Commonwealth of England, Scotland and Ireland.",
+     "image": null
+    },
+    {
+     "text": "The precise start and end of the interregnum, as well as the social and political events that occurred during the interregnum, varied in the three kingdoms and the English dominions.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 32
+  },
+  {
+   "id": "11091659",
+   "title": "St Peter and St Paul, Bristol",
+   "description": "Greek Orthodox church in Bristol, England",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/St_Peter_and_St_Paul,_Bristol",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/21/Greek_Orthodox_Church_of_St_Peter_and_St_Paul_-_DSC_0339.jpg/1280px-Greek_Orthodox_Church_of_St_Peter_and_St_Paul_-_DSC_0339.jpg",
+    "width": 1280,
+    "height": 951,
+    "page": "https://commons.wikimedia.org/wiki/File:Greek_Orthodox_Church_of_St_Peter_and_St_Paul_-_DSC_0339.jpg",
+    "artist": "Tadeusz Hare",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "St Peter and St Paul is a Greek Orthodox church located on Lower Ashley Road in the Easton area of Bristol, England. Designed in the Gothic Revival style by S. J. Hicks and S. B. Gabriel, the building was completed in 1847 as the Anglican Church of St Simon the Apostle. It was established to serve the rapidly growing and impoverished population of Baptist Mills.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e0/St_Simon%27s_Church%2C_Bristol%2C_groundplan_-_ICBS03664.jpg/1280px-St_Simon%27s_Church%2C_Bristol%2C_groundplan_-_ICBS03664.jpg",
+      "width": 1280,
+      "height": 927,
+      "page": "https://commons.wikimedia.org/wiki/File:St_Simon%27s_Church,_Bristol,_groundplan_-_ICBS03664.jpg",
+      "artist": "Hicks & Gabriel",
+      "license": "Public domain",
+      "caption": "The floorplan of St Simon's Church by Hicks & Gabriel, 1847"
+     }
+    },
+    {
+     "text": "Following the merger of the Anglican parish with St Agnes in 1959, the vacant building was acquired by the local Greek and Greek-Cypriot community, which had expanded significantly after World War II. Consecrated in 1963, it became the first permanent Greek Orthodox church in the West Country. It is the principal Greek Orthodox congregation in southwest England under the Greek Orthodox Archdiocese of Thyateira and Great Britain.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Interior%2C_WE_-_SS_Peter_and_Paul%2C_Baptist_Mills_-_PXL_20251209_141528729.jpg/1280px-Interior%2C_WE_-_SS_Peter_and_Paul%2C_Baptist_Mills_-_PXL_20251209_141528729.jpg",
+      "width": 1280,
+      "height": 1054,
+      "page": "https://commons.wikimedia.org/wiki/File:Interior,_WE_-_SS_Peter_and_Paul,_Baptist_Mills_-_PXL_20251209_141528729.jpg",
+      "artist": "Tadeusz Hare",
+      "license": "CC BY-SA 4.0",
+      "caption": "View of the nave, looking west to east"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 46
+  },
+  {
+   "id": "7140438",
+   "title": "De mirabilibus sacrae scripturae",
+   "description": "7th-century Latin treatise by anonymous Irish philosopher",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/De_mirabilibus_sacrae_scripturae",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/en/d/dd/Utrecht_incunable_of_De_mirabilibus_sacrae_scripturae.jpg",
+    "width": 1280,
+    "height": 1860,
+    "page": "https://en.wikipedia.org/wiki/File:Utrecht_incunable_of_De_mirabilibus_sacrae_scripturae.jpg",
+    "artist": "Unknown",
+    "license": "PD"
+   },
+   "cards": [
+    {
+     "text": "De mirabilibus sacrae scripturae (English: On the Miraculous Things in Sacred Scripture) is a Latin treatise written around 655 by an anonymous Irish writer and philosopher known as Augustinus Hibernicus or the Irish Augustine. The author's nickname is in reference to the philosopher Augustine of Hippo. This pseudo-Augustine was born in Ireland sometime in the first half of the seventh century and is noted especially for his natural philosophy.",
+     "image": null
+    },
+    {
+     "text": "Around the year 655 he wrote a treatise called De mirabilibus Sacrae Scripturae. It has long been regarded as an exceptional work, in that it demonstrates a strictly scientific approach in the matter of making direct observations of nature and subjecting them to a strictly logical interpretation.",
+     "image": null
+    },
+    {
+     "text": "His treatise seeks to explain each miracle in the Scriptures as an extreme case of phenomena, yet still within the laws of nature. Augustine also gives a list of the terrestrial mammals of Ireland, and solves the problem of how they reached Ireland after the flood of Noah by proposing a solution – hundreds of years ahead of its time – that the island had been cut off from continental Europe by marine erosion.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 54
+  },
+  {
+   "id": "19451652",
+   "title": "SR N15 class 777 Sir Lamiel",
+   "description": "Steam locomotive built for the Southern Railway",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/SR_N15_class_777_Sir_Lamiel",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/67/Restored_locomotive_Sir_Lamiel_2011-07-20.jpg",
+    "width": 1280,
+    "height": 851,
+    "page": "https://commons.wikimedia.org/wiki/File:Restored_locomotive_Sir_Lamiel_2011-07-20.jpg",
+    "artist": "Ashley Dace",
+    "license": "CC BY-SA 2.0"
+   },
+   "cards": [
+    {
+     "text": "Southern Railway 777 Sir Lamiel is an N15 \"King Arthur\" class 4-6-0 steam locomotive built for the Southern Railway by the North British Locomotive Company in June 1925, and withdrawn from service in October 1961. The locomotive is named after a fictional minor Knight of the Round Table named Sir Lamiel of Cardiff. Lamiel is mentioned in Book XIX of Thomas Malory's Le Morte d'Arthur, where it is said he was \"a great lover\".",
+     "image": null
+    },
+    {
+     "text": "No. 30453 King Arthur was first selected for preservation, but the lack of a Drummond water cart tender led to it being scrapped, and No. 30777 Sir Lamiel was selected for preservation instead. Sir Lamiel is preserved as part of the National Collection, under the care of the 5305 Locomotive Association, and has been based at the Great Central Railway in Loughborough since 1996.",
+     "image": null
+    },
+    {
+     "text": "Until 2017, the locomotive ran regular passenger services on the preserved section of the Great Central Railway, where it is based. It appeared in the ITV crime drama series Agatha Christie's Poirot (as a Great Western Railway engine) in two episodes of the third series: \"The Plymouth Express\" and \"The Double Clue\", both broadcast in 1991.",
+     "image": null
+    },
+    {
+     "text": "It featured in the 1995 BBC Television play Cruel Train, an adaptation of Émile Zola's novel La Bête Humaine which tells the tale of a murderous engine driver.",
+     "image": null
+    },
+    {
+     "text": "Following repair work at Tyseley and Loughborough, Sir Lamiel emerged in October 2012 in Southern Railway malachite green livery as 777 for the first time (having previously carried Southern Railway olive green as 777 and British Railways Brunswick green as 30777 in preservation) and at the 2012 GCR Autumn Steam Gala, it ran and at some stages double headed with fellow Maunsell and malachite engine SR V Schools class 925 Cheltenham.",
+     "image": null
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 80
+  },
+  {
+   "id": "5642910",
+   "title": "Fearn Abbey",
+   "description": "Monastery in Highland, Scotland",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Fearn_Abbey",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1e/TarbatTrip_020.jpg/1280px-TarbatTrip_020.jpg",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:TarbatTrip_020.jpg",
+    "artist": "Deacon of Pndapetzim at English Wikipedia",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Fearn Abbey – known as \"The Lamp of the North\" – has its origins in one of Scotland's oldest pre-Reformation church buildings. Part of the Church of Scotland and located to the southeast of Tain, Ross-shire, the historic building ceased to be used for church services in 2023, with remaining local church services and meetings to be held in the adjacent modern church hall.",
+     "image": null
+    },
+    {
+     "text": "In 2024 the parish (previously united with Nigg and linked with Tarbat), was united with the former parishes of Tarbat (Portmahomack) and Tain to form Easter Ross Peninsula Church of Scotland.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/38/TarbatTrip_017.jpg/1280px-TarbatTrip_017.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:TarbatTrip_017.jpg",
+      "artist": "Deacon of Pndapetzim at English Wikipedia",
+      "license": "Public domain",
+      "caption": "Tomb of abbot Fionnlagh II (Finlay McFaed)."
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 33
+  }
+ ]
+}
