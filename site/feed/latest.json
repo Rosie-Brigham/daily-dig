@@ -1,258 +1,790 @@
 {
- "date": "2026-11-27",
- "generatedAt": "2026-11-27T15:21:17.162Z",
- "totalReadSeconds": 1126,
+ "date": "2026-11-28",
+ "generatedAt": "2026-11-28T14:22:57.277Z",
+ "totalReadSeconds": 985,
  "posts": [
   {
-   "id": "12682824",
-   "title": "Anglo-Saxon dress",
-   "description": "Clothing of Anglo-Saxon England",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Anglo-Saxon_dress",
+   "id": "11467675",
+   "title": "Chapel of the Three Kings of Cologne",
+   "description": "Building in Bristol, England",
+   "topic": "bristol",
+   "topicLabel": "Bristol",
+   "url": "https://en.wikipedia.org/wiki/Chapel_of_the_Three_Kings_of_Cologne",
    "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/0/03/Harold_bayeux_tapestry.png",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Three_Kings_of_Cologne_Dec09.jpg/1280px-Three_Kings_of_Cologne_Dec09.jpg",
     "width": 1280,
-    "height": 1964,
-    "page": "https://commons.wikimedia.org/wiki/File:Harold_bayeux_tapestry.png",
-    "artist": "~",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Anglo-Saxon dress refers to the clothing and accessories worn by the Anglo-Saxons from the middle of the fifth century to the eleventh century. Archaeological finds in Anglo-Saxon cemeteries have provided the best source of information on Anglo-Saxon costume. It is possible to reconstruct Anglo-Saxon dress using archaeological evidence combined with Anglo-Saxon and European art, writing and literature of the period.",
-     "image": null
-    },
-    {
-     "text": "Archaeological finds have both supported and contradicted the characteristic Anglo-Saxon costume as illustrated and described by these contemporary sources. The collective evidence of cemetery grave-goods indicates that men's and women's costume were different. Women's dress changed frequently from century to century, while men's dress changed very little. Women typically wore jewellery, men wore little or no jewellery. The beginning of the seventh century marked the conversion of Anglo-Saxon kingdoms to Christianity.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/cd/Anglo.Saxon.migration.5th.cen.jpg/1280px-Anglo.Saxon.migration.5th.cen.jpg",
-      "width": 1280,
-      "height": 1211,
-      "page": "https://commons.wikimedia.org/wiki/File:Anglo.Saxon.migration.5th.cen.jpg",
-      "artist": "my work",
-      "license": "CC BY-SA 3.0",
-      "caption": "Anglo-Saxon migration map"
-     }
-    },
-    {
-     "text": "Religious art, symbols and writings from the conversion years greatly influenced costumes from this period onward, especially women's dress and jewellery. Historical research has shown that Anglo-Saxon children wore smaller versions of adult garments. Clothing worn by the military, the elite class and religious orders was initially similar to the daily garments of the common man and woman.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/25/Anglo_saxon_grave_assemblage_%28FindID_395404%29.jpg",
-      "width": 1280,
-      "height": 945,
-      "page": "https://commons.wikimedia.org/wiki/File:Anglo_saxon_grave_assemblage_(FindID_395404).jpg",
-      "artist": "The British Museum, Janina Parol, 2013-05-21 15:58:08",
-      "license": "CC BY-SA 2.0",
-      "caption": "Assembly of grave artefacts, grave #2166, Milton Keynes"
-     }
-    },
-    {
-     "text": "Over time, and with the influence of European culture, the spread of Christianity and the increasing prosperity of Anglo-Saxon England, garments and accessories specific to each group became the standard by which they were identified. During the Anglo-Saxon era, textiles were created from natural materials: wool from sheep, linen from flax, and imported silk. In the fifth and sixth centuries, women were the manufacturers of clothing, weaving textiles on looms in their individual dwellings.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/4/4f/WestStowAngloSaxon-3F7-827647-wiki.jpg",
-      "width": 1280,
-      "height": 2560,
-      "page": "https://commons.wikimedia.org/wiki/File:WestStowAngloSaxon-3F7-827647-wiki.jpg",
-      "artist": "Antony McCallum: Who is the uploader, photographer, full copyright owner and pro",
-      "license": "CC BY-SA 4.0",
-      "caption": "Reconstruction of an Anglo-Saxon woman's attire"
-     }
-    },
-    {
-     "text": "In the seventh to ninth centuries, Anglo-Saxon communities changed slowly from primarily small settlements to a mix of small and large settlements, and large estates. Specialized workshops on large landholdings were responsible for the manufacture of textiles and clothing for the estate community.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ad/CaedmonManuscriptPage46Illust.jpg/1280px-CaedmonManuscriptPage46Illust.jpg",
-      "width": 1280,
-      "height": 991,
-      "page": "https://commons.wikimedia.org/wiki/File:CaedmonManuscriptPage46Illust.jpg",
-      "artist": "Unknown",
-      "license": "Public domain",
-      "caption": "An archangel expels Adam and Eve from Paradise, Cædmon Manuscript, c. 1000."
-     }
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 100
-  },
-  {
-   "id": "63239604",
-   "title": "Keyser's Lane",
-   "description": "",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Keyser%27s_Lane",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/06/Keyser%27s_Lane%2C_Wexford_2.jpg/1280px-Keyser%27s_Lane%2C_Wexford_2.jpg",
-    "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Keyser%27s_Lane,_Wexford_2.jpg",
-    "artist": "Sheila1988",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "Keyser's Lane (or Keyser's Hill, Kezer's Lane, Keizer Street, Keyzer-street) is a street name found in several former Viking towns in Ireland. The name generally applies to a street which runs from the medieval town centre down to the quays or harbour, and is believed to derive from Old Norse keisa, meaning \"bend\", perhaps a reference to the steep slope of the hill or the curve of the river.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e5/Keyser%27s_Lane%2C_Wexford.jpg/1280px-Keyser%27s_Lane%2C_Wexford.jpg",
-      "width": 1280,
-      "height": 1707,
-      "page": "https://commons.wikimedia.org/wiki/File:Keyser%27s_Lane,_Wexford.jpg",
-      "artist": "Sheila1988",
-      "license": "CC BY-SA 4.0",
-      "caption": "Entrance to Keyser's Lane, Wexford"
-     }
-    },
-    {
-     "text": "Holinshed's Chronicles (1575) mentions that it is an ancient name of uncertain origin. Other sources give \"lane to the quays\" or \"ship wharf\" as its meaning; however, \"quay\" is a Celtic/French word, not Norse.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Keyser_sign%2C_Waterford_2.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Keyser_sign,_Waterford_2.jpg",
-      "artist": "Sheila1988",
-      "license": "CC BY-SA 4.0",
-      "caption": "Sign on Keyser Street, Waterford"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 39
-  },
-  {
-   "id": "55027130",
-   "title": "Raids on Lochaber and Shiramore",
-   "description": "1746 raid in the Scottish Highlands",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/Raids_on_Lochaber_and_Shiramore",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/88/Knoydart.jpg/1280px-Knoydart.jpg",
-    "width": 1280,
-    "height": 914,
-    "page": "https://commons.wikimedia.org/wiki/File:Knoydart.jpg",
-    "artist": "paddy patterson from glasgow, scotland",
-    "license": "CC BY 2.0"
-   },
-   "cards": [
-    {
-     "text": "The Raids on Lochaber and Shiramore (Scottish Gaelic: Bliadhna nan Creach) (\"The Year of the Pillaging\") took place in the Scottish Highlands between 22 May and 31 August 1746 and were part of the closing operations of the British-Hanoverian Government to bring to an end the Jacobite rising of 1745.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Thomas_Gainsborough_-_John_Campbell%2C_4th_Duke_of_Argyll%2C_about_1693_-_1770._Soldier_-_Google_Art_Project.jpg/1280px-Thomas_Gainsborough_-_John_Campbell%2C_4th_Duke_of_Argyll%2C_about_1693_-_1770._Soldier_-_Google_Art_Project.jpg",
-      "width": 1280,
-      "height": 1978,
-      "page": "https://commons.wikimedia.org/wiki/File:Thomas_Gainsborough_-_John_Campbell,_4th_Duke_of_Argyll,_about_1693_-_1770._Soldier_-_Google_Art_Project.jpg",
-      "artist": "Thomas Gainsborough",
-      "license": "Public domain",
-      "caption": "Major-general Campbell"
-     }
-    },
-    {
-     "text": "Sometimes referred to as the \"mopping up\" operations, many rebels, forced to come of out of hiding by a scorched earth campaign by government troops, surrendered themselves and their arms, while others remained at large until they were captured and punished. It also included the hunt for the Jacobite leader Bonnie Prince Charles Edward Stuart otherwise known as the Young Pretender.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bd/Lost_Portrait_of_Charles_Edward_Stuart.jpg/1280px-Lost_Portrait_of_Charles_Edward_Stuart.jpg",
-      "width": 1280,
-      "height": 1567,
-      "page": "https://commons.wikimedia.org/wiki/File:Lost_Portrait_of_Charles_Edward_Stuart.jpg",
-      "artist": "Allan Ramsay",
-      "license": "Public domain",
-      "caption": "Charles Edward Stuart known as the Young Pretender"
-     }
-    },
-    {
-     "text": "Most of the work was done on behalf of the Government by the Independent Highland Companies of militia, the Campbell of Argyll Militia and also Loudon's Highlanders regiment.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/55/Culcairn_murder_1.jpg/1280px-Culcairn_murder_1.jpg",
-      "width": 1280,
-      "height": 2282,
-      "page": "https://commons.wikimedia.org/wiki/File:Culcairn_murder_1.jpg",
-      "artist": "Lord Loudon/Earl of Albermarle, 1746",
-      "license": "Public domain",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 52
-  },
-  {
-   "id": "390943",
-   "title": "Clarence House",
-   "description": "Royal residence in London",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/Clarence_House",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/ed/Clarence_house.jpg",
-    "width": 1280,
-    "height": 1243,
-    "page": "https://commons.wikimedia.org/wiki/File:Clarence_house.jpg",
-    "artist": "ChrisO",
+    "height": 1056,
+    "page": "https://commons.wikimedia.org/wiki/File:Three_Kings_of_Cologne_Dec09.jpg",
+    "artist": "NotFromUtrecht",
     "license": "CC BY-SA 3.0"
    },
    "cards": [
     {
-     "text": "Clarence House is a royal residence located near The Mall in the City of Westminster. It has been the primary London residence of Charles III and Queen Camilla since 2003. Clarence House was built in 1825–1827, adjacent to St James's Palace, for the royal Duke of Clarence, the future King William IV.",
+     "text": "The Chapel of the Three Kings of Cologne is a church in Colston Street, near the top of Christmas Steps, Bristol, England. It has been designated as a Grade II* listed building. The Three Kings of Cologne refers to the Biblical Magi. The dedication is a reference to the Shrine of the Three Kings in Cologne Cathedral, Germany. One of the windows shows the nativity of Jesus, which may have contributed to the naming of the Christmas Steps.",
      "image": null
     },
     {
-     "text": "The four-storey house is faced in pale render. Over the years, it has undergone extensive remodelling and reconstruction, most notably after being heavily damaged in the Second World War by enemy bombing during The Blitz. Little remains of the original structure designed by John Nash. It is Grade I listed on the National Heritage List for England. The house is open to visitors for about one month each summer, usually in August.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/96/Clarence_House_royal_residence.jpg",
-      "width": 1280,
-      "height": 963,
-      "page": "https://commons.wikimedia.org/wiki/File:Clarence_House_royal_residence.jpg",
-      "artist": "Funguy06 (talk)",
-      "license": "Public domain",
-      "caption": "Viewed from The Mall in 2008"
-     }
+     "text": "The chapel was built by John Foster in 1504. He was previously the local High Sheriff, mayor, and member of parliament for the city. The church serves as the chapel for Foster's Almshouses. The master of the almshouses was responsible for maintaining the chapel and appointing a priest.",
+     "image": null
     },
     {
-     "text": "Like William IV, Charles III remained at Clarence House when he became king. King Charles III and Queen Camilla would continue to reside at Clarence House, while nearby Buckingham Palace serves as the headquarters of the monarchy, where they hold official events. Charles’s mother and grandmother had previously occupied the home. Princess Elizabeth, the future Elizabeth II, had Clarence House as her official residence from 1947 until her accession to the throne in 1952.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Clarence_House_1874_The_Graphic.jpg",
-      "width": 1280,
-      "height": 834,
-      "page": "https://commons.wikimedia.org/wiki/File:Clarence_House_1874_The_Graphic.jpg",
-      "artist": "Unknown",
-      "license": "Public domain",
-      "caption": "Engraving of Clarence House (1874)"
-     }
-    },
-    {
-     "text": "From 1953 to 2002, it was home to Queen Elizabeth the Queen Mother.",
+     "text": "It was refaced and roofed in 1861 by Foster and Wood, with further restoration in 1865 which included niches for the installation of carvings. The three current statues were designed by Ernest Pascoe and installed in the 1960s. On the gable above the statues is a small bellcote.",
      "image": null
     }
    ],
    "truncated": false,
-   "readSeconds": 67
+   "readSeconds": 49
   },
   {
-   "id": "49547197",
-   "title": "Prince Street Bridge",
-   "description": "Bridge in Bristol, England",
+   "id": "32219282",
+   "title": "Torrs Pony-cap and Horns",
+   "description": "Iron Age bronze artifact found in Scotland",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Torrs_Pony-cap_and_Horns",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/be/Museum_of_ScotlandDSCF6355.jpg/1280px-Museum_of_ScotlandDSCF6355.jpg",
+    "width": 1280,
+    "height": 1019,
+    "page": "https://commons.wikimedia.org/wiki/File:Museum_of_ScotlandDSCF6355.jpg",
+    "artist": "Johnbod",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "The Torrs Horns and Torrs Pony-cap (once together known as the Torrs Chamfrein) are Iron Age bronze pieces now in the National Museum of Scotland, which were found together, but whose relationship is one of many questions about these \"famous and controversial\" objects that continue to be debated by scholars.",
+     "image": null
+    },
+    {
+     "text": "Most scholars agree that horns were added to the pony-cap at a later date, but whether they were originally made for this purpose is unclear; one theory sees them as mounts for drinking-horns, either totally or initially unconnected to the cap. The three pieces are decorated in a late stage of La Tène style, as Iron Age Celtic art is called by archaeologists.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Wandsworth_Shield.png/1280px-Wandsworth_Shield.png",
+      "width": 1280,
+      "height": 1238,
+      "page": "https://commons.wikimedia.org/wiki/File:Wandsworth_Shield.png",
+      "artist": "Johnbod",
+      "license": "CC BY-SA 3.0",
+      "caption": "Comparable decoration on the Wandsworth shield boss, British Museum; the engraving (lower left) is especially similar to that on the horns."
+     }
+    },
+    {
+     "text": "The dates ascribed to the elements vary, but are typically around 200 BC; it is generally agreed that the horns are somewhat later than the cap, and in a rather different style.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/3/31/Celtic_horse_helmet_-_geograph.org.uk_-_1341264.jpg",
+      "width": 1280,
+      "height": 1629,
+      "page": "https://commons.wikimedia.org/wiki/File:Celtic_horse_helmet_-_geograph.org.uk_-_1341264.jpg",
+      "artist": "kim traynor",
+      "license": "CC BY-SA 2.0",
+      "caption": "Wider view"
+     }
+    },
+    {
+     "text": "Whatever the original appearance and functions of the objects, and wherever they were made, they are very finely designed and skillfully executed, and form part of a small surviving group of elaborate metal objects found around the British Isles that were commissioned by the elite of Iron Age British and Irish society in the final centuries before the arrival of the Romans.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Bullion_DSCF6263.jpg/1280px-Bullion_DSCF6263.jpg",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:Bullion_DSCF6263.jpg",
+      "artist": "Johnbod",
+      "license": "CC BY-SA 3.0",
+      "caption": "The Pictish Bullion Stone, with drinking-horn terminated in a bird's head, Angus, 10th century AD[19]"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 70
+  },
+  {
+   "id": "35941760",
+   "title": "Isabel Stuart",
+   "description": "English princess",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Isabel_Stuart",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/dc/PrincessIsabelLelly.jpg/1280px-PrincessIsabelLelly.jpg",
+    "width": 1280,
+    "height": 1473,
+    "page": "https://commons.wikimedia.org/wiki/File:PrincessIsabelLelly.jpg",
+    "artist": "After Peter Lely",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Isabel Stuart (28 August 1676 – 2 March 1681), also called Isobel and Isabella, was a daughter of the future King James II of England and his second wife, Mary of Modena. Isabel was born at St James's Palace in London. She was the second daughter of James and Mary, after her older sister Catherine Laura who died eleven months before her birth.",
+     "image": null
+    },
+    {
+     "text": "Isabel had two older half-sisters from her father's first marriage to Anne Hyde: Mary and Anne; both would become reigning Queens of England. Isabel's paternal grandparents were Charles I of England and his wife Henrietta Maria of France; her maternal grandparents were Alfonso IV d'Este and Laura Martinozzi.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 33
+  },
+  {
+   "id": "55667402",
+   "title": "Red Book of Ossory",
+   "description": "Medieval manuscript from Ireland",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Red_Book_of_Ossory",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/Recipe_for_Aquavite.jpg/1280px-Recipe_for_Aquavite.jpg",
+    "width": 1280,
+    "height": 729,
+    "page": "https://commons.wikimedia.org/wiki/File:Recipe_for_Aquavite.jpg",
+    "artist": "A.-K. D.",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "The Red Book of Ossory (Latin Liber Rubrum Ossoriensis) is a medieval manuscript produced in Kilkenny, Ireland, and usually kept in the Representative Church Body Library in Dublin.  On 82 folios, the manuscript contains a number of texts in Latin, Middle English and in Anglo-Norman. The sixth gathering of the MS contains the Proverbes de bon enseignement by Nicholas Bozon.",
+     "image": null
+    },
+    {
+     "text": "The Latin religious lyrics in the manuscript were intended to replace more secular songs in the vernacular, and were mostly composed by Richard de Ledrede, Bishop of Ossory. It is on display at St Canice's Cathedral since July 29 2024, the purchase of a ticket to visit the Cathedral and see the exhibition is required. It is planned to change the display of pages every three months; the first part on display is the recipe for aqua vite.",
+     "image": null
+    },
+    {
+     "text": "Later, a letter from King Edward III, an early provision of the Magna Carta, and poems and songs composed by Bishop Ledrede will be shown. The manuscript has been digitized and is available online.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 49
+  },
+  {
+   "id": "405827",
+   "title": "Herne the Hunter",
+   "description": "Ghost from English folklore",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Herne_the_Hunter",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Herne_the_Hunter.jpg",
+    "width": 1280,
+    "height": 893,
+    "page": "https://commons.wikimedia.org/wiki/File:Herne_the_Hunter.jpg",
+    "artist": "Illustration by George Cruikshank, scan by Steven J Plunkett",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "In English folklore, Herne the Hunter is a ghost associated with Windsor Forest and Great Park in the English county of Berkshire. He is said to have antlers growing from his head, ride a horse, torment cattle, and rattle chains.",
+     "image": null
+    },
+    {
+     "text": "The earliest mention of Herne comes from William Shakespeare's 1597 play The Merry Wives of Windsor, and it is impossible to know how accurately or to what degree Shakespeare may have incorporated a real local legend into his work, though there have been several later attempts to connect Herne to historical figures, pagan deities, or ancient archetypes.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/1/1d/Herne%27s_Oak_%2811044455083%29.jpg",
+      "width": 1280,
+      "height": 1635,
+      "page": "https://commons.wikimedia.org/wiki/File:Herne%27s_Oak_(11044455083).jpg",
+      "artist": "The British Library",
+      "license": "No restrictions",
+      "caption": "Herne's Oak, illustration from A Picturesque Tour of the River Thames in Its Western Course (1849)"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 33
+  },
+  {
+   "id": "62897584",
+   "title": "Shropshire bulla",
+   "description": "Late Bronze Age gold pendant discovered in 2018",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Shropshire_bulla",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Shropshire_bulla.jpg/1280px-Shropshire_bulla.jpg",
+    "width": 1280,
+    "height": 595,
+    "page": "https://commons.wikimedia.org/wiki/File:Shropshire_bulla.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "The Shropshire bulla (\"bulla\" is Medieval Latin for \"a round seal\", Classical Latin for \"bubble, blob\", plural bullae), also known as the Shropshire sun pendant, is a Late Bronze Age gold pendant found by a metal detectorist in 2018 in Shropshire, England. Made primarily of gold, it is the eighth bulla discovered to date in Great Britain and Ireland, and only the second in Britain.",
+     "image": null
+    },
+    {
+     "text": "The pendant, decorated with intricately carved geometric designs, is now in the British Museum in London. According to the Portable Antiquities Scheme, \"The workmanship of the construction and decoration of the 'Shropshire Marches' bulla represents the highest skill and expertise seen within decorated metalwork of the period being almost un-paralleled within a British context.\"",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2e/Shropshire_Sun_Pendant.jpg/1280px-Shropshire_Sun_Pendant.jpg",
+      "width": 1280,
+      "height": 1058,
+      "page": "https://commons.wikimedia.org/wiki/File:Shropshire_Sun_Pendant.jpg",
+      "artist": "Birmingham Museums Trust, Peter Reavill, 2018",
+      "license": "CC BY-SA 2.5",
+      "caption": "The Shropshire bulla"
+     }
+    },
+    {
+     "text": "The findspot has been kept secret, called only the \"Shropshire Marches\", that is to say the west side of Shropshire, forming part of the Welsh Marches along the border with Wales.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Sun_pendant.jpg/1280px-Sun_pendant.jpg",
+      "width": 1280,
+      "height": 1280,
+      "page": "https://commons.wikimedia.org/wiki/File:Sun_pendant.jpg",
+      "artist": "Roger Jones",
+      "license": "CC BY-SA 2.0",
+      "caption": "The Shropshire Bulla on display at 'The World of Stonehenge' exhibition, British Museum, 2022"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 51
+  },
+  {
+   "id": "32807628",
+   "title": "Garrick's Temple to Shakespeare",
+   "description": "Garden folly in London",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Garrick%27s_Temple_to_Shakespeare",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/20/Zoffany-Garricks_Temple.jpg/1280px-Zoffany-Garricks_Temple.jpg",
+    "width": 1280,
+    "height": 1038,
+    "page": "https://commons.wikimedia.org/wiki/File:Zoffany-Garricks_Temple.jpg",
+    "artist": "Johan Zoffany",
+    "license": "CC0"
+   },
+   "cards": [
+    {
+     "text": "Garrick's Temple to Shakespeare is a small garden folly erected in 1756 on the north bank of the River Thames at Hampton in the London Borough of Richmond upon Thames. Grade I listed, it was built by the actor David Garrick to honour the playwright William Shakespeare, whose plays Garrick performed to great acclaim throughout his career. During his lifetime Garrick used it to house his extensive collection of Shakespearean relics and for entertaining his family and guests.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/79/Garrick%27s_Temple_south_view.jpg/1280px-Garrick%27s_Temple_south_view.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:Garrick%27s_Temple_south_view.jpg",
+      "artist": "Maxwell Hamilton",
+      "license": "CC BY 2.0",
+      "caption": "Garrick's Temple in its riverside setting"
+     }
+    },
+    {
+     "text": "It passed through a succession of owners until coming into public ownership in the 1930s, but it had fallen into serious disrepair by the end of the 20th century. After a campaign supported by distinguished actors and donations from the National Lottery's \"good causes\" fund, it was restored in the late 1990s and reopened to the public as a museum and memorial to the life and career of Garrick. It is reputedly the world's only shrine to Shakespeare.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/22/Louis_Fran%C3%A7ois_Roubiliac_by_Adrien_Carpentiers_%28Carpenti%C3%A8re%2C_Charpenti%C3%A8re%29.jpg/1280px-Louis_Fran%C3%A7ois_Roubiliac_by_Adrien_Carpentiers_%28Carpenti%C3%A8re%2C_Charpenti%C3%A8re%29.jpg",
+      "width": 1280,
+      "height": 1624,
+      "page": "https://commons.wikimedia.org/wiki/File:Louis_Fran%C3%A7ois_Roubiliac_by_Adrien_Carpentiers_(Carpenti%C3%A8re,_Charpenti%C3%A8re).jpg",
+      "artist": "Adrien Carpentiers",
+      "license": "Public domain",
+      "caption": "Adrien Carpentiers's portrait of the sculptor Louis-François Roubiliac depicts him with a model of the statue of Shakespeare for Garrick's temple."
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 53
+  },
+  {
+   "id": "79332174",
+   "title": "Birthing girdle",
+   "description": "Talisman used during pregnancy and childbirth",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Birthing_girdle",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/03/MS.632._Saints_Quiricus_and_Julitta_%28_-304%29._Recto._Wellcome_L0074222.jpg/1280px-MS.632._Saints_Quiricus_and_Julitta_%28_-304%29._Recto._Wellcome_L0074222.jpg",
+    "width": 1280,
+    "height": 2472,
+    "page": "https://commons.wikimedia.org/wiki/File:MS.632._Saints_Quiricus_and_Julitta_(_-304)._Recto._Wellcome_L0074222.jpg",
+    "artist": "Unknown",
+    "license": "CC BY 4.0"
+   },
+   "cards": [
+    {
+     "text": "A birthing girdle was a talisman used during pregnancy and childbirth in Medieval England. Girdles were especially popular between the 12th and 16th centuries. A type of prayer roll, a girdle consisted of a strip (most commonly parchment, silk, or paper) inscribed with Christian prayers for the mother and child's safety, holy texts, and religious imagery. Girdles were usually produced and owned by monasteries who rented them to parishioners in need.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/54/Oxford_Bodlian_MS_Rolls_26.jpg/1280px-Oxford_Bodlian_MS_Rolls_26.jpg",
+      "width": 1280,
+      "height": 1844,
+      "page": "https://commons.wikimedia.org/wiki/File:Oxford_Bodlian_MS_Rolls_26.jpg",
+      "artist": "The Levitating Scot",
+      "license": "CC BY-SA 4.0",
+      "caption": "Oxford Bodlian MS Roll 26 (16th century). Although not specifically a birthing girdle, this demonstrates how such rolls might have been worn."
+     }
+    },
+    {
+     "text": "Like most talismans and magical objects, birthing girdles were banned during the English Reformation and most examples were destroyed in the dissolution of the monasteries from 1536. However, their use continued surreptitiously into the 17th century.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/Illustration_of_possible_methods_of_wrapping_a_birthing_girdle_around_the_abdomen.png",
+      "width": 1280,
+      "height": 914,
+      "page": "https://commons.wikimedia.org/wiki/File:Illustration_of_possible_methods_of_wrapping_a_birthing_girdle_around_the_abdomen.png",
+      "artist": "Sarah Fiddyment , Natalie J. Goodison , Elma Brenner , Stefania Signorello , Kie",
+      "license": "CC BY 4.0",
+      "caption": "Fiddyment et al.'s illustration of possible methods of tying a birthing girdle before, during, and after labour."
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 40
+  },
+  {
+   "id": "80311351",
+   "title": "Marketgate, Bristol",
+   "description": "Residential building in Bristol, England",
    "topic": "bristol",
    "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Prince_Street_Bridge",
+   "url": "https://en.wikipedia.org/wiki/Marketgate,_Bristol",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f8/Bridge_Swing%21_%28geograph_2460172%29.jpg/1280px-Bridge_Swing%21_%28geograph_2460172%29.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/96/Marketgate%2C_Bristol_-_DSC_1885.jpg/1280px-Marketgate%2C_Bristol_-_DSC_1885.jpg",
     "width": 1280,
-    "height": 947,
-    "page": "https://commons.wikimedia.org/wiki/File:Bridge_Swing!_(geograph_2460172).jpg",
-    "artist": "Neil Owen",
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:Marketgate,_Bristol_-_DSC_1885.jpg",
+    "artist": "Tadeusz Hare",
+    "license": "CC BY-SA 4.0"
+   },
+   "cards": [
+    {
+     "text": "Marketgate (originally Mercury House) is a 16-storey high-rise residential building in the Old Market area of Bristol, England. Constructed between 1968 and 1970 as an office building for the South-West regional headquarters of the Post Office, it later served as a major British Telecom administrative centre before being redeveloped in 2001–02 as accommodation for more than 500 University of the West of England students.",
+     "image": null
+    },
+    {
+     "text": "The building stands on Bond Street South opposite Cabot Circus, and remains one of Bristol's tallest post-war structures. Having been conceived for use by the Post Office, its original name referred to the Roman god of messages and communication, Mercury.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 31
+  },
+  {
+   "id": "44594778",
+   "title": "Robert Burns World Federation",
+   "description": "Association which celebrates Robert Burns and Scottish literature",
+   "topic": "scotland",
+   "topicLabel": "Scotland",
+   "url": "https://en.wikipedia.org/wiki/Robert_Burns_World_Federation",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/PG_1063Burns_Naysmith.jpg/1280px-PG_1063Burns_Naysmith.jpg",
+    "width": 1280,
+    "height": 1568,
+    "page": "https://commons.wikimedia.org/wiki/File:PG_1063Burns_Naysmith.jpg",
+    "artist": "Alexander Nasmyth",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "The Robert Burns World Federation is a literary society based in Kilmarnock, Ayrshire, Scotland, aimed at educating the public about the life, poetry and works of the poet Robert Burns. It is a Scottish Charity and a company limited by Guarantee. The Federation links existing Burns Clubs and similar groups, giving a unique number to affiliated Clubs, which is then used by them in their promotion and identification.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f0/Dean_Dower_House.jpg/1280px-Dean_Dower_House.jpg",
+      "width": 1280,
+      "height": 958,
+      "page": "https://commons.wikimedia.org/wiki/File:Dean_Dower_House.jpg",
+      "artist": "Rosser1954 Roger Griffith",
+      "license": "Public domain",
+      "caption": "The Dower House at Dean Castle was home to the Robert Burns World Federation until 2018."
+     }
+    },
+    {
+     "text": "Their ongoing intent is to provide a way for clubs to link together and enjoy the mutual benefit of association, communication and shared mission. It was founded in 1885",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7e/Robert_Burns_and_Highland_Mary_Memorial_-_Failford.JPG/1280px-Robert_Burns_and_Highland_Mary_Memorial_-_Failford.JPG",
+      "width": 1280,
+      "height": 958,
+      "page": "https://commons.wikimedia.org/wiki/File:Robert_Burns_and_Highland_Mary_Memorial_-_Failford.JPG",
+      "artist": "Rosser1954",
+      "license": "CC BY-SA 3.0",
+      "caption": "The memorial to Highland Mary at Failford."
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 37
+  },
+  {
+   "id": "21886155",
+   "title": "Agnes Keith, Countess of Moray",
+   "description": "Scottish noblewoman (c. 1540–1588)",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Agnes_Keith,_Countess_of_Moray",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/Hans_Eworth_Agnes_Keith_Countess_of_Moray.png",
+    "width": 1280,
+    "height": 1680,
+    "page": "https://commons.wikimedia.org/wiki/File:Hans_Eworth_Agnes_Keith_Countess_of_Moray.png",
+    "artist": "Hans Eworth",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Agnes Keith, Countess of Moray (c. 1540 – (1588-07-16)16 July 1588) was a Scottish noblewoman. She was the wife of James Stewart, 1st Earl of Moray, regent of Scotland and the illegitimate half-brother of Mary, Queen of Scots, making her a sister-in-law of the Scottish queen. As the wife of the regent, Agnes was the most powerful woman in Scotland from 1567 until her husband's assassination in 1570.",
+     "image": null
+    },
+    {
+     "text": "She was married secondly to Sir Colin Campbell, heir presumptive to the earldom of Argyll. When he succeeded his brother as the 6th earl in 1573, Agnes was henceforth styled Countess of Argyll. During her second marriage, Agnes became embroiled in a litigation over Queen Mary's jewels which had earlier fallen into her keeping. It was her refusal to hand the jewels over to the Scottish Government that sparked a feud between the Earl of Argyll and the Regent Morton.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/af/DUNNOTTAR_CASTLE_Large.JPG",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:DUNNOTTAR_CASTLE_Large.JPG",
+      "artist": "Jjhake",
+      "license": "CC BY-SA 3.0",
+      "caption": "Dunnottar Castle, the birthplace of Agnes Keith"
+     }
+    },
+    {
+     "text": "Agnes was also known as \"Annabel\" or \"Annas\". Historians prefer to use the name Annas Keith, reflecting a contemporary spelling, and her usual neat italic signature throughout her lifetime \"Annas Keyth\".",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/8/88/James_Stewart_Earl_of_Moray.jpg",
+      "width": 1280,
+      "height": 1736,
+      "page": "https://commons.wikimedia.org/wiki/File:James_Stewart_Earl_of_Moray.jpg",
+      "artist": "Hans Eworth",
+      "license": "Public domain",
+      "caption": "Portrait of James Stewart, 1st Earl of Moray, the first husband of Agnes Keith. It was painted by Hans Eworth in 1562"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 59
+  },
+  {
+   "id": "1448345",
+   "title": "Gospel Book (British Library, Add MS 40618)",
+   "description": "",
+   "topic": "ireland",
+   "topicLabel": "Ireland",
+   "url": "https://en.wikipedia.org/wiki/Gospel_Book_(British_Library,_Add_MS_40618)",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/6/69/BritLibAddMs40618GospelBookFol21vLuke.jpg",
+    "width": 1280,
+    "height": 1701,
+    "page": "https://commons.wikimedia.org/wiki/File:BritLibAddMs40618GospelBookFol21vLuke.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "British Library, Add MS 40618 is a late 8th-century illuminated Irish Gospel Book with 10th-century Anglo-Saxon additions. The manuscript contains a portion of the Gospel of Matthew, the majority of the Gospel of Mark and the entirety of the Gospels of Luke and John. There are three surviving Evangelist portraits, one original and two 10th-century replacements, along with 10th-century decorated initials.",
+     "image": null
+    },
+    {
+     "text": "It is catalogued as number 40618 in the Additional manuscripts collection at the British Library. The manuscript has 66 surviving vellum folios. The pages are 130 by 105 mm. The text occupies an area of 101 by 73 mm. There are gatherings of 16 or 20 folios. The oak board used as the back cover survives along with a vellum cover from another book that was used as a wrapper starting in the 17th century.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/en/thumb/8/8a/BritLibAddMs40618GospelBookFol22vLuke.jpg/1280px-BritLibAddMs40618GospelBookFol22vLuke.jpg",
+      "width": 1280,
+      "height": 1701,
+      "page": "https://en.wikipedia.org/wiki/File:BritLibAddMs40618GospelBookFol22vLuke.jpg",
+      "artist": "Unknown",
+      "license": "PD",
+      "caption": "Folio 22v contains the 10th century portrait of Luke."
+     }
+    },
+    {
+     "text": "The manuscript is missing several folios. The first 18 folios are missing from Matthew so the text begins at Matthew 21:32. There are two folios missing that contained the end of Matthew and the beginning of Mark. The remainder of Mark and the other two Gospels are complete. The original final page of John has been lost but was replaced by a folio written in by a 10th-century Anglo-Saxon scribe.",
+     "image": null
+    },
+    {
+     "text": "The original Evangelist portraits of Matthew, Mark and John have also been lost. In the 10th century Evangelist portraits were added to either replace or to supplement the originals. Of these the portraits of Luke and John survive. The manuscript is a pocket gospel. The text belongs to the Irish Vulgate tradition with a few Old Latin readings.",
+     "image": null
+    },
+    {
+     "text": "The manuscript is written in a pointed Insular minuscule in three hands, although the second hand wrote only a few lines on folio 51. Edward the Deacon, the scribe who wrote the Anglo-Saxon page at the end of John, wrote in an Anglo-Saxon minuscule that had some features of Carolingian minuscule. Edward added a colophon in rustic capitals (QUI LEGAT ORAT PRO SCRIPTORE EADVVARDO DIACONE – \"may he who reads this pray for the scribe Edward the deacon\").",
+     "image": null
+    }
+   ],
+   "truncated": true,
+   "readSeconds": 97
+  },
+  {
+   "id": "3529733",
+   "title": "Selma (lake monster)",
+   "description": "Norwegian lake monster",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Selma_(lake_monster)",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c0/Seljord_komm.svg/1280px-Seljord_komm.svg.png",
+    "width": 1280,
+    "height": 1629,
+    "page": "https://commons.wikimedia.org/wiki/File:Seljord_komm.svg",
+    "artist": "Own work This W3C-unspecified vector image was created with Inkscape .",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "In Norwegian folklore, Selma (Norwegian: Seljordsormen, \"the Seljord serpent\") is a legendary sea serpent said to live in the 13-kilometre-long (8-mile) Lake Seljord (Seljordsvatnet) in Seljord Municipality, Telemark, Norway. Selma's image was incorporated into the coat of arms of Seljord in 1989. Designed by sculptor Trygve Magnus Barstad, the creature is depicted in gold on a red background.",
+     "image": null
+    },
+    {
+     "text": "The sea serpent has been the subject of discussion since at least the 18th century. Eyewitness descriptions of encounters have tended to peak during hot, quiet summers. The oldest written account of the creature dates back to 1750, when it was said to have rounded a rowboat belonging to a man from Bø who was rowing across from Ulvenes to Nes.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 35
+  },
+  {
+   "id": "9214937",
+   "title": "Coria (Corbridge)",
+   "description": "Roman fort in Corbridge, England",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Coria_(Corbridge)",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f5/Corbridge_Roman_Ruins.jpg/1280px-Corbridge_Roman_Ruins.jpg",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:Corbridge_Roman_Ruins.jpg",
+    "artist": "Glen Bowman from Newcastle, England",
+    "license": "CC BY 2.0"
+   },
+   "cards": [
+    {
+     "text": "Coria was a fort and town 2.5 miles (4.0 km) south of Hadrian's Wall, in the Roman province of Britannia. It was strategically located on the junction of a major Roman north–south road (Dere Street) with the River Tyne and the Roman Stanegate road, which was also the first frontier line which ran east–west between Coria and Luguvalium (the modern Carlisle).",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Corbridge_stangate.jpg",
+      "width": 1280,
+      "height": 958,
+      "page": "https://commons.wikimedia.org/wiki/File:Corbridge_stangate.jpg",
+      "artist": "Moyn2000 at English Wikipedia",
+      "license": "Public domain",
+      "caption": "The Stanegate, Corbridge Roman Site"
+     }
+    },
+    {
+     "text": "Corbridge Roman Site is in the village of Corbridge in the county of Northumberland. It is in the guardianship of English Heritage and is partially exposed as a visitor attraction, including a site museum.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/81/Corbridge_Guidebook_Page030.jpg/1280px-Corbridge_Guidebook_Page030.jpg",
+      "width": 1280,
+      "height": 1411,
+      "page": "https://commons.wikimedia.org/wiki/File:Corbridge_Guidebook_Page030.jpg",
+      "artist": "Birley, Eric, 1906-1995",
+      "license": "Public domain",
+      "caption": "Plan of Coria showing the various stages of building;[7] the twin granaries are at left"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 37
+  },
+  {
+   "id": "442189",
+   "title": "Minories",
+   "description": "Street in the City of London",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Minories",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c4/Minories%2C_EC3_-_geograph.org.uk_-_1758111.jpg/1280px-Minories%2C_EC3_-_geograph.org.uk_-_1758111.jpg",
+    "width": 1280,
+    "height": 960,
+    "page": "https://commons.wikimedia.org/wiki/File:Minories,_EC3_-_geograph.org.uk_-_1758111.jpg",
+    "artist": "Paul Smith",
     "license": "CC BY-SA 2.0"
    },
    "cards": [
     {
-     "text": "Prince Street Bridge is a swing bridge across Bristol Harbour. It is now Grade II listed. The bridge carries a road from Prince Street to Wapping Road and is located between the Arnolfini art centre and M Shed museum. The iron swing bridge was built in 1879 on the site of the ancient Gib ferry owned by the Dean and Chapter of Bristol Cathedral.",
+     "text": "Minories ( MIN-ə-reez) is the name of a small former administrative unit, and also of a street in the Aldgate area of the City of London. Both the street and the former administrative area take their name from the Abbey of the Minoresses of St. Clare without Aldgate.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/c/ce/Holy_Trinity_Minories_parish_boundary_marker.jpg",
+      "width": 1280,
+      "height": 787,
+      "page": "https://commons.wikimedia.org/wiki/File:Holy_Trinity_Minories_parish_boundary_marker.jpg",
+      "artist": "Benetfink",
+      "license": "CC BY-SA 4.0",
+      "caption": "Holy Trinity Minories parish boundary marker"
+     }
+    },
+    {
+     "text": "Both are positioned just to the east of, and outside, the line of London's former defensive walls, in London's East End. The area of the former administrative unit was outside the City of London (most recently in the London Borough of Tower Hamlets), with the street partially in the city and partly in Tower Hamlets. Boundary changes in 1994 mean the area of both is now wholly within the City of London.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/ab/Immaculate_Conception_of_the_Mother_of_God_Monastery%2C_Feira_de_Santana%2C_Brazil_%28Poor_Clares%29.JPG/1280px-Immaculate_Conception_of_the_Mother_of_God_Monastery%2C_Feira_de_Santana%2C_Brazil_%28Poor_Clares%29.JPG",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:Immaculate_Conception_of_the_Mother_of_God_Monastery,_Feira_de_Santana,_Brazil_(Poor_Clares).JPG",
+      "artist": "Eugenio Hansen, OFS",
+      "license": "CC BY-SA 3.0",
+      "caption": "Modern Minoresses at the Immaculate Conception Monastery, Feira de Santana, Brazil"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 43
+  },
+  {
+   "id": "78910584",
+   "title": "Hearthwerod",
+   "description": "Manservants and bodyguards of an Anglo-Saxon lord in his/her household",
+   "topic": "medieval-england",
+   "topicLabel": "Medieval England",
+   "url": "https://en.wikipedia.org/wiki/Hearthwerod",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/05/Hexateuch_king.jpg/1280px-Hexateuch_king.jpg",
+    "width": 1280,
+    "height": 891,
+    "page": "https://commons.wikimedia.org/wiki/File:Hexateuch_king.jpg",
+    "artist": "Unknown authorUnknown author",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Hearthwerod (Old English: heorþ-werod) were the household warbands of Anglo-Saxon aristocracy. There were multiple names for them, often hearthwerod, hiredmen, or later huscarl. Anglo-Saxon kings maintained their own warbands since the beginning of the migration to England as a way of enforcing their power, and there is a debate as to what extent and in what way they were assisted on campaign by non-aristocratic infantry.",
      "image": null
     },
     {
-     "text": "It replaced a previous bridge built in 1809. In the 19th century tolls were charged for traffic over the bridge, with the toll house being burnt during the Bristol Riots of 1831. The swing bridge is operated by water hydraulic power provided by the adjacent engine house and accumulator tower.",
+     "text": "After 1016, the Housecarls were introduced into England as a Scandinavian equivalent to the extant institution. Reciprocal loyalty was very important to the relationship between a lord and his hearthwerod. He gave them gifts freely and plentifully, and protected them legally and socially, and in exchange they would serve him faithfully. Men were expected to follow their lord into exile if necessary.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0e/BLW_Silver_Anglo-Saxon_ring.jpg/1280px-BLW_Silver_Anglo-Saxon_ring.jpg",
+      "width": 1280,
+      "height": 837,
+      "page": "https://commons.wikimedia.org/wiki/File:BLW_Silver_Anglo-Saxon_ring.jpg",
+      "artist": "Valerie McGlinchey",
+      "license": "CC BY-SA 2.0 uk",
+      "caption": "Silver Anglo-Saxon ring (c.775–850). Gift-giving with rings, among other items, by which a lord's followers could be rewarded. Kings and lords were known as \"ring-givers\".[11]"
+     }
+    },
+    {
+     "text": "Those who failed to achieve these standards received societal ridicule and would have difficulty finding employment. The hearthwerod were raised in and around the meadhall, which was a social, political, and ceremonial centre for Anglo-Saxon society.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f2/Sword_Pommel_from_the_Bedale_Hoard_YORYM_2014_149_1-1.jpg/1280px-Sword_Pommel_from_the_Bedale_Hoard_YORYM_2014_149_1-1.jpg",
+      "width": 1280,
+      "height": 800,
+      "page": "https://commons.wikimedia.org/wiki/File:Sword_Pommel_from_the_Bedale_Hoard_YORYM_2014_149_1-1.jpg",
+      "artist": "Photographed by: York Museums Trust Staff",
+      "license": "CC BY-SA 4.0",
+      "caption": "Anglo-Saxon sword pommel from the Bedale Hoard"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 55
+  },
+  {
+   "id": "334727",
+   "title": "Patrick Hamilton (martyr)",
+   "description": "Scottish clergyman",
+   "topic": "medieval-scotland",
+   "topicLabel": "Medieval Scotland",
+   "url": "https://en.wikipedia.org/wiki/Patrick_Hamilton_(martyr)",
+   "cover": {
+    "src": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Patrick_Hamilton.jpg",
+    "width": 1280,
+    "height": 1525,
+    "page": "https://commons.wikimedia.org/wiki/File:Patrick_Hamilton.jpg",
+    "artist": "John Scougal (Life time: 1730)",
+    "license": "Public domain"
+   },
+   "cards": [
+    {
+     "text": "Patrick Hamilton (1504 – 29 February 1528) was a Scottish Roman Catholic priest and an early Protestant Reformer in Scotland. He travelled to Europe, where he met several of the leading reformed thinkers, before returning to Scotland to preach the doctrines of Lutheranism. Hamilton began preaching in Scotland in 1527 and was invited as a friend by Archbishop James Beaton to a conference in St. Andrews.",
+     "image": {
+      "src": "https://upload.wikimedia.org/wikipedia/commons/a/a4/Patrick_Hamilton_Plaque%2C_St_Duthus_Memorial_Church%2C_Tain_%28geograph_1864563%29.jpg",
+      "width": 1280,
+      "height": 854,
+      "page": "https://commons.wikimedia.org/wiki/File:Patrick_Hamilton_Plaque,_St_Duthus_Memorial_Church,_Tain_(geograph_1864563).jpg",
+      "artist": "Becky Williamson",
+      "license": "CC BY-SA 2.0",
+      "caption": "Patrick Hamilton Plaque, St Duthus Memorial Church, Tain"
+     }
+    },
+    {
+     "text": "Instead, he was tried for heresy by an Ecclesiastical tribunal led by Archbishop Beaton. He was found guilty, handed over to the secular executioner, and burnt at the stake in St Andrews. ",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Martyrs%27_Monument%2C_St_Andrews_-_2025.jpg/1280px-Martyrs%27_Monument%2C_St_Andrews_-_2025.jpg",
+      "width": 1280,
+      "height": 1707,
+      "page": "https://commons.wikimedia.org/wiki/File:Martyrs%27_Monument,_St_Andrews_-_2025.jpg",
+      "artist": "Zeete",
+      "license": "CC BY-SA 4.0",
+      "caption": "The Martyrs' Monument, St Andrews, which commemorates Hamilton and three other martyrs: Henry Forrest, George Wishart and Walter Milne"
+     }
+    },
+    {
+     "text": "Hamilton's judges considered themselves to be defending the Catholic Church in Scotland and enforcing the traditional principle of Canon law that \"error has no rights\"; Hamilton's calm demeanor in the face of death won the admiration of those present and his death was widely publicized using the new technologies of the Gutenberg Revolution. Hamilton's trial and execution accordingly backfired dramatically, as still often happens during religious persecution of any kind.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d3/Patrick_Hamilton_initials_plaque%2C_St_Andrews%2C_Fife%2C_Scotland.jpg/1280px-Patrick_Hamilton_initials_plaque%2C_St_Andrews%2C_Fife%2C_Scotland.jpg",
+      "width": 1280,
+      "height": 460,
+      "page": "https://commons.wikimedia.org/wiki/File:Patrick_Hamilton_initials_plaque,_St_Andrews,_Fife,_Scotland.jpg",
+      "artist": "Millerdl",
+      "license": "CC BY-SA 4.0",
+      "caption": "Patrick Hamilton initials plaque, St Andrews, Fife, Scotland"
+     }
+    },
+    {
+     "text": "After Hamilton's death, others who had Lutheran New Testaments or who professed Protestant doctrines were also burned or sentenced to severe punishments. Since the Scottish Reformation Parliament of 1560, the site of Hamilton's execution has been treated with enormous respect, even by the students and faculty of the University of St Andrews.",
+     "image": {
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/17/St._Salvator%27s_College%2C_St._Andrews.jpg/1280px-St._Salvator%27s_College%2C_St._Andrews.jpg",
+      "width": 1280,
+      "height": 960,
+      "page": "https://commons.wikimedia.org/wiki/File:St._Salvator%27s_College,_St._Andrews.jpg",
+      "artist": "Kim Traynor",
+      "license": "CC BY-SA 3.0",
+      "caption": "St. Salvator's College and Chapel"
+     }
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 77
+  },
+  {
+   "id": "889743",
+   "title": "Stonehenge Free Festival",
+   "description": "1974–1984 UK music festival",
+   "topic": "folklore",
+   "topicLabel": "Folklore",
+   "url": "https://en.wikipedia.org/wiki/Stonehenge_Free_Festival",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/47/Stonehenge84.jpg/1280px-Stonehenge84.jpg",
+    "width": 1280,
+    "height": 865,
+    "page": "https://commons.wikimedia.org/wiki/File:Stonehenge84.jpg",
+    "artist": "Salix alba",
+    "license": "CC BY-SA 3.0"
+   },
+   "cards": [
+    {
+     "text": "The Stonehenge Free Festival was a British free festival from 1974 to 1984 held at the prehistoric monument Stonehenge in England during the month of June, and culminating with the summer solstice on or near 21 June. It emerged as the major free festival in the calendar after the violent suppression of the Windsor Free Festival in August 1974, with Wally Hope providing the impetus for its founding.",
      "image": null
     },
     {
-     "text": "Repair work led to the closure of the bridge between 2015 and 2017. Fewer than 2,000 motor vehicle movements now cross the bridge per day using one side, whilst over 24,000 pedestrians and cyclists use the other. This has led pressure groups to call for the bridge to be closed to cars permanently.",
+     "text": "By the 1980s, the festival had grown to be a major event, attracting up to 30,000 people in 1984. The festival attendees were branded as hippies by the British press. This, along with the open drug use and sale, contributed to the increase in restrictions on access to Stonehenge, and fences were erected around the stones in 1977.",
+     "image": null
+    },
+    {
+     "text": "The same year, police resurrected a moribund law against driving over grassland in order to levy fines against festival goers in motorised transport. The festival came to an end in 1985 following the infamous Battle of the Beanfield. What followed was several years of exclusion until the year 2000 when full access was restored.",
+     "image": null
+    }
+   ],
+   "truncated": false,
+   "readSeconds": 51
+  },
+  {
+   "id": "23304135",
+   "title": "Charlie (skeleton)",
+   "description": "Neolithic skeleton",
+   "topic": "archaeology",
+   "topicLabel": "Archaeology",
+   "url": "https://en.wikipedia.org/wiki/Charlie_(skeleton)",
+   "cover": {
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/Charlie_The_Skeleton.jpg/1280px-Charlie_The_Skeleton.jpg",
+    "width": 1280,
+    "height": 853,
+    "page": "https://commons.wikimedia.org/wiki/File:Charlie_The_Skeleton.jpg",
+    "artist": "Sid Wearing",
+    "license": "CC BY-SA 2.0"
+   },
+   "cards": [
+    {
+     "text": "Charlie (c. 3703 BC - c. 3700 BC) is the name given to a Neolithic skeleton of a three-year-old child found near the ancient stone circle of Avebury, Wiltshire, England. Charlie was excavated from Windmill Hill, Avebury in the 1920s and is currently on display at the Alexander Keiller Museum at Avebury.",
+     "image": null
+    },
+    {
+     "text": "There is controversy surrounding the display of the skeleton. The Council of British Druid Orders (CoBDO) demanded that the skeleton be reburied where it was found, or as near as is practically possible, claiming that putting a skeleton in a museum as an attraction is disrespectful. Some archeologists have opposed reburying the skeleton, claiming that it could set a precedent for the reburying of other human remains in museums.",
+     "image": null
+    },
+    {
+     "text": "Historians have also argued that Charlie's skeleton should be kept in a museum to be available for research. English Heritage and The National Trust held a public consultation on the future of Charlie; in April 2010 the decision was made to keep the skeleton on public view.",
      "image": null
     }
    ],
@@ -260,708 +792,48 @@
    "readSeconds": 48
   },
   {
-   "id": "352012",
-   "title": "Knights of the Round Table",
-   "description": "King Arthur and order of chivalry in Arthurian romance",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Knights_of_the_Round_Table",
+   "id": "30816536",
+   "title": "Battle of Britain Bunker",
+   "description": "Royal Air Force WWII operations room",
+   "topic": "london",
+   "topicLabel": "London",
+   "url": "https://en.wikipedia.org/wiki/Battle_of_Britain_Bunker",
    "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7b/Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg/1280px-Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg",
+    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/bf/Plotting_Table.jpg/1280px-Plotting_Table.jpg",
     "width": 1280,
-    "height": 831,
-    "page": "https://commons.wikimedia.org/wiki/File:Holy_Grail_Tapestry_-The_Arming_and_Departure_of_the_Kniights.jpg",
-    "artist": "Sir Edward Burne-Jones, overall design and figures; William Morris, overall desi",
-    "license": "Public domain"
+    "height": 857,
+    "page": "https://commons.wikimedia.org/wiki/File:Plotting_Table.jpg",
+    "artist": "Danielstirland at English Wikipedia",
+    "license": "CC0"
    },
    "cards": [
     {
-     "text": "The Knights of the Round Table (French: Chevaliers de la Table Ronde) are the legendary knights of the fellowship of King Arthur that first appeared in the French-language Matter of Britain literature in the mid-12th century. The Knights are a chivalric order dedicated to ensuring the peace of Arthur's kingdom following an early warring period, entrusted in later years to undergo a mystical quest for the Holy Grail.",
-     "image": null
-    },
-    {
-     "text": "The Round Table at which they meet is a symbol of the equality of its members, who range from sovereign royals to minor nobles. The various Round Table stories present an assortment of knights from all over Great Britain and abroad, some of whom are even from outside of Europe. Their ranks often include Arthur's close and distant relatives, such as Agravain, Gaheris and Yvain, as well as his reconciled former enemies, like Galehaut, Pellinore and Lot.",
+     "text": "The Battle of Britain Bunker is an underground operations room at RAF Uxbridge, formerly used by No. 11 Group Fighter Command during the Second World War. Fighter aircraft operations were controlled from there throughout the War but most notably during the Battle of Britain and on D-Day. Today it is run by Hillingdon Council as a heritage attraction with attached museum.",
      "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/1/16/Knights_of_the_Round_Table_%28La_Qu%C3%AAte_du_Saint_Graal_BNF_Fran%C3%A7ais_343%29.png",
+      "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/RAF_Fighter_Command_Dowding_System.jpg",
       "width": 1280,
-      "height": 835,
-      "page": "https://commons.wikimedia.org/wiki/File:Knights_of_the_Round_Table_(La_Qu%C3%AAte_du_Saint_Graal_BNF_Fran%C3%A7ais_343).png",
-      "artist": "AnonymousUnknown author",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "Several of the most notable Knights of the Round Table, among them Bedivere, Gawain and Kay, are based on older characters from a host of great warriors associated with Arthur in the early Welsh tales. Some, such as Lancelot, Perceval and Tristan, feature in the roles of a protagonist or eponymous hero in various works of chivalric romance.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/df/La_marche_des_chevaliers_Gustave_Dor%C3%A9-topaz-high_fidelity_v2-2x.jpg/1280px-La_marche_des_chevaliers_Gustave_Dor%C3%A9-topaz-high_fidelity_v2-2x.jpg",
-      "width": 1280,
-      "height": 1669,
-      "page": "https://commons.wikimedia.org/wiki/File:La_marche_des_chevaliers_Gustave_Dor%C3%A9-topaz-high_fidelity_v2-2x.jpg",
-      "artist": "Gustave Doré",
-      "license": "Public domain",
-      "caption": "Gustave Doré, La Marche des Chevaliers (1867)"
-     }
-    },
-    {
-     "text": "Other well-known members of the Round Table include the holy knight Galahad, replacing Perceval as the main Grail Knight in the later stories, and Arthur's traitorous son and nemesis Mordred.  The first written record of the Knights of the Round Table is found in the Roman de Brut, written by the Norman author Wace in 1155.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/9a/Lancelot_defeats_Claudins%2C_a_damzel_and_Meliagans_look_on_%285152635%29.jpg/1280px-Lancelot_defeats_Claudins%2C_a_damzel_and_Meliagans_look_on_%285152635%29.jpg",
-      "width": 1280,
-      "height": 704,
-      "page": "https://commons.wikimedia.org/wiki/File:Lancelot_defeats_Claudins,_a_damzel_and_Meliagans_look_on_(5152635).jpg",
-      "artist": "anonymous",
+      "height": 1629,
+      "page": "https://commons.wikimedia.org/wiki/File:RAF_Fighter_Command_Dowding_System.jpg",
+      "artist": "Danielstirland at en.wikipedia",
       "license": "CC0",
-      "caption": "Lancelot defeats Claudins while a damsel and Meliagans look on. Le Livre d'Yvain, ms. Aberystwyth, NLW, 444D (14th century)"
+      "caption": "Flow diagram illustrating the Dowding System"
      }
     },
     {
-     "text": "At the end of the 12th century, works of chivalric romance by Chrétien de Troyes had a major influence on the spread of the Arthurian legend while introducing many of the later popular Round Table heroes to French and international audiences. In the 13th-century Arthurian prose cycles, including their seminal compilation Le Morte d'Arthur, the Round Table eventually splits up into groups of warring factions following the revelation of Lancelot's adultery with King Arthur's wife, Queen Guinevere.",
-     "image": null
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 104
-  },
-  {
-   "id": "1906341",
-   "title": "History of Norfolk",
-   "description": "",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/History_of_Norfolk",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/e/e4/St_Benet%27s_Abbey_1831.jpg",
-    "width": 1280,
-    "height": 861,
-    "page": "https://commons.wikimedia.org/wiki/File:St_Benet%27s_Abbey_1831.jpg",
-    "artist": "John Sell Cotman",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "Norfolk ( NOR-fək) is a rural county in the East of England. Knowledge of prehistoric Norfolk is limited by a lack of evidence – although the earliest finds are from the end of the Lower Paleolithic period. Communities have existed in Norfolk since the last Ice Age and tools, coins and hoards such as those found at Snettisham indicate the presence of an extensive and industrious population.",
+     "text": "The museum was opened in 1985, with an above ground visitor centre opened in March 2018. The Bunker is located at RAF Uxbridge, not far from Uxbridge town centre and Uxbridge Underground station.",
      "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/e2/Snettisham_Hoard.jpg/1280px-Snettisham_Hoard.jpg",
+      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Battle_of_Britain_Bunker_with_Spitfire.jpg/1280px-Battle_of_Britain_Bunker_with_Spitfire.jpg",
       "width": 1280,
       "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Snettisham_Hoard.jpg",
-      "artist": "Portable Antiquities Scheme from London, England",
-      "license": "CC BY 2.0",
-      "caption": "The Snettisham Hoard, now kept at the British Museum"
-     }
-    },
-    {
-     "text": "The Iceni tribe inhabited the region prior to the Roman conquest of Britain in 43 AD, after which they built roads, forts, villas and towns. Boudica's rebellion in 60 AD, caused by the imposition of direct rule by the Romans, was followed by order and peace, which lasted until the Roman armies left Britain in 410 AD. The subsequent arrival of the Anglo-Saxons caused the loss of much Roman and British culture in Norfolk.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Public_Schools_Historical_Atlas_-_Roman_Britain_400.jpg",
-      "width": 1280,
-      "height": 1676,
-      "page": "https://commons.wikimedia.org/wiki/File:Public_Schools_Historical_Atlas_-_Roman_Britain_400.jpg",
-      "artist": "Charles Colbeck Edited by Yarl",
-      "license": "Public domain",
-      "caption": "A 1905 map of Roman Britain"
-     }
-    },
-    {
-     "text": "It is known from external evidence from excavations and place-names that by c. 800 AD all Norfolk had been settled and the first towns had emerged. Norfolk was the northern half of the Kingdom of East Anglia and was ruled by the Anglo-Saxon Wuffing dynasty. Our knowledge of several Wuffings is scant, as few historical documents of the period have survived.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/e/e9/Burgh_Castle_-_geograph.org.uk_-_154039.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Burgh_Castle_-_geograph.org.uk_-_154039.jpg",
-      "artist": "Tony Grant",
-      "license": "CC BY-SA 2.0",
-      "caption": "Burgh Castle, the most impressive of the Roman ruins of Norfolk"
-     }
-    },
-    {
-     "text": "Under the Normans, Norwich emerged as the hub of the region. With steady growth and strong overseas links it became an important mediaeval city, but it suffered from internal tensions, unsanitary conditions and disastrous fires. Mediaeval Norfolk was the mostly densely populated and the most productive agricultural region in the country. Land was cultivated intensively and the wool trade was sustained by huge flocks.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/66/Peddars_Way_-_Little_Cressingham.jpg/1280px-Peddars_Way_-_Little_Cressingham.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Peddars_Way_-_Little_Cressingham.jpg",
-      "artist": "Michael Perryman",
+      "page": "https://commons.wikimedia.org/wiki/File:Battle_of_Britain_Bunker_with_Spitfire.jpg",
+      "artist": "Harrison49",
       "license": "CC BY-SA 3.0",
-      "caption": "The Peddars Way footpath follows the route of a major Roman road across Norfolk."
+      "caption": "Replica Spitfire Mark IXc gate guardian outside the Battle of Britain Bunker"
      }
-    },
-    {
-     "text": "Other industries such as peat extraction were important. Norfolk was a prosperous county and possessed a wealth of monastic establishments and parish churches.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Pentney_hoard.jpg",
-      "width": 1280,
-      "height": 1868,
-      "page": "https://commons.wikimedia.org/wiki/File:Pentney_hoard.jpg",
-      "artist": "Amitchell125 at English Wikipedia",
-      "license": "Public domain",
-      "caption": "Late Anglo-Saxon brooches discovered at Pentney, now on display at the British Museum"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 99
-  },
-  {
-   "id": "2722974",
-   "title": "Earldom of Orkney",
-   "description": "Medieval Norse earldom",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/Earldom_of_Orkney",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/c/c5/Kingdom_of_Mann_and_the_Isles-en.svg/1280px-Kingdom_of_Mann_and_the_Isles-en.svg.png",
-    "width": 1280,
-    "height": 1344,
-    "page": "https://commons.wikimedia.org/wiki/File:Kingdom_of_Mann_and_the_Isles-en.svg",
-    "artist": "Sémhur",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "The Earldom of Orkney was a Norse territory ruled by the earls (or jarls) of Orkney from the ninth century until 1472. It was founded during the Viking Age by Viking raiders and settlers from Scandinavia (see Scandinavian Scotland). In the ninth and tenth centuries it covered the Northern Isles (Norðreyjar) of Orkney and Shetland, as well as Caithness and Sutherland on the mainland.",
-     "image": null
-    },
-    {
-     "text": "It was a dependent territory of the Kingdom of Norway until 1472, when it was absorbed into the Kingdom of Scotland. Originally, the title of Jarl or Earl of Orkney was heritable.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 29
-  },
-  {
-   "id": "2579340",
-   "title": "Histoire de Guillaume le Maréchal",
-   "description": "Anglo-Norman biography of William Marshal",
-   "topic": "medieval-england",
-   "topicLabel": "Medieval England",
-   "url": "https://en.wikipedia.org/wiki/Histoire_de_Guillaume_le_Mar%C3%A9chal",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/84/L%E2%80%99histoire_de_Guillaume_le_Mar%C3%A9chal.jpg",
-    "width": 1280,
-    "height": 1853,
-    "page": "https://commons.wikimedia.org/wiki/File:L%E2%80%99histoire_de_Guillaume_le_Mar%C3%A9chal.jpg",
-    "artist": "Paul Meyer",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The Histoire de Guillaume le Maréchal (\"History of William the Marshal\") is a near-contemporary Anglo-Norman biography of the English nobleman, William Marshal (died 1219). In terms of genre it is therefore something of a rarity for its period, as it fits all the characteristics of a true biography, being William's story from cradle to grave, and moreover it examines the life of a lay person.",
-     "image": null
-    },
-    {
-     "text": "It is a substantial work composed in 19,214 octosyllabic lines of plain verse in the French dialect of the Touraine. It shows little trace in its composition of any influence of the medieval schools. A modest number of Latin vitae or biographies survive from the period, almost all of them of clergymen. Its author was not entirely divorced from Latin scholarship, however.",
-     "image": null
     }
    ],
    "truncated": false,
    "readSeconds": 37
-  },
-  {
-   "id": "22067184",
-   "title": "An sluagh sidhe so i nEamhuin?",
-   "description": "Irish poem",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/An_sluagh_sidhe_so_i_nEamhuin%3F",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/5/58/Navan.jpg",
-    "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Navan.jpg",
-    "artist": "Jon Sullivan",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "An sluagh sidhe so i nEamhuin? (also known as Is this a fairy host in Navan Fort?) is an Irish poem dated to the late 16th century. The poem has been described as:",
-     "image": null
-    },
-    {
-     "text": "an ode to Turlough Luineach O'Neill which gives a great deal of information on the preparations for battle, despite almost nothing been said about the actual fight.. [It has] \"the patron play[ing] the central role in a set piece on \"Arming the Hero\" which has parallels in all European literatures, and in Irish prose romances. This motif is a very old and well-established on - it is found repeatedly in Virgil's Aeneid.....",
-     "image": null
-    },
-    {
-     "text": "Many pieces in Turlough Luineach's accoutrement are... described... his spurs, his padded jack, his \"feilm\" or helmet.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 36
-  },
-  {
-   "id": "99082",
-   "title": "National Trust for Scotland",
-   "description": "Scottish conservation charity",
-   "topic": "scotland",
-   "topicLabel": "Scotland",
-   "url": "https://en.wikipedia.org/wiki/National_Trust_for_Scotland",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/aa/Craigievar_Doocot_and_Castle_-_geograph.org.uk_-_7846018.jpg/1280px-Craigievar_Doocot_and_Castle_-_geograph.org.uk_-_7846018.jpg",
-    "width": 1280,
-    "height": 1042,
-    "page": "https://commons.wikimedia.org/wiki/File:Craigievar_Doocot_and_Castle_-_geograph.org.uk_-_7846018.jpg",
-    "artist": "Colin Smith",
-    "license": "CC BY-SA 2.0"
-   },
-   "cards": [
-    {
-     "text": "The National Trust for Scotland (Scottish Gaelic: Urras Nàiseanta na h-Alba) is a Scottish conservation organisation. It is the largest membership organisation in Scotland and describes itself as \"the charity that cares for, shares and speaks up for Scotland's magnificent heritage\".",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/8/89/Loch_lomond1.jpg",
-      "width": 1280,
-      "height": 800,
-      "page": "https://commons.wikimedia.org/wiki/File:Loch_lomond1.jpg",
-      "artist": "Alison Wheeler",
-      "license": "CC BY-SA 3.0",
-      "caption": "The Trust owns large areas of upland, including Ben Lomond."
-     }
-    },
-    {
-     "text": "The trust owns and manages around 130 properties and 76,000 hectares (190,000 acres; 760 km2) of land, including castles, ancient small dwellings, historic sites, gardens, coastline, mountains and countryside. It is similar in function to the National Trust, which covers England, Wales, and Northern Ireland, and to other national trusts worldwide.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/f/fd/Crookston_Castle.jpg",
-      "width": 1280,
-      "height": 988,
-      "page": "https://commons.wikimedia.org/wiki/File:Crookston_Castle.jpg",
-      "artist": "Chris Upson",
-      "license": "CC BY-SA 2.0",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 36
-  },
-  {
-   "id": "2819894",
-   "title": "St Anne's Church, Soho",
-   "description": "Church in London, England",
-   "topic": "london",
-   "topicLabel": "London",
-   "url": "https://en.wikipedia.org/wiki/St_Anne%27s_Church,_Soho",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/1/1a/West_Face_of_the_Church_of_Saint_Anne%2C_Soho_%2801%29.jpg/1280px-West_Face_of_the_Church_of_Saint_Anne%2C_Soho_%2801%29.jpg",
-    "width": 1280,
-    "height": 1705,
-    "page": "https://commons.wikimedia.org/wiki/File:West_Face_of_the_Church_of_Saint_Anne,_Soho_(01).jpg",
-    "artist": "Doyle of London",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "St Anne's Church serves in the Church of England the Soho section of London. It was consecrated on 21 March 1686 by Bishop Henry Compton as the parish church of the new civil and ecclesiastical parish of St Anne Within the Liberty of Westminster, created from part of the parish of St Martin in the Fields. The church is under the Deanery of Westminster (St Margaret) in the Diocese of London.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/3/3d/St._Anne%27s_Soho_-_Whistler.png",
-      "width": 1280,
-      "height": 1844,
-      "page": "https://commons.wikimedia.org/wiki/File:St._Anne%27s_Soho_-_Whistler.png",
-      "artist": "James Abbott McNeill Whistler",
-      "license": "Public domain",
-      "caption": "Sketch of St Anne's Church, Soho by James Abbott McNeill Whistler"
-     }
-    },
-    {
-     "text": "Parts of its churchyard around its west including tower are now the public park of St Anne's Gardens, accessed from the Shaftesbury Avenue end of Wardour Street. The church is accessed via a gate at that end of Dean Street. The parish, having spawned two new churches dedicated to Saints Thomas and Peter, reconsolidated on St Anne's in 1945.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/67/Foundation_Plaque_inside_the_Church_of_Saint_Anne%2C_Soho.jpg/1280px-Foundation_Plaque_inside_the_Church_of_Saint_Anne%2C_Soho.jpg",
-      "width": 1280,
-      "height": 911,
-      "page": "https://commons.wikimedia.org/wiki/File:Foundation_Plaque_inside_the_Church_of_Saint_Anne,_Soho.jpg",
-      "artist": "Doyle of London",
-      "license": "CC BY-SA 4.0",
-      "caption": "Foundation plaque inside the church, dated 1677"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 46
-  },
-  {
-   "id": "73949371",
-   "title": "Forlorn Hope Estate",
-   "description": "Estate in Bristol with a pesthouse",
-   "topic": "bristol",
-   "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/Forlorn_Hope_Estate",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/30/Forlorn_Hope_Estate%2C_1828.jpg/1280px-Forlorn_Hope_Estate%2C_1828.jpg",
-    "width": 1280,
-    "height": 953,
-    "page": "https://commons.wikimedia.org/wiki/File:Forlorn_Hope_Estate,_1828.jpg",
-    "artist": "George C. Ashmead",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The Forlorn Hope Estate is an area of Bristol in St Paul's. The 13-acre estate was originally a farm owned by St Nicholas Church vestry from 1693. At that time it consisted of a main dwelling house, stables, associated buildings and gardens of c. 2.5 acres, plus pasture fields of c. 10.5 acres. By 1828 the estate had been divided into a number of smaller properties and gardens.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ee/Forlorn_Hope_Estate.jpg/1280px-Forlorn_Hope_Estate.jpg",
-      "width": 1280,
-      "height": 1115,
-      "page": "https://commons.wikimedia.org/wiki/File:Forlorn_Hope_Estate.jpg",
-      "artist": "Evan T Jones",
-      "license": "CC BY-SA 4.0",
-      "caption": "Forlorn Hope Estate with modern (2023) street plan."
-     }
-    },
-    {
-     "text": "During the 1870s the estate was then thoroughly redeveloped, with a new road layout, as part of the urban development of Bristol. The 'Forlorn Hope Estate' was a separate charity until 2004, the assets now being part of St Nicholas with St Leonard Educational Charity. As such, it still exists as a legal entity, with the proceeds of the estate being employed for religious education in schools and youth organisations within the Bristol.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/92/The_Pest-House%2C_Bristol_%281673%29.jpg/1280px-The_Pest-House%2C_Bristol_%281673%29.jpg",
-      "width": 1280,
-      "height": 843,
-      "page": "https://commons.wikimedia.org/wiki/File:The_Pest-House,_Bristol_(1673).jpg",
-      "artist": "James Millerd",
-      "license": "Public domain",
-      "caption": "The Pest House on Millerd's 1673 Plan of Bristol"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 49
-  },
-  {
-   "id": "4306",
-   "title": "Beltane",
-   "description": "Gaelic May Day festival",
-   "topic": "folklore",
-   "topicLabel": "Folklore",
-   "url": "https://en.wikipedia.org/wiki/Beltane",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/52/2022_Festival_of_Fires_on_Hill_of_Uisneach.jpg/1280px-2022_Festival_of_Fires_on_Hill_of_Uisneach.jpg",
-    "width": 1280,
-    "height": 1600,
-    "page": "https://commons.wikimedia.org/wiki/File:2022_Festival_of_Fires_on_Hill_of_Uisneach.jpg",
-    "artist": "LookLookNoHands",
-    "license": "CC BY-SA 4.0"
-   },
-   "cards": [
-    {
-     "text": "Bealtaine (Irish pronunciation: [ˈbʲal̪ˠt̪ˠənʲə]) or Beltane ( BEL-tayn) is the Gaelic May Day festival, marking the beginning of summer. It is traditionally held on 1 May, or about midway between the spring equinox and summer solstice. Historically, it was widely observed in Ireland, Scotland, and the Isle of Man. In Ireland, the name for the festival in both Irish and English is Lá Bealtaine ([l̪ˠaː ˈbʲal̪ˠt̪ˠənʲə]).",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/5c/Beltany_stone_circle.jpg/1280px-Beltany_stone_circle.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Beltany_stone_circle.jpg",
-      "artist": "Osioni",
-      "license": "Public domain",
-      "caption": "Beltany stone circle in Ireland"
-     }
-    },
-    {
-     "text": "In Scottish Gaelic it is Là Bealltainn ([l̪ˠaː ˈpjaul̪ˠt̪ɪɲ]), and in Manx Gaelic Boaltinn or Boaldyn. It is one of the four main Gaelic seasonal festivals—along with Samhain, Imbolc, and Lughnasadh—and is similar to the Welsh Calan Mai. Beltane is mentioned in the earliest Irish literature and is associated with important events in Irish mythology. Also known as Cétshamhain (possibly 'first of summer'), it marked the beginning of summer and was when cattle were driven out to the summer pastures.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/57/Beltane_Festival_2019_ending_ceremony%2C_May_Queen_and_Green_Man_at_Bonfire.jpg/1280px-Beltane_Festival_2019_ending_ceremony%2C_May_Queen_and_Green_Man_at_Bonfire.jpg",
-      "width": 1280,
-      "height": 853,
-      "page": "https://commons.wikimedia.org/wiki/File:Beltane_Festival_2019_ending_ceremony,_May_Queen_and_Green_Man_at_Bonfire.jpg",
-      "artist": "Beltane1",
-      "license": "CC0",
-      "caption": "Beltane Fire Festival, Edinburgh, 2019"
-     }
-    },
-    {
-     "text": "Rituals were performed to protect cattle, people and crops, and to encourage growth. Special bonfires were kindled, whose flames, smoke and ashes were believed to have protective powers. The people and their cattle would walk around or between bonfires and sometimes leap over the flames or embers. All household fires would be doused and then relit from the Beltane bonfire. ",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/f/f9/Beltane_Festival_2019_running_the_cattle_through_the_fire_ritual.jpg/1280px-Beltane_Festival_2019_running_the_cattle_through_the_fire_ritual.jpg",
-      "width": 1280,
-      "height": 853,
-      "page": "https://commons.wikimedia.org/wiki/File:Beltane_Festival_2019_running_the_cattle_through_the_fire_ritual.jpg",
-      "artist": "Beltane1",
-      "license": "CC0",
-      "caption": "Beltane Fire Festival, Edinburgh, 2019 - participants dressed as cattle"
-     }
-    },
-    {
-     "text": "These gatherings were accompanied by a feast, and some of the food and drink would be offered to the aos sí (the 'fairy folk'). Doors, windows, byres and livestock were decorated with yellow May flowers, perhaps because they evoked fire. In parts of Ireland, people made a May Bush: typically a thorn bush or branch decorated with flowers, ribbons, bright shells and rushlights.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b8/Crataegus_monogyna_in_flower_on_Smeardon_Down.jpg/1280px-Crataegus_monogyna_in_flower_on_Smeardon_Down.jpg",
-      "width": 1280,
-      "height": 1510,
-      "page": "https://commons.wikimedia.org/wiki/File:Crataegus_monogyna_in_flower_on_Smeardon_Down.jpg",
-      "artist": "Nilfanion",
-      "license": "CC BY-SA 3.0",
-      "caption": "A flowering hawthorn"
-     }
-    },
-    {
-     "text": "Holy wells were also visited, while Beltane dew was thought to bring beauty and maintain youthfulness. Many of these customs were part of May Day or Midsummer festivals in parts of Great Britain and mainland Europe, such as Germanic celebrations of Walpurgis Night.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Holy_Well%2C_Slieve_League%2C_Co._Donegal_%2831636807885%29.jpg/1280px-Holy_Well%2C_Slieve_League%2C_Co._Donegal_%2831636807885%29.jpg",
-      "width": 1280,
-      "height": 973,
-      "page": "https://commons.wikimedia.org/wiki/File:Holy_Well,_Slieve_League,_Co._Donegal_(31636807885).jpg",
-      "artist": "Robert French",
-      "license": "No restrictions",
-      "caption": "Men visiting a holy well in County Donegal in the 1890s"
-     }
-    }
-   ],
-   "truncated": true,
-   "readSeconds": 105
-  },
-  {
-   "id": "11438634",
-   "title": "Welwyn Roman Baths",
-   "description": "Roman ruin in England",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Welwyn_Roman_Baths",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6c/Welwyn_Roman_baths_02.jpg/1280px-Welwyn_Roman_baths_02.jpg",
-    "width": 1280,
-    "height": 960,
-    "page": "https://commons.wikimedia.org/wiki/File:Welwyn_Roman_baths_02.jpg",
-    "artist": "Legis at English Wikipedia",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "The Welwyn Roman Baths are a Roman ruin preserved under the A1(M) just north of modern-day Welwyn Garden City, Hertfordshire, England. The baths were a small part of the Dicket Mead villa, which was originally built in the 3rd century AD.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a2/Welwyn_Roman_baths_01.jpg/1280px-Welwyn_Roman_baths_01.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Welwyn_Roman_baths_01.jpg",
-      "artist": "Legis at English Wikipedia",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The village of Welwyn has been described as being the site of a Romano-British settlement, where a Roman road crossed the river Mimram. There was another Roman villa near Welwyn on the Lockleys estate. The full extent of the Dicket Mead villa was never fully excavated prior to the construction of the motorway, but the baths were only one of at least four buildings in total.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/77/Welwyn_Roman_baths_005A.jpg/1280px-Welwyn_Roman_baths_005A.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Welwyn_Roman_baths_005A.jpg",
-      "artist": "Legis at English Wikipedia",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "The complex was probably part of a farm. It has been speculated that it might have been at least in part the equivalent of a hotel, lying as it does near Roman roads. The ruins were uncovered in 1960 by local archaeologist Tony Rook, and the baths were gradually uncovered over the following 10 years by excavation.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d5/Welwyn_Roman_baths_004.jpg/1280px-Welwyn_Roman_baths_004.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Welwyn_Roman_baths_004.jpg",
-      "artist": "Legis at English Wikipedia",
-      "license": "Public domain",
-      "caption": ""
-     }
-    },
-    {
-     "text": "Shortly after the excavation was completed, the Ministry of Transport announced the route of a new motorway, straight over the top of the excavation.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/8a/Welwyn_Roman_baths_003.jpg/1280px-Welwyn_Roman_baths_003.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:Welwyn_Roman_baths_003.jpg",
-      "artist": "Legis at English Wikipedia",
-      "license": "Public domain",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 69
-  },
-  {
-   "id": "376665",
-   "title": "Lismore, Scotland",
-   "description": "Island of Inner Hebrides, Scotland",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/Lismore,_Scotland",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Houses_at_Achnacroish_-_geograph.org.uk_-_6214284.jpg",
-    "width": 1280,
-    "height": 693,
-    "page": "https://commons.wikimedia.org/wiki/File:Houses_at_Achnacroish_-_geograph.org.uk_-_6214284.jpg",
-    "artist": "Gordon Brown",
-    "license": "CC BY-SA 2.0"
-   },
-   "cards": [
-    {
-     "text": "Lismore is an island of around 2,351 hectares (9.1 square miles) in the Inner Hebrides of Scotland. It is in the council area of Argyll and Bute. The climate is damp and mild, with over 166 centimetres (65 in) of rain recorded annually. This fertile, low-lying island was once a major centre of Celtic Christianity, with a 6th-century monastery associated with Saint Moluag, and later became the seat of the medieval Bishop of Argyll.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/9/97/Shoreline_at_Rubha_Mor%2C_Lismore_-_geograph.org.uk_-_6333280.jpg/1280px-Shoreline_at_Rubha_Mor%2C_Lismore_-_geograph.org.uk_-_6333280.jpg",
-      "width": 1280,
-      "height": 721,
-      "page": "https://commons.wikimedia.org/wiki/File:Shoreline_at_Rubha_Mor,_Lismore_-_geograph.org.uk_-_6333280.jpg",
-      "artist": "Colin Park",
-      "license": "CC BY-SA 2.0",
-      "caption": ""
-     }
-    },
-    {
-     "text": "There are numerous ruined structures, including a broch and two 13th-century castles. During the 19th century, various new industries were introduced, including lime quarrying. During the early decades of the 20th century, the population exceeded 1,000, but this was followed by a lengthy decline. Although resident numbers are now less than 200, there was a small increase from 2001 to 2011.",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6b/DSCN3764_Tirefour_Broch.jpg/1280px-DSCN3764_Tirefour_Broch.jpg",
-      "width": 1280,
-      "height": 960,
-      "page": "https://commons.wikimedia.org/wiki/File:DSCN3764_Tirefour_Broch.jpg",
-      "artist": "AlasdairW",
-      "license": "CC BY-SA 4.0",
-      "caption": ""
-     }
-    },
-    {
-     "text": "About a third of the population were recorded as Gaelic-speaking at the former date. The modern economy is largely based on farming, fishing and tourism, and the largest settlement is Achnacroish. Various shipwrecks have been recorded in the vicinity.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/d/de/CastleCoeffinLismore-ARuinedMacDougallStronghold%28ColinSmith%29Aug1995.jpg",
-      "width": 1280,
-      "height": 868,
-      "page": "https://commons.wikimedia.org/wiki/File:CastleCoeffinLismore-ARuinedMacDougallStronghold(ColinSmith)Aug1995.jpg",
-      "artist": "Colin Smith",
-      "license": "CC BY-SA 2.0",
-      "caption": ""
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 61
-  },
-  {
-   "id": "4901791",
-   "title": "Irish anniversary festivals",
-   "description": "Year-long festivals in Ireland, 1980s and 1990s",
-   "topic": "ireland",
-   "topicLabel": "Ireland",
-   "url": "https://en.wikipedia.org/wiki/Irish_anniversary_festivals",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/72/Cork_800_memorial.JPG/1280px-Cork_800_memorial.JPG",
-    "width": 1280,
-    "height": 1707,
-    "page": "https://commons.wikimedia.org/wiki/File:Cork_800_memorial.JPG",
-    "artist": "Jnestorius",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "In the 1980s and 1990s, a number of areas in the Republic of Ireland held year-long festivals commemorating historic anniversaries. The country was in an economic depression at the time and these were excuses for some civic pride; the anniversaries chosen were often rather arbitrary and were chosen by the relevant local authority to promote tourism.",
-     "image": null
-    },
-    {
-     "text": "The \"Dublin millennium\" was proposed by city manager Frank Feely to be held in 1988, commemorating Gaelic King Mael Seachlainn II's conquest of the Viking city of Dublin. The corporation agreed in December 1985, prompting a historian to point out that the conquest had actually occurred in 989 and to suggest the year \"was chosen quite arbitrarily for the 'millennium' because it is coming up soon, not long after the Galway 500 and the Cork 800\".",
-     "image": {
-      "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/3/34/Three_Measle_sailing_dinghies_part_of_the_Dublin_Millennium_parade_on_the_River_Liffey_in_1988.jpg/1280px-Three_Measle_sailing_dinghies_part_of_the_Dublin_Millennium_parade_on_the_River_Liffey_in_1988.jpg",
-      "width": 1280,
-      "height": 1006,
-      "page": "https://commons.wikimedia.org/wiki/File:Three_Measle_sailing_dinghies_part_of_the_Dublin_Millennium_parade_on_the_River_Liffey_in_1988.jpg",
-      "artist": "Gerry Byrne",
-      "license": "CC BY-SA 4.0",
-      "caption": "Dinghies sail down the Liffey as part of the Dublin Millennium parade on the river, 1988"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 42
-  },
-  {
-   "id": "30745916",
-   "title": "HMIS Tir",
-   "description": "River-class frigate of the Royal Indian Navy",
-   "topic": "bristol",
-   "topicLabel": "Bristol",
-   "url": "https://en.wikipedia.org/wiki/HMIS_Tir",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/d/d6/HMS_Bann_FL20097.jpg",
-    "width": 1280,
-    "height": 869,
-    "page": "https://commons.wikimedia.org/wiki/File:HMS_Bann_FL20097.jpg",
-    "artist": "Royal Navy official photographer",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "HMIS Tir was a River-class frigate of the Royal Indian Navy (RIN). She was acquired from the Royal Navy where she served as HMS Bann during World War II. She was commissioned into the RIN in December 1945. She was converted into a midshipman's training ship in Bombay in 1948. After the Indian independence she was inducted into the Indian Navy as INS Tir.",
-     "image": null
-    },
-    {
-     "text": "In 1953 she took part in the Fleet Review to celebrate the Coronation of Queen Elizabeth II. She was decommissioned in 1977. An oil painting of the ship hangs at the Indian Naval Headquarters in New Delhi.",
-     "image": null
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 30
-  },
-  {
-   "id": "28963696",
-   "title": "Wandsworth Shield",
-   "description": "Iron Age archaeological discovery found in London",
-   "topic": "archaeology",
-   "topicLabel": "Archaeology",
-   "url": "https://en.wikipedia.org/wiki/Wandsworth_Shield",
-   "cover": {
-    "src": "https://thumb.wikimedia.org/wikipedia/commons/thumb/a/a0/Wandsworth_Shield.png/1280px-Wandsworth_Shield.png",
-    "width": 1280,
-    "height": 1238,
-    "page": "https://commons.wikimedia.org/wiki/File:Wandsworth_Shield.png",
-    "artist": "Johnbod",
-    "license": "CC BY-SA 3.0"
-   },
-   "cards": [
-    {
-     "text": "The Wandsworth Shield is a circular bronze Iron Age shield boss or mount decorated in La Tène style which was found in the River Thames at Wandsworth in London sometime before 1849. Another incomplete bronze shield mount, sometimes called the Wandsworth Mask Shield was found at the same time. Both shield mounts are now held at the British Museum.",
-     "image": null
-    },
-    {
-     "text": "The bold repoussé decoration on the Wandsworth Shield, comprising two birds with outstretched wings and long trailing tail feathers, has led Barry Cunliffe, Emeritus Professor of European Archaeology at the University of Oxford, to consider the shield to be \"among the masterpieces of British Celtic art\".",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/b/b4/British_Museum_Battersea_Shield.jpg",
-      "width": 1280,
-      "height": 2797,
-      "page": "https://commons.wikimedia.org/wiki/File:British_Museum_Battersea_Shield.jpg",
-      "artist": "Unknown",
-      "license": "CC0",
-      "caption": "The Battersea Shield, showing a central boss that is similar to the Wandsworth Shield"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 35
-  },
-  {
-   "id": "19499136",
-   "title": "James Fitz-James Stuart, 2nd Duke of Berwick",
-   "description": "Spanish nobleman",
-   "topic": "medieval-scotland",
-   "topicLabel": "Medieval Scotland",
-   "url": "https://en.wikipedia.org/wiki/James_Fitz-James_Stuart,_2nd_Duke_of_Berwick",
-   "cover": {
-    "src": "https://upload.wikimedia.org/wikipedia/commons/8/8c/James_Francis_FitzJames%2C_2nd_duke_of_Berwick_-_Colecci%C3%B3n_Duques_de_Alba.jpg",
-    "width": 1280,
-    "height": 1564,
-    "page": "https://commons.wikimedia.org/wiki/File:James_Francis_FitzJames,_2nd_duke_of_Berwick_-_Colecci%C3%B3n_Duques_de_Alba.jpg",
-    "artist": "Unidentified painter",
-    "license": "Public domain"
-   },
-   "cards": [
-    {
-     "text": "James Francis (Jacobo Francisco) Fitz-James Stuart, 2nd Duke of Berwick, 2nd Duke of Liria and Xérica (21 October 1696 – 2 June 1738) was a Jacobite and Spanish nobleman. He inherited titles in the Jacobite and Spanish nobility on the death of his father in battle in 1734 at Philippsburg, during the War of the Polish Succession.",
-     "image": null
-    },
-    {
-     "text": "He was also Consort Duke of Veragua and of la Vega and a Consort-Marquis of four further titles by his Spanish marriage in 1716. His full title was 2nd Duke of Berwick, 2nd Earl of Tinmouth, 2nd Baron Bosworth, 2nd Duke of Liria and Xerica, Grandee of Spain 1st class (from 1716), Knight of the Order of the Golden Fleece (from 29 September 1714), as well as the holder of several earldoms.",
-     "image": {
-      "src": "https://upload.wikimedia.org/wikipedia/commons/2/24/Workshop_of_Hyacinthe_Rigaud_-_Jacques_de_Fitz-James%2C_duc_de_Berwick_-_Versailles_MV_3704.jpg",
-      "width": 1280,
-      "height": 1578,
-      "page": "https://commons.wikimedia.org/wiki/File:Workshop_of_Hyacinthe_Rigaud_-_Jacques_de_Fitz-James,_duc_de_Berwick_-_Versailles_MV_3704.jpg",
-      "artist": "Hyacinthe Rigaud",
-      "license": "Public domain",
-      "caption": "Portrait by Hyacinthe Rigaud"
-     }
-    }
-   ],
-   "truncated": false,
-   "readSeconds": 42
   }
  ]
 }
